@@ -5,7 +5,7 @@
         <atom:link href="https://rss.punchng.com" rel="self" type="application/rss+xml" />
         <link> https://rss.punchng.com </link>
         <description> Get the latest News in Nigeria </description>
-        <lastBuildDate> Sat, 10 Oct 2026 19:34:22 +0000</lastBuildDate>
+        <lastBuildDate> Sat, 10 Oct 2026 19:49:26 +0000</lastBuildDate>
         <language> en-US </language>
         <sy:updatePeriod> minutely	</sy:updatePeriod>
         <sy:updateFrequency> 5	</sy:updateFrequency>
@@ -13,6 +13,20 @@
         <generator>https://rss.punchng.com</generator>
 
         <item>
+                        <title>Tinubu inaugurates APC presidential campaign council October 14</title>
+                        <link>https://punchng.com/tinubu-inaugurates-apc-presidential-campaign-council-october-14/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
+                        <pubDate>Sat, 10 Oct 2026 20:43:08 +0000</pubDate>
+                        <dc:creator><![CDATA[Punch Newspapers]]></dc:creator>
+                        <category><![CDATA[]]></category>
+                        <guid isPermaLink='true'>https://punchng.com/tinubu-inaugurates-apc-presidential-campaign-council-october-14/?utm_source=rss.punchng.com&amp;utm_medium=web</guid>
+                        <description><![CDATA[
+
+President Bola Tinubu will inaugurate the All Progressives Congress Presidential Campaign Council on October 14 ahead of the 2027 general elections.
+
+Read More: https://punchng.com/tinubu-inaugurates-apc-presidential-campaign-council-october-14/]]></description>
+                        <enclosure url='https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png' length='342247' type='image/png'/>
+                    </item>
+                    <item>
                         <title>UNICEF, stakeholders seek end to child marriage</title>
                         <link>https://punchng.com/unicef-stakeholders-seek-end-to-child-marriage/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
                         <pubDate>Sat, 10 Oct 2026 20:22:00 +0000</pubDate>
@@ -416,20 +430,6 @@ Read More: https://punchng.com/palmer-signs-contract-to-stay-at-chelsea-until-20
 AAC presidential candidate Omoyele Sowore has called for an independent investigation into the Nigerian Air Force aircraft crash in Igbokoda, Ondo State.
 
 Read More: https://punchng.com/sowore-visits-ondo-crash-site-demands-independent-probe/]]></description>
-                        <enclosure url='https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png' length='342247' type='image/png'/>
-                    </item>
-                    <item>
-                        <title>Adamawa LG chairman dies three months after swearing-in</title>
-                        <link>https://punchng.com/adamawa-lg-chairman-dies-three-months-after-swearing-in/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
-                        <pubDate>Sat, 10 Oct 2026 12:39:20 +0000</pubDate>
-                        <dc:creator><![CDATA[Punch Newspapers]]></dc:creator>
-                        <category><![CDATA[]]></category>
-                        <guid isPermaLink='true'>https://punchng.com/adamawa-lg-chairman-dies-three-months-after-swearing-in/?utm_source=rss.punchng.com&amp;utm_medium=web</guid>
-                        <description><![CDATA[
-
-The chairman of Fufore Local Government Area of Adamawa State, Yahya Saidu, has died in a hospital less than three months after assuming office.
-
-Read More: https://punchng.com/adamawa-lg-chairman-dies-three-months-after-swearing-in/]]></description>
                         <enclosure url='https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png' length='342247' type='image/png'/>
                     </item>
                         </channel>
