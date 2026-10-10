@@ -69,6 +69,9 @@
     .story h2 { margin: 0 0 8px; font-size: 1.08rem; line-height: 1.4; }
     .story h2 a { color: var(--text); text-decoration: none; }
     .story h2 a:hover { color: var(--blue); }
+    .story { padding: 0; overflow: hidden; }
+    .story .photo { display: block; width: 100%; aspect-ratio: 16/9; object-fit: cover; background: #e4e7ec; }
+    .story .text { padding: 16px; }
     .meta { color: var(--muted); font-size: .82rem; }
     .description { margin: 10px 0 0; color: #4f5965; font-size: .94rem; }
     .error { background: #fff; border: 1px solid var(--line); border-radius: 12px; padding: 16px; color: var(--muted); }
@@ -86,7 +89,7 @@
 
   <main>
     <h1>Top stories</h1>
-    <p class="intro">Latest headlines from Google News Nigeria.</p>
+    <p class="intro">Latest headlines with photos.</p>
 
     <nav class="categories" aria-label="News categories">
       <button class="category" data-category="top" aria-pressed="true">Top stories</button>
@@ -102,8 +105,7 @@
   </main>
 
   <footer>
-    Headlines link to their original sources. News RSS is provided by
-    <a href="https://news.google.com/" target="_blank" rel="noopener noreferrer">Google News</a>.
+    Headlines and photos link to their original sources.
   </footer>
 
   <script>
@@ -112,15 +114,6 @@
       (.github/workflows/news.yml) and saved in the /feeds folder,
       so the page reads them from the same site (no CORS problem).
     */
-    const FEEDS = {
-      top: "https://news.google.com/rss?hl=en-NG&gl=NG&ceid=NG%3Aen",
-      nigeria: "https://news.google.com/rss/search?q=Nigeria&hl=en-NG&gl=NG&ceid=NG%3Aen",
-      world: "https://news.google.com/rss/search?q=world+news&hl=en-NG&gl=NG&ceid=NG%3Aen",
-      entertainment: "https://news.google.com/rss/search?q=entertainment+celebrity&hl=en-NG&gl=NG&ceid=NG%3Aen",
-      sports: "https://news.google.com/rss/search?q=football+OR+sports&hl=en-NG&gl=NG&ceid=NG%3Aen",
-      technology: "https://news.google.com/rss/search?q=technology&hl=en-NG&gl=NG&ceid=NG%3Aen"
-    };
-
     const newsEl = document.getElementById("news");
     const statusEl = document.getElementById("status");
     const refreshBtn = document.getElementById("refresh");
@@ -141,13 +134,36 @@
       }
     }
 
+    function findImage(item) {
+      for (const name of ["content", "thumbnail"]) {
+        for (const el of item.getElementsByTagNameNS("*", name)) {
+          const url = safeHttpUrl(el.getAttribute("url") || "");
+          if (url) return url;
+        }
+      }
+      for (const el of item.getElementsByTagName("enclosure")) {
+        const url = safeHttpUrl(el.getAttribute("url") || "");
+        if (url && (el.getAttribute("type") || "image").startsWith("image")) return url;
+      }
+      for (const el of item.getElementsByTagName("*")) {
+        if (["encoded", "description"].includes(el.localName)) {
+          const m = (el.textContent || "").match(/<img[^>]+src=["']([^"']+)["']/i);
+          if (m) {
+            const url = safeHttpUrl(m[1].replace(/&amp;/g, "&"));
+            if (url) return url;
+          }
+        }
+      }
+      return "";
+    }
+
     function makeStory(item) {
       const title = textOf(item, "title") || "Untitled story";
       const link = safeHttpUrl(textOf(item, "link"));
       if (!link) return null;
 
       const sourceNode = item.querySelector("source");
-      const source = sourceNode?.textContent?.trim() || "Google News";
+      const source = sourceNode?.textContent?.trim() || new URL(link).hostname.replace(/^www\./, "");
       const dateText = textOf(item, "pubDate");
       const date = dateText ? new Date(dateText) : null;
       const formattedDate = date && !Number.isNaN(date.getTime())
@@ -156,6 +172,21 @@
 
       const article = document.createElement("article");
       article.className = "story";
+
+      const imageUrl = findImage(item);
+      if (imageUrl) {
+        const img = document.createElement("img");
+        img.className = "photo";
+        img.src = imageUrl;
+        img.alt = "";
+        img.loading = "lazy";
+        img.referrerPolicy = "no-referrer";
+        img.onerror = () => img.remove();
+        article.appendChild(img);
+      }
+
+      const text = document.createElement("div");
+      text.className = "text";
 
       const heading = document.createElement("h2");
       const anchor = document.createElement("a");
@@ -169,7 +200,8 @@
       meta.className = "meta";
       meta.textContent = source + (formattedDate ? " · " + formattedDate : "");
 
-      article.append(heading, meta);
+      text.append(heading, meta);
+      article.appendChild(text);
       return article;
     }
 
@@ -210,11 +242,11 @@
         statusEl.textContent = `${count} headlines · Updated ${new Date().toLocaleTimeString()}`;
       } catch (error) {
         console.error("RSS loading failed:", error);
-        statusEl.textContent = "News could not be loaded. (v2)";
+        statusEl.textContent = "News could not be loaded. (v4)";
         const message = document.createElement("div");
         message.className = "error";
         message.textContent =
-          "v2 error: " + error.message + " | Tried: " + new URL("feeds/" + selectedCategory + ".xml", location.href).href;
+          "v4 error: " + error.message + " | Tried: " + new URL("feeds/" + selectedCategory + ".xml", location.href).href;
         newsEl.replaceChildren(message);
       } finally {
         loading = false;
