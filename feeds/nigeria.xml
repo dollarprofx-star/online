@@ -5,7 +5,7 @@
         <atom:link href="https://rss.punchng.com" rel="self" type="application/rss+xml" />
         <link> https://rss.punchng.com </link>
         <description> Get the latest News in Nigeria </description>
-        <lastBuildDate> Sat, 10 Oct 2026 19:49:26 +0000</lastBuildDate>
+        <lastBuildDate> Sat, 10 Oct 2026 20:04:28 +0000</lastBuildDate>
         <language> en-US </language>
         <sy:updatePeriod> minutely	</sy:updatePeriod>
         <sy:updateFrequency> 5	</sy:updateFrequency>
@@ -13,6 +13,20 @@
         <generator>https://rss.punchng.com</generator>
 
         <item>
+                        <title>La Liga: Gordon scores first Barcelona goal in 3-0 win over Getafe</title>
+                        <link>https://punchng.com/la-liga-gordon-scores-first-barcelona-goal-in-3-0-win-over-getafe/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
+                        <pubDate>Sat, 10 Oct 2026 20:51:01 +0000</pubDate>
+                        <dc:creator><![CDATA[Punch Newspapers]]></dc:creator>
+                        <category><![CDATA[]]></category>
+                        <guid isPermaLink='true'>https://punchng.com/la-liga-gordon-scores-first-barcelona-goal-in-3-0-win-over-getafe/?utm_source=rss.punchng.com&amp;utm_medium=web</guid>
+                        <description><![CDATA[
+
+Anthony Gordon scored his first goal for Barcelona as the Catalan club defeated Getafe 3-0 to extend their winning run in La Liga to eight matches.
+
+Read More: https://punchng.com/la-liga-gordon-scores-first-barcelona-goal-in-3-0-win-over-getafe/]]></description>
+                        <enclosure url='https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png' length='342247' type='image/png'/>
+                    </item>
+                    <item>
                         <title>Tinubu inaugurates APC presidential campaign council October 14</title>
                         <link>https://punchng.com/tinubu-inaugurates-apc-presidential-campaign-council-october-14/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
                         <pubDate>Sat, 10 Oct 2026 20:43:08 +0000</pubDate>
@@ -416,20 +430,6 @@ Read More: https://punchng.com/portugal-suspends-ronaldo-as-disciplinary-probe-b
 England forward Cole Palmer has signed a contract extension with Chelsea, committing his future to the Premier League club until 2034.
 
 Read More: https://punchng.com/palmer-signs-contract-to-stay-at-chelsea-until-2034/]]></description>
-                        <enclosure url='https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png' length='342247' type='image/png'/>
-                    </item>
-                    <item>
-                        <title>Sowore visits Ondo crash site, demands independent probe</title>
-                        <link>https://punchng.com/sowore-visits-ondo-crash-site-demands-independent-probe/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
-                        <pubDate>Sat, 10 Oct 2026 13:13:08 +0000</pubDate>
-                        <dc:creator><![CDATA[Punch Newspapers]]></dc:creator>
-                        <category><![CDATA[]]></category>
-                        <guid isPermaLink='true'>https://punchng.com/sowore-visits-ondo-crash-site-demands-independent-probe/?utm_source=rss.punchng.com&amp;utm_medium=web</guid>
-                        <description><![CDATA[
-
-AAC presidential candidate Omoyele Sowore has called for an independent investigation into the Nigerian Air Force aircraft crash in Igbokoda, Ondo State.
-
-Read More: https://punchng.com/sowore-visits-ondo-crash-site-demands-independent-probe/]]></description>
                         <enclosure url='https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png' length='342247' type='image/png'/>
                     </item>
                         </channel>
