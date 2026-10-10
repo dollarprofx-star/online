@@ -5,7 +5,7 @@
         <atom:link href="https://rss.punchng.com" rel="self" type="application/rss+xml" />
         <link> https://rss.punchng.com </link>
         <description> Get the latest News in Nigeria </description>
-        <lastBuildDate> Sat, 10 Oct 2026 15:53:47 +0000</lastBuildDate>
+        <lastBuildDate> Sat, 10 Oct 2026 16:03:49 +0000</lastBuildDate>
         <language> en-US </language>
         <sy:updatePeriod> minutely	</sy:updatePeriod>
         <sy:updateFrequency> 5	</sy:updateFrequency>
@@ -13,6 +13,20 @@
         <generator>https://rss.punchng.com</generator>
 
         <item>
+                        <title>Police arrest 23 suspected cultists in Bayelsa, recover weapons</title>
+                        <link>https://punchng.com/police-arrest-23-suspected-cultists-in-bayelsa-recover-weapons/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
+                        <pubDate>Sat, 10 Oct 2026 16:55:28 +0000</pubDate>
+                        <dc:creator><![CDATA[Punch Newspapers]]></dc:creator>
+                        <category><![CDATA[]]></category>
+                        <guid isPermaLink='true'>https://punchng.com/police-arrest-23-suspected-cultists-in-bayelsa-recover-weapons/?utm_source=rss.punchng.com&amp;utm_medium=web</guid>
+                        <description><![CDATA[
+
+The Bayelsa State Police Command has arrested 23 suspected cultists and recovered weapons following recent cult-related violence that killed four people.
+
+Read More: https://punchng.com/police-arrest-23-suspected-cultists-in-bayelsa-recover-weapons/]]></description>
+                        <enclosure url='https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png' length='342247' type='image/png'/>
+                    </item>
+                    <item>
                         <title>Augsburg’s midfielder scores fastest goal in Bundesliga history against Bayern Munich</title>
                         <link>https://punchng.com/augsburgs-midfielder-scores-fastest-goal-in-bundesliga-history-against-bayern-munich/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
                         <pubDate>Sat, 10 Oct 2026 16:49:55 +0000</pubDate>
@@ -416,20 +430,6 @@ Read More: https://punchng.com/trump-slams-nobel-peace-prize-choice-as-disgracef
 The Federal Government and the Niger Basin Authority have called for the accelerated implementation of regional water projects to improve livelihoods.
 
 Read More: https://punchng.com/fg-niger-basin-authority-push-for-faster-water-projects/]]></description>
-                        <enclosure url='https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png' length='342247' type='image/png'/>
-                    </item>
-                    <item>
-                        <title>NAF crash: Wedding plans turn funeral tears as families await remains</title>
-                        <link>https://punchng.com/naf-crash-wedding-plans-turn-funeral-tears-as-families-await-remains/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
-                        <pubDate>Sat, 10 Oct 2026 09:09:12 +0000</pubDate>
-                        <dc:creator><![CDATA[Punch Newspapers]]></dc:creator>
-                        <category><![CDATA[]]></category>
-                        <guid isPermaLink='true'>https://punchng.com/naf-crash-wedding-plans-turn-funeral-tears-as-families-await-remains/?utm_source=rss.punchng.com&amp;utm_medium=web</guid>
-                        <description><![CDATA[
-
-Families of victims of the Nigerian Air Force crash in Ondo State narrate their grief as they await the recovery of their loved ones&#8217; remains for burial.
-
-Read More: https://punchng.com/naf-crash-wedding-plans-turn-funeral-tears-as-families-await-remains/]]></description>
                         <enclosure url='https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png' length='342247' type='image/png'/>
                     </item>
                         </channel>
