@@ -9,11 +9,19 @@
             <link>https://www.bbc.co.uk/sport/football</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 10 Oct 2026 17:06:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Oct 2026 17:24:48 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Timely recognition or long overdue? How Gross is proving all-time bargain]]></title>
+            <description><![CDATA[Named the Premier League's player of the month for September, BBC Sport looks at Brighton star Pascal Gross' impact both this season and over the past nine years during his two spells at the club.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cq1j427zze5xo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cq1j427zze5xo#0</guid>
+            <pubDate>Sat, 10 Oct 2026 17:07:02 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97e7/live/897a3830-bb67-11f1-9ecf-8dd029790cef.jpg"/>
+        </item>
         <item>
             <title><![CDATA[Hincapie injury adds to Arsenal issues after Guimaraes rescue act]]></title>
             <description><![CDATA[Heroics and battling performances have already become a theme of Arsenal's season with Bruno Guimaraes coming to the rescue again. ]]></description>
@@ -55,14 +63,6 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"/>
         </item>
         <item>
-            <title><![CDATA[Sutton's predictions v Starsailor frontman James Walsh]]></title>
-            <description><![CDATA[BBC Sport football expert Chris Sutton takes on Starsailor frontman James Walsh, plus the BBC readers and AI with his predictions for this weekend's Premier League fixtures.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/c5zjx92v1mero?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c5zjx92v1mero#1</guid>
-            <pubDate>Thu, 08 Oct 2026 20:46:40 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec26/live/b62ee460-c298-11f1-babe-4199b0e7ccea.png"/>
-        </item>
-        <item>
             <title><![CDATA[Man City whistleblower to remain in witness protection]]></title>
             <description><![CDATA[The computer hacker who released documents which helped trigger the Premier League investigation into Manchester City will remain under witness protection after authorities in Portugal suspend the decision to end it. ]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cq4g1xerk398o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -95,6 +95,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9dfb/live/55b72350-c3d2-11f1-95ba-dba767ffba7e.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Sutton's predictions v Starsailor frontman James Walsh]]></title>
+            <description><![CDATA[BBC Sport football expert Chris Sutton takes on Starsailor frontman James Walsh, plus the BBC readers and AI with his predictions for this weekend's Premier League fixtures.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/c5zjx92v1mero?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c5zjx92v1mero#3</guid>
+            <pubDate>Thu, 08 Oct 2026 20:46:40 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec26/live/b62ee460-c298-11f1-babe-4199b0e7ccea.png"/>
+        </item>
+        <item>
             <title><![CDATA[Greek takeaways: What did we learn from Lionesses' win?]]></title>
             <description><![CDATA[England come away from Greece with a valuable first-leg lead in their Women's World Cup qualifying play-off - but who impressed in the 3-1 victory?]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cwp8g1ry6rjlo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -125,6 +133,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6d93ql8jvdko#3</guid>
             <pubDate>Fri, 09 Oct 2026 21:30:52 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ba1/live/1f3fa640-c40d-11f1-838e-6d1d6d701264.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arsenal eye deal for teenager Mora - Saturday's gossip]]></title>
+            <description><![CDATA[Arsenal eye deal for Mexico teenager Gilberto Mora, AC Milan in pole position for Endrick, Nottingham Forest braced for Murillo interest]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cxr5y36yml21o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cxr5y36yml21o#3</guid>
+            <pubDate>Fri, 09 Oct 2026 21:19:35 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b5f/live/df833220-c424-11f1-9462-0fb8e72a616b.png"/>
         </item>
         <item>
             <title><![CDATA[Yet to gel or same old struggles? - De Zerbi's Premier League dilemma ]]></title>
@@ -167,14 +183,6 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53c7/live/1c455130-c1cc-11f1-babe-4199b0e7ccea.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Arsenal eye deal for teenager Mora - Saturday's gossip]]></title>
-            <description><![CDATA[Arsenal eye deal for Mexico teenager Gilberto Mora, AC Milan in pole position for Endrick, Nottingham Forest braced for Murillo interest]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cxr5y36yml21o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cxr5y36yml21o#6</guid>
-            <pubDate>Fri, 09 Oct 2026 21:19:35 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b5f/live/df833220-c424-11f1-9462-0fb8e72a616b.png"/>
-        </item>
-        <item>
             <title><![CDATA[Football Daily]]></title>
             <description><![CDATA[Kelly Somers speaks to Arsenal captain Martin Odegaard.]]></description>
             <link>https://www.bbc.co.uk/sounds/play/p0pfxl7m?at_medium=RSS&amp;at_campaign=rss</link>
@@ -191,14 +199,6 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/155a/live/184d89f0-c418-11f1-a175-8928617a734f.jpg"/>
         </item>
         <item>
-            <title><![CDATA[What impact has break had & how will Reedijk fare? Premiership questions]]></title>
-            <description><![CDATA[After an extended international break, the Scottish Premiership's usual suspects - and one newcomer - limber up for a full weekend card of fixtures.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/crje53gx34qeo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/crje53gx34qeo#6</guid>
-            <pubDate>Fri, 09 Oct 2026 13:07:09 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/11d9/live/cbd97190-c3dd-11f1-bc2e-018d645d8d21.png"/>
-        </item>
-        <item>
             <title><![CDATA[NI World Cup hopes gone from 'improbable to impossible']]></title>
             <description><![CDATA[Michael McArdle admits Northern Ireland's chances of beating Portugal in a Women's World Cup play-off have "gone from improbable to impossible" after a 4-0 first leg defeat.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/c6gqw03lxxnno?at_medium=RSS&amp;at_campaign=rss</link>
@@ -213,6 +213,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cjn5v7zdrp5po#6</guid>
             <pubDate>Fri, 09 Oct 2026 16:28:23 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa0b/live/dfcfdc10-c3e3-11f1-badc-154546719036.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Is £70m Baleba ready for his Man Utd exam?]]></title>
+            <description><![CDATA[Manchester United's £70m summer signing Carlos Baleba is expected to make his debut against Tottenham Hotspur at Old Trafford]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/ck054p2lyeplo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ck054p2lyeplo#6</guid>
+            <pubDate>Fri, 09 Oct 2026 07:57:23 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/440f/live/1d2280c0-c34b-11f1-9a39-31b474234113.jpg"/>
         </item>
         <item>
             <title><![CDATA['Amazing' Kane targets 100 international goals]]></title>
@@ -274,12 +282,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e308/live/d9095200-c01c-11f1-babe-4199b0e7ccea.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Is £70m Baleba ready for his Man Utd exam?]]></title>
-            <description><![CDATA[Manchester United's £70m summer signing Carlos Baleba is expected to make his debut against Tottenham Hotspur at Old Trafford]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/ck054p2lyeplo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ck054p2lyeplo#8</guid>
-            <pubDate>Fri, 09 Oct 2026 07:57:23 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/440f/live/1d2280c0-c34b-11f1-9a39-31b474234113.jpg"/>
+            <title><![CDATA[What impact has break had & how will Reedijk fare? Premiership questions]]></title>
+            <description><![CDATA[After an extended international break, the Scottish Premiership's usual suspects - and one newcomer - limber up for a full weekend card of fixtures.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/crje53gx34qeo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/crje53gx34qeo#8</guid>
+            <pubDate>Fri, 09 Oct 2026 13:07:09 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/11d9/live/cbd97190-c3dd-11f1-bc2e-018d645d8d21.png"/>
         </item>
         <item>
             <title><![CDATA[Afcon move to every four years under review by Caf]]></title>
@@ -330,20 +338,20 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2409/live/b9c05e80-c417-11f1-a175-8928617a734f.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Everton owners consider selling club two years after takeover]]></title>
-            <description><![CDATA[Everton owners the Friedkin Group are exploring the sale of the club less than two years after taking control.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cmvg9pgg4keyo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmvg9pgg4keyo#10</guid>
-            <pubDate>Fri, 09 Oct 2026 08:23:50 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af14/live/7efc42e0-c3be-11f1-9798-abffda1e61e7.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Mourinho calls criticism of Mbappe 'ridiculous']]></title>
             <description><![CDATA[Jose Mourinho defends Kylian Mbappe who has been scrutinised during the international break.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/crvg6lx2yj29o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/crvg6lx2yj29o#10</guid>
             <pubDate>Fri, 09 Oct 2026 09:57:48 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/18c3/live/5e166100-c3c3-11f1-8fc5-335d62f6730b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Everton owners consider selling club two years after takeover]]></title>
+            <description><![CDATA[Everton owners the Friedkin Group are exploring the sale of the club less than two years after taking control.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cmvg9pgg4keyo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmvg9pgg4keyo#10</guid>
+            <pubDate>Fri, 09 Oct 2026 08:23:50 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af14/live/7efc42e0-c3be-11f1-9798-abffda1e61e7.jpg"/>
         </item>
         <item>
             <title><![CDATA[From doomscrolling to defiance - how do Man City fans feel?]]></title>
