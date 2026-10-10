@@ -1,0 +1,30 @@
+name: Update news
+on:
+  schedule:
+    - cron: "*/15 * * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Download feeds
+        run: |
+          mkdir -p feeds
+          B="https://news.google.com/rss"
+          Q="hl=en-NG&gl=NG&ceid=NG:en"
+          get() { curl -fsSL -A "Mozilla/5.0" "$2" -o "feeds/$1.xml.tmp" && mv "feeds/$1.xml.tmp" "feeds/$1.xml" || rm -f "feeds/$1.xml.tmp"; }
+          get top "$B?$Q"
+          get nigeria "$B/search?q=Nigeria&$Q"
+          get world "$B/search?q=world+news&$Q"
+          get entertainment "$B/search?q=entertainment+celebrity&$Q"
+          get sports "$B/search?q=football+OR+sports&$Q"
+          get technology "$B/search?q=technology&$Q"
+      - name: Commit changes
+        run: |
+          git config user.name "news-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add feeds
+          git diff --staged --quiet || (git commit -m "Update feeds" && git push)
