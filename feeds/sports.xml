@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/sport/football</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 10 Oct 2026 21:05:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Oct 2026 21:25:17 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -63,12 +63,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb72/live/0346d6f0-c4cd-11f1-9a39-31b474234113.jpg"/>
         </item>
         <item>
-            <title><![CDATA['I kissed Rodrigo and said thanks' - De Zerbi 'liked' Spurs red card]]></title>
-            <description><![CDATA[Roberto de Zerbi praises Rodrigo Bentancur after he was sent off in a 1-1 draw against Manchester United.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cqn73g3pvezdo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqn73g3pvezdo#1</guid>
-            <pubDate>Sat, 10 Oct 2026 20:58:39 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d1a3/live/ca11b190-c4e8-11f1-900e-31f5a5ac5102.jpg"/>
+            <title><![CDATA[Match of the Day]]></title>
+            <description><![CDATA[Highlights of six Premier League matches, including champions Arsenal against Leeds.]]></description>
+            <link>https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/iplayer/live/bbcone#0</guid>
+            <pubDate>Sun, 11 Oct 2026 08:00:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0pfp5ky.jpg"/>
         </item>
         <item>
             <title><![CDATA[Boos, anguish & fading belief -'worrying day' for under-pressure Carrick]]></title>
@@ -77,6 +77,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c62e9g09e781o#1</guid>
             <pubDate>Sat, 10 Oct 2026 20:54:46 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a8b4/live/eabb9580-c4db-11f1-9a39-31b474234113.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['I kissed Rodrigo and said thanks' - De Zerbi 'liked' Spurs red card]]></title>
+            <description><![CDATA[Roberto de Zerbi praises Rodrigo Bentancur after he was sent off in a 1-1 draw against Manchester United.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cqn73g3pvezdo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqn73g3pvezdo#1</guid>
+            <pubDate>Sat, 10 Oct 2026 20:58:39 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d1a3/live/ca11b190-c4e8-11f1-900e-31f5a5ac5102.jpg"/>
         </item>
         <item>
             <title><![CDATA[The rock behind Chelsea's entertainers: Midfield duo key for Blues]]></title>
@@ -143,14 +151,6 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd4c/live/61d5d1f0-c4df-11f1-bc2e-018d645d8d21.png"/>
         </item>
         <item>
-            <title><![CDATA[Who changed the game? - player ratings for Arsenal v Leeds]]></title>
-            <description><![CDATA[How Arsenal and Leeds players rated following their Premier League match.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cmx2dpwv02e1o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmx2dpwv02e1o#2</guid>
-            <pubDate>Sat, 10 Oct 2026 13:30:28 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba52/live/206991f0-c4aa-11f1-ac13-6da90f5ff039.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Patience needed as new boss Reedijk bemoans Hibs 'imprecision']]></title>
             <description><![CDATA[Familiar problems remain for Hibernian as Marink Reedijk's first match in charge ends in a 1-0 loss at Dundee United.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cv0ldzdgrlljo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -165,6 +165,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cw77prgk52zro#2</guid>
             <pubDate>Sat, 10 Oct 2026 19:19:42 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e88/live/0041cf20-c4df-11f1-9a39-31b474234113.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Who changed the game? - player ratings for Arsenal v Leeds]]></title>
+            <description><![CDATA[How Arsenal and Leeds players rated following their Premier League match.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cmx2dpwv02e1o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmx2dpwv02e1o#3</guid>
+            <pubDate>Sat, 10 Oct 2026 13:30:28 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba52/live/206991f0-c4aa-11f1-ac13-6da90f5ff039.jpg"/>
         </item>
         <item>
             <title><![CDATA[Time to rise? Ranking European football's sleeping giants]]></title>
@@ -271,14 +279,6 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec26/live/b62ee460-c298-11f1-babe-4199b0e7ccea.png"/>
         </item>
         <item>
-            <title><![CDATA[Rayo Vallecano game abandoned after paper plane protest]]></title>
-            <description><![CDATA[Rayo Vallecano's match against Athletic Club was abandoned after the home fans threw paper airplanes onto the pitch in protest against the club's owner.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cw99zy27x0rro?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cw99zy27x0rro#7</guid>
-            <pubDate>Sat, 10 Oct 2026 15:04:13 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/41cb/live/bdc5f610-c4b8-11f1-bc2e-018d645d8d21.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Football Daily]]></title>
             <description><![CDATA[Kelly Somers speaks to Arsenal captain Martin Odegaard.]]></description>
             <link>https://www.bbc.co.uk/sounds/play/p0pfxl7m?at_medium=RSS&amp;at_campaign=rss</link>
@@ -341,6 +341,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cwdr8d6kr8mlo#8</guid>
             <pubDate>Tue, 06 Oct 2026 15:54:22 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d7e/live/a5490100-c19c-11f1-babe-4199b0e7ccea.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rayo Vallecano game abandoned after paper plane protest]]></title>
+            <description><![CDATA[Rayo Vallecano's match against Athletic Club was abandoned after the home fans threw paper airplanes onto the pitch in protest against the club's owner.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cw99zy27x0rro?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cw99zy27x0rro#9</guid>
+            <pubDate>Sat, 10 Oct 2026 15:04:13 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/41cb/live/bdc5f610-c4b8-11f1-bc2e-018d645d8d21.jpg"/>
         </item>
         <item>
             <title><![CDATA[Raphinha's brilliant Barcelona start interrupted by injury concerns]]></title>
