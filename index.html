@@ -108,11 +108,9 @@
 
   <script>
     /*
-      IMPORTANT:
-      A browser usually cannot fetch Google News RSS directly because of CORS.
-      This lightweight static version uses AllOrigins as a proxy for testing.
-      If the proxy is blocked/unavailable, use a same-origin serverless/backend
-      endpoint and replace FEED_ENDPOINT below.
+      Feeds are downloaded every ~15 minutes by a GitHub Action
+      (.github/workflows/news.yml) and saved in the /feeds folder,
+      so the page reads them from the same site (no CORS problem).
     */
     const FEEDS = {
       top: "https://news.google.com/rss?hl=en-NG&gl=NG&ceid=NG%3Aen",
@@ -182,11 +180,9 @@
       statusEl.textContent = "Loading news…";
 
       try {
-        const feedUrl = FEEDS[selectedCategory];
-        const proxyUrl = "https://api.allorigins.win/raw?url=" + encodeURIComponent(feedUrl);
-        const response = await fetch(proxyUrl, { cache: "no-store" });
+        const response = await fetch("feeds/" + selectedCategory + ".xml?t=" + Date.now(), { cache: "no-store" });
 
-        if (!response.ok) throw new Error("RSS proxy returned HTTP " + response.status);
+        if (!response.ok) throw new Error("Feed file returned HTTP " + response.status);
 
         const xmlText = await response.text();
         const xml = new DOMParser().parseFromString(xmlText, "application/xml");
@@ -214,11 +210,11 @@
         statusEl.textContent = `${count} headlines · Updated ${new Date().toLocaleTimeString()}`;
       } catch (error) {
         console.error("RSS loading failed:", error);
-        statusEl.textContent = "News could not be loaded.";
+        statusEl.textContent = "News could not be loaded. (v2)";
         const message = document.createElement("div");
         message.className = "error";
         message.textContent =
-          "The RSS request failed. This is often caused by browser CORS restrictions or an unavailable public proxy. For reliable live use, connect a small backend/serverless endpoint to Google News RSS.";
+          "v2 error: " + error.message + " | Tried: " + new URL("feeds/" + selectedCategory + ".xml", location.href).href;
         newsEl.replaceChildren(message);
       } finally {
         loading = false;
