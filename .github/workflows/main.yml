@@ -13,15 +13,13 @@ jobs:
       - name: Download feeds
         run: |
           mkdir -p feeds
-          B="https://news.google.com/rss"
-          Q="hl=en-NG&gl=NG&ceid=NG:en"
           get() { curl -fsSL -A "Mozilla/5.0" "$2" -o "feeds/$1.xml.tmp" && mv "feeds/$1.xml.tmp" "feeds/$1.xml" || rm -f "feeds/$1.xml.tmp"; }
-          get top "$B?$Q"
-          get nigeria "$B/search?q=Nigeria&$Q"
-          get world "$B/search?q=world+news&$Q"
-          get entertainment "$B/search?q=entertainment+celebrity&$Q"
-          get sports "$B/search?q=football+OR+sports&$Q"
-          get technology "$B/search?q=technology&$Q"
+          get top "https://feeds.bbci.co.uk/news/rss.xml"
+          get nigeria "https://punchng.com/feed/"
+          get world "https://feeds.bbci.co.uk/news/world/rss.xml"
+          get entertainment "https://www.bellanaija.com/feed/"
+          get sports "https://feeds.bbci.co.uk/sport/football/rss.xml"
+          get technology "https://techcrunch.com/feed/"
       - name: Commit changes
         run: |
           git config user.name "news-bot"
