@@ -5,7 +5,7 @@
         <atom:link href="https://rss.punchng.com" rel="self" type="application/rss+xml" />
         <link> https://rss.punchng.com </link>
         <description> Get the latest News in Nigeria </description>
-        <lastBuildDate> Sat, 10 Oct 2026 15:23:42 +0000</lastBuildDate>
+        <lastBuildDate> Sat, 10 Oct 2026 15:38:43 +0000</lastBuildDate>
         <language> en-US </language>
         <sy:updatePeriod> minutely	</sy:updatePeriod>
         <sy:updateFrequency> 5	</sy:updateFrequency>
@@ -13,6 +13,20 @@
         <generator>https://rss.punchng.com</generator>
 
         <item>
+                        <title>Cross River shuts 20 unapproved schools</title>
+                        <link>https://punchng.com/cross-river-shuts-20-unapproved-schools/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
+                        <pubDate>Sat, 10 Oct 2026 16:26:07 +0000</pubDate>
+                        <dc:creator><![CDATA[Punch Newspapers]]></dc:creator>
+                        <category><![CDATA[]]></category>
+                        <guid isPermaLink='true'>https://punchng.com/cross-river-shuts-20-unapproved-schools/?utm_source=rss.punchng.com&amp;utm_medium=web</guid>
+                        <description><![CDATA[
+
+The Cross River State Government has shut down 20 unapproved schools in four LGAs as part of efforts to enforce compliance with education regulations.
+
+Read More: https://punchng.com/cross-river-shuts-20-unapproved-schools/]]></description>
+                        <enclosure url='https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png' length='342247' type='image/png'/>
+                    </item>
+                    <item>
                         <title>Bayelsa CP urges community leaders to help curb cult violence</title>
                         <link>https://punchng.com/bayelsa-cp-urges-community-leaders-to-help-curb-cult-violence/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
                         <pubDate>Sat, 10 Oct 2026 15:47:09 +0000</pubDate>
@@ -416,20 +430,6 @@ Read More: https://punchng.com/naf-crash-wedding-plans-turn-funeral-tears-as-fam
 Google has expanded global access to its SynthID Detector, allowing users to check images, videos, and audio for signs of AI-generated content.
 
 Read More: https://punchng.com/google-expands-access-to-ai-detector-for-images-videos/]]></description>
-                        <enclosure url='https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png' length='342247' type='image/png'/>
-                    </item>
-                    <item>
-                        <title>Three Nigerian sisters committed suicide – UK coroner</title>
-                        <link>https://punchng.com/three-nigerian-sisters-committed-suicide-uk-coroner/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
-                        <pubDate>Sat, 10 Oct 2026 08:02:28 +0000</pubDate>
-                        <dc:creator><![CDATA[Punch Newspapers]]></dc:creator>
-                        <category><![CDATA[]]></category>
-                        <guid isPermaLink='true'>https://punchng.com/three-nigerian-sisters-committed-suicide-uk-coroner/?utm_source=rss.punchng.com&amp;utm_medium=web</guid>
-                        <description><![CDATA[
-
-A UK coroner has ruled that three British-Nigerian sisters who drowned off Brighton beach on May 13 took their own lives after entering adverse sea conditi
-
-Read More: https://punchng.com/three-nigerian-sisters-committed-suicide-uk-coroner/]]></description>
                         <enclosure url='https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png' length='342247' type='image/png'/>
                     </item>
                         </channel>
