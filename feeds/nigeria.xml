@@ -5,7 +5,7 @@
         <atom:link href="https://rss.punchng.com" rel="self" type="application/rss+xml" />
         <link> https://rss.punchng.com </link>
         <description> Get the latest News in Nigeria </description>
-        <lastBuildDate> Sat, 10 Oct 2026 16:23:52 +0000</lastBuildDate>
+        <lastBuildDate> Sat, 10 Oct 2026 16:38:55 +0000</lastBuildDate>
         <language> en-US </language>
         <sy:updatePeriod> minutely	</sy:updatePeriod>
         <sy:updateFrequency> 5	</sy:updateFrequency>
@@ -13,6 +13,20 @@
         <generator>https://rss.punchng.com</generator>
 
         <item>
+                        <title>South African court sentences 71-year-old woman to 20 years for killing three great-grandchildren</title>
+                        <link>https://punchng.com/south-african-court-sentences-71-year-old-woman-to-20-years-for-killing-three-great-grandchildren/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
+                        <pubDate>Sat, 10 Oct 2026 17:30:47 +0000</pubDate>
+                        <dc:creator><![CDATA[Punch Newspapers]]></dc:creator>
+                        <category><![CDATA[]]></category>
+                        <guid isPermaLink='true'>https://punchng.com/south-african-court-sentences-71-year-old-woman-to-20-years-for-killing-three-great-grandchildren/?utm_source=rss.punchng.com&amp;utm_medium=web</guid>
+                        <description><![CDATA[
+
+A 71-year-old South African great-grandmother, Susana De Villiers, has been sentenced to 20 years in prison for murdering her three great-grandchildren.
+
+Read More: https://punchng.com/south-african-court-sentences-71-year-old-woman-to-20-years-for-killing-three-great-grandchildren/]]></description>
+                        <enclosure url='https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png' length='342247' type='image/png'/>
+                    </item>
+                    <item>
                         <title>I won’t be watching livestream of US shooter’s execution — Vice President Vance</title>
                         <link>https://punchng.com/i-wont-be-watching-livestream-of-us-shooters-execution-vice-president-vance/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
                         <pubDate>Sat, 10 Oct 2026 17:20:47 +0000</pubDate>
@@ -416,20 +430,6 @@ Read More: https://punchng.com/gunmen-kill-journalist-in-mexico-ninth-in-2026/]]
 French astronaut Sophie Adenot describes seeing Earth without borders after returning from a record-breaking 235-day mission on the International Space Sta
 
 Read More: https://punchng.com/no-divisions-no-borders-french-astronaut-says-of-seeing-earth/]]></description>
-                        <enclosure url='https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png' length='342247' type='image/png'/>
-                    </item>
-                    <item>
-                        <title>Major earthquake hits Panama, injures at least 27</title>
-                        <link>https://punchng.com/major-earthquake-hits-panama-injures-at-least-27/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
-                        <pubDate>Sat, 10 Oct 2026 10:04:06 +0000</pubDate>
-                        <dc:creator><![CDATA[Punch Newspapers]]></dc:creator>
-                        <category><![CDATA[]]></category>
-                        <guid isPermaLink='true'>https://punchng.com/major-earthquake-hits-panama-injures-at-least-27/?utm_source=rss.punchng.com&amp;utm_medium=web</guid>
-                        <description><![CDATA[
-
-A powerful 7.7-magnitude earthquake has struck central Panama, injuring at least 27 people and causing buildings and roads to collapse, officials report.
-
-Read More: https://punchng.com/major-earthquake-hits-panama-injures-at-least-27/]]></description>
                         <enclosure url='https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png' length='342247' type='image/png'/>
                     </item>
                         </channel>
