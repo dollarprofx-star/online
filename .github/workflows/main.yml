@@ -19,7 +19,7 @@ jobs:
           get world "https://feeds.bbci.co.uk/news/world/rss.xml"
           get entertainment "https://www.bellanaija.com/feed/"
           get sports "https://feeds.bbci.co.uk/sport/football/rss.xml"
-          get technology "https://techcrunch.com/feed/"
+          get technology "https://feeds.bbci.co.uk/news/technology/rss.xml"
       - name: Commit changes
         run: |
           git config user.name "news-bot"
