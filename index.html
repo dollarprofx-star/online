@@ -228,10 +228,12 @@
 
         const fragment = document.createDocumentFragment();
         let count = 0;
+        let withPhotos = 0;
         items.slice(0, 25).forEach(item => {
           const story = makeStory(item);
           if (story) {
             fragment.appendChild(story);
+            if (story.querySelector("img")) withPhotos++;
             count++;
           }
         });
@@ -239,7 +241,7 @@
         if (!count) throw new Error("No valid story links were found.");
 
         newsEl.replaceChildren(fragment);
-        statusEl.textContent = `${count} headlines · Updated ${new Date().toLocaleTimeString()}`;
+        statusEl.textContent = `${count} headlines · ${withPhotos} with photos · Updated ${new Date().toLocaleTimeString()}`;
       } catch (error) {
         console.error("RSS loading failed:", error);
         statusEl.textContent = "News could not be loaded. (v4)";
