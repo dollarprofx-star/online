@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 11 Oct 2026 21:26:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Oct 2026 21:43:26 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -19,7 +19,7 @@
             <description><![CDATA[The Yemeni group says it carried out attacks that killed 13 people in Riyadh over the weekend and targeted two airports and oil facilities.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cr93znyk44e1o#1</guid>
-            <pubDate>Sun, 11 Oct 2026 16:41:37 GMT</pubDate>
+            <pubDate>Sun, 11 Oct 2026 21:30:11 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/01f0/live/59d06e70-c57a-11f1-a64c-550be9e3c66b.jpg"/>
         </item>
         <item>
@@ -84,7 +84,7 @@
             <link>https://www.bbc.co.uk/news/articles/cwnv0zmjld51o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwnv0zmjld51o#1</guid>
             <pubDate>Sun, 11 Oct 2026 21:18:15 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e2d6/live/9a3ff590-6420-11f1-b421-199136196dd5.jpg"/>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34ee/live/7ad8bf10-c5ba-11f1-a3d7-4f09811ef5f5.jpg"/>
         </item>
         <item>
             <title><![CDATA[Buildings swept away as flash floods hit central Nepal]]></title>
@@ -237,14 +237,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c962y5nd273no#8</guid>
             <pubDate>Sun, 11 Oct 2026 18:01:13 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7513/live/9668f200-c57d-11f1-80f2-5bd1e5df7ada.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sensational Smith, relentless quicks - Australia veterans serve reminder]]></title>
-            <description><![CDATA[The fearsome pace quartet and Steve Smith's brilliance serves as a reminder of Australia's quality as the tourists take charge against South Africa.]]></description>
-            <link>https://www.bbc.co.uk/sport/cricket/articles/cqvg0pdye05ro?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/cricket/articles/cqvg0pdye05ro#8</guid>
-            <pubDate>Sun, 11 Oct 2026 17:52:45 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3baf/live/fbd0a300-c586-11f1-80f2-5bd1e5df7ada.jpg"/>
         </item>
     </channel>
 </rss>
