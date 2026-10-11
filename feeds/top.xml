@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 11 Oct 2026 08:45:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Oct 2026 09:07:02 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -95,11 +95,11 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/716e/live/33d4ece0-c0b2-11f1-b026-53d1506ee826.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Delhi braces for more protests as 'cockroach' group's leaders released]]></title>
-            <description><![CDATA[Police say they will keep restricting access to the city centre after 7,000 people were detained and released on Saturday.]]></description>
+            <title><![CDATA[Delhi sees more protests as 'cockroach' group's leaders released]]></title>
+            <description><![CDATA[Police say they will keep restricting access to the city centre after thousands of people were detained and released on Saturday.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c84g179n2393o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c84g179n2393o#3</guid>
-            <pubDate>Sun, 11 Oct 2026 07:10:49 GMT</pubDate>
+            <pubDate>Sun, 11 Oct 2026 08:50:21 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a96/live/07c16320-c53c-11f1-ae34-756aa0b18b99.jpg"/>
         </item>
         <item>
@@ -239,20 +239,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0af6/live/d51070c0-c4c2-11f1-bc2e-018d645d8d21.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Kipchoge, 41, breaks course record at Melbourne Marathon]]></title>
-            <description><![CDATA[Double Olympic champion Eliud Kipchoge says "his body is still peaking" after winning the Melbourne Marathon in a course record time at the age of 41.]]></description>
-            <link>https://www.bbc.co.uk/sport/athletics/articles/cm4g102vr5q8o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/athletics/articles/cm4g102vr5q8o#9</guid>
-            <pubDate>Sun, 11 Oct 2026 08:19:52 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd9d/live/26fc84c0-c543-11f1-b4f1-2359026a88ee.jpg"/>
-        </item>
-        <item>
             <title><![CDATA['I kissed Rodrigo and said thanks' - De Zerbi 'liked' Spurs red card]]></title>
             <description><![CDATA[Roberto de Zerbi praises Rodrigo Bentancur after he was sent off in a 1-1 draw against Manchester United.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cqn73g3pvezdo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqn73g3pvezdo#9</guid>
             <pubDate>Sat, 10 Oct 2026 20:58:39 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/332c/live/05dcfc40-c4fb-11f1-9a39-31b474234113.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kipchoge, 41, breaks course record at Melbourne Marathon]]></title>
+            <description><![CDATA[Double Olympic champion Eliud Kipchoge says "his body is still peaking" after winning the Melbourne Marathon in a course record time at the age of 41.]]></description>
+            <link>https://www.bbc.co.uk/sport/athletics/articles/cm4g102vr5q8o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/athletics/articles/cm4g102vr5q8o#9</guid>
+            <pubDate>Sun, 11 Oct 2026 08:19:52 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd9d/live/26fc84c0-c543-11f1-b4f1-2359026a88ee.jpg"/>
         </item>
     </channel>
 </rss>
