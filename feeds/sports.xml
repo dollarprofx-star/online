@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/sport/football</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 11 Oct 2026 16:07:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Oct 2026 16:27:22 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -29,6 +29,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ckgel112lr1qo#0</guid>
             <pubDate>Sun, 11 Oct 2026 10:35:31 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4c3/live/088b06d0-c55f-11f1-9cae-455625013d45.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hughes focused on Albania before World Cup dream]]></title>
+            <description><![CDATA[Wales forward Elise Hughes admits reaching the World Cup would fulfil a lifelong ambition.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cq1m4ngv99mvo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cq1m4ngv99mvo#0</guid>
+            <pubDate>Sun, 11 Oct 2026 16:08:42 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7242/live/b771a480-c580-11f1-80f2-5bd1e5df7ada.jpg"/>
         </item>
         <item>
             <title><![CDATA[AC Milan keen on Scott - Sunday's gossip]]></title>
@@ -90,7 +98,7 @@
             <title><![CDATA[Ronaldo provisionally suspended by Portuguese FA]]></title>
             <description><![CDATA[Cristiano Ronaldo has been provisionally suspended by the Portuguese Football Federation (FPF) after leaving his country's international camp last month.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cm4g13909lp7o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cm4g13909lp7o#1</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cm4g13909lp7o#2</guid>
             <pubDate>Sat, 10 Oct 2026 17:37:24 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3919/live/a747b3c0-c4a8-11f1-ac13-6da90f5ff039.jpg"/>
         </item>
@@ -133,14 +141,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cw77prgk52zro#2</guid>
             <pubDate>Sat, 10 Oct 2026 19:19:42 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e88/live/0041cf20-c4df-11f1-9a39-31b474234113.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Arbeloa 'doesn't feel fear' but pressure increases after loss]]></title>
-            <description><![CDATA[Fulham boss Alvaro Arbeloa says he does not 'feel fear' after defeat at Ipswich left his side winless in six games and bottom of the Premier League.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cqvgrey535n4o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqvgrey535n4o#2</guid>
-            <pubDate>Sat, 10 Oct 2026 19:03:00 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80d4/live/13a6fa50-c4de-11f1-9a39-31b474234113.jpg"/>
         </item>
         <item>
             <title><![CDATA[Solanke scores in added time as 10-man Spurs draw with Man Utd]]></title>
@@ -237,6 +237,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cq39818v0ekzo#4</guid>
             <pubDate>Sat, 10 Oct 2026 19:46:19 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac21/live/8d8f4050-c4e0-11f1-bc2e-018d645d8d21.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arbeloa 'doesn't feel fear' but pressure increases after loss]]></title>
+            <description><![CDATA[Fulham boss Alvaro Arbeloa says he does not 'feel fear' after defeat at Ipswich left his side winless in six games and bottom of the Premier League.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cqvgrey535n4o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqvgrey535n4o#6</guid>
+            <pubDate>Sat, 10 Oct 2026 19:03:00 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80d4/live/13a6fa50-c4de-11f1-9a39-31b474234113.jpg"/>
         </item>
         <item>
             <title><![CDATA[Patience needed as new boss Reedijk bemoans Hibs 'imprecision']]></title>
