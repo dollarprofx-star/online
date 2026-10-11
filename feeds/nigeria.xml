@@ -5,7 +5,7 @@
         <atom:link href="https://rss.punchng.com" rel="self" type="application/rss+xml" />
         <link> https://rss.punchng.com </link>
         <description> Get the latest News in Nigeria </description>
-        <lastBuildDate> Sun, 11 Oct 2026 13:52:11 +0000</lastBuildDate>
+        <lastBuildDate> Sun, 11 Oct 2026 14:02:13 +0000</lastBuildDate>
         <language> en-US </language>
         <sy:updatePeriod> minutely	</sy:updatePeriod>
         <sy:updateFrequency> 5	</sy:updateFrequency>
@@ -13,6 +13,20 @@
         <generator>https://rss.punchng.com</generator>
 
         <item>
+                        <title>US names 24 Nigerians arrested over fraud, money laundering</title>
+                        <link>https://punchng.com/us-names-24-nigerians-arrested-over-fraud-money-laundering/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
+                        <pubDate>Sun, 11 Oct 2026 14:56:39 +0000</pubDate>
+                        <dc:creator><![CDATA[Punch Newspapers]]></dc:creator>
+                        <category><![CDATA[]]></category>
+                        <guid isPermaLink='true'>https://punchng.com/us-names-24-nigerians-arrested-over-fraud-money-laundering/?utm_source=rss.punchng.com&amp;utm_medium=web</guid>
+                        <description><![CDATA[
+
+The US Department of Homeland Security has named 24 Nigerians arrested for alleged criminal offences including wire fraud, money laundering, and identity t
+
+Read More: https://punchng.com/us-names-24-nigerians-arrested-over-fraud-money-laundering/]]></description>
+                        <enclosure url='https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png' length='342247' type='image/png'/>
+                    </item>
+                    <item>
                         <title>Police arrest two in Jigawa over vandalism of streetlight, transformer</title>
                         <link>https://punchng.com/police-arrest-two-in-jigawa-over-vandalism-of-streetlight-transformer/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
                         <pubDate>Sun, 11 Oct 2026 14:26:45 +0000</pubDate>
@@ -416,20 +430,6 @@ Read More: https://punchng.com/morning-recap-uk-varsities-withdraw-admission-off
 UN Secretary-General António Guterres has condemned a deadly Houthi attack on King Khalid International Airport in Riyadh which reportedly killed 12 people
 
 Read More: https://punchng.com/un-chief-condemns-attack-on-saudi-airport-demands-end-to-strikes/]]></description>
-                        <enclosure url='https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png' length='342247' type='image/png'/>
-                    </item>
-                    <item>
-                        <title>2027: Aisha Yesufu urges Obi supporters to learn, play &#8216;Osun script&#8217;</title>
-                        <link>https://punchng.com/2027-aisha-yesufu-urges-obi-supporters-to-learn-play-osun-script/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
-                        <pubDate>Sun, 11 Oct 2026 07:58:29 +0000</pubDate>
-                        <dc:creator><![CDATA[Punch Newspapers]]></dc:creator>
-                        <category><![CDATA[]]></category>
-                        <guid isPermaLink='true'>https://punchng.com/2027-aisha-yesufu-urges-obi-supporters-to-learn-play-osun-script/?utm_source=rss.punchng.com&amp;utm_medium=web</guid>
-                        <description><![CDATA[
-
-Activist Aisha Yesufu has joined the “Osun Script” social media campaign, urging Peter Obi&#8217;s supporters to learn how to protect their votes in 2027.
-
-Read More: https://punchng.com/2027-aisha-yesufu-urges-obi-supporters-to-learn-play-osun-script/]]></description>
                         <enclosure url='https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png' length='342247' type='image/png'/>
                     </item>
                         </channel>

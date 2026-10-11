@@ -9,13 +9,13 @@
             <link>https://www.bbc.co.uk/news/world</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 11 Oct 2026 13:54:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Oct 2026 14:06:21 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/world/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
-            <title><![CDATA[Ukraine strikes Russian data centre again despite Trump warning]]></title>
+            <title><![CDATA[Ukraine strikes Yandex data centre in third attack on Russian tech giant]]></title>
             <description><![CDATA[It is the third time this week that Ukraine has targeted Russian tech giant Yandex, forcing the company to suspend its operations.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo#0</guid>
