@@ -5,7 +5,7 @@
         <atom:link href="https://rss.punchng.com" rel="self" type="application/rss+xml" />
         <link> https://rss.punchng.com </link>
         <description> Get the latest News in Nigeria </description>
-        <lastBuildDate> Sun, 11 Oct 2026 02:05:23 +0000</lastBuildDate>
+        <lastBuildDate> Sun, 11 Oct 2026 02:25:27 +0000</lastBuildDate>
         <language> en-US </language>
         <sy:updatePeriod> minutely	</sy:updatePeriod>
         <sy:updateFrequency> 5	</sy:updateFrequency>
@@ -13,6 +13,20 @@
         <generator>https://rss.punchng.com</generator>
 
         <item>
+                        <title>PDP rallies supporters in Kwara</title>
+                        <link>https://punchng.com/pdp-rallies-supporters-in-kwara/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
+                        <pubDate>Sun, 11 Oct 2026 01:35:06 +0000</pubDate>
+                        <dc:creator><![CDATA[Punch Newspapers]]></dc:creator>
+                        <category><![CDATA[]]></category>
+                        <guid isPermaLink='true'>https://punchng.com/pdp-rallies-supporters-in-kwara/?utm_source=rss.punchng.com&amp;utm_medium=web</guid>
+                        <description><![CDATA[
+
+The Peoples Democratic Party held a mega rally in Ilorin West, Kwara State, to sensitise and mobilise voters ahead of the 2027 general elections.
+
+Read More: https://punchng.com/pdp-rallies-supporters-in-kwara/]]></description>
+                        <enclosure url='https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png' length='342247' type='image/png'/>
+                    </item>
+                    <item>
                         <title>NBBF electoral committee completes screening of candidates</title>
                         <link>https://punchng.com/nbbf-electoral-committee-completes-screening-of-candidates/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
                         <pubDate>Sun, 11 Oct 2026 01:09:01 +0000</pubDate>
@@ -402,34 +416,6 @@ Read More: https://punchng.com/uk-varsities-withdraw-admission-offers-to-nigeria
 Cristiano Ronaldo and Lionel Messi are among 66 footballers with over 1,000 career games, a milestone highlighting remarkable longevity and consistency.
 
 Read More: https://punchng.com/ronaldo-messi-among-66-players-with-over-1000-career-games/]]></description>
-                        <enclosure url='https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png' length='342247' type='image/png'/>
-                    </item>
-                    <item>
-                        <title>Pantami’s camp urges calm as INEC omits name from Gombe list</title>
-                        <link>https://punchng.com/pantamis-camp-urges-calm-as-inec-omits-name-from-gombe-list/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
-                        <pubDate>Sat, 10 Oct 2026 22:34:23 +0000</pubDate>
-                        <dc:creator><![CDATA[Punch Newspapers]]></dc:creator>
-                        <category><![CDATA[]]></category>
-                        <guid isPermaLink='true'>https://punchng.com/pantamis-camp-urges-calm-as-inec-omits-name-from-gombe-list/?utm_source=rss.punchng.com&amp;utm_medium=web</guid>
-                        <description><![CDATA[
-
-Supporters of former minister Isa Pantami have been urged to remain calm after INEC omitted his name and the PDP from its Gombe governorship list.
-
-Read More: https://punchng.com/pantamis-camp-urges-calm-as-inec-omits-name-from-gombe-list/]]></description>
-                        <enclosure url='https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png' length='342247' type='image/png'/>
-                    </item>
-                    <item>
-                        <title>La Liga: Madrid edge Villarreal 1-0 as Diomande scores first goal</title>
-                        <link>https://punchng.com/la-liga-madrid-edge-villarreal-1-0-as-diomande-scores-first-goal/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
-                        <pubDate>Sat, 10 Oct 2026 22:32:08 +0000</pubDate>
-                        <dc:creator><![CDATA[Punch Newspapers]]></dc:creator>
-                        <category><![CDATA[]]></category>
-                        <guid isPermaLink='true'>https://punchng.com/la-liga-madrid-edge-villarreal-1-0-as-diomande-scores-first-goal/?utm_source=rss.punchng.com&amp;utm_medium=web</guid>
-                        <description><![CDATA[
-
-Real Madrid defeated Villarreal 1-0 in a La Liga match after Yan Diomande scored his first goal for the club, which was confirmed by a VAR review.
-
-Read More: https://punchng.com/la-liga-madrid-edge-villarreal-1-0-as-diomande-scores-first-goal/]]></description>
                         <enclosure url='https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png' length='342247' type='image/png'/>
                     </item>
                         </channel>
