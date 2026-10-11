@@ -5,7 +5,7 @@
         <atom:link href="https://rss.punchng.com" rel="self" type="application/rss+xml" />
         <link> https://rss.punchng.com </link>
         <description> Get the latest News in Nigeria </description>
-        <lastBuildDate> Sun, 11 Oct 2026 19:38:15 +0000</lastBuildDate>
+        <lastBuildDate> Sun, 11 Oct 2026 19:53:18 +0000</lastBuildDate>
         <language> en-US </language>
         <sy:updatePeriod> minutely	</sy:updatePeriod>
         <sy:updateFrequency> 5	</sy:updateFrequency>
@@ -13,6 +13,20 @@
         <generator>https://rss.punchng.com</generator>
 
         <item>
+                        <title>Amnesty urges Wike to suspend Maitama demolition</title>
+                        <link>https://punchng.com/amnesty-urges-wike-to-suspend-maitama-demolition/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
+                        <pubDate>Sun, 11 Oct 2026 20:48:41 +0000</pubDate>
+                        <dc:creator><![CDATA[Punch Newspapers]]></dc:creator>
+                        <category><![CDATA[]]></category>
+                        <guid isPermaLink='true'>https://punchng.com/amnesty-urges-wike-to-suspend-maitama-demolition/?utm_source=rss.punchng.com&amp;utm_medium=web</guid>
+                        <description><![CDATA[
+
+Amnesty International Nigeria has urged FCT Minister Nyesom Wike to suspend the planned demolition of a utility corridor in Maitama, Abuja, over safety con
+
+Read More: https://punchng.com/amnesty-urges-wike-to-suspend-maitama-demolition/]]></description>
+                        <enclosure url='https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png' length='342247' type='image/png'/>
+                    </item>
+                    <item>
                         <title>Adesina urges African leaders to invest in technology, build industries</title>
                         <link>https://punchng.com/adesina-urges-african-leaders-to-invest-in-technology-build-industries/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
                         <pubDate>Sun, 11 Oct 2026 20:32:18 +0000</pubDate>
@@ -416,20 +430,6 @@ Read More: https://punchng.com/police-arrest-two-in-jigawa-over-vandalism-of-str
 Gbenga Daniel’s younger brother, Olola Daniel, has backed Senator Solomon Adeola (Yayi) for the 2027 Ogun governorship, dismissing ancestry controversy.
 
 Read More: https://punchng.com/2027-gbenga-daniels-brother-backs-yayi-dismisses-ancestry-controversy/]]></description>
-                        <enclosure url='https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png' length='342247' type='image/png'/>
-                    </item>
-                    <item>
-                        <title>Nigeria’s insecurity threatens investment, economic growth – NESG</title>
-                        <link>https://punchng.com/nigerias-insecurity-threatens-investment-economic-growth-nesg/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
-                        <pubDate>Sun, 11 Oct 2026 14:08:50 +0000</pubDate>
-                        <dc:creator><![CDATA[Punch Newspapers]]></dc:creator>
-                        <category><![CDATA[]]></category>
-                        <guid isPermaLink='true'>https://punchng.com/nigerias-insecurity-threatens-investment-economic-growth-nesg/?utm_source=rss.punchng.com&amp;utm_medium=web</guid>
-                        <description><![CDATA[
-
-The Nigerian Economic Summit Group (NESG) has warned that worsening insecurity threatens investment, agricultural production, and economic growth in Nigeri
-
-Read More: https://punchng.com/nigerias-insecurity-threatens-investment-economic-growth-nesg/]]></description>
                         <enclosure url='https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png' length='342247' type='image/png'/>
                     </item>
                         </channel>
