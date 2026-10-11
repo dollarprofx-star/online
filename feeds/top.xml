@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 11 Oct 2026 05:07:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Oct 2026 05:26:46 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -47,20 +47,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83c9/live/2af322e0-c50d-11f1-8473-7b5057186a7a.jpg"/>
         </item>
         <item>
-            <title><![CDATA[UK launch flood taskforce to prepare for extreme winter weather]]></title>
-            <description><![CDATA[The Environment Agency has warned approximately 6.3 million homes and businesses in England remain at risk of flooding.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c8040n4v7126o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c8040n4v7126o#1</guid>
-            <pubDate>Sun, 11 Oct 2026 00:44:37 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e208/live/f438e200-c4fb-11f1-9197-fd425384da91.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Bid to overturn ruling which stops police being sued for failings]]></title>
             <description><![CDATA[MPs are seeking to stop immunity applying when police fabricate evidence or are dishonest or negligent.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c6y43mmke7ygo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6y43mmke7ygo#1</guid>
             <pubDate>Sat, 10 Oct 2026 23:04:37 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b00/live/778a9be0-c401-11f1-838e-6d1d6d701264.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[UK launch flood taskforce to prepare for extreme winter weather]]></title>
+            <description><![CDATA[The Environment Agency has warned approximately 6.3 million homes and businesses in England remain at risk of flooding.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c8040n4v7126o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c8040n4v7126o#1</guid>
+            <pubDate>Sun, 11 Oct 2026 00:44:37 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e208/live/f438e200-c4fb-11f1-9197-fd425384da91.jpg"/>
         </item>
         <item>
             <title><![CDATA[Northern Lights stun UK down to England's south coast]]></title>
