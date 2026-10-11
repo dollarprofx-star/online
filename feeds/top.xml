@@ -9,14 +9,14 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 11 Oct 2026 16:57:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Oct 2026 17:11:44 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
-            <title><![CDATA[Saudi capital airport hit by second strike in two days]]></title>
-            <description><![CDATA[Yemen's Houthi rebels claimed responsibility for attacks on the airport over the weekend, which have killed at least 13.]]></description>
+            <title><![CDATA[Saudi Arabia's Riyadh airport hit by second Houthi strike in two days]]></title>
+            <description><![CDATA[The Yemeni group says it carried out attacks that killed 13 people over the weekend and targeted two airports and oil facilities.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cr93znyk44e1o#1</guid>
             <pubDate>Sun, 11 Oct 2026 16:41:37 GMT</pubDate>
@@ -55,14 +55,6 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/13bb/live/c2ac8480-c569-11f1-bd33-db1f7eaf2b30.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Verstappen dominates for first Singapore Grand Prix win]]></title>
-            <description><![CDATA[Red Bull's Max Verstappen secures his first win in the Singapore Grand Prix, ahead of Charles Leclerc and Kimi Antonelli.]]></description>
-            <link>https://www.bbc.co.uk/sport/formula1/articles/c84g1p2ql9z5o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/formula1/articles/c84g1p2ql9z5o#1</guid>
-            <pubDate>Sun, 11 Oct 2026 14:46:06 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e391/live/e358fd80-c57d-11f1-80f2-5bd1e5df7ada.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Children among 139 dead after boat capsizes off Djibouti, UN says]]></title>
             <description><![CDATA[The boat was travelling from Djibouti to Yemen with 305 people on board, when it capsized near the port town of Obock on Thursday night.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -85,6 +77,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckp8gyd65z2go#1</guid>
             <pubDate>Sun, 11 Oct 2026 15:18:52 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5288/live/10c1e1e0-c585-11f1-80f2-5bd1e5df7ada.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[DUP MP says her party could help remove O'Neill as Northern Ireland first minister]]></title>
+            <description><![CDATA[Carla Lockhart says unionist voters are angry at Michelle O'Neill over her role in the Garvaghy Road protests.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cm79pd2zzl59o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm79pd2zzl59o#1</guid>
+            <pubDate>Sun, 11 Oct 2026 10:43:17 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/41b3/live/5c382440-c4f9-11f1-a4b9-bbb80bd65c1a.jpg"/>
         </item>
         <item>
             <title><![CDATA[Three friends on their student debt: One paid off, one chipping away and one creeping up]]></title>
@@ -203,8 +203,16 @@
             <description><![CDATA[The fearsome pace quartet and Steve Smith's brilliance serves as a reminder of Australia's quality as the tourists take charge against South Africa.]]></description>
             <link>https://www.bbc.co.uk/sport/cricket/articles/cqvg0pdye05ro?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/cricket/articles/cqvg0pdye05ro#8</guid>
-            <pubDate>Sun, 11 Oct 2026 15:59:42 GMT</pubDate>
+            <pubDate>Sun, 11 Oct 2026 17:05:32 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3baf/live/fbd0a300-c586-11f1-80f2-5bd1e5df7ada.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jota comeback helps Celtic lift gloom in strong response]]></title>
+            <description><![CDATA[Jota's comeback from long-term injury and Celtic's convincing victory over Motherwell provide positivity following the club's recent acrimony.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cqwy7nr5lry0o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqwy7nr5lry0o#8</guid>
+            <pubDate>Sun, 11 Oct 2026 16:55:21 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/75d7/live/c1c36af0-c593-11f1-9a39-31b474234113.jpg"/>
         </item>
         <item>
             <title><![CDATA[Kipchoge, 41, breaks course record at Melbourne Marathon]]></title>
