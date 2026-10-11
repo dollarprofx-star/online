@@ -9,14 +9,14 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 11 Oct 2026 04:28:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Oct 2026 04:46:11 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
             <title><![CDATA[Twelve killed and 300 injured in attack on airport in Saudi capital Riyadh]]></title>
-            <description><![CDATA[The attack has been blamed on Yemen's Houthis, who have not taken responsibility for the latest strike.]]></description>
+            <description><![CDATA[Saudi and US officials blame the attack on Yemen's Houthis, who have not commented on the latest strike.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cw33x4y8k82no#1</guid>
             <pubDate>Sun, 11 Oct 2026 03:57:22 GMT</pubDate>
