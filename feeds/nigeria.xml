@@ -5,7 +5,7 @@
         <atom:link href="https://rss.punchng.com" rel="self" type="application/rss+xml" />
         <link> https://rss.punchng.com </link>
         <description> Get the latest News in Nigeria </description>
-        <lastBuildDate> Sun, 11 Oct 2026 08:26:22 +0000</lastBuildDate>
+        <lastBuildDate> Sun, 11 Oct 2026 08:41:26 +0000</lastBuildDate>
         <language> en-US </language>
         <sy:updatePeriod> minutely	</sy:updatePeriod>
         <sy:updateFrequency> 5	</sy:updateFrequency>
@@ -13,6 +13,20 @@
         <generator>https://rss.punchng.com</generator>
 
         <item>
+                        <title>EPL: Man City brace for hostile Liverpool crowd after guilty verdict</title>
+                        <link>https://punchng.com/epl-man-city-brace-for-hostile-liverpool-crowd-after-guilty-verdict/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
+                        <pubDate>Sun, 11 Oct 2026 09:37:59 +0000</pubDate>
+                        <dc:creator><![CDATA[Punch Newspapers]]></dc:creator>
+                        <category><![CDATA[]]></category>
+                        <guid isPermaLink='true'>https://punchng.com/epl-man-city-brace-for-hostile-liverpool-crowd-after-guilty-verdict/?utm_source=rss.punchng.com&amp;utm_medium=web</guid>
+                        <description><![CDATA[
+
+Manchester City face a hostile Anfield crowd against Liverpool in their first game since being found guilty of breaking over 100 financial rules.
+
+Read More: https://punchng.com/epl-man-city-brace-for-hostile-liverpool-crowd-after-guilty-verdict/]]></description>
+                        <enclosure url='https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png' length='342247' type='image/png'/>
+                    </item>
+                    <item>
                         <title>Prioritise human development, curb poverty, PDP chieftain urges northern leaders</title>
                         <link>https://punchng.com/prioritise-human-development-curb-poverty-pdp-chieftain-urges-northern-leaders/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
                         <pubDate>Sun, 11 Oct 2026 09:13:42 +0000</pubDate>
@@ -416,20 +430,6 @@ Read More: https://punchng.com/power-supply-oluwo-lauds-tinubu/]]></description>
 Chevening alumni in Nigeria launch a road safety initiative to train 250 community members in emergency post-crash response on the Lagos-Ibadan Expressway.
 
 Read More: https://punchng.com/chevening-alumni-train-250-in-road-safety/]]></description>
-                        <enclosure url='https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png' length='342247' type='image/png'/>
-                    </item>
-                    <item>
-                        <title>2027: Opposition, APC clash over campaign funding</title>
-                        <link>https://punchng.com/2027-opposition-apc-clash-over-campaign-funding/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
-                        <pubDate>Sun, 11 Oct 2026 01:25:10 +0000</pubDate>
-                        <dc:creator><![CDATA[Punch Newspapers]]></dc:creator>
-                        <category><![CDATA[]]></category>
-                        <guid isPermaLink='true'>https://punchng.com/2027-opposition-apc-clash-over-campaign-funding/?utm_source=rss.punchng.com&amp;utm_medium=web</guid>
-                        <description><![CDATA[
-
-Opposition parties raise concerns over campaign funding for the 2027 elections, alleging the ruling APC has an unfair financial advantage.
-
-Read More: https://punchng.com/2027-opposition-apc-clash-over-campaign-funding/]]></description>
                         <enclosure url='https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png' length='342247' type='image/png'/>
                     </item>
                         </channel>
