@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 11 Oct 2026 18:50:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Oct 2026 19:07:00 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -71,12 +71,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/13bb/live/c2ac8480-c569-11f1-bd33-db1f7eaf2b30.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Ukraine strikes Yandex data centre in third attack on Russian tech giant]]></title>
-            <description><![CDATA[It is the third time this week that Ukraine has targeted Russian tech giant Yandex, forcing the company to suspend its operations.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo#1</guid>
-            <pubDate>Sun, 11 Oct 2026 14:38:10 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92b1/live/fca86430-c56c-11f1-a64c-550be9e3c66b.jpg"/>
+            <title><![CDATA[Burnham to release details of Man City meetings]]></title>
+            <description><![CDATA[Andy Burnham has faced criticism for comments he made in the wake of Manchester City being found guilty of all charges related to breaches of the Premier League's financial rules.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/c962y5nd273no?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c962y5nd273no#1</guid>
+            <pubDate>Sun, 11 Oct 2026 18:01:13 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7513/live/9668f200-c57d-11f1-80f2-5bd1e5df7ada.jpg"/>
         </item>
         <item>
             <title><![CDATA[DUP MP says her party could help remove O'Neill as first minister over Drumcree row]]></title>
@@ -135,20 +135,20 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/716e/live/33d4ece0-c0b2-11f1-b026-53d1506ee826.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Ukraine strikes Yandex data centre in third attack on Russian tech giant]]></title>
+            <description><![CDATA[It is the third time this week that Ukraine has targeted Russian tech giant Yandex, forcing the company to suspend its operations.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo#4</guid>
+            <pubDate>Sun, 11 Oct 2026 14:38:10 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92b1/live/fca86430-c56c-11f1-a64c-550be9e3c66b.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Northern Lights dazzle skies across the UK]]></title>
             <description><![CDATA[The natural phenomenon, known as the Aurora Borealis, is the result of increased solar activity.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c9rkyey458xdo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c9rkyey458xdo#4</guid>
             <pubDate>Sun, 11 Oct 2026 09:18:05 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ff0/live/ec8791c0-c571-11f1-bc2e-018d645d8d21.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Burnham to release details of Man City meetings]]></title>
-            <description><![CDATA[Andy Burnham has faced criticism for comments he made in the wake of Manchester City being found guilty of all charges related to breaches of the Premier League's financial rules.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/c962y5nd273no?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c962y5nd273no#4</guid>
-            <pubDate>Sun, 11 Oct 2026 18:01:13 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7513/live/9668f200-c57d-11f1-80f2-5bd1e5df7ada.jpg"/>
         </item>
         <item>
             <title><![CDATA[Why are so many four-year-olds not potty-trained before school?]]></title>
@@ -199,6 +199,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70b1/live/90d63660-bcbb-11f1-babe-4199b0e7ccea.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Doku delights as Manchester City ease past 10-man Liverpool ]]></title>
+            <description><![CDATA[In their first match since being found guilty of breaching Premier League financial rules, Manchester City enjoyed a comfortable 3-0 win against Liverpool at Anfield to extend their perfect start to six matches, as they moved three points clear at the top of the Premier League. ]]></description>
+            <link>https://www.bbc.co.uk/sport/football/videos/c6vgy2ll1zypo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/c6vgy2ll1zypo#8</guid>
+            <pubDate>Sun, 11 Oct 2026 18:59:19 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e1f6/live/040fab80-c599-11f1-a64c-550be9e3c66b.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Who 'simply has to do better'? Liverpool v Man City player ratings]]></title>
             <description><![CDATA[How Liverpool and Man City's players rated following their Premier League match.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/ck87z1jjynyqo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -212,7 +220,7 @@
             <link>https://www.bbc.co.uk/sport/formula1/articles/c65yn9kn47eko?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/formula1/articles/c65yn9kn47eko#8</guid>
             <pubDate>Sun, 11 Oct 2026 18:32:19 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f69/live/7d8f1a60-c597-11f1-9421-494446d96e27.jpg"/>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b41/live/020a6f30-c5a5-11f1-8ef2-31c45d39a4c9.jpg"/>
         </item>
         <item>
             <title><![CDATA[Burnham to release details of Man City meetings]]></title>
