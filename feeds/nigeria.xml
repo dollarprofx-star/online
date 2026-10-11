@@ -5,7 +5,7 @@
         <atom:link href="https://rss.punchng.com" rel="self" type="application/rss+xml" />
         <link> https://rss.punchng.com </link>
         <description> Get the latest News in Nigeria </description>
-        <lastBuildDate> Sun, 11 Oct 2026 00:05:08 +0000</lastBuildDate>
+        <lastBuildDate> Sun, 11 Oct 2026 00:35:12 +0000</lastBuildDate>
         <language> en-US </language>
         <sy:updatePeriod> minutely	</sy:updatePeriod>
         <sy:updateFrequency> 5	</sy:updateFrequency>
@@ -13,6 +13,20 @@
         <generator>https://rss.punchng.com</generator>
 
         <item>
+                        <title>NBBF electoral committee completes screening of candidates</title>
+                        <link>https://punchng.com/nbbf-electoral-committee-completes-screening-of-candidates/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
+                        <pubDate>Sun, 11 Oct 2026 01:09:01 +0000</pubDate>
+                        <dc:creator><![CDATA[Punch Newspapers]]></dc:creator>
+                        <category><![CDATA[]]></category>
+                        <guid isPermaLink='true'>https://punchng.com/nbbf-electoral-committee-completes-screening-of-candidates/?utm_source=rss.punchng.com&amp;utm_medium=web</guid>
+                        <description><![CDATA[
+
+The NBBF electoral committee has cleared four presidential aspirants for its October 15 congress in Abuja, disqualifying one for late submission.
+
+Read More: https://punchng.com/nbbf-electoral-committee-completes-screening-of-candidates/]]></description>
+                        <enclosure url='https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png' length='342247' type='image/png'/>
+                    </item>
+                    <item>
                         <title>2027: Protest, relief as INEC releases final candidates’ list</title>
                         <link>https://punchng.com/2027-protest-relief-as-inec-releases-final-candidates-list/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
                         <pubDate>Sun, 11 Oct 2026 00:28:18 +0000</pubDate>
@@ -416,20 +430,6 @@ Read More: https://punchng.com/pantamis-camp-urges-calm-as-inec-omits-name-from-
 Real Madrid defeated Villarreal 1-0 in a La Liga match after Yan Diomande scored his first goal for the club, which was confirmed by a VAR review.
 
 Read More: https://punchng.com/la-liga-madrid-edge-villarreal-1-0-as-diomande-scores-first-goal/]]></description>
-                        <enclosure url='https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png' length='342247' type='image/png'/>
-                    </item>
-                    <item>
-                        <title>INEC releases final list of Kwara NASS candidates for 2027</title>
-                        <link>https://punchng.com/inec-releases-final-list-of-kwara-nass-candidates-for-2027/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
-                        <pubDate>Sat, 10 Oct 2026 22:27:21 +0000</pubDate>
-                        <dc:creator><![CDATA[Punch Newspapers]]></dc:creator>
-                        <category><![CDATA[]]></category>
-                        <guid isPermaLink='true'>https://punchng.com/inec-releases-final-list-of-kwara-nass-candidates-for-2027/?utm_source=rss.punchng.com&amp;utm_medium=web</guid>
-                        <description><![CDATA[
-
-INEC has released the final list of candidates for the 2027 National Assembly elections in Kwara, featuring Governor AbdulRazaq and Senator Saliu Mustapha.
-
-Read More: https://punchng.com/inec-releases-final-list-of-kwara-nass-candidates-for-2027/]]></description>
                         <enclosure url='https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png' length='342247' type='image/png'/>
                     </item>
                         </channel>
