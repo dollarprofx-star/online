@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news/world</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 12 Oct 2026 07:47:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Oct 2026 08:10:49 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/world/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -21,6 +21,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o#0</guid>
             <pubDate>Sun, 11 Oct 2026 21:36:40 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16d8/live/4817e400-c58a-11f1-bc2e-018d645d8d21.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Documents falsified to evade tax on Abramovich's wealth, BBC finds]]></title>
+            <description><![CDATA[Backdated paperwork also made the Russian oligarch’s yachts and mansions disappear from accounts, investigation finds.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c64g1l5389kvo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c64g1l5389kvo#0</guid>
+            <pubDate>Mon, 12 Oct 2026 05:00:52 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6be9/live/bde30ef0-c600-11f1-bc2e-018d645d8d21.jpg"/>
         </item>
         <item>
             <title><![CDATA[Trump faces growing backlash over plans to import diesel from Russia]]></title>
@@ -39,12 +47,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2165/live/f588e620-c602-11f1-9a39-31b474234113.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Documents falsified to evade tax on Abramovich's wealth, BBC finds]]></title>
-            <description><![CDATA[Backdated paperwork also made the Russian oligarch’s yachts and mansions disappear from accounts, investigation finds.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c64g1l5389kvo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c64g1l5389kvo#0</guid>
-            <pubDate>Mon, 12 Oct 2026 05:00:52 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6be9/live/bde30ef0-c600-11f1-bc2e-018d645d8d21.jpg"/>
+            <title><![CDATA[American ranchers wrestle with soaring costs - and their loyalty to Trump]]></title>
+            <description><![CDATA[Many farmers in states that backed the president say they are being hit from all sides, with the crucial midterm elections just weeks away.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c6d7q5z17gp5o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6d7q5z17gp5o#0</guid>
+            <pubDate>Sun, 11 Oct 2026 23:13:51 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef78/live/3cd40f10-c34b-11f1-9ef0-9f3abff8feb9.jpg"/>
         </item>
         <item>
             <title><![CDATA[Poland detains man suspected of planning assassination of PM Tusk]]></title>
@@ -55,20 +63,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/187d/live/a4be0650-c592-11f1-9d5a-23156cc094cf.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Dozens of gold prospectors killed in strikes on Egypt-Sudan border, rights group says]]></title>
-            <description><![CDATA[Neither Egypt nor Sudan has commented on the alleged strikes on an artisanal mining camp on Saturday.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cqy43vrk8wv8o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqy43vrk8wv8o#0</guid>
-            <pubDate>Sun, 11 Oct 2026 21:12:44 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ba0/live/1bc53450-c5b4-11f1-a838-01c3fd7e5e7d.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Watch: Endangered orangutans released back into the wild after Borneo fires]]></title>
             <description><![CDATA[The critically endangered apes were rescued from intense wildfires that destroyed their habitat in August and September.]]></description>
             <link>https://www.bbc.co.uk/news/videos/c6073z5rvrk3o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/c6073z5rvrk3o#0</guid>
             <pubDate>Sun, 11 Oct 2026 23:48:25 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/352a/live/d99810b0-c5ff-11f1-b084-2bd4636c4658.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dozens of gold prospectors killed in strikes on Egypt-Sudan border, rights group says]]></title>
+            <description><![CDATA[Neither Egypt nor Sudan has commented on the alleged strikes on an artisanal mining camp on Saturday.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cqy43vrk8wv8o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqy43vrk8wv8o#1</guid>
+            <pubDate>Sun, 11 Oct 2026 21:12:44 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ba0/live/1bc53450-c5b4-11f1-a838-01c3fd7e5e7d.jpg"/>
         </item>
         <item>
             <title><![CDATA[Iconic Australian band Powderfinger announce first tour in 17 years]]></title>
@@ -109,22 +117,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo#1</guid>
             <pubDate>Sun, 11 Oct 2026 13:38:55 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/13bb/live/c2ac8480-c569-11f1-bd33-db1f7eaf2b30.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nobel peace laureate says US sanctions on ICC 'unacceptable']]></title>
-            <description><![CDATA[Navi Pillay says the Trump administrations' sweeping penalties on the international tribunal were "unheard of".]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cqkgjrpmr47vo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqkgjrpmr47vo#1</guid>
-            <pubDate>Sat, 10 Oct 2026 15:23:47 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8690/live/4429a2a0-c4b5-11f1-9ce9-55293bd7f0d9.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[American ranchers wrestle with soaring costs - and their loyalty to Trump]]></title>
-            <description><![CDATA[Many farmers in states that backed the president say they are being hit from all sides, with the crucial midterm elections just weeks away.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c6d7q5z17gp5o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6d7q5z17gp5o#2</guid>
-            <pubDate>Sun, 11 Oct 2026 23:13:51 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef78/live/3cd40f10-c34b-11f1-9ef0-9f3abff8feb9.jpg"/>
         </item>
         <item>
             <title><![CDATA[Mourners killed by Kenya police at ex-PM's national farewell not part of violence, BBC finds]]></title>
