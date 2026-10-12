@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 12 Oct 2026 15:03:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Oct 2026 15:31:25 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -123,7 +123,7 @@
             <description><![CDATA[A recap on what we know about the attack which left a man dead at Yorkshire Wildlife Park.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c9146j15gnggo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c9146j15gnggo#2</guid>
-            <pubDate>Mon, 12 Oct 2026 15:00:25 GMT</pubDate>
+            <pubDate>Mon, 12 Oct 2026 15:21:11 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/724c/live/745b4a10-c563-11f1-bd33-db1f7eaf2b30.jpg"/>
         </item>
         <item>
@@ -155,7 +155,7 @@
             <description><![CDATA[Kanishka Narayan said the government will use advanced AI to strengthen the UK against cyber attacks.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cr78pe09y05xo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cr78pe09y05xo#4</guid>
-            <pubDate>Mon, 12 Oct 2026 13:06:18 GMT</pubDate>
+            <pubDate>Mon, 12 Oct 2026 15:03:42 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd68/live/6a2ab470-c646-11f1-bc2e-018d645d8d21.jpg"/>
         </item>
         <item>
@@ -171,7 +171,7 @@
             <description><![CDATA[Yorkshire Wildlife Park remains shut after a man was fatally attacked by a tiger on Saturday.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cv4g1d0wplz0o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cv4g1d0wplz0o#4</guid>
-            <pubDate>Mon, 12 Oct 2026 12:52:19 GMT</pubDate>
+            <pubDate>Mon, 12 Oct 2026 15:16:08 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03de/live/6fa13e30-c644-11f1-b47f-e3f9cf703bc3.jpg"/>
         </item>
         <item>
@@ -223,6 +223,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a42/live/d8cea790-c63e-11f1-abff-0d918239b2e3.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Pope pulls out of controversial Afghanistan T20 league]]></title>
+            <description><![CDATA[England batter Ollie Pope pulls out of the draft for the Afghanistan Premier League.]]></description>
+            <link>https://www.bbc.co.uk/sport/cricket/articles/ckz7xvz7lxveo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/cricket/articles/ckz7xvz7lxveo#8</guid>
+            <pubDate>Mon, 12 Oct 2026 15:13:54 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f99c/live/4bd679f0-c64b-11f1-bc2e-018d645d8d21.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Key suggests Carse can return as England reveal contract list]]></title>
             <description><![CDATA[Director of cricket Rob Key believes Brydon Carse can play for England again, despite an ongoing investigation into an incident outside a Derby nightclub in August.]]></description>
             <link>https://www.bbc.co.uk/sport/cricket/articles/cwz0v3zy7mpxo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -231,7 +239,7 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/542a/live/901f4640-c62e-11f1-9a39-31b474234113.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Hazlewood strikes as South Africa try to deny Australia - scorecard]]></title>
+            <title><![CDATA[South Africa hopes dented by late Australia wickets - scorecard]]></title>
             <description><![CDATA[Latest scorecard from the first Test between South Africa and Australia in Durban.]]></description>
             <link>https://www.bbc.co.uk/sport/cricket/scorecard/e-236997?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/cricket/scorecard/e-236997#8</guid>
@@ -245,14 +253,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/cw3dj8jr8xj2o#8</guid>
             <pubDate>Mon, 12 Oct 2026 14:53:42 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8117/live/83df3a00-c63f-11f1-abff-0d918239b2e3.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The 'Kane-esque' striker Spurs may regret letting go]]></title>
-            <description><![CDATA[Will Lankshear's positioning, finishing and poacher's instinct have made him an instant hit at Riverside Stadium – and a cause of lament at Tottenham Hotspur Stadium.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cq1kdmej1xnvo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cq1kdmej1xnvo#8</guid>
-            <pubDate>Mon, 12 Oct 2026 05:40:07 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a725/live/34b5c0f0-c4d9-11f1-9a39-31b474234113.jpg"/>
         </item>
         <item>
             <title><![CDATA[Women's billion-dollar boom leaves players behind, says Fifpro]]></title>
