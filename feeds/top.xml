@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 12 Oct 2026 17:55:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Oct 2026 18:08:21 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -71,7 +71,7 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/422c/live/54bcad00-c65f-11f1-8600-efb62b613ab5.jpg"/>
         </item>
         <item>
-            <title><![CDATA[French supermarket fridges heated to 50C in 'unprecedented' cyber attack]]></title>
+            <title><![CDATA[French supermarket fridges heated up in 'unprecedented' cyber attack]]></title>
             <description><![CDATA[Hundreds of stores were targeted by the overnight hack, which spoiled fresh and frozen food estimated to be worth millions of euros.]]></description>
             <link>https://www.bbc.co.uk/news/articles/crq5nzxv9q4yo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/crq5nzxv9q4yo#1</guid>
@@ -239,20 +239,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf7f/live/a5c37940-c65f-11f1-8600-efb62b613ab5.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Pope pulls out of controversial Afghanistan T20 league]]></title>
-            <description><![CDATA[England batter Ollie Pope pulls out of the draft for the Afghanistan Premier League.]]></description>
-            <link>https://www.bbc.co.uk/sport/cricket/articles/ckz7xvz7lxveo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/cricket/articles/ckz7xvz7lxveo#8</guid>
-            <pubDate>Mon, 12 Oct 2026 15:13:54 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f99c/live/4bd679f0-c64b-11f1-bc2e-018d645d8d21.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[GB's Richardson withdrawn from World Championships]]></title>
             <description><![CDATA[Matt Richardson is withdrawn from the Great Britain squad for next week's World Track Cycling Championships amid reports he is under investigation for misconduct.]]></description>
             <link>https://www.bbc.co.uk/sport/cycling/articles/cmpwgdw0p1d5o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/cycling/articles/cmpwgdw0p1d5o#8</guid>
             <pubDate>Mon, 12 Oct 2026 17:39:27 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6bf4/live/603c30f0-c665-11f1-8b8f-ddd45afdc2fc.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pope pulls out of controversial Afghanistan T20 league]]></title>
+            <description><![CDATA[England batter Ollie Pope pulls out of the draft for the Afghanistan Premier League.]]></description>
+            <link>https://www.bbc.co.uk/sport/cricket/articles/ckz7xvz7lxveo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/cricket/articles/ckz7xvz7lxveo#8</guid>
+            <pubDate>Mon, 12 Oct 2026 15:13:54 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f99c/live/4bd679f0-c64b-11f1-bc2e-018d645d8d21.jpg"/>
         </item>
         <item>
             <title><![CDATA[Renshaw delivers again as Australia close on win]]></title>
