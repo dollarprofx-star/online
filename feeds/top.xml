@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 12 Oct 2026 16:14:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Oct 2026 16:34:31 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -19,8 +19,16 @@
             <description><![CDATA[The prime minister says Iran's Islamic Revolutionary Guard "almost certainly" directed the RAF Fairford incident.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c6gr82ekqewyo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6gr82ekqewyo#1</guid>
-            <pubDate>Mon, 12 Oct 2026 15:45:43 GMT</pubDate>
+            <pubDate>Mon, 12 Oct 2026 16:14:39 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5cd/live/32979870-c303-11f1-bc2e-018d645d8d21.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says]]></title>
+            <description><![CDATA[Despite the US president announcing energy infrastructure would not be targeted strikes have continued, Ukraine says.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo#1</guid>
+            <pubDate>Mon, 12 Oct 2026 16:19:46 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fbda/live/375348b0-c659-11f1-8600-efb62b613ab5.jpg"/>
         </item>
         <item>
             <title><![CDATA[Watch: What could Trump's energy ceasefire mean for Ukraine?]]></title>
@@ -59,7 +67,7 @@
             <description><![CDATA[Hundreds of stores were targeted by the overnight hack, which spoiled fresh and frozen food estimated to be worth millions of euros.]]></description>
             <link>https://www.bbc.co.uk/news/articles/crq5nzxv9q4yo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/crq5nzxv9q4yo#1</guid>
-            <pubDate>Mon, 12 Oct 2026 14:30:09 GMT</pubDate>
+            <pubDate>Mon, 12 Oct 2026 16:17:59 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cfaf/live/a3ced500-c63a-11f1-b99d-0127a94fa1d0.jpg"/>
         </item>
         <item>
@@ -135,20 +143,20 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a441/live/c56267d0-c31b-11f1-bd97-fbe5a3482cde.jpg"/>
         </item>
         <item>
-            <title><![CDATA[What happens to sports kit that never gets worn?]]></title>
-            <description><![CDATA[A look at kit wastage in elite sport and what is being done to reduce it.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/articles/cq0ldgz9x142o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/olympics/articles/cq0ldgz9x142o#2</guid>
-            <pubDate>Mon, 12 Oct 2026 05:18:31 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb1e/live/d5904670-c3c2-11f1-8fc5-335d62f6730b.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Childhood cancer symptoms can be easily missed - here's what to look out for]]></title>
             <description><![CDATA[Although rare, cancer is the leading cause of death from disease among children under 15 in the UK.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cwm237z77dgyo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwm237z77dgyo#2</guid>
             <pubDate>Sun, 11 Oct 2026 23:03:45 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c63c/live/d8be8750-c604-11f1-9a39-31b474234113.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[What happens to sports kit that never gets worn?]]></title>
+            <description><![CDATA[A look at kit wastage in elite sport and what is being done to reduce it.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/articles/cq0ldgz9x142o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/olympics/articles/cq0ldgz9x142o#2</guid>
+            <pubDate>Mon, 12 Oct 2026 05:18:31 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb1e/live/d5904670-c3c2-11f1-8fc5-335d62f6730b.jpg"/>
         </item>
         <item>
             <title><![CDATA[AI minister warns 'likely' UK's cyber defences will be breached]]></title>
@@ -171,11 +179,11 @@
             <description><![CDATA[Judges said their decision was confined to the lawfulness of the decision, not in deciding whether or not the march should occur.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c52e9r9yr901o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c52e9r9yr901o#4</guid>
-            <pubDate>Mon, 12 Oct 2026 14:58:53 GMT</pubDate>
+            <pubDate>Mon, 12 Oct 2026 16:24:48 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ddd8/live/9e43df40-c644-11f1-b47f-e3f9cf703bc3.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Wildlife park closed for third day after tiger attack]]></title>
+            <title><![CDATA[Health and safety inquiry after fatal tiger attack]]></title>
             <description><![CDATA[Yorkshire Wildlife Park remains shut after a man was fatally attacked by a tiger on Saturday.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cv4g1d0wplz0o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cv4g1d0wplz0o#4</guid>
@@ -243,7 +251,7 @@
             <description><![CDATA[Director of cricket Rob Key believes Brydon Carse can play for England again, despite an ongoing investigation into an incident outside a Derby nightclub in August.]]></description>
             <link>https://www.bbc.co.uk/sport/cricket/articles/cwz0v3zy7mpxo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/cricket/articles/cwz0v3zy7mpxo#8</guid>
-            <pubDate>Mon, 12 Oct 2026 12:06:16 GMT</pubDate>
+            <pubDate>Mon, 12 Oct 2026 16:14:52 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/542a/live/901f4640-c62e-11f1-9a39-31b474234113.jpg"/>
         </item>
         <item>
