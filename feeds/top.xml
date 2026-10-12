@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 12 Oct 2026 16:55:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Oct 2026 17:09:38 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -56,7 +56,7 @@
         </item>
         <item>
             <title><![CDATA[Immigration agents search Democratic congresswoman Ilhan Omar's home]]></title>
-            <description><![CDATA[Omar was first elected to Congress in 2018, and is an outspoken critic of President Donald Trump. ]]></description>
+            <description><![CDATA[Omar, an outspoken Trump critic, said the search was "an attempt to target political enemies" and that she "will not be silenced".]]></description>
             <link>https://www.bbc.co.uk/news/articles/cvp8glg97393o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cvp8glg97393o#1</guid>
             <pubDate>Mon, 12 Oct 2026 16:51:44 GMT</pubDate>
