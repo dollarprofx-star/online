@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/sport/football</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 12 Oct 2026 11:16:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Oct 2026 11:45:25 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -71,14 +71,6 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e1f6/live/040fab80-c599-11f1-a64c-550be9e3c66b.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Winless and an 'easy touch' - what's happened to the Anfield fear factor?]]></title>
-            <description><![CDATA[Liverpool's struggles at Anfield continue as Iraola still awaits his first Premier League win at Anfield.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/ck5yn20wej62o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ck5yn20wej62o#0</guid>
-            <pubDate>Sun, 11 Oct 2026 19:41:17 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8da7/live/b0352800-c5a7-11f1-9f28-03371a5c8220.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Elite schedule 'not sustainable' amid 55-game seasons]]></title>
             <description><![CDATA[The Premier League may have just returned from a three-week break, but for many of its stars there was no rest at all.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cmp3gwz17qn7o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -87,12 +79,20 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82df/live/43389720-c60e-11f1-aae8-850c1751d51d.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Jota comeback helps Celtic lift gloom in strong response]]></title>
-            <description><![CDATA[Jota's comeback from long-term injury and Celtic's convincing victory over Motherwell provide positivity following the club's recent acrimony.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cqwy7nr5lry0o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqwy7nr5lry0o#0</guid>
-            <pubDate>Sun, 11 Oct 2026 16:55:21 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/75d7/live/c1c36af0-c593-11f1-9a39-31b474234113.jpg"/>
+            <title><![CDATA[Seedorf back in football as Corinthians head coach]]></title>
+            <description><![CDATA[Brazilian club Corinthians appoint Clarence Seedorf as their head coach, with the former Netherlands midfielder taking on his first coaching role since 2019.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cw62y514kpgeo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cw62y514kpgeo#0</guid>
+            <pubDate>Mon, 12 Oct 2026 07:42:53 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfd0/live/09459dd0-c61b-11f1-8c89-b96b8469b965.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Winless and an 'easy touch' - what's happened to the Anfield fear factor?]]></title>
+            <description><![CDATA[Liverpool's struggles at Anfield continue as Iraola still awaits his first Premier League win at Anfield.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/ck5yn20wej62o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ck5yn20wej62o#0</guid>
+            <pubDate>Sun, 11 Oct 2026 19:41:17 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8da7/live/b0352800-c5a7-11f1-9f28-03371a5c8220.jpg"/>
         </item>
         <item>
             <title><![CDATA['It's a bad situation' - Why Man City win creates uncertainty]]></title>
@@ -103,20 +103,28 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa47/live/76170560-c5c7-11f1-bc2e-018d645d8d21.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Jota comeback helps Celtic lift gloom in strong response]]></title>
+            <description><![CDATA[Jota's comeback from long-term injury and Celtic's convincing victory over Motherwell provide positivity following the club's recent acrimony.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cqwy7nr5lry0o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqwy7nr5lry0o#1</guid>
+            <pubDate>Sun, 11 Oct 2026 16:55:21 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/75d7/live/c1c36af0-c593-11f1-9a39-31b474234113.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Police officer hurt after Liverpool-Man City game ]]></title>
+            <description><![CDATA[Ten people were arrested amid a heightened atmosphere when the rival teams met at Anfield on Sunday.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c8x23ekvp3ywo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c8x23ekvp3ywo#1</guid>
+            <pubDate>Mon, 12 Oct 2026 11:05:29 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b0b/live/e7951c20-c623-11f1-b048-6946f232cb95.png"/>
+        </item>
+        <item>
             <title><![CDATA[Burnham to release details of Man City meetings]]></title>
             <description><![CDATA[Andy Burnham has faced criticism for comments he made in the wake of Manchester City being found guilty of all charges related to breaches of the Premier League's financial rules.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/c962y5nd273no?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c962y5nd273no#1</guid>
             <pubDate>Sun, 11 Oct 2026 18:01:13 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7513/live/9668f200-c57d-11f1-80f2-5bd1e5df7ada.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Seedorf back in football as Corinthians head coach]]></title>
-            <description><![CDATA[Brazilian club Corinthians appoint Clarence Seedorf as their head coach, with the former Netherlands midfielder taking on his first coaching role since 2019.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cw62y514kpgeo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cw62y514kpgeo#1</guid>
-            <pubDate>Mon, 12 Oct 2026 07:42:53 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfd0/live/09459dd0-c61b-11f1-8c89-b96b8469b965.jpg"/>
         </item>
         <item>
             <title><![CDATA[Who 'simply has to do better'? Liverpool v Man City player ratings]]></title>
@@ -157,14 +165,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqpvg4ez0dpno#2</guid>
             <pubDate>Mon, 12 Oct 2026 10:51:14 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f87f/live/ccd34e20-bd8b-11f1-b442-f3f672c979ff.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Elton John 'upset and disappointed' with Watford form]]></title>
-            <description><![CDATA[Former Watford owner Elton John says he is "upset and disappointed" by the club's form following their 4-0 home defeat by Burnley.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cw3dj8802lnvo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cw3dj8802lnvo#2</guid>
-            <pubDate>Sun, 11 Oct 2026 10:38:00 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b2f/live/b5ca8e90-c55c-11f1-9cae-455625013d45.jpg"/>
         </item>
         <item>
             <title><![CDATA[Hughes focused on Albania before World Cup dream]]></title>
