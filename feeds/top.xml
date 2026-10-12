@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 12 Oct 2026 09:20:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Oct 2026 09:47:06 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -75,7 +75,7 @@
             <description><![CDATA[Yorkshire Wildlife Park remains shut after a man was fatally attacked by a tiger on Saturday.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cv4g1d0wplz0o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cv4g1d0wplz0o#1</guid>
-            <pubDate>Mon, 12 Oct 2026 08:11:49 GMT</pubDate>
+            <pubDate>Mon, 12 Oct 2026 09:40:15 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a41/live/ef8cdbe0-c608-11f1-8c6a-67b23d88bdb7.jpg"/>
         </item>
         <item>
@@ -93,14 +93,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c68jz0282re9o#1</guid>
             <pubDate>Mon, 12 Oct 2026 09:13:27 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/604a/live/1a8ecb00-c613-11f1-aae8-850c1751d51d.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[AI is less regulated than milk, says Microsoft president]]></title>
-            <description><![CDATA[Brad Smith calls for global rules on AI, and says the UK is in the "best position" to lead the charge.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c6rmy7zmvx3lo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6rmy7zmvx3lo#1</guid>
-            <pubDate>Mon, 12 Oct 2026 07:47:37 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da16/live/eacee500-c610-11f1-aae8-850c1751d51d.jpg"/>
         </item>
         <item>
             <title><![CDATA[American ranchers wrestle with soaring costs - and their loyalty to Trump]]></title>
@@ -167,7 +159,7 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a584/live/517b3620-c308-11f1-bc2e-018d645d8d21.png"/>
         </item>
         <item>
-            <title><![CDATA[Indian opposition leaders to march to top court to demand election chief resign]]></title>
+            <title><![CDATA[Indian opposition leaders march to top court to demand election chief resign]]></title>
             <description><![CDATA[The march follows a chaotic weekend in Delhi which saw thousands of protesters being detained by police.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cwr5y2lgr4gdo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwr5y2lgr4gdo#4</guid>
@@ -207,14 +199,6 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf6/live/d1e71250-9509-11ee-8df3-1d2983d8814f.png"/>
         </item>
         <item>
-            <title><![CDATA[Does Zack Polanski Face A Leadership Crisis?]]></title>
-            <description><![CDATA[The BBC’s daily news podcast with episodes available Monday to Sunday at 5pm.]]></description>
-            <link>https://www.bbc.co.uk/sounds/play/p0pf3l61?at_mid=JDfA1DNlxJ&amp;at_campaign=Newscast_Does_Zack_Polanski_Face_A_Leadership_Crisis_news_rail&amp;at_medium=display_ad&amp;at_campaign_type=owned&amp;at_nation=NET&amp;at_audience_id=SS&amp;at_product=sounds&amp;at_brand=p05299nl&amp;at_ptr_name=bbc&amp;at_ptr_type=media&amp;at_format=image&amp;at_objective=consumption&amp;at_link_title=Newscast_Does_Zack_Polanski_Face_A_Leadership_Crisis_news_rail&amp;at_bbc_team=BBC&amp;at_creation=News</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0pf3l61?at_mid=JDfA1DNlxJ&amp;at_campaign=Newscast_Does_Zack_Polanski_Face_A_Leadership_Crisis_news_rail&amp;at_medium=display_ad&amp;at_campaign_type=owned&amp;at_nation=NET&amp;at_audience_id=SS&amp;at_product=sounds&amp;at_brand=p05299nl&amp;at_ptr_name=bbc&amp;at_ptr_type=media&amp;at_format=image&amp;at_objective=consumption&amp;at_link_title=Newscast_Does_Zack_Polanski_Face_A_Leadership_Crisis_news_rail&amp;at_bbc_team=BBC&amp;at_creation=News#6</guid>
-            <pubDate>Sat, 03 Oct 2026 00:00:00 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0l7jnbt.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Brad Pitt stars as a tank commander on a dangerous mission in WWII]]></title>
             <description><![CDATA[Film following a battle-hardened US tank crew taking on the enemy’s brutal rearguard action]]></description>
             <link>https://www.bbc.co.uk/iplayer/episode/m0031xrp?at_mid=IuxXst2lrL&amp;at_campaign=Fury&amp;at_medium=display_ad&amp;at_campaign_type=owned&amp;at_nation=NET&amp;at_audience_id=SS&amp;at_product=iplayer&amp;at_brand=m0031xrp&amp;at_ptr_name=bbc&amp;at_ptr_type=media&amp;at_format=image&amp;at_objective=consumption&amp;at_link_title=Fury&amp;at_bbc_team=BBC</link>
@@ -231,12 +215,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b24/live/670a89f0-c59c-11f1-9a39-31b474234113.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Smith falls as Australia build lead over South Africa - scorecard]]></title>
+            <title><![CDATA[Labuschagne falls again but Australia still on top v SA - scorecard]]></title>
             <description><![CDATA[Latest scorecard from the first Test between South Africa and Australia in Durban.]]></description>
             <link>https://www.bbc.co.uk/sport/cricket/scorecard/e-236997?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/cricket/scorecard/e-236997#8</guid>
             <pubDate>Mon, 12 Oct 2026 00:00:00 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f3b/live/5ced53b0-c61b-11f1-bc2e-018d645d8d21.jpg"/>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b1eb/live/b4a98e20-c620-11f1-bc2e-018d645d8d21.jpg"/>
         </item>
         <item>
             <title><![CDATA[DP World Tour to refuse LIV players in 2027 season]]></title>
@@ -263,7 +247,7 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e8a/live/12547d70-c601-11f1-9a39-31b474234113.png"/>
         </item>
         <item>
-            <title><![CDATA[Kartal takes top-50 scalp with Wuhan win]]></title>
+            <title><![CDATA[Fit-again Kartal takes top-50 scalp with Wuhan win]]></title>
             <description><![CDATA[Britain's Sonay Kartal continues her impressive form since returning from injury by beating Anhelina Kalinina in straight sets to reach the second round of the Wuhan Open.]]></description>
             <link>https://www.bbc.co.uk/sport/tennis/articles/c64g104ly00do?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/c64g104ly00do#8</guid>
