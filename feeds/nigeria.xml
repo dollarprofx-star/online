@@ -5,7 +5,7 @@
         <atom:link href="https://rss.punchng.com" rel="self" type="application/rss+xml" />
         <link> https://rss.punchng.com </link>
         <description> Get the latest News in Nigeria </description>
-        <lastBuildDate> Mon, 12 Oct 2026 01:54:29 +0000</lastBuildDate>
+        <lastBuildDate> Mon, 12 Oct 2026 02:09:31 +0000</lastBuildDate>
         <language> en-US </language>
         <sy:updatePeriod> minutely	</sy:updatePeriod>
         <sy:updateFrequency> 5	</sy:updateFrequency>
@@ -13,6 +13,20 @@
         <generator>https://rss.punchng.com</generator>
 
         <item>
+                        <title>Ekiti federal tech varsity resumes</title>
+                        <link>https://punchng.com/ekiti-federal-tech-varsity-resumes/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
+                        <pubDate>Mon, 12 Oct 2026 01:51:12 +0000</pubDate>
+                        <dc:creator><![CDATA[Punch Newspapers]]></dc:creator>
+                        <category><![CDATA[]]></category>
+                        <guid isPermaLink='true'>https://punchng.com/ekiti-federal-tech-varsity-resumes/?utm_source=rss.punchng.com&amp;utm_medium=web</guid>
+                        <description><![CDATA[
+
+The Federal University of Technology, Iyin-Ekiti, has announced October 12 as the resumption date for returning students for the 2026/2027 academic session
+
+Read More: https://punchng.com/ekiti-federal-tech-varsity-resumes/]]></description>
+                        <enclosure url='https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png' length='342247' type='image/png'/>
+                    </item>
+                    <item>
                         <title>Falola warns social media weakens human relationships</title>
                         <link>https://punchng.com/falola-warns-social-media-weakens-human-relationships/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
                         <pubDate>Mon, 12 Oct 2026 01:47:43 +0000</pubDate>
@@ -416,20 +430,6 @@ Read More: https://punchng.com/lagos-e-hailing-drivers-begin-indefinite-strike-o
 The Rivers State Government has sealed a 60-year-old building in Port Harcourt after part of it collapsed, injuring four people at a bar on the ground floo
 
 Read More: https://punchng.com/rivers-seals-60-year-old-building-after-collapse-injures-four/]]></description>
-                        <enclosure url='https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png' length='342247' type='image/png'/>
-                    </item>
-                    <item>
-                        <title>Three suspects in Oyo police custody over alleged robbery</title>
-                        <link>https://punchng.com/three-suspects-in-oyo-police-custody-over-alleged-robbery/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
-                        <pubDate>Mon, 12 Oct 2026 00:31:07 +0000</pubDate>
-                        <dc:creator><![CDATA[Punch Newspapers]]></dc:creator>
-                        <category><![CDATA[]]></category>
-                        <guid isPermaLink='true'>https://punchng.com/three-suspects-in-oyo-police-custody-over-alleged-robbery/?utm_source=rss.punchng.com&amp;utm_medium=web</guid>
-                        <description><![CDATA[
-
-Oyo State Police have arrested three suspected armed robbers in Ibadan following a distress call. A pistol, cartridge and motorcycle were recovered.
-
-Read More: https://punchng.com/three-suspects-in-oyo-police-custody-over-alleged-robbery/]]></description>
                         <enclosure url='https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png' length='342247' type='image/png'/>
                     </item>
                         </channel>
