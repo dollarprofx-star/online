@@ -5,7 +5,7 @@
         <atom:link href="https://rss.punchng.com" rel="self" type="application/rss+xml" />
         <link> https://rss.punchng.com </link>
         <description> Get the latest News in Nigeria </description>
-        <lastBuildDate> Mon, 12 Oct 2026 02:09:31 +0000</lastBuildDate>
+        <lastBuildDate> Mon, 12 Oct 2026 02:29:33 +0000</lastBuildDate>
         <language> en-US </language>
         <sy:updatePeriod> minutely	</sy:updatePeriod>
         <sy:updateFrequency> 5	</sy:updateFrequency>
@@ -251,6 +251,20 @@ Read More: https://punchng.com/2027-257-candidates-jostle-for-24-plateau-assembl
                         <enclosure url='https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png' length='342247' type='image/png'/>
                     </item>
                     <item>
+                        <title>Nigeria’s revolving-door budgeting</title>
+                        <link>https://punchng.com/nigerias-revolving-door-budgeting/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
+                        <pubDate>Mon, 12 Oct 2026 00:43:30 +0000</pubDate>
+                        <dc:creator><![CDATA[Punch Newspapers]]></dc:creator>
+                        <category><![CDATA[]]></category>
+                        <guid isPermaLink='true'>https://punchng.com/nigerias-revolving-door-budgeting/?utm_source=rss.punchng.com&amp;utm_medium=web</guid>
+                        <description><![CDATA[
+
+An editorial on the Nigerian government&#8217;s repeated extension of the 2025 budget, which creates overlapping cycles and undermines fiscal accountability.
+
+Read More: https://punchng.com/nigerias-revolving-door-budgeting/]]></description>
+                        <enclosure url='https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png' length='342247' type='image/png'/>
+                    </item>
+                    <item>
                         <title>Pension row: Military retirees question new payment formula</title>
                         <link>https://punchng.com/pension-row-military-retirees-question-new-payment-formula/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
                         <pubDate>Mon, 12 Oct 2026 00:43:21 +0000</pubDate>
@@ -416,20 +430,6 @@ Read More: https://punchng.com/nba-seeks-stronger-enforcement-of-child-rights-ac
 E-hailing drivers in Lagos State have begun an indefinite strike over concerns about fare structures, commissions, deductions and their general welfare.
 
 Read More: https://punchng.com/lagos-e-hailing-drivers-begin-indefinite-strike-over-fares/]]></description>
-                        <enclosure url='https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png' length='342247' type='image/png'/>
-                    </item>
-                    <item>
-                        <title>Rivers seals 60-year-old building after collapse injures four</title>
-                        <link>https://punchng.com/rivers-seals-60-year-old-building-after-collapse-injures-four/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
-                        <pubDate>Mon, 12 Oct 2026 00:32:09 +0000</pubDate>
-                        <dc:creator><![CDATA[Punch Newspapers]]></dc:creator>
-                        <category><![CDATA[]]></category>
-                        <guid isPermaLink='true'>https://punchng.com/rivers-seals-60-year-old-building-after-collapse-injures-four/?utm_source=rss.punchng.com&amp;utm_medium=web</guid>
-                        <description><![CDATA[
-
-The Rivers State Government has sealed a 60-year-old building in Port Harcourt after part of it collapsed, injuring four people at a bar on the ground floo
-
-Read More: https://punchng.com/rivers-seals-60-year-old-building-after-collapse-injures-four/]]></description>
                         <enclosure url='https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png' length='342247' type='image/png'/>
                     </item>
                         </channel>
