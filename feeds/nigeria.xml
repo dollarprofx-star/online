@@ -5,7 +5,7 @@
         <atom:link href="https://rss.punchng.com" rel="self" type="application/rss+xml" />
         <link> https://rss.punchng.com </link>
         <description> Get the latest News in Nigeria </description>
-        <lastBuildDate> Mon, 12 Oct 2026 10:56:05 +0000</lastBuildDate>
+        <lastBuildDate> Mon, 12 Oct 2026 11:16:07 +0000</lastBuildDate>
         <language> en-US </language>
         <sy:updatePeriod> minutely	</sy:updatePeriod>
         <sy:updateFrequency> 5	</sy:updateFrequency>
@@ -13,6 +13,20 @@
         <generator>https://rss.punchng.com</generator>
 
         <item>
+                        <title>Man extradited to UK over killing of Nigerian, another</title>
+                        <link>https://punchng.com/man-extradited-to-uk-over-killing-of-nigerian-another/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
+                        <pubDate>Mon, 12 Oct 2026 11:56:38 +0000</pubDate>
+                        <dc:creator><![CDATA[Punch Newspapers]]></dc:creator>
+                        <category><![CDATA[]]></category>
+                        <guid isPermaLink='true'>https://punchng.com/man-extradited-to-uk-over-killing-of-nigerian-another/?utm_source=rss.punchng.com&amp;utm_medium=web</guid>
+                        <description><![CDATA[
+
+A 36-year-old man has been extradited from Turkey to the UK on suspicion of murdering Nigerian Abayomi Ajose and another man at a party in Manchester in 20
+
+Read More: https://punchng.com/man-extradited-to-uk-over-killing-of-nigerian-another/]]></description>
+                        <enclosure url='https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png' length='342247' type='image/png'/>
+                    </item>
+                    <item>
                         <title>Police arrest four over sexual offences in Bauchi</title>
                         <link>https://punchng.com/police-arrest-four-over-sexual-offences-in-bauchi/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
                         <pubDate>Mon, 12 Oct 2026 11:50:51 +0000</pubDate>
@@ -416,20 +430,6 @@ Read More: https://punchng.com/full-list-oau-ghana-varsity-top-2026-west-african
 Tribargain has launched a new digital commerce platform in Nigeria, combining e-commerce, trade-by-barter, and auction services in a single marketplace.
 
 Read More: https://punchng.com/tribargain-unveils-a-new-digital-commerce-platform-for-the-nigerian-market/]]></description>
-                        <enclosure url='https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png' length='342247' type='image/png'/>
-                    </item>
-                    <item>
-                        <title>FRSC mourns ex-corps marshal Biu</title>
-                        <link>https://punchng.com/frsc-mourns-ex-corps-marshal-biu/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
-                        <pubDate>Mon, 12 Oct 2026 07:26:09 +0000</pubDate>
-                        <dc:creator><![CDATA[Punch Newspapers]]></dc:creator>
-                        <category><![CDATA[]]></category>
-                        <guid isPermaLink='true'>https://punchng.com/frsc-mourns-ex-corps-marshal-biu/?utm_source=rss.punchng.com&amp;utm_medium=web</guid>
-                        <description><![CDATA[
-
-The Federal Road Safety Corps has expressed sorrow over the death of its former Corps Marshal, Dauda Biu, describing his passing as a painful loss.
-
-Read More: https://punchng.com/frsc-mourns-ex-corps-marshal-biu/]]></description>
                         <enclosure url='https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png' length='342247' type='image/png'/>
                     </item>
                         </channel>
