@@ -5,7 +5,7 @@
         <atom:link href="https://rss.punchng.com" rel="self" type="application/rss+xml" />
         <link> https://rss.punchng.com </link>
         <description> Get the latest News in Nigeria </description>
-        <lastBuildDate> Mon, 12 Oct 2026 08:55:42 +0000</lastBuildDate>
+        <lastBuildDate> Mon, 12 Oct 2026 09:15:45 +0000</lastBuildDate>
         <language> en-US </language>
         <sy:updatePeriod> minutely	</sy:updatePeriod>
         <sy:updateFrequency> 5	</sy:updateFrequency>
@@ -13,6 +13,20 @@
         <generator>https://rss.punchng.com</generator>
 
         <item>
+                        <title>US warns of fresh attacks on Saudi airports</title>
+                        <link>https://punchng.com/us-warns-of-fresh-attacks-on-saudi-airports/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
+                        <pubDate>Mon, 12 Oct 2026 10:11:19 +0000</pubDate>
+                        <dc:creator><![CDATA[Punch Newspapers]]></dc:creator>
+                        <category><![CDATA[]]></category>
+                        <guid isPermaLink='true'>https://punchng.com/us-warns-of-fresh-attacks-on-saudi-airports/?utm_source=rss.punchng.com&amp;utm_medium=web</guid>
+                        <description><![CDATA[
+
+The US Mission in Saudi Arabia has warned of fresh attacks on airports in Riyadh and Dammam, urging travellers to exercise extreme caution.
+
+Read More: https://punchng.com/us-warns-of-fresh-attacks-on-saudi-airports/]]></description>
+                        <enclosure url='https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png' length='342247' type='image/png'/>
+                    </item>
+                    <item>
                         <title>Afenifere faction demands N400 petrol, minimum wage hike</title>
                         <link>https://punchng.com/afenifere-faction-demands-n400-petrol-minimum-wage-hike/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
                         <pubDate>Mon, 12 Oct 2026 09:49:54 +0000</pubDate>
@@ -416,20 +430,6 @@ Read More: https://punchng.com/ekiti-federal-tech-varsity-resumes/]]></descripti
 Professor Toyin Falola has warned that social media creates an illusion of connection, weakening the meaningful relationships needed in times of difficulty
 
 Read More: https://punchng.com/falola-warns-social-media-weakens-human-relationships/]]></description>
-                        <enclosure url='https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png' length='342247' type='image/png'/>
-                    </item>
-                    <item>
-                        <title>Stocks rise as oil prices tumble after Trump hails &#8216;energy ceasefire&#8217;</title>
-                        <link>https://punchng.com/stocks-rise-as-oil-prices-tumble-after-trump-hails-energy-ceasefire/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
-                        <pubDate>Mon, 12 Oct 2026 05:38:34 +0000</pubDate>
-                        <dc:creator><![CDATA[Punch Newspapers]]></dc:creator>
-                        <category><![CDATA[]]></category>
-                        <guid isPermaLink='true'>https://punchng.com/stocks-rise-as-oil-prices-tumble-after-trump-hails-energy-ceasefire/?utm_source=rss.punchng.com&amp;utm_medium=web</guid>
-                        <description><![CDATA[
-
-Stock markets rose and oil prices tumbled after Donald Trump announced an &#8216;energy ceasefire&#8217; between Russia and Ukraine, offsetting Houthi attacks on Saudi
-
-Read More: https://punchng.com/stocks-rise-as-oil-prices-tumble-after-trump-hails-energy-ceasefire/]]></description>
                         <enclosure url='https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png' length='342247' type='image/png'/>
                     </item>
                         </channel>
