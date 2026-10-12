@@ -5,7 +5,7 @@
         <atom:link href="https://rss.punchng.com" rel="self" type="application/rss+xml" />
         <link> https://rss.punchng.com </link>
         <description> Get the latest News in Nigeria </description>
-        <lastBuildDate> Mon, 12 Oct 2026 20:07:46 +0000</lastBuildDate>
+        <lastBuildDate> Mon, 12 Oct 2026 20:27:51 +0000</lastBuildDate>
         <language> en-US </language>
         <sy:updatePeriod> minutely	</sy:updatePeriod>
         <sy:updateFrequency> 5	</sy:updateFrequency>
@@ -13,6 +13,20 @@
         <generator>https://rss.punchng.com</generator>
 
         <item>
+                        <title>US actress Selma Blair arrested after in-flight altercation</title>
+                        <link>https://punchng.com/us-actress-selma-blair-arrested-after-in-flight-altercation/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
+                        <pubDate>Mon, 12 Oct 2026 21:18:20 +0000</pubDate>
+                        <dc:creator><![CDATA[Punch Newspapers]]></dc:creator>
+                        <category><![CDATA[]]></category>
+                        <guid isPermaLink='true'>https://punchng.com/us-actress-selma-blair-arrested-after-in-flight-altercation/?utm_source=rss.punchng.com&amp;utm_medium=web</guid>
+                        <description><![CDATA[
+
+US actress Selma Blair was arrested at JFK Airport after an alleged in-flight altercation on a Delta flight that left two cabin crew members injured.
+
+Read More: https://punchng.com/us-actress-selma-blair-arrested-after-in-flight-altercation/]]></description>
+                        <enclosure url='https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png' length='342247' type='image/png'/>
+                    </item>
+                    <item>
                         <title>Kwara gov gives police 25 hilux vehicles</title>
                         <link>https://punchng.com/kwara-gov-gives-police-25-hilux-vehicles/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
                         <pubDate>Mon, 12 Oct 2026 21:06:59 +0000</pubDate>
@@ -416,20 +430,6 @@ Read More: https://punchng.com/ghana-police-arrest-eight-for-beating-21-year-old
 The Federal Government has urged state governments to align their budgets with development plans to improve basic education and primary healthcare services
 
 Read More: https://punchng.com/fg-urges-states-to-align-budgets-with-education-health-care-priorities/]]></description>
-                        <enclosure url='https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png' length='342247' type='image/png'/>
-                    </item>
-                    <item>
-                        <title>Court dismisses Aisha Achimugu’s N10bn suit against EFCC</title>
-                        <link>https://punchng.com/court-dismisses-aisha-achimugus-n10bn-suit-against-efcc/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
-                        <pubDate>Mon, 12 Oct 2026 18:14:54 +0000</pubDate>
-                        <dc:creator><![CDATA[Punch Newspapers]]></dc:creator>
-                        <category><![CDATA[]]></category>
-                        <guid isPermaLink='true'>https://punchng.com/court-dismisses-aisha-achimugus-n10bn-suit-against-efcc/?utm_source=rss.punchng.com&amp;utm_medium=web</guid>
-                        <description><![CDATA[
-
-A Federal High Court in Abuja has dismissed the N10bn fundamental rights suit filed by businesswoman Aisha Achimugu against the EFCC over a property search
-
-Read More: https://punchng.com/court-dismisses-aisha-achimugus-n10bn-suit-against-efcc/]]></description>
                         <enclosure url='https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png' length='342247' type='image/png'/>
                     </item>
                         </channel>
