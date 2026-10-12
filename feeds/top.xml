@@ -9,19 +9,11 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 12 Oct 2026 14:05:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Oct 2026 14:35:06 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
-        <item>
-            <title><![CDATA[Deloitte helped in falsifying documents to evade tax on Abramovich’s wealth, BBC finds]]></title>
-            <description><![CDATA[Backdated paperwork also made the Russian oligarch’s yachts and mansions disappear from accounts, investigation finds.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c64g1l5389kvo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c64g1l5389kvo#1</guid>
-            <pubDate>Mon, 12 Oct 2026 05:00:52 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/abc3/live/b06f9880-c621-11f1-bc2e-018d645d8d21.jpg"/>
-        </item>
         <item>
             <title><![CDATA[Saudi minister vows 'serious response' to Houthi attacks on airports]]></title>
             <description><![CDATA[It comes after the armed group hit Riyadh's international airport and another facility, killing 13 people, in a significant escalation.]]></description>
@@ -31,7 +23,7 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b82e/live/50a18f00-c629-11f1-a509-ab6554d795a2.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Who are the Houthis, and why are they so hard to fight?]]></title>
+            <title><![CDATA[Why is it so hard to fight the Houthis?]]></title>
             <description><![CDATA[Security correspondent Frank Gardner explains how the Iran-backed Houthis' precision strikes and guerrilla tactics have made it difficult for Saudi forces to gain the upper hand.]]></description>
             <link>https://www.bbc.co.uk/news/videos/cmy56nzd6y69o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cmy56nzd6y69o#1</guid>
@@ -39,11 +31,19 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/242f/live/3aabb7c0-c633-11f1-a64c-550be9e3c66b.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Deloitte helped in falsifying documents to evade tax on Abramovich’s wealth, BBC finds]]></title>
+            <description><![CDATA[Backdated paperwork also made the Russian oligarch’s yachts and mansions disappear from accounts, investigation finds.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c64g1l5389kvo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c64g1l5389kvo#1</guid>
+            <pubDate>Mon, 12 Oct 2026 05:00:52 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/abc3/live/b06f9880-c621-11f1-bc2e-018d645d8d21.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Immigration agents search Democratic congresswoman Ilhan Omar's home]]></title>
             <description><![CDATA[Omar was first elected to Congress in 2018, and is an outspoken critic of President Donald Trump. ]]></description>
             <link>https://www.bbc.co.uk/news/articles/cvp8glg97393o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cvp8glg97393o#1</guid>
-            <pubDate>Mon, 12 Oct 2026 13:39:42 GMT</pubDate>
+            <pubDate>Mon, 12 Oct 2026 14:21:12 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1701/live/82079700-c643-11f1-a64c-550be9e3c66b.jpg"/>
         </item>
         <item>
@@ -63,12 +63,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae81/live/5328ae60-11e6-11ef-a40c-a15b02a51ff9.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Tom Cruise film Digger could lose $245m at box office, analysts say]]></title>
+            <title><![CDATA[Tom Cruise film Digger forecast to become one of Hollywood's biggest flops]]></title>
             <description><![CDATA[The film dropped by around 60% in its second weekend, and could become one of Hollywood's biggest flops.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cke8re5v1pgmo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cke8re5v1pgmo#1</guid>
-            <pubDate>Mon, 12 Oct 2026 11:29:18 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f0b2/live/e4909ea0-c637-11f1-bc2e-018d645d8d21.jpg"/>
+            <pubDate>Mon, 12 Oct 2026 14:11:27 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ebd8/live/4d15b810-c648-11f1-a64c-550be9e3c66b.jpg"/>
         </item>
         <item>
             <title><![CDATA[Schoolboy knife attacker texted 'sorry' to mum]]></title>
@@ -84,7 +84,7 @@
             <link>https://www.bbc.co.uk/news/articles/cr78pe09y05xo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cr78pe09y05xo#1</guid>
             <pubDate>Mon, 12 Oct 2026 13:06:18 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02d7/live/ff638950-c62c-11f1-af2e-773141c7e84a.jpg"/>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd68/live/6a2ab470-c646-11f1-bc2e-018d645d8d21.jpg"/>
         </item>
         <item>
             <title><![CDATA[US Homeland Security chief defends plan to livestream execution by firing squad]]></title>
@@ -111,12 +111,36 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee18/live/7d514870-c623-11f1-a64c-550be9e3c66b.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Halloween 'bigger than Christmas', say businesses]]></title>
+            <description><![CDATA[From scare parks to pumpkin patches, Halloween is driving huge crowds and spending.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cqrky4z58nr5o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqrky4z58nr5o#2</guid>
+            <pubDate>Mon, 12 Oct 2026 05:14:42 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2fa0/live/4fb56930-c3d7-11f1-95ba-dba767ffba7e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Wildlife park fatal tiger attack - what we know so far]]></title>
+            <description><![CDATA[A recap on what we know about the attack which left a man dead at Yorkshire Wildlife Park.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c9146j15gnggo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c9146j15gnggo#2</guid>
+            <pubDate>Mon, 12 Oct 2026 12:45:30 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/724c/live/745b4a10-c563-11f1-bd33-db1f7eaf2b30.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[How to avoid getting stung if you miss credit card payments]]></title>
             <description><![CDATA[People are increasingly falling behind on credit card repayments, so here's the best way to get debt advice.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c84g1xz1l9ddo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c84g1xz1l9ddo#2</guid>
             <pubDate>Mon, 12 Oct 2026 09:11:46 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a441/live/c56267d0-c31b-11f1-bd97-fbe5a3482cde.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[What happens to sports kit that never gets worn?]]></title>
+            <description><![CDATA[A look at kit wastage in elite sport and what is being done to reduce it.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/articles/cq0ldgz9x142o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/olympics/articles/cq0ldgz9x142o#2</guid>
+            <pubDate>Mon, 12 Oct 2026 05:18:31 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb1e/live/d5904670-c3c2-11f1-8fc5-335d62f6730b.jpg"/>
         </item>
         <item>
             <title><![CDATA[Childhood cancer symptoms can be easily missed - here's what to look out for]]></title>
@@ -127,12 +151,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c63c/live/d8be8750-c604-11f1-9a39-31b474234113.jpg"/>
         </item>
         <item>
-            <title><![CDATA[How South Africa Test shows why teams still can't agree on how to play in bad light]]></title>
-            <description><![CDATA[More than 60 overs have been lost from the first Test between South Africa and Australia despite a change by the ICC. Has cricket missed a trick?]]></description>
-            <link>https://www.bbc.co.uk/sport/cricket/articles/c623d4pzy4n2o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/cricket/articles/c623d4pzy4n2o#2</guid>
-            <pubDate>Mon, 12 Oct 2026 05:19:46 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d50/live/26ccc780-c61a-11f1-bc2e-018d645d8d21.jpg"/>
+            <title><![CDATA[Garvaghy Road residents fail in bid to challenge Drumcree decision]]></title>
+            <description><![CDATA[Judges said their decision was confined to the lawfulness of the decision, not in deciding whether or not the march should occur.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c52e9r9yr901o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c52e9r9yr901o#4</guid>
+            <pubDate>Mon, 12 Oct 2026 14:34:09 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ddd8/live/9e43df40-c644-11f1-b47f-e3f9cf703bc3.jpg"/>
         </item>
         <item>
             <title><![CDATA[Wildlife park closed for third day after tiger attack]]></title>
@@ -156,15 +180,7 @@
             <link>https://www.bbc.co.uk/news/articles/cmqxn0lw25r3o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmqxn0lw25r3o#4</guid>
             <pubDate>Mon, 12 Oct 2026 12:44:38 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/014e/live/0c686930-c63d-11f1-b99d-0127a94fa1d0.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sinn Féin ministers facing no-confidence vote after Drumcree dispute]]></title>
-            <description><![CDATA[The motion against Michelle O'Neill and three other Sinn Féin ministers will be debated after receiving the backing of unionist parties last week. ]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c68jz0282re9o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c68jz0282re9o#4</guid>
-            <pubDate>Mon, 12 Oct 2026 13:06:59 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/604a/live/1a8ecb00-c613-11f1-aae8-850c1751d51d.jpg"/>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc7b/live/3a15e5c0-c646-11f1-9a39-31b474234113.jpg"/>
         </item>
         <item>
             <title><![CDATA[Daniel Kinahan's lawyers to apply for bail in due course, court hears]]></title>
@@ -187,7 +203,7 @@
             <description><![CDATA[A 14-year-old was detained after the middle-school principal and teacher were injured.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cm2keg7910gvo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm2keg7910gvo#4</guid>
-            <pubDate>Mon, 12 Oct 2026 12:18:45 GMT</pubDate>
+            <pubDate>Mon, 12 Oct 2026 14:13:16 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c65c/live/757924d0-c621-11f1-b048-6946f232cb95.jpg"/>
         </item>
         <item>
@@ -199,6 +215,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf6/live/d1e71250-9509-11ee-8df3-1d2983d8814f.png"/>
         </item>
         <item>
+            <title><![CDATA[Hincapie and Zubimendi injured in post-match training session]]></title>
+            <description><![CDATA[Arsenal manager Mikel Arteta says it is "far from ideal" that Piero Hincapie and Martin Zubimendi were injured in a post-match training session.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cmq5nzn8ww98o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmq5nzn8ww98o#8</guid>
+            <pubDate>Mon, 12 Oct 2026 14:22:24 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a42/live/d8cea790-c63e-11f1-abff-0d918239b2e3.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Key suggests Carse can return as England reveal contract list]]></title>
             <description><![CDATA[Director of cricket Rob Key believes Brydon Carse can play for England again, despite an ongoing investigation into an incident outside a Derby nightclub in August.]]></description>
             <link>https://www.bbc.co.uk/sport/cricket/articles/cwz0v3zy7mpxo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -207,19 +231,19 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/542a/live/901f4640-c62e-11f1-9a39-31b474234113.jpg"/>
         </item>
         <item>
-            <title><![CDATA[South Africa face fight to save Test after Australia declare - scorecard]]></title>
+            <title><![CDATA[Hazlewood strikes as South Africa try to deny Australia - scorecard]]></title>
             <description><![CDATA[Latest scorecard from the first Test between South Africa and Australia in Durban.]]></description>
             <link>https://www.bbc.co.uk/sport/cricket/scorecard/e-236997?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/cricket/scorecard/e-236997#8</guid>
             <pubDate>Mon, 12 Oct 2026 00:00:00 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f45/live/a43523d0-c62d-11f1-9a39-31b474234113.jpg"/>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c54/live/71886d60-c647-11f1-a64c-550be9e3c66b.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Zverev secures number one ranking as Alcaraz loses]]></title>
-            <description><![CDATA[Alexander Zverev is guaranteed to finish his transformational 2026 season as the world number one after Carlos Alcaraz suffers a surprise defeat in Shanghai.]]></description>
+            <title><![CDATA[Zverev secures year-end number one ranking as Alcaraz loses]]></title>
+            <description><![CDATA[Alexander Zverev is guaranteed to finish his 2026 season as the world number one after Carlos Alcaraz suffers a surprise defeat in Shanghai.]]></description>
             <link>https://www.bbc.co.uk/sport/tennis/articles/cw3dj8jr8xj2o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/cw3dj8jr8xj2o#8</guid>
-            <pubDate>Mon, 12 Oct 2026 13:57:58 GMT</pubDate>
+            <pubDate>Mon, 12 Oct 2026 14:30:28 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8117/live/83df3a00-c63f-11f1-abff-0d918239b2e3.jpg"/>
         </item>
         <item>
@@ -231,14 +255,6 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a725/live/34b5c0f0-c4d9-11f1-9a39-31b474234113.jpg"/>
         </item>
         <item>
-            <title><![CDATA[DP World Tour to refuse LIV players in 2027 season]]></title>
-            <description><![CDATA[The DP World Tour will not allow LIV Golf players to compete at its events in the 2027 season.]]></description>
-            <link>https://www.bbc.co.uk/sport/golf/articles/cmz7xvpgdz4yo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/golf/articles/cmz7xvpgdz4yo#8</guid>
-            <pubDate>Mon, 12 Oct 2026 08:30:48 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d5ca/live/332d9410-c5ba-11f1-a3d7-4f09811ef5f5.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Women's billion-dollar boom leaves players behind, says Fifpro]]></title>
             <description><![CDATA[Women's football is on course to become a billion-dollar industry, but many professional players are still earning low wages, working on insecure contracts and experiencing rising psychological stress, a Fifpro survey indicates.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cmd7qn1g0xrxo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -247,12 +263,12 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/779a/live/b7058b10-c616-11f1-bc2e-018d645d8d21.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Peterborough deny making illegal approach for Savage]]></title>
-            <description><![CDATA[Darragh MacAnthony denies claims by Forest Green owner Dale Vince that Peterborough made an illegal approach for manager Robbie Savage.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cr93zn4kq0wjo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cr93zn4kq0wjo#8</guid>
-            <pubDate>Mon, 12 Oct 2026 10:20:21 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f32/live/479dcb60-c621-11f1-b048-6946f232cb95.jpg"/>
+            <title><![CDATA[DP World Tour to refuse LIV players in 2027 season]]></title>
+            <description><![CDATA[The DP World Tour will not allow LIV Golf players to compete at its events in the 2027 season.]]></description>
+            <link>https://www.bbc.co.uk/sport/golf/articles/cmz7xvpgdz4yo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/golf/articles/cmz7xvpgdz4yo#8</guid>
+            <pubDate>Mon, 12 Oct 2026 08:30:48 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d5ca/live/332d9410-c5ba-11f1-a3d7-4f09811ef5f5.jpg"/>
         </item>
     </channel>
 </rss>
