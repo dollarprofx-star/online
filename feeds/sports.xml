@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/sport/football</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 12 Oct 2026 21:12:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Oct 2026 21:30:21 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -567,6 +567,14 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f5a/live/5836b140-c59e-11f1-8caf-cb711a6adf3a.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Moyes may offer Celtic solution next summer - gossip]]></title>
+            <description><![CDATA[Could experienced Premier League manager end up at Celtic, where his professional career started? ]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cqde8lpp3dx0o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqde8lpp3dx0o#17</guid>
+            <pubDate>Mon, 12 Oct 2026 07:33:17 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f557/live/c0c14750-c60e-11f1-bc2e-018d645d8d21.png"/>
+        </item>
+        <item>
             <title><![CDATA[Jota comeback helps Celtic lift gloom in strong response]]></title>
             <description><![CDATA[Jota's comeback from long-term injury and Celtic's convincing victory over Motherwell provide positivity following the club's recent acrimony.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cqwy7nr5lry0o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -581,14 +589,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/videos/cq3dj8yv23eeo#17</guid>
             <pubDate>Mon, 12 Oct 2026 07:02:42 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ee0/live/2c974600-c60a-11f1-bc2e-018d645d8d21.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Podcast: Naderi's hot streak & Celtic bounce back]]></title>
-            <description><![CDATA[Rangers and Celtic win while Hearts continue to impress.]]></description>
-            <link>https://www.bbc.co.uk/sounds/play/p0pg61t7?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0pg61t7#17</guid>
-            <pubDate>Mon, 12 Oct 2026 07:00:00 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0pg61vq.jpg"/>
         </item>
         <item>
             <title><![CDATA[Do Lionesses lack ruthlessness in front of goal?]]></title>
