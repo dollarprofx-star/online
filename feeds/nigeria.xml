@@ -5,7 +5,7 @@
         <atom:link href="https://rss.punchng.com" rel="self" type="application/rss+xml" />
         <link> https://rss.punchng.com </link>
         <description> Get the latest News in Nigeria </description>
-        <lastBuildDate> Tue, 13 Oct 2026 15:56:28 +0000</lastBuildDate>
+        <lastBuildDate> Tue, 13 Oct 2026 16:16:32 +0000</lastBuildDate>
         <language> en-US </language>
         <sy:updatePeriod> minutely	</sy:updatePeriod>
         <sy:updateFrequency> 5	</sy:updateFrequency>
@@ -13,6 +13,20 @@
         <generator>https://rss.punchng.com</generator>
 
         <item>
+                        <title>One injured as fire destroys bungalow in Lagos</title>
+                        <link>https://punchng.com/one-injured-as-fire-destroys-bungalow-in-lagos/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
+                        <pubDate>Tue, 13 Oct 2026 17:03:40 +0000</pubDate>
+                        <dc:creator><![CDATA[Punch Newspapers]]></dc:creator>
+                        <category><![CDATA[]]></category>
+                        <guid isPermaLink='true'>https://punchng.com/one-injured-as-fire-destroys-bungalow-in-lagos/?utm_source=rss.punchng.com&amp;utm_medium=web</guid>
+                        <description><![CDATA[
+
+One man was injured while rescuing a 75-year-old from a fire that destroyed an eight-room bungalow on Onitire Road, Itire, Lagos State.
+
+Read More: https://punchng.com/one-injured-as-fire-destroys-bungalow-in-lagos/]]></description>
+                        <enclosure url='https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png' length='342247' type='image/png'/>
+                    </item>
+                    <item>
                         <title>Diphtheria: APC campaign questions Oyo’s N9.8bn immunisation funds</title>
                         <link>https://punchng.com/diphtheria-apc-campaign-questions-oyos-n9-8bn-immunisation-funds/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
                         <pubDate>Tue, 13 Oct 2026 16:53:57 +0000</pubDate>
@@ -416,20 +430,6 @@ Read More: https://punchng.com/naf-sets-up-12-member-board-to-probe-ondo-air-cra
 President Bola Tinubu has transmitted two bills to the Senate seeking to overhaul the NDLEA and expand the investigative powers of the NSIB.
 
 Read More: https://punchng.com/tinubu-transmits-ndlea-nsib-amendment-bills-to-senate/]]></description>
-                        <enclosure url='https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png' length='342247' type='image/png'/>
-                    </item>
-                    <item>
-                        <title>APC, SUBEB celebrate Ekiti First Lady&#8217;s promotion to professor</title>
-                        <link>https://punchng.com/apc-subeb-celebrate-ekiti-first-ladys-promotion-to-professor/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
-                        <pubDate>Tue, 13 Oct 2026 14:07:44 +0000</pubDate>
-                        <dc:creator><![CDATA[Punch Newspapers]]></dc:creator>
-                        <category><![CDATA[]]></category>
-                        <guid isPermaLink='true'>https://punchng.com/apc-subeb-celebrate-ekiti-first-ladys-promotion-to-professor/?utm_source=rss.punchng.com&amp;utm_medium=web</guid>
-                        <description><![CDATA[
-
-The APC in Ekiti and the State Universal Basic Education Board have congratulated the governor&#8217;s wife, Olayemi Oyebanji, on her promotion to professor.
-
-Read More: https://punchng.com/apc-subeb-celebrate-ekiti-first-ladys-promotion-to-professor/]]></description>
                         <enclosure url='https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png' length='342247' type='image/png'/>
                     </item>
                         </channel>
