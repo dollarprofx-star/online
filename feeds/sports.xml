@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/sport/football</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 13 Oct 2026 09:44:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Oct 2026 10:01:33 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -23,14 +23,6 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c146/live/274c5090-c642-11f1-abff-0d918239b2e3.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Coventry announce themselves back in the big time]]></title>
-            <description><![CDATA[Coventry climb out of the relegation zone after ending their 25-year wait for a top-flight goal and victory in front of their own fans.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cw78p7l7rp30o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cw78p7l7rp30o#0</guid>
-            <pubDate>Mon, 12 Oct 2026 22:34:32 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3bb/live/75fce310-c68a-11f1-a387-7d6d38bf2d79.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Is Man Utd's Fernandes issue a symptom or reason for their form?]]></title>
             <description><![CDATA[Manchester United skipper Bruno Fernandes is yet to reach the highs of last season - is it because of his side's poor start or the reason for it?]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cr4g10nz0593o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -39,12 +31,28 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ba7/live/4796ffe0-c669-11f1-8b8f-ddd45afdc2fc.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Coventry announce themselves back in the big time]]></title>
+            <description><![CDATA[Coventry climb out of the relegation zone after ending their 25-year wait for a top-flight goal and victory in front of their own fans.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cw78p7l7rp30o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cw78p7l7rp30o#0</guid>
+            <pubDate>Mon, 12 Oct 2026 22:34:32 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3bb/live/75fce310-c68a-11f1-a387-7d6d38bf2d79.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[The star is Luis Enrique - inside the plans to keep PSG at the top]]></title>
             <description><![CDATA[As Luis Enrique bids to guide PSG to a third successive Champions League triumph, Guillem Balague looks at how the coach keeps his side at the top.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/c6kglnzvznn0o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6kglnzvznn0o#0</guid>
             <pubDate>Tue, 13 Oct 2026 06:34:33 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0171/live/1b756630-c62e-11f1-af2e-773141c7e84a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ronaldo scores after match delayed by missile alert]]></title>
+            <description><![CDATA[Cristiano Ronaldo scores as Al-Nassr win an AFC Champions League match which is delayed by an hour because of a missile alert in Riyadh.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/c6kgq5j5d7qro?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6kgq5j5d7qro#0</guid>
+            <pubDate>Tue, 13 Oct 2026 09:23:28 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/35fa/live/264b2210-c6e3-11f1-bf38-57dc5cd42af2.jpg"/>
         </item>
         <item>
             <title><![CDATA[Coventry thrash Newcastle to claim first home win of season]]></title>
@@ -61,14 +69,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cme36q1gnpnlo#0</guid>
             <pubDate>Mon, 12 Oct 2026 22:25:57 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83ad/live/75a67e50-c68d-11f1-b789-b92a80d9185b.png"/>
-        </item>
-        <item>
-            <title><![CDATA[Ronaldo scores after match delayed by missile alert]]></title>
-            <description><![CDATA[Cristiano Ronaldo scores as Al-Nassr win an AFC Champions League match which is delayed by an hour because of a missile alert in Riyadh.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/c6kgq5j5d7qro?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6kgq5j5d7qro#0</guid>
-            <pubDate>Tue, 13 Oct 2026 09:23:28 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/35fa/live/264b2210-c6e3-11f1-bf38-57dc5cd42af2.jpg"/>
         </item>
         <item>
             <title><![CDATA[Former Real Madrid captain Carvajal joins Getafe ]]></title>
