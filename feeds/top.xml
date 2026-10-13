@@ -9,17 +9,17 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 13 Oct 2026 09:16:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Oct 2026 09:44:27 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
-            <title><![CDATA[UK growth forecast upgraded but energy prices and rates to hit in 2027]]></title>
+            <title><![CDATA[UK growth forecast upgraded but higher energy prices to hit economy next year]]></title>
             <description><![CDATA[The prediction from the IMF comes as final preparations are being made for the first Budget under Prime Minister Andy Burnham.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cmglw0r21zexo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmglw0r21zexo#1</guid>
-            <pubDate>Tue, 13 Oct 2026 07:33:57 GMT</pubDate>
+            <pubDate>Tue, 13 Oct 2026 09:38:54 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a5e/live/c20b7a80-c6d2-11f1-9a39-31b474234113.jpg"/>
         </item>
         <item>
@@ -87,28 +87,28 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5cf5/live/5a237390-c642-11f1-abff-0d918239b2e3.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Abramovich's close associate misled UK court in £1bn oil-fields case, documents suggest]]></title>
-            <description><![CDATA[Former Chelsea FC director, Eugene Tenenbaum, helped to manage the oligarch’s wealth. ]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cw4g1e4vpxddo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cw4g1e4vpxddo#1</guid>
-            <pubDate>Mon, 12 Oct 2026 18:36:34 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fac6/live/142bf230-c625-11f1-bc2e-018d645d8d21.png"/>
+            <title><![CDATA[Ship sinks in new drone attack off Bulgaria, PM summons Russian ambassador]]></title>
+            <description><![CDATA[Bulgaria's prime minister says two merchant ships were hit by drones and he suspects Russia was behind the attacks.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cmn06w5x9g25o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmn06w5x9g25o#1</guid>
+            <pubDate>Tue, 13 Oct 2026 08:52:48 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c339/live/811bb020-c6e2-11f1-bc2e-018d645d8d21.jpg"/>
         </item>
         <item>
-            <title><![CDATA[NHS staff get 'landmark' payout over nitrous oxide exposure]]></title>
-            <description><![CDATA[The settlement follows the largest group legal action brought by midwives in the UK, says union.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c54g1071n0ygo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c54g1071n0ygo#1</guid>
-            <pubDate>Tue, 13 Oct 2026 00:22:45 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4db5/live/e1b02f30-c6e0-11f1-bf38-57dc5cd42af2.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Cut screen time in classrooms to avoid long-term health issues, government urged]]></title>
+            <title><![CDATA[Cut screen time in classrooms to avoid long-term health issues, clinicians urge]]></title>
             <description><![CDATA[A group of clinicians warns technology use in English schools is driving a rise in health problems like short-sightedness.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cq4g18prn4l4o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cq4g18prn4l4o#1</guid>
-            <pubDate>Tue, 13 Oct 2026 08:22:54 GMT</pubDate>
+            <pubDate>Tue, 13 Oct 2026 09:35:43 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e8b/live/83990bd0-c698-11f1-afad-c9fbb5563667.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rwanda to host F1's first race in Africa since 1993]]></title>
+            <description><![CDATA[Rwanda signs a 10-year deal with Formula 1 to host races in the African country, starting "in the early 2030s".]]></description>
+            <link>https://www.bbc.co.uk/sport/formula1/articles/c5rmy3v3mn9jo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/formula1/articles/c5rmy3v3mn9jo#1</guid>
+            <pubDate>Tue, 13 Oct 2026 09:20:09 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ca3/live/0fc085e0-c6e2-11f1-bf38-57dc5cd42af2.jpg"/>
         </item>
         <item>
             <title><![CDATA[I lost my hair to MS treatment - now my wigs are worn by Naomi Campbell and Serena Williams  ]]></title>
@@ -119,12 +119,12 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/387f/live/1fd96c10-c6bc-11f1-876a-4f8961389969.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Watch: BBC's Orla Guerin travels with Yemen's southern national security forces]]></title>
-            <description><![CDATA[Orla Guerin travelled through Yemen, with forces loyal to its internationally recognised government, to a remote desert battlefield where Houthi rebels were dislodged just days ago.]]></description>
-            <link>https://www.bbc.co.uk/news/videos/cqx298yx4k48o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cqx298yx4k48o#2</guid>
-            <pubDate>Tue, 13 Oct 2026 04:27:22 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/88c3/live/97243030-c684-11f1-bc2e-018d645d8d21.jpg"/>
+            <title><![CDATA['Disabled or not, everyone deserves an opportunity' - Breaking Bad actor RJ Mitte]]></title>
+            <description><![CDATA[The Breaking Bad actor, who died aged 34, spoke to BBC Newsnight in 2015 about working in the film industry.]]></description>
+            <link>https://www.bbc.co.uk/news/videos/cked3y2qpn3wo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cked3y2qpn3wo#2</guid>
+            <pubDate>Tue, 13 Oct 2026 08:40:32 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/626e/live/895e6320-c6e9-11f1-a64c-550be9e3c66b.jpg"/>
         </item>
         <item>
             <title><![CDATA[I earn £120,000 a year making social media videos go viral]]></title>
@@ -151,12 +151,12 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7425/live/2dfb6810-c645-11f1-b47f-e3f9cf703bc3.jpg"/>
         </item>
         <item>
-            <title><![CDATA[The Papers: 'Burnham ready to sign new EU deal' and 'Hand of Gord']]></title>
-            <description><![CDATA[Many of today's papers cover the PM's comments on Brexit and the Daily Star writes of an alleged exorcism.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cqkg51v2135jo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqkg51v2135jo#2</guid>
-            <pubDate>Tue, 13 Oct 2026 00:51:14 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d623/live/69423b80-c68e-11f1-9a39-31b474234113.png"/>
+            <title><![CDATA[An insurance policy with no guarantee - the complex issue of egg freezing in sport]]></title>
+            <description><![CDATA[BBC Sport examines the potential benefits, risks and unanswered questions facing female athletes about egg freezing.]]></description>
+            <link>https://www.bbc.co.uk/sport/netball/articles/cv98zl9579ggo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/netball/articles/cv98zl9579ggo#2</guid>
+            <pubDate>Tue, 13 Oct 2026 05:12:56 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81c2/live/4254a840-c6e9-11f1-bc1b-8dfa7c975faa.jpg"/>
         </item>
         <item>
             <title><![CDATA[Analysis: Trump's global headaches worsen weeks before crucial elections]]></title>
@@ -167,20 +167,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a456/live/07bd3e20-c6e1-11f1-bf38-57dc5cd42af2.jpg"/>
         </item>
         <item>
-            <title><![CDATA[US actress Selma Blair accused of assault after incident with flight attendants]]></title>
-            <description><![CDATA[The Legally Blonde star is investigated by the FBI following an alleged altercation on a flight from LA to New York.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cw80z7edrk80o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cw80z7edrk80o#4</guid>
-            <pubDate>Tue, 13 Oct 2026 04:52:28 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b1cb/live/862b16a0-c6bf-11f1-a64c-550be9e3c66b.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Britain won't tolerate threats on our soil, Miliband says as he summons Iran ambassador]]></title>
-            <description><![CDATA[The prime minister says Iran's Islamic Revolutionary Guard "almost certainly" directed the RAF Fairford incident.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c6gr82ekqewyo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6gr82ekqewyo#4</guid>
-            <pubDate>Mon, 12 Oct 2026 19:39:15 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5cd/live/32979870-c303-11f1-bc2e-018d645d8d21.jpg"/>
+            <title><![CDATA[Raye hits back at ticket touts who 'overwhelmed' sign-up for Royal Albert show]]></title>
+            <description><![CDATA[The award-winning singer said there were 1.8 million sign-ups for her 5,000-seat Royal Albert Hall show.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c8vgxpwlx9wko?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c8vgxpwlx9wko#4</guid>
+            <pubDate>Tue, 13 Oct 2026 09:19:50 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a08/live/000a1cc0-c6e1-11f1-bf38-57dc5cd42af2.jpg"/>
         </item>
         <item>
             <title><![CDATA[Watch: US man eyes pumpkin world record after fifth contest win]]></title>
@@ -191,6 +183,22 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fce6/live/a4d5ae80-c6ba-11f1-9a39-31b474234113.jpg"/>
         </item>
         <item>
+            <title><![CDATA[NHS staff get 'landmark' payout over nitrous oxide exposure]]></title>
+            <description><![CDATA[The settlement follows the largest group legal action brought by midwives in the UK, says union.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c54g1071n0ygo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c54g1071n0ygo#4</guid>
+            <pubDate>Tue, 13 Oct 2026 00:22:45 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4db5/live/e1b02f30-c6e0-11f1-bf38-57dc5cd42af2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Abramovich's close associate misled UK court in £1bn oil-fields case, documents suggest]]></title>
+            <description><![CDATA[Former Chelsea FC director, Eugene Tenenbaum, helped to manage the oligarch’s wealth. ]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cw4g1e4vpxddo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cw4g1e4vpxddo#4</guid>
+            <pubDate>Mon, 12 Oct 2026 18:36:34 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fac6/live/142bf230-c625-11f1-bc2e-018d645d8d21.png"/>
+        </item>
+        <item>
             <title><![CDATA[Dating app Bumble in $1bn takeover talks, say reports]]></title>
             <description><![CDATA[The dating app which recently ditched its "women-first" chat rule could be bought by an investment firm. ]]></description>
             <link>https://www.bbc.co.uk/news/articles/cm9qzwjgnjxlo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -199,12 +207,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/18f2/live/ea016980-c6d9-11f1-a64c-550be9e3c66b.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Government expands police support to political figures who are not MPs]]></title>
-            <description><![CDATA[Shabana Mahmood says there is "insufficient protection" for those who play a role in public life.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c3gr82rk70l8o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c3gr82rk70l8o#4</guid>
-            <pubDate>Mon, 12 Oct 2026 19:51:34 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/422c/live/54bcad00-c65f-11f1-8600-efb62b613ab5.jpg"/>
+            <title><![CDATA[US actress Selma Blair accused of assault after incident with flight attendants]]></title>
+            <description><![CDATA[The Legally Blonde star is investigated by the FBI following an alleged altercation on a flight from LA to New York.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cw80z7edrk80o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cw80z7edrk80o#4</guid>
+            <pubDate>Tue, 13 Oct 2026 04:52:28 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b1cb/live/862b16a0-c6bf-11f1-a64c-550be9e3c66b.jpg"/>
         </item>
         <item>
             <title><![CDATA[Military police prevented from following evidence in SAS murder probe, inquiry hears]]></title>
@@ -213,14 +221,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c94g12rl57l0o#4</guid>
             <pubDate>Tue, 13 Oct 2026 02:54:22 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/86de/live/5fb18510-c6d1-11f1-9a39-31b474234113.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Saudi minister vows 'serious response' to Houthi attacks on airports]]></title>
-            <description><![CDATA[It comes after the armed group hit Riyadh's international airport and another facility, killing 13 people, in a significant escalation.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cjly0zqq27e4o#4</guid>
-            <pubDate>Tue, 13 Oct 2026 04:30:09 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b82e/live/50a18f00-c629-11f1-a509-ab6554d795a2.jpg"/>
         </item>
         <item>
             <title><![CDATA[BBC News app]]></title>
@@ -239,12 +239,20 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c146/live/274c5090-c642-11f1-abff-0d918239b2e3.jpg"/>
         </item>
         <item>
-            <title><![CDATA[South Africa blunt Australia for 90 minutes in fight for draw - scorecard]]></title>
+            <title><![CDATA[Australia break South Africa resistance to edge towards win - scorecard]]></title>
             <description><![CDATA[Latest scorecard from the first Test between South Africa and Australia in Durban.]]></description>
             <link>https://www.bbc.co.uk/sport/cricket/scorecard/e-236997?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/cricket/scorecard/e-236997#8</guid>
             <pubDate>Tue, 13 Oct 2026 00:00:00 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a8da/live/6b98ea30-c6e5-11f1-a64c-550be9e3c66b.jpg"/>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1378/live/9f720c80-c6e8-11f1-bc2e-018d645d8d21.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rwanda to host F1's first race in Africa since 1993]]></title>
+            <description><![CDATA[Rwanda signs a 10-year deal with Formula 1 to host races in the African country, starting "in the early 2030s".]]></description>
+            <link>https://www.bbc.co.uk/sport/formula1/articles/c5rmy3v3mn9jo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/formula1/articles/c5rmy3v3mn9jo#8</guid>
+            <pubDate>Tue, 13 Oct 2026 09:20:09 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ca3/live/0fc085e0-c6e2-11f1-bf38-57dc5cd42af2.jpg"/>
         </item>
         <item>
             <title><![CDATA[Is Man Utd's Fernandes issue a symptom or reason for their form?]]></title>
@@ -271,20 +279,12 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3bb/live/75fce310-c68a-11f1-a387-7d6d38bf2d79.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Does Norris-Piastri crash show 'papaya rules' failing? - F1 Q&A]]></title>
-            <description><![CDATA[BBC Sport F1 correspondent Andrew Benson answers your latest questions after the Singapore Grand Prix.]]></description>
-            <link>https://www.bbc.co.uk/sport/formula1/articles/ck3wv14n070eo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/formula1/articles/ck3wv14n070eo#8</guid>
-            <pubDate>Tue, 13 Oct 2026 06:54:13 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9846/live/95e68220-c5aa-11f1-bea7-1dc95e2ed033.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[An insurance policy with no guarantee - the complex issue of egg freezing in sport]]></title>
             <description><![CDATA[BBC Sport examines the potential benefits, risks and unanswered questions facing female athletes about egg freezing.]]></description>
             <link>https://www.bbc.co.uk/sport/netball/articles/cv98zl9579ggo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/netball/articles/cv98zl9579ggo#8</guid>
             <pubDate>Tue, 13 Oct 2026 05:12:56 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b58/live/7e039190-c3eb-11f1-913a-eb4b8e15ad15.jpg"/>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81c2/live/4254a840-c6e9-11f1-bc1b-8dfa7c975faa.jpg"/>
         </item>
     </channel>
 </rss>
