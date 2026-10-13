@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news/world</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 13 Oct 2026 10:31:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Oct 2026 10:58:59 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/world/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -47,12 +47,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9712/live/4ba7f3d0-c6e3-11f1-9a39-31b474234113.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Ship sinks in new drone attack off Bulgaria, PM summons Russian ambassador]]></title>
-            <description><![CDATA[Bulgaria's prime minister says two merchant ships were hit by drones and he suspects Russia was behind the attacks.]]></description>
+            <title><![CDATA[Bulgarian PM summons Russian ambassador after ship sinks in Black Sea drone attack]]></title>
+            <description><![CDATA[Eleven crew members are missing after a merchant ship was sunk overnight, local officials say.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cmn06w5x9g25o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmn06w5x9g25o#0</guid>
-            <pubDate>Tue, 13 Oct 2026 08:52:48 GMT</pubDate>
+            <pubDate>Tue, 13 Oct 2026 10:57:17 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c339/live/811bb020-c6e2-11f1-bc2e-018d645d8d21.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ex-president named leader of new DR Congo rebel coalition ]]></title>
+            <description><![CDATA[Joseph Kabila had previously denied having links to the M23 rebels, which control much of eastern DR Congo.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c8y56re7ldqyo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c8y56re7ldqyo#0</guid>
+            <pubDate>Tue, 13 Oct 2026 08:21:16 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/88a7/live/427486f0-c6d6-11f1-a5d8-e9a78c0fd632.jpg"/>
         </item>
         <item>
             <title><![CDATA[Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says]]></title>
@@ -66,7 +74,7 @@
             <title><![CDATA[India 'cockroach' leaders detained after entering barricaded protest site]]></title>
             <description><![CDATA[Protesters climbed over barricades in central Delhi to demand the election chief resign over revised voter lists.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cqz0v11n2vj5o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqz0v11n2vj5o#0</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqz0v11n2vj5o#1</guid>
             <pubDate>Tue, 13 Oct 2026 07:31:10 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d729/live/cad81e00-c6d9-11f1-bc2e-018d645d8d21.jpg"/>
         </item>
@@ -99,7 +107,7 @@
             <description><![CDATA[Omar, an outspoken Trump critic, said the search was "an attempt to target political enemies" and she "will not be silenced".]]></description>
             <link>https://www.bbc.co.uk/news/articles/cvp8glg97393o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cvp8glg97393o#1</guid>
-            <pubDate>Mon, 12 Oct 2026 22:05:31 GMT</pubDate>
+            <pubDate>Tue, 13 Oct 2026 10:37:39 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc45/live/01c4d970-c64f-11f1-b47f-e3f9cf703bc3.png"/>
         </item>
         <item>

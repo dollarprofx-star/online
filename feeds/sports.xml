@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/sport/football</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 13 Oct 2026 10:31:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Oct 2026 10:59:03 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -103,20 +103,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1de4/live/aec9ef40-c657-11f1-8600-efb62b613ab5.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Burnham had formal meeting with Man City chair while mayor]]></title>
-            <description><![CDATA[Prime Minister Andy Burnham had a formal meeting with Manchester City chairman Khaldoon Al Mubarak while mayor of Greater Manchester, according to the Greater Manchester Combined Authority.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/c962y5nd273no?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c962y5nd273no#0</guid>
-            <pubDate>Mon, 12 Oct 2026 17:09:30 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7513/live/9668f200-c57d-11f1-80f2-5bd1e5df7ada.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Do Lionesses lack ruthlessness in front of goal?]]></title>
             <description><![CDATA[England take a two-goal lead into the second leg of their Women's World Cup qualifying play-off against Greece - but should it be more?]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cwe8rvm8yl93o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cwe8rvm8yl93o#1</guid>
             <pubDate>Mon, 12 Oct 2026 16:54:32 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf7f/live/a5c37940-c65f-11f1-8600-efb62b613ab5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Burnham had formal meeting with Man City chair while mayor]]></title>
+            <description><![CDATA[Prime Minister Andy Burnham had a formal meeting with Manchester City chairman Khaldoon Al Mubarak while mayor of Greater Manchester, according to the Greater Manchester Combined Authority.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/c962y5nd273no?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c962y5nd273no#1</guid>
+            <pubDate>Mon, 12 Oct 2026 17:09:30 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7513/live/9668f200-c57d-11f1-80f2-5bd1e5df7ada.jpg"/>
         </item>
         <item>
             <title><![CDATA[Man Utd eye Simeone - Tuesday's gossip]]></title>
@@ -135,20 +135,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9804/live/c86e0e30-c65d-11f1-8600-efb62b613ab5.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Ex-Port Vale & Gillingham captain Loft dies at 39]]></title>
-            <description><![CDATA[Former Port Vale and Gillingham captain Doug Loft dies at the age of 39, following a medical emergency.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cmkgq1dz5keko?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmkgq1dz5keko#1</guid>
-            <pubDate>Mon, 12 Oct 2026 15:12:32 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/17fc/live/1ebca980-c650-11f1-b47f-e3f9cf703bc3.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Women's billion-dollar boom leaves players behind, says Fifpro]]></title>
             <description><![CDATA[Women's football is on course to become a billion-dollar industry, but many professional players are still earning low wages, working on insecure contracts and experiencing rising psychological stress, a Fifpro survey indicates.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cmd7qn1g0xrxo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmd7qn1g0xrxo#2</guid>
             <pubDate>Mon, 12 Oct 2026 10:04:50 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/779a/live/b7058b10-c616-11f1-bc2e-018d645d8d21.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ex-Port Vale & Gillingham captain Loft dies at 39]]></title>
+            <description><![CDATA[Former Port Vale and Gillingham captain Doug Loft dies at the age of 39, following a medical emergency.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cmkgq1dz5keko?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmkgq1dz5keko#2</guid>
+            <pubDate>Mon, 12 Oct 2026 15:12:32 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/17fc/live/1ebca980-c650-11f1-b47f-e3f9cf703bc3.jpg"/>
         </item>
         <item>
             <title><![CDATA[The 'Kane-esque' striker Spurs may regret letting go]]></title>
@@ -279,14 +279,6 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dbc0/live/f6654e80-c625-11f1-b048-6946f232cb95.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Football Daily]]></title>
-            <description><![CDATA[Mark Chapman is joined by Andros Townsend, Chris Sutton and Rory Smith.]]></description>
-            <link>https://www.bbc.co.uk/sounds/play/p0pgc622?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0pgc622#5</guid>
-            <pubDate>Mon, 12 Oct 2026 20:45:00 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0pbt6l2.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Hull continue good start with entertaining Everton draw]]></title>
             <description><![CDATA[Mohamed Belloumi scores a second-half leveller as Hull City and Everton continue their good starts to the season with an entertaining draw at MKM Stadium.]]></description>
             <link>https://www.bbc.co.uk/sport/football/videos/c61mvdy2mdx9o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -359,6 +351,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0909/live/5c1b6eb0-c2ef-11f1-babe-4199b0e7ccea.png"/>
         </item>
         <item>
+            <title><![CDATA[Football Daily]]></title>
+            <description><![CDATA[Mark Chapman is joined by Andros Townsend, Chris Sutton and Rory Smith.]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/p0pgc622?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0pgc622#7</guid>
+            <pubDate>Mon, 12 Oct 2026 20:45:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0pbt6l2.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Winless and an 'easy touch' - what's happened to the Anfield fear factor?]]></title>
             <description><![CDATA[Liverpool's struggles at Anfield continue as Iraola still awaits his first Premier League win at Anfield.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/ck5yn20wej62o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -402,7 +402,7 @@
             <title><![CDATA[Jota comeback helps Celtic lift gloom in strong response]]></title>
             <description><![CDATA[Jota's comeback from long-term injury and Celtic's convincing victory over Motherwell provide positivity following the club's recent acrimony.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cqwy7nr5lry0o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqwy7nr5lry0o#7</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqwy7nr5lry0o#9</guid>
             <pubDate>Sun, 11 Oct 2026 16:55:21 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/75d7/live/c1c36af0-c593-11f1-9a39-31b474234113.jpg"/>
         </item>
@@ -437,14 +437,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqn73g3pvezdo#9</guid>
             <pubDate>Sat, 10 Oct 2026 20:58:39 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/332c/live/05dcfc40-c4fb-11f1-9a39-31b474234113.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Savage success and statement win for Boro - Sam Parkin's EFL takeaways  ]]></title>
-            <description><![CDATA[BBC Final Score pundit Sam Parkin looks at the weekend's talking points in the EFL, including Robbie Savage's debut as Peterborough manager.  ]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cw77prgk52zro?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cw77prgk52zro#9</guid>
-            <pubDate>Sat, 10 Oct 2026 19:19:42 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e88/live/0041cf20-c4df-11f1-9a39-31b474234113.jpg"/>
         </item>
         <item>
             <title><![CDATA[Time to rise? Ranking European football's sleeping giants]]></title>
@@ -583,6 +575,14 @@
             <media:thumbnail url="https://ichef.bbci.co.uk/images/ic/480xn/p0pcy5zl.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Bloom repeats faith in title ambition for Hearts]]></title>
+            <description><![CDATA[Investor Tony Bloom says he would be "really disappointed" if Hearts fail to win the Scottish Premiership by 2035.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cw5yng2kjg8po?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cw5yng2kjg8po#17</guid>
+            <pubDate>Tue, 13 Oct 2026 10:49:38 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fda4/live/870aee80-c6ef-11f1-bc1b-8dfa7c975faa.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Podcast: Will Hearts go the distance again and can Reedijk lift Hibs?]]></title>
             <description><![CDATA[The contrasting stories of Hearts and Hibs, plus a big night for the Scotland WNT.]]></description>
             <link>https://www.bbc.co.uk/sounds/play/p0pgdj2y?at_medium=RSS&amp;at_campaign=rss</link>
@@ -613,14 +613,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cm4g10llk42ko#17</guid>
             <pubDate>Mon, 12 Oct 2026 07:14:01 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f5a/live/5836b140-c59e-11f1-8caf-cb711a6adf3a.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jota comeback helps Celtic lift gloom in strong response]]></title>
-            <description><![CDATA[Jota's comeback from long-term injury and Celtic's convincing victory over Motherwell provide positivity following the club's recent acrimony.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cqwy7nr5lry0o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqwy7nr5lry0o#17</guid>
-            <pubDate>Sun, 11 Oct 2026 16:55:21 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/75d7/live/c1c36af0-c593-11f1-9a39-31b474234113.jpg"/>
         </item>
         <item>
             <title><![CDATA[Wales given play-off history lesson before Albania second leg]]></title>

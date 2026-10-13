@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 13 Oct 2026 10:31:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Oct 2026 10:58:55 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -87,11 +87,11 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c9b1/live/c0667080-c6e7-11f1-bf38-57dc5cd42af2.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Ship sinks in new drone attack off Bulgaria, PM summons Russian ambassador]]></title>
-            <description><![CDATA[Bulgaria's prime minister says two merchant ships were hit by drones and he suspects Russia was behind the attacks.]]></description>
+            <title><![CDATA[Bulgarian PM summons Russian ambassador after ship sinks in Black Sea drone attack]]></title>
+            <description><![CDATA[Eleven crew members are missing after a merchant ship was sunk overnight, local officials say.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cmn06w5x9g25o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmn06w5x9g25o#1</guid>
-            <pubDate>Tue, 13 Oct 2026 08:52:48 GMT</pubDate>
+            <pubDate>Tue, 13 Oct 2026 10:57:17 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c339/live/811bb020-c6e2-11f1-bc2e-018d645d8d21.jpg"/>
         </item>
         <item>
@@ -143,20 +143,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f64c/live/4e58ab20-c552-11f1-bc2e-018d645d8d21.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Death threats and isolation - the cost of fighting sexual violence in Iraq]]></title>
-            <description><![CDATA[Women say they share stories of abuse to highlight the issue, despite social pressure and safety fears.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cqd089r55vp3o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqd089r55vp3o#2</guid>
-            <pubDate>Tue, 13 Oct 2026 05:02:57 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7425/live/2dfb6810-c645-11f1-b47f-e3f9cf703bc3.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[An insurance policy with no guarantee - the complex issue of egg freezing in sport]]></title>
             <description><![CDATA[BBC Sport examines the potential benefits, risks and unanswered questions facing female athletes about egg freezing.]]></description>
             <link>https://www.bbc.co.uk/sport/netball/articles/cv98zl9579ggo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/netball/articles/cv98zl9579ggo#2</guid>
             <pubDate>Tue, 13 Oct 2026 05:12:56 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81c2/live/4254a840-c6e9-11f1-bc1b-8dfa7c975faa.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Death threats and isolation - the cost of fighting sexual violence in Iraq]]></title>
+            <description><![CDATA[Women say they share stories of abuse to highlight the issue, despite social pressure and safety fears.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cqd089r55vp3o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqd089r55vp3o#2</guid>
+            <pubDate>Tue, 13 Oct 2026 05:02:57 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7425/live/2dfb6810-c645-11f1-b47f-e3f9cf703bc3.jpg"/>
         </item>
         <item>
             <title><![CDATA[How much did Man City's rule breaking cost your team?]]></title>
@@ -179,8 +179,8 @@
             <description><![CDATA[A man, a woman and two children are confirmed dead and two other children are critically ill.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cq073814llkjo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cq073814llkjo#4</guid>
-            <pubDate>Tue, 13 Oct 2026 10:23:38 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5260/live/f08c7e40-c6dc-11f1-bf38-57dc5cd42af2.png"/>
+            <pubDate>Tue, 13 Oct 2026 10:40:48 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/51ca/live/9f8f10c0-c6f0-11f1-a8c6-978790dcd160.jpg"/>
         </item>
         <item>
             <title><![CDATA[Phase Eight and Hobbs owner hit by cyber-attack, as H&M probes separate hack claim]]></title>
@@ -253,14 +253,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/formula1/articles/c5rmy3v3mn9jo#8</guid>
             <pubDate>Tue, 13 Oct 2026 09:20:09 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ca3/live/0fc085e0-c6e2-11f1-bf38-57dc5cd42af2.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Is Man Utd's Fernandes issue a symptom or reason for their form?]]></title>
-            <description><![CDATA[Manchester United skipper Bruno Fernandes is yet to reach the highs of last season - is it because of his side's poor start or the reason for it?]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cr4g10nz0593o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cr4g10nz0593o#8</guid>
-            <pubDate>Tue, 13 Oct 2026 05:47:49 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ba7/live/4796ffe0-c669-11f1-8b8f-ddd45afdc2fc.jpg"/>
         </item>
         <item>
             <title><![CDATA[Bethell returns as England call up youngsters Jack and Rew]]></title>
