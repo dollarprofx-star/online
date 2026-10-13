@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/sport/football</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 13 Oct 2026 11:44:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Oct 2026 12:01:44 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -39,6 +39,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ba7/live/4796ffe0-c669-11f1-8b8f-ddd45afdc2fc.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Ronaldo scores after match delayed by missile alert]]></title>
+            <description><![CDATA[Cristiano Ronaldo scores as Al-Nassr win an AFC Champions League match which is delayed by an hour because of a missile alert in Riyadh.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/c6kgq5j5d7qro?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6kgq5j5d7qro#0</guid>
+            <pubDate>Tue, 13 Oct 2026 09:23:28 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/35fa/live/264b2210-c6e3-11f1-bf38-57dc5cd42af2.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[The star is Luis Enrique - inside the plans to keep PSG at the top]]></title>
             <description><![CDATA[As Luis Enrique bids to guide PSG to a third successive Champions League triumph, Guillem Balague looks at how the coach keeps his side at the top.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/c6kglnzvznn0o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -53,14 +61,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqzrdmjp5162o#0</guid>
             <pubDate>Tue, 13 Oct 2026 11:43:31 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0909/live/5c1b6eb0-c2ef-11f1-babe-4199b0e7ccea.png"/>
-        </item>
-        <item>
-            <title><![CDATA[Ronaldo scores after match delayed by missile alert]]></title>
-            <description><![CDATA[Cristiano Ronaldo scores as Al-Nassr win an AFC Champions League match which is delayed by an hour because of a missile alert in Riyadh.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/c6kgq5j5d7qro?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6kgq5j5d7qro#0</guid>
-            <pubDate>Tue, 13 Oct 2026 09:23:28 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/35fa/live/264b2210-c6e3-11f1-bf38-57dc5cd42af2.jpg"/>
         </item>
         <item>
             <title><![CDATA[Coventry thrash Newcastle to claim first home win of season]]></title>
@@ -615,14 +615,6 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f5a/live/5836b140-c59e-11f1-8caf-cb711a6adf3a.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Wales given play-off history lesson before Albania second leg]]></title>
-            <description><![CDATA[Wales take a 1-0 lead into their play-off semi-final second leg against Albania as they chase a place at next year's tournament in Brazil.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/c83vqw003kdko?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c83vqw003kdko#18</guid>
-            <pubDate>Tue, 13 Oct 2026 03:33:01 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1de4/live/aec9ef40-c657-11f1-8600-efb62b613ab5.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Do Lionesses lack ruthlessness in front of goal?]]></title>
             <description><![CDATA[England take a two-goal lead into the second leg of their Women's World Cup qualifying play-off against Greece - but should it be more?]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cwe8rvm8yl93o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -639,20 +631,28 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/779a/live/b7058b10-c616-11f1-bc2e-018d645d8d21.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Huge night for Women's World Cup hopes - how are home nations set?]]></title>
+            <description><![CDATA[England, Wales, Northern Ireland, Scotland and the Republic of Ireland are under way in their Women's World Cup play-offs. How are their prospects looking?]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cqzrdmjp5162o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqzrdmjp5162o#18</guid>
+            <pubDate>Tue, 13 Oct 2026 11:43:31 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0909/live/5c1b6eb0-c2ef-11f1-babe-4199b0e7ccea.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Wales given play-off history lesson before Albania second leg]]></title>
+            <description><![CDATA[Wales take a 1-0 lead into their play-off semi-final second leg against Albania as they chase a place at next year's tournament in Brazil.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/c83vqw003kdko?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c83vqw003kdko#18</guid>
+            <pubDate>Tue, 13 Oct 2026 03:33:01 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1de4/live/aec9ef40-c657-11f1-8600-efb62b613ab5.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[BBC Women's Football Weekly]]></title>
             <description><![CDATA[How can Sarina Wiegman’s side become more ruthless in the final third?]]></description>
             <link>https://www.bbc.co.uk/sounds/play/p0pgbr8n?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0pgbr8n#18</guid>
             <pubDate>Mon, 12 Oct 2026 18:00:00 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0lz125l.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Northern Ireland will have 'one last swing' at World Cup place]]></title>
-            <description><![CDATA[Boss Michael McArdle says Northern Ireland will have "one last swing" at trying to reach a first Women's World Cup as they look to overcome a four-goal play-off deficit in Portugal.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/ckpqg2r4ewgqo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ckpqg2r4ewgqo#18</guid>
-            <pubDate>Mon, 12 Oct 2026 15:46:33 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4410/live/734c6e10-c653-11f1-8600-efb62b613ab5.jpg"/>
         </item>
         <item>
             <title><![CDATA[The part-timers who won three Wembley finals in a row]]></title>
