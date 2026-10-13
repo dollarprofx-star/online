@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/sport/football</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 13 Oct 2026 14:03:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Oct 2026 14:34:16 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -103,20 +103,28 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c44/live/b3adb900-c6d0-11f1-a486-5fe33afdac53.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Who am I? Plus today's other quizzes]]></title>
-            <description><![CDATA[Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cmp3gzq2v2p2o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmp3gzq2v2p2o#0</guid>
-            <pubDate>Tue, 13 Oct 2026 06:13:45 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"/>
-        </item>
-        <item>
             <title><![CDATA[After 27 titles in 23 years at Real Madrid, Carvajal joins Getafe]]></title>
             <description><![CDATA[Former Real Madrid captain Dani Carvajal joins Getafe as a free agent after his contract expired in June.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cxr5ydvl41dlo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cxr5ydvl41dlo#1</guid>
             <pubDate>Tue, 13 Oct 2026 09:21:36 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92e0/live/15a772c0-c6e2-11f1-bf38-57dc5cd42af2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Who am I? Plus today's other quizzes]]></title>
+            <description><![CDATA[Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cmp3gzq2v2p2o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmp3gzq2v2p2o#1</guid>
+            <pubDate>Tue, 13 Oct 2026 06:13:45 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Ipswich supporter 'feared for life' when Maidstone fan fell on her from stand above]]></title>
+            <description><![CDATA[A man is accused of assault after falling from the upper tier at Ipswich Town on to home supporters.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c6d93ly7p9qyo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6d93ly7p9qyo#1</guid>
+            <pubDate>Tue, 13 Oct 2026 14:18:46 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8f7/live/95bc4a50-c659-11f1-8600-efb62b613ab5.jpg"/>
         </item>
         <item>
             <title><![CDATA[Bloom keeps faith in Hearts title ambition]]></title>
@@ -135,14 +143,6 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/164b/live/997c5530-c67d-11f1-841c-2105a54cdb08.png"/>
         </item>
         <item>
-            <title><![CDATA[Wales given play-off history lesson before Albania second leg]]></title>
-            <description><![CDATA[Wales take a 1-0 lead into their play-off semi-final second leg against Albania as they chase a place at next year's tournament in Brazil.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/c83vqw003kdko?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c83vqw003kdko#1</guid>
-            <pubDate>Tue, 13 Oct 2026 03:33:01 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1de4/live/aec9ef40-c657-11f1-8600-efb62b613ab5.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Do Lionesses lack ruthlessness in front of goal?]]></title>
             <description><![CDATA[England take a two-goal lead into the second leg of their Women's World Cup qualifying play-off against Greece - but should it be more?]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cwe8rvm8yl93o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -157,6 +157,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c962y5nd273no#2</guid>
             <pubDate>Mon, 12 Oct 2026 17:09:30 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7513/live/9668f200-c57d-11f1-80f2-5bd1e5df7ada.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Wales given play-off history lesson before Albania second leg]]></title>
+            <description><![CDATA[Wales take a 1-0 lead into their play-off semi-final second leg against Albania as they chase a place at next year's tournament in Brazil.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/c83vqw003kdko?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c83vqw003kdko#2</guid>
+            <pubDate>Tue, 13 Oct 2026 03:33:01 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1de4/live/aec9ef40-c657-11f1-8600-efb62b613ab5.jpg"/>
         </item>
         <item>
             <title><![CDATA[Women's billion-dollar boom leaves players behind, says Fifpro]]></title>
@@ -189,14 +197,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c62keg74dvxjo#2</guid>
             <pubDate>Tue, 13 Oct 2026 05:12:47 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a53/live/79c5e6b0-c642-11f1-abff-0d918239b2e3.png"/>
-        </item>
-        <item>
-            <title><![CDATA[Elite schedule 'not sustainable' amid 55-game seasons]]></title>
-            <description><![CDATA[The Premier League may have just returned from a three-week break, but for many of its stars there was no rest at all.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cmp3gwz17qn7o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmp3gwz17qn7o#2</guid>
-            <pubDate>Mon, 12 Oct 2026 10:26:18 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82df/live/43389720-c60e-11f1-aae8-850c1751d51d.jpg"/>
         </item>
         <item>
             <title><![CDATA[Lampard keeping 'feet on ground' following big win over Newcastle]]></title>
@@ -245,6 +245,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqy8le93zg7jo#5</guid>
             <pubDate>Mon, 12 Oct 2026 20:24:15 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5eb1/live/b6acecb0-c677-11f1-8165-49c09cbfa390.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Elite schedule 'not sustainable' amid 55-game seasons]]></title>
+            <description><![CDATA[The Premier League may have just returned from a three-week break, but for many of its stars there was no rest at all.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cmp3gwz17qn7o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmp3gwz17qn7o#5</guid>
+            <pubDate>Mon, 12 Oct 2026 10:26:18 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82df/live/43389720-c60e-11f1-aae8-850c1751d51d.jpg"/>
         </item>
         <item>
             <title><![CDATA[Silences end and boos ring out - Leicester and Martin's Savage day]]></title>
@@ -591,6 +599,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fda4/live/870aee80-c6ef-11f1-bc1b-8dfa7c975faa.jpg"/>
         </item>
         <item>
+            <title><![CDATA[How do Women's World Cup hopes look for home nations?]]></title>
+            <description><![CDATA[England, Wales, Northern Ireland, Scotland and the Republic of Ireland are under way in their Women's World Cup play-offs. How are their prospects looking?]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cqzrdmjp5162o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqzrdmjp5162o#17</guid>
+            <pubDate>Tue, 13 Oct 2026 11:43:31 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0909/live/5c1b6eb0-c2ef-11f1-babe-4199b0e7ccea.png"/>
+        </item>
+        <item>
             <title><![CDATA[Podcast: Will Hearts go the distance again and can Reedijk lift Hibs?]]></title>
             <description><![CDATA[The contrasting stories of Hearts and Hibs, plus a big night for the Scotland WNT.]]></description>
             <link>https://www.bbc.co.uk/sounds/play/p0pgdj2y?at_medium=RSS&amp;at_campaign=rss</link>
@@ -613,14 +629,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c50mew3yw79no#17</guid>
             <pubDate>Mon, 12 Oct 2026 15:01:24 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc1d/live/05f01c50-c63e-11f1-abff-0d918239b2e3.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Can Robinson solve Aberdeen's lack of goals?]]></title>
-            <description><![CDATA[Aberdeen draw a blank again in Sunday's home loss to St Johnstone, but manager Stephen Robinson is sure his team can find a solution.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cm4g10llk42ko?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cm4g10llk42ko#17</guid>
-            <pubDate>Mon, 12 Oct 2026 07:14:01 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f5a/live/5836b140-c59e-11f1-8caf-cb711a6adf3a.jpg"/>
         </item>
         <item>
             <title><![CDATA[Do Lionesses lack ruthlessness in front of goal?]]></title>
