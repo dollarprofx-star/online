@@ -9,18 +9,18 @@
             <link>https://www.bbc.co.uk/sport/football</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 13 Oct 2026 16:17:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Oct 2026 16:45:16 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
-            <title><![CDATA[Regulator would quit over interference in Man City case]]></title>
+            <title><![CDATA[Football regulator says he would quit over Man City political interference]]></title>
             <description><![CDATA[The head of English football's independent regulator says he will resign if he encounters any political interference over Manchester City's future.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cjkge245n0gzo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cjkge245n0gzo#0</guid>
             <pubDate>Tue, 13 Oct 2026 16:00:18 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e6d6/live/f277c3f0-c712-11f1-bc2e-018d645d8d21.jpg"/>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b8ca/live/752f1a40-c723-11f1-b881-4391ac746e04.jpg"/>
         </item>
         <item>
             <title><![CDATA[Majority of clubs on edge of 'financial disaster' - regulator]]></title>
@@ -199,6 +199,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/17fc/live/1ebca980-c650-11f1-b47f-e3f9cf703bc3.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Independent regulator waiting for Man City appeal]]></title>
+            <description><![CDATA[David Kogan, chair of football's independent regulator, says the body has to "go on the evidence" before making any decision in the case against Manchester City.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/videos/cmze418n8ke9o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cmze418n8ke9o#3</guid>
+            <pubDate>Tue, 13 Oct 2026 16:14:23 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/832e/live/0c4a1770-c71c-11f1-9a39-31b474234113.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Coventry thrash Newcastle to claim first home win of season]]></title>
             <description><![CDATA[Coventry City stun Newcastle United with an emphatic 4-1 victory as they win their first Premier League game at home in 25 years.]]></description>
             <link>https://www.bbc.co.uk/sport/football/videos/c65y71z4rjj2o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -229,14 +237,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cw073z5j55y9o#3</guid>
             <pubDate>Sun, 11 Oct 2026 23:23:03 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa47/live/76170560-c5c7-11f1-bc2e-018d645d8d21.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Glasner suffers loss on Selhurst return as Palace beat Forest]]></title>
-            <description><![CDATA[Oliver Glasner endures a frustrating return to Crystal Palace with his Nottingham Forest side lets slip an early lead to lose to the Eagles.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/videos/cwz0zkj27greo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cwz0zkj27greo#3</guid>
-            <pubDate>Sun, 11 Oct 2026 18:59:02 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/acfa/live/f4d5deb0-c592-11f1-bc2e-018d645d8d21.jpg"/>
         </item>
         <item>
             <title><![CDATA[What Manchester's 'super-profit' deal with City owners has paid out so far]]></title>
@@ -293,6 +293,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cr93zn4kq0wjo#5</guid>
             <pubDate>Mon, 12 Oct 2026 10:20:21 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f32/live/479dcb60-c621-11f1-b048-6946f232cb95.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Glasner suffers loss on Selhurst return as Palace beat Forest]]></title>
+            <description><![CDATA[Oliver Glasner endures a frustrating return to Crystal Palace with his Nottingham Forest side lets slip an early lead to lose to the Eagles.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/videos/cwz0zkj27greo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cwz0zkj27greo#6</guid>
+            <pubDate>Sun, 11 Oct 2026 18:59:02 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/acfa/live/f4d5deb0-c592-11f1-bc2e-018d645d8d21.jpg"/>
         </item>
         <item>
             <title><![CDATA[Rooney gives verdict on Gravenberch red card]]></title>
@@ -357,14 +365,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/c6lye9kmnvpzo#6</guid>
             <pubDate>Sat, 10 Oct 2026 22:58:38 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1bfe/live/6d7af590-c501-11f1-9a39-31b474234113.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['Absolutely superb' - How Caicedo proved pivotal in Chelsea win]]></title>
-            <description><![CDATA[Speaking on Match of the Day, Alan Shearer explains why the performance of Moises Caicedo was pivotal in Chelsea's 5-1 win against Bournemouth in the Premier League. ]]></description>
-            <link>https://www.bbc.co.uk/sport/football/videos/cmx2dp7xgew6o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cmx2dp7xgew6o#6</guid>
-            <pubDate>Sat, 10 Oct 2026 23:00:14 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/21d0/live/24953340-c4f7-11f1-bc2e-018d645d8d21.jpg"/>
         </item>
         <item>
             <title><![CDATA[Northern Ireland will have 'one last swing' at World Cup place]]></title>
