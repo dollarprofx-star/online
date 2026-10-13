@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/sport/football</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 13 Oct 2026 17:29:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Oct 2026 17:49:08 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -71,6 +71,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07f4/live/59f57ff0-a20a-11f1-ac57-b5f31f9074ef.jpg"/>
         </item>
         <item>
+            <title><![CDATA[PSG's Luis Enrique hopes Man City avoid sanctions]]></title>
+            <description><![CDATA[PSG boss Luis Enrique says he was surprised to learn Manchester City had been found guilty of breaching Premier League financial rules and  hopes the club avoid sanctions.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/ck1wvd91v4pwo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ck1wvd91v4pwo#0</guid>
+            <pubDate>Tue, 13 Oct 2026 17:33:33 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34c8/live/dfa1bec0-c726-11f1-b881-4391ac746e04.png"/>
+        </item>
+        <item>
             <title><![CDATA[Is Man Utd's Fernandes issue a symptom or reason for their form?]]></title>
             <description><![CDATA[Manchester United skipper Bruno Fernandes is yet to reach the highs of last season - is it because of his side's poor start or the reason for it?]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cr4g10nz0593o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -90,7 +98,7 @@
             <title><![CDATA[Huge night for Women's World Cup hopes - how are home nations set?]]></title>
             <description><![CDATA[England, Wales, Northern Ireland, Scotland and the Republic of Ireland are under way in their Women's World Cup play-offs. How are their prospects looking?]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cqzrdmjp5162o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqzrdmjp5162o#0</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqzrdmjp5162o#1</guid>
             <pubDate>Tue, 13 Oct 2026 11:43:31 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0909/live/5c1b6eb0-c2ef-11f1-babe-4199b0e7ccea.png"/>
         </item>
@@ -98,17 +106,9 @@
             <title><![CDATA[Cardiff's Bielik claims death threats over fan clash]]></title>
             <description><![CDATA[Cardiff defender Krystian Bielik claims his family received death threats amid the controversy that surrounded his altercation with a Portsmouth fan.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cw98zgn41qlmo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cw98zgn41qlmo#0</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cw98zgn41qlmo#1</guid>
             <pubDate>Tue, 13 Oct 2026 15:57:13 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ad0/live/b414bbc0-c71e-11f1-a724-13aaaaa0c575.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Netflix secures 2030 World Cup TV rights in Spain]]></title>
-            <description><![CDATA[Netflix will broadcast World Cup games for the first time in 2030 as it secures the rights to show World Cup games in co-host Spain and Andorra.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/c3zxj4k7kz9eo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c3zxj4k7kz9eo#0</guid>
-            <pubDate>Tue, 13 Oct 2026 14:54:31 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c70f/live/a3cff650-c712-11f1-9a5a-91141f7a4b0e.jpg"/>
         </item>
         <item>
             <title><![CDATA[The star is Luis Enrique - inside the plans to keep PSG at the top]]></title>
@@ -119,20 +119,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0171/live/1b756630-c62e-11f1-af2e-773141c7e84a.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Netflix secures 2030 World Cup TV rights in Spain]]></title>
+            <description><![CDATA[Netflix will broadcast World Cup games for the first time in 2030 as it secures the rights to show World Cup games in co-host Spain and Andorra.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/c3zxj4k7kz9eo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c3zxj4k7kz9eo#1</guid>
+            <pubDate>Tue, 13 Oct 2026 14:54:31 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c70f/live/a3cff650-c712-11f1-9a5a-91141f7a4b0e.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[After 27 titles in 23 years at Real Madrid, Carvajal joins Getafe]]></title>
             <description><![CDATA[Former Real Madrid captain Dani Carvajal joins Getafe as a free agent after his contract expired in June.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cxr5ydvl41dlo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cxr5ydvl41dlo#1</guid>
             <pubDate>Tue, 13 Oct 2026 09:21:36 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92e0/live/15a772c0-c6e2-11f1-bf38-57dc5cd42af2.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lille considering legal action after Santos injury]]></title>
-            <description><![CDATA[The club have described the tackle on defender Tiago Santos as 'uncontrolled and dangerous'. ]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/c623d0mmym4xo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c623d0mmym4xo#1</guid>
-            <pubDate>Tue, 13 Oct 2026 07:30:58 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c44/live/b3adb900-c6d0-11f1-a486-5fe33afdac53.jpg"/>
         </item>
         <item>
             <title><![CDATA[Coventry announce themselves back in the big time]]></title>
@@ -151,20 +151,28 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"/>
         </item>
         <item>
-            <title><![CDATA[Ipswich supporter 'feared for life' when Maidstone fan fell on her from stand above]]></title>
-            <description><![CDATA[A man is accused of assault after falling from the upper tier at Ipswich Town on to home supporters.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c6d93ly7p9qyo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6d93ly7p9qyo#1</guid>
-            <pubDate>Tue, 13 Oct 2026 14:18:46 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8f7/live/95bc4a50-c659-11f1-8600-efb62b613ab5.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Who has made Troy's Premier League team of the week?]]></title>
             <description><![CDATA[After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cme36q1gnpnlo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cme36q1gnpnlo#2</guid>
             <pubDate>Mon, 12 Oct 2026 22:25:57 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83ad/live/75a67e50-c68d-11f1-b789-b92a80d9185b.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Lille considering legal action after Santos injury]]></title>
+            <description><![CDATA[The club have described the tackle on defender Tiago Santos as 'uncontrolled and dangerous'. ]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/c623d0mmym4xo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c623d0mmym4xo#2</guid>
+            <pubDate>Tue, 13 Oct 2026 07:30:58 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c44/live/b3adb900-c6d0-11f1-a486-5fe33afdac53.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ipswich supporter 'feared for life' when Maidstone fan fell on her from stand above]]></title>
+            <description><![CDATA[A man is accused of assault after falling from the upper tier at Ipswich Town on to home supporters.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c6d93ly7p9qyo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6d93ly7p9qyo#2</guid>
+            <pubDate>Tue, 13 Oct 2026 14:18:46 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8f7/live/95bc4a50-c659-11f1-8600-efb62b613ab5.jpg"/>
         </item>
         <item>
             <title><![CDATA[Man Utd eye Simeone - Tuesday's gossip]]></title>
@@ -197,14 +205,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c962y5nd273no#2</guid>
             <pubDate>Mon, 12 Oct 2026 17:09:30 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7513/live/9668f200-c57d-11f1-80f2-5bd1e5df7ada.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Wales given play-off history lesson before Albania second leg]]></title>
-            <description><![CDATA[Wales take a 1-0 lead into their play-off semi-final second leg against Albania as they chase a place at next year's tournament in Brazil.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/c83vqw003kdko?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c83vqw003kdko#2</guid>
-            <pubDate>Tue, 13 Oct 2026 03:33:01 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1de4/live/aec9ef40-c657-11f1-8600-efb62b613ab5.jpg"/>
         </item>
         <item>
             <title><![CDATA[Independent regulator waiting for Man City appeal]]></title>
@@ -255,6 +255,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a53/live/79c5e6b0-c642-11f1-abff-0d918239b2e3.png"/>
         </item>
         <item>
+            <title><![CDATA[Wales given play-off history lesson before Albania second leg]]></title>
+            <description><![CDATA[Wales take a 1-0 lead into their play-off semi-final second leg against Albania as they chase a place at next year's tournament in Brazil.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/c83vqw003kdko?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c83vqw003kdko#5</guid>
+            <pubDate>Tue, 13 Oct 2026 03:33:01 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1de4/live/aec9ef40-c657-11f1-8600-efb62b613ab5.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Ex-Port Vale & Gillingham captain Loft dies at 39]]></title>
             <description><![CDATA[Former Port Vale and Gillingham captain Doug Loft dies at the age of 39, following a medical emergency.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cmkgq1dz5keko?at_medium=RSS&amp;at_campaign=rss</link>
@@ -293,14 +301,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmp3gwz17qn7o#5</guid>
             <pubDate>Mon, 12 Oct 2026 10:26:18 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82df/live/43389720-c60e-11f1-aae8-850c1751d51d.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Peterborough deny making illegal approach for Savage]]></title>
-            <description><![CDATA[Darragh MacAnthony denies claims by Forest Green owner Dale Vince that Peterborough made an illegal approach for manager Robbie Savage.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cr93zn4kq0wjo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cr93zn4kq0wjo#5</guid>
-            <pubDate>Mon, 12 Oct 2026 10:20:21 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f32/live/479dcb60-c621-11f1-b048-6946f232cb95.jpg"/>
         </item>
         <item>
             <title><![CDATA['It's a bad situation' - Why Man City win creates uncertainty]]></title>
@@ -383,6 +383,14 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69f5/live/d9b650d0-c630-11f1-b99d-0127a94fa1d0.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Peterborough deny making illegal approach for Savage]]></title>
+            <description><![CDATA[Darragh MacAnthony denies claims by Forest Green owner Dale Vince that Peterborough made an illegal approach for manager Robbie Savage.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cr93zn4kq0wjo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cr93zn4kq0wjo#7</guid>
+            <pubDate>Mon, 12 Oct 2026 10:20:21 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f32/live/479dcb60-c621-11f1-b048-6946f232cb95.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Northern Ireland will have 'one last swing' at World Cup place]]></title>
             <description><![CDATA[Boss Michael McArdle says Northern Ireland will have "one last swing" at trying to reach a first Women's World Cup as they look to overcome a four-goal play-off deficit in Portugal.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/ckpqg2r4ewgqo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -423,20 +431,20 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc1d/live/05f01c50-c63e-11f1-abff-0d918239b2e3.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Seedorf back in football as Corinthians head coach]]></title>
-            <description><![CDATA[Brazilian club Corinthians appoint Clarence Seedorf as their head coach, with the former Netherlands midfielder taking on his first coaching role since 2019.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cw62y514kpgeo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cw62y514kpgeo#7</guid>
-            <pubDate>Mon, 12 Oct 2026 07:42:53 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfd0/live/09459dd0-c61b-11f1-8c89-b96b8469b965.jpg"/>
-        </item>
-        <item>
             <title><![CDATA['Reminds me of Muller' - Naderi proving worth in Rangers revival]]></title>
             <description><![CDATA[After a slow start to his Rangers career, striker Ryan Naderi is playing an integral role in the club's title challenge and proving his doubters wrong.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cqzjx3z4ljr0o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqzjx3z4ljr0o#9</guid>
             <pubDate>Sat, 10 Oct 2026 20:03:56 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fef6/live/96c713a0-c4e5-11f1-82ba-ff1ecf225248.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Seedorf back in football as Corinthians head coach]]></title>
+            <description><![CDATA[Brazilian club Corinthians appoint Clarence Seedorf as their head coach, with the former Netherlands midfielder taking on his first coaching role since 2019.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cw62y514kpgeo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cw62y514kpgeo#9</guid>
+            <pubDate>Mon, 12 Oct 2026 07:42:53 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfd0/live/09459dd0-c61b-11f1-8c89-b96b8469b965.jpg"/>
         </item>
         <item>
             <title><![CDATA[Football Daily]]></title>
@@ -453,14 +461,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cw7vpzzj0502o#9</guid>
             <pubDate>Sun, 11 Oct 2026 10:49:39 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff14/live/c6301180-c55f-11f1-9cae-455625013d45.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Police officer hurt after Liverpool-Man City game ]]></title>
-            <description><![CDATA[Ten people were arrested amid a heightened atmosphere when the rival teams met at Anfield on Sunday.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c8x23ekvp3ywo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c8x23ekvp3ywo#9</guid>
-            <pubDate>Mon, 12 Oct 2026 14:53:50 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b0b/live/e7951c20-c623-11f1-b048-6946f232cb95.png"/>
         </item>
         <item>
             <title><![CDATA[Russo named England player of the year]]></title>
