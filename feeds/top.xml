@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 13 Oct 2026 08:10:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Oct 2026 08:34:25 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -31,12 +31,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5068/live/eea09e50-c690-11f1-a64c-550be9e3c66b.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Hundreds more prisoners to be freed in second phase of early release scheme ]]></title>
-            <description><![CDATA[Second tranche of prisoners will include those serving up to two and a half years for crimes. ]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cwzrdnrrmgymo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwzrdnrrmgymo#1</guid>
-            <pubDate>Tue, 13 Oct 2026 01:13:33 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fde/live/f25bb670-c6d0-11f1-9a39-31b474234113.jpg"/>
+            <title><![CDATA[Russia's offensive ability is broken, Kyiv's former top general tells BBC]]></title>
+            <description><![CDATA[In his first interview since being forced from his post, Gen Syrskyi speaks about Ukraine's future in the war.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c9y7lgg2vdggo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c9y7lgg2vdggo#1</guid>
+            <pubDate>Tue, 13 Oct 2026 05:02:34 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6198/live/a36bbf70-c6d4-11f1-a64c-550be9e3c66b.jpg"/>
         </item>
         <item>
             <title><![CDATA[Breaking Bad actor RJ Mitte dies aged 34]]></title>
@@ -47,6 +47,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/680a/live/47547a30-c6cd-11f1-bc2e-018d645d8d21.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Emergency calls from botched Christa Pike execution released to US media]]></title>
+            <description><![CDATA[A series of calls, obtained by the Associated Press, reveal emergency services were delayed in reaching Pike.]]></description>
+            <link>https://www.bbc.co.uk/news/videos/cqpvgrkp0xpyo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cqpvgrkp0xpyo#1</guid>
+            <pubDate>Tue, 13 Oct 2026 08:20:07 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec29/live/389f0120-c6de-11f1-a64c-550be9e3c66b.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Publicly owned rail is popular. But is it making the trains run on time?]]></title>
             <description><![CDATA[Meeting travellers' expectations could be challenging, experts warn.]]></description>
             <link>https://www.bbc.co.uk/news/articles/ck5yn0n14r8do?at_medium=RSS&amp;at_campaign=rss</link>
@@ -55,20 +63,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e85/live/da60e6b0-c646-11f1-a64c-550be9e3c66b.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Russia's offensive ability is broken, Kyiv's former top general tells BBC]]></title>
-            <description><![CDATA[In his first interview since being forced from his post, Gen Syrskyi speaks about Ukraine's future in the war.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c9y7lgg2vdggo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c9y7lgg2vdggo#1</guid>
-            <pubDate>Tue, 13 Oct 2026 05:02:34 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6198/live/a36bbf70-c6d4-11f1-a64c-550be9e3c66b.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Emergency calls from botched Christa Pike execution released to US media]]></title>
-            <description><![CDATA[A series of calls, obtained by the Associated Press, reveal emergency services were delayed in reaching Pike.]]></description>
-            <link>https://www.bbc.co.uk/news/videos/cqpvgrkp0xpyo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cqpvgrkp0xpyo#1</guid>
-            <pubDate>Tue, 13 Oct 2026 07:49:13 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5652/live/580c88f0-c6db-11f1-a64c-550be9e3c66b.jpg"/>
+            <title><![CDATA[Hundreds more prisoners to be freed in second phase of early release scheme ]]></title>
+            <description><![CDATA[Second tranche of prisoners will include those serving up to two and a half years for crimes. ]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cwzrdnrrmgymo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwzrdnrrmgymo#1</guid>
+            <pubDate>Tue, 13 Oct 2026 01:13:33 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fde/live/f25bb670-c6d0-11f1-9a39-31b474234113.jpg"/>
         </item>
         <item>
             <title><![CDATA[One dead and several hurt after rollercoaster incident at US amusement park]]></title>
@@ -103,12 +103,12 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2928/live/d7f378e0-c635-11f1-b99d-0127a94fa1d0.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Government expands police support to political figures who are not MPs]]></title>
-            <description><![CDATA[Shabana Mahmood says there is "insufficient protection" for those who play a role in public life.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c3gr82rk70l8o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c3gr82rk70l8o#1</guid>
-            <pubDate>Mon, 12 Oct 2026 19:51:34 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/422c/live/54bcad00-c65f-11f1-8600-efb62b613ab5.jpg"/>
+            <title><![CDATA[Cut screen time in classrooms to avoid long-term health issues, government urged]]></title>
+            <description><![CDATA[A group of clinicians warns technology use in English schools is driving a rise in health problems like short-sightedness.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cq4g18prn4l4o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cq4g18prn4l4o#1</guid>
+            <pubDate>Tue, 13 Oct 2026 08:22:54 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e8b/live/83990bd0-c698-11f1-afad-c9fbb5563667.jpg"/>
         </item>
         <item>
             <title><![CDATA[I lost my hair to MS treatment - now my wigs are worn by Naomi Campbell and Serena Williams  ]]></title>
@@ -199,12 +199,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/18f2/live/ea016980-c6d9-11f1-a64c-550be9e3c66b.jpg"/>
         </item>
         <item>
-            <title><![CDATA[BBC shelves plans for new Archers studio as part of cost-cutting]]></title>
-            <description><![CDATA[The drama has been recording in Birmingham for 75 years, making it the world's longest running soap opera.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/crpdgzxz38nlo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/crpdgzxz38nlo#4</guid>
-            <pubDate>Tue, 13 Oct 2026 03:25:12 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a99a/live/3de40a80-c6a3-11f1-a64c-550be9e3c66b.jpg"/>
+            <title><![CDATA[Government expands police support to political figures who are not MPs]]></title>
+            <description><![CDATA[Shabana Mahmood says there is "insufficient protection" for those who play a role in public life.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c3gr82rk70l8o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c3gr82rk70l8o#4</guid>
+            <pubDate>Mon, 12 Oct 2026 19:51:34 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/422c/live/54bcad00-c65f-11f1-8600-efb62b613ab5.jpg"/>
         </item>
         <item>
             <title><![CDATA[Military police prevented from following evidence in SAS murder probe, inquiry hears]]></title>
@@ -231,20 +231,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf6/live/d1e71250-9509-11ee-8df3-1d2983d8814f.png"/>
         </item>
         <item>
-            <title><![CDATA[Back in the big time - Coventry end 25-year wait for top-flight home win]]></title>
-            <description><![CDATA[Coventry climb out of the relegation zone after ending their 25-year wait for a top-flight goal and victory in front of their own fans.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cw78p7l7rp30o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cw78p7l7rp30o#8</guid>
-            <pubDate>Mon, 12 Oct 2026 22:34:32 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3bb/live/75fce310-c68a-11f1-a387-7d6d38bf2d79.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Is Man Utd's Fernandes issue a symptom or reason for their form?]]></title>
-            <description><![CDATA[Manchester United skipper Bruno Fernandes is yet to reach the highs of last season - is it because of his side's poor start or the reason for it?]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cr4g10nz0593o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cr4g10nz0593o#8</guid>
-            <pubDate>Tue, 13 Oct 2026 05:47:49 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ba7/live/4796ffe0-c669-11f1-8b8f-ddd45afdc2fc.jpg"/>
+            <title><![CDATA[How much did Man City's rule breaking cost your team?]]></title>
+            <description><![CDATA[The potential impact of Manchester City's rule breaking runs deep, including missed Champions League qualification, relegation and Premier League prize money.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cmq5nljx7972o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmq5nljx7972o#8</guid>
+            <pubDate>Tue, 13 Oct 2026 08:12:53 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c146/live/274c5090-c642-11f1-abff-0d918239b2e3.jpg"/>
         </item>
         <item>
             <title><![CDATA[South Africa attempt to deny Australia on final day - Test scorecard]]></title>
@@ -255,6 +247,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e20b/live/77772a90-c6d8-11f1-9a39-31b474234113.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Is Man Utd's Fernandes issue a symptom or reason for their form?]]></title>
+            <description><![CDATA[Manchester United skipper Bruno Fernandes is yet to reach the highs of last season - is it because of his side's poor start or the reason for it?]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cr4g10nz0593o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cr4g10nz0593o#8</guid>
+            <pubDate>Tue, 13 Oct 2026 05:47:49 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ba7/live/4796ffe0-c669-11f1-8b8f-ddd45afdc2fc.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Saracens sack academy player Auvaa after latest incident]]></title>
             <description><![CDATA[Saracens sack Totoa Auvaa, the academy player who was involved in a nightclub incident with England cricketers Ben Stokes and Gus Atkinson, after another incident.]]></description>
             <link>https://www.bbc.co.uk/sport/rugby-union/articles/ckvgdegy18e6o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -263,12 +263,12 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/10dc/live/a418ab10-70ce-11f1-b217-6f3746be3039.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Lewis left out for England's Rugby League World Cup opener]]></title>
-            <description><![CDATA[Harry Smith is named alongside captain George Williams in the England half-back roles for their 2026 Rugby League World Cup opening match against Tonga - with Mikey Lewis left out.]]></description>
-            <link>https://www.bbc.co.uk/sport/rugby-league/articles/cmq8n00zxj49o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/rugby-league/articles/cmq8n00zxj49o#8</guid>
-            <pubDate>Tue, 13 Oct 2026 06:05:59 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/983e/live/4b0546d0-c6c5-11f1-9b46-7b2f89ed4491.jpg"/>
+            <title><![CDATA[Back in the big time - Coventry end 25-year wait for top-flight home win]]></title>
+            <description><![CDATA[Coventry climb out of the relegation zone after ending their 25-year wait for a top-flight goal and victory in front of their own fans.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cw78p7l7rp30o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cw78p7l7rp30o#8</guid>
+            <pubDate>Mon, 12 Oct 2026 22:34:32 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3bb/live/75fce310-c68a-11f1-a387-7d6d38bf2d79.jpg"/>
         </item>
         <item>
             <title><![CDATA[Does Norris-Piastri crash show 'papaya rules' failing? - F1 Q&A]]></title>
@@ -279,8 +279,8 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9846/live/95e68220-c5aa-11f1-bea7-1dc95e2ed033.jpg"/>
         </item>
         <item>
-            <title><![CDATA[An insurance policy with no guarantee - the complex issue of egg-freezing in sport]]></title>
-            <description><![CDATA[BBC Sport examines the potential benefits, risks and unanswered questions facing female athletes about egg-freezing.]]></description>
+            <title><![CDATA[An insurance policy with no guarantee - the complex issue of egg freezing in sport]]></title>
+            <description><![CDATA[BBC Sport examines the potential benefits, risks and unanswered questions facing female athletes about egg freezing.]]></description>
             <link>https://www.bbc.co.uk/sport/netball/articles/cv98zl9579ggo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/netball/articles/cv98zl9579ggo#8</guid>
             <pubDate>Tue, 13 Oct 2026 05:12:56 GMT</pubDate>
