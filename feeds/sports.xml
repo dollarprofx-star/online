@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/sport/football</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 13 Oct 2026 14:34:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Oct 2026 15:01:01 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -87,14 +87,6 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83ad/live/75a67e50-c68d-11f1-b789-b92a80d9185b.png"/>
         </item>
         <item>
-            <title><![CDATA[Coventry announce themselves back in the big time]]></title>
-            <description><![CDATA[Coventry climb out of the relegation zone after ending their 25-year wait for a top-flight goal and victory in front of their own fans.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cw78p7l7rp30o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cw78p7l7rp30o#0</guid>
-            <pubDate>Mon, 12 Oct 2026 22:34:32 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3bb/live/75fce310-c68a-11f1-a387-7d6d38bf2d79.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Lille considering legal action after Santos injury]]></title>
             <description><![CDATA[The club have described the tackle on defender Tiago Santos as 'uncontrolled and dangerous'. ]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/c623d0mmym4xo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -103,12 +95,28 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c44/live/b3adb900-c6d0-11f1-a486-5fe33afdac53.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Netflix secures 2030 World Cup TV rights in Spain]]></title>
+            <description><![CDATA[Netflix will broadcast World Cup games for the first time in 2030 as it secures the rights to show World Cup games in co-host Spain and Andorra.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/c3zxj4k7kz9eo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c3zxj4k7kz9eo#0</guid>
+            <pubDate>Tue, 13 Oct 2026 14:54:31 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c70f/live/a3cff650-c712-11f1-9a5a-91141f7a4b0e.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[After 27 titles in 23 years at Real Madrid, Carvajal joins Getafe]]></title>
             <description><![CDATA[Former Real Madrid captain Dani Carvajal joins Getafe as a free agent after his contract expired in June.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cxr5ydvl41dlo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cxr5ydvl41dlo#1</guid>
             <pubDate>Tue, 13 Oct 2026 09:21:36 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92e0/live/15a772c0-c6e2-11f1-bf38-57dc5cd42af2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Coventry announce themselves back in the big time]]></title>
+            <description><![CDATA[Coventry climb out of the relegation zone after ending their 25-year wait for a top-flight goal and victory in front of their own fans.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cw78p7l7rp30o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cw78p7l7rp30o#1</guid>
+            <pubDate>Mon, 12 Oct 2026 22:34:32 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3bb/live/75fce310-c68a-11f1-a387-7d6d38bf2d79.jpg"/>
         </item>
         <item>
             <title><![CDATA[Who am I? Plus today's other quizzes]]></title>
@@ -138,7 +146,7 @@
             <title><![CDATA[Man Utd eye Simeone - Tuesday's gossip]]></title>
             <description><![CDATA[Manchester United interested in Atletico Madrid's Giuliano Simeone, Chelsea willing to meet Bournemouth's asking price for Alex Scott, Premier League clubs want Inter's Aleksandar Stankovic.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cmy8376gz5nvo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmy8376gz5nvo#1</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmy8376gz5nvo#2</guid>
             <pubDate>Mon, 12 Oct 2026 20:49:48 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/164b/live/997c5530-c67d-11f1-841c-2105a54cdb08.png"/>
         </item>
@@ -146,7 +154,7 @@
             <title><![CDATA[Do Lionesses lack ruthlessness in front of goal?]]></title>
             <description><![CDATA[England take a two-goal lead into the second leg of their Women's World Cup qualifying play-off against Greece - but should it be more?]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cwe8rvm8yl93o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cwe8rvm8yl93o#1</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cwe8rvm8yl93o#2</guid>
             <pubDate>Mon, 12 Oct 2026 16:54:32 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf7f/live/a5c37940-c65f-11f1-8600-efb62b613ab5.jpg"/>
         </item>
@@ -167,28 +175,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1de4/live/aec9ef40-c657-11f1-8600-efb62b613ab5.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Women's billion-dollar boom leaves players behind, says Fifpro]]></title>
-            <description><![CDATA[Women's football is on course to become a billion-dollar industry, but many professional players are still earning low wages, working on insecure contracts and experiencing rising psychological stress, a Fifpro survey indicates.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cmd7qn1g0xrxo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmd7qn1g0xrxo#2</guid>
-            <pubDate>Mon, 12 Oct 2026 10:04:50 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/779a/live/b7058b10-c616-11f1-bc2e-018d645d8d21.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Ex-Port Vale & Gillingham captain Loft dies at 39]]></title>
             <description><![CDATA[Former Port Vale and Gillingham captain Doug Loft dies at the age of 39, following a medical emergency.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cmkgq1dz5keko?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmkgq1dz5keko#2</guid>
             <pubDate>Mon, 12 Oct 2026 15:12:32 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/17fc/live/1ebca980-c650-11f1-b47f-e3f9cf703bc3.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The 'Kane-esque' striker Spurs may regret letting go]]></title>
-            <description><![CDATA[Will Lankshear's positioning, finishing and poacher's instinct have made him an instant hit at Riverside Stadium – and a cause of lament at Tottenham Hotspur Stadium.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cq1kdmej1xnvo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cq1kdmej1xnvo#2</guid>
-            <pubDate>Mon, 12 Oct 2026 05:40:07 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a725/live/34b5c0f0-c4d9-11f1-9a39-31b474234113.jpg"/>
         </item>
         <item>
             <title><![CDATA[What Manchester's 'super-profit' deal with City owners has paid out so far]]></title>
@@ -247,6 +239,22 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5eb1/live/b6acecb0-c677-11f1-8165-49c09cbfa390.jpg"/>
         </item>
         <item>
+            <title><![CDATA[The 'Kane-esque' striker Spurs may regret letting go]]></title>
+            <description><![CDATA[Will Lankshear's positioning, finishing and poacher's instinct have made him an instant hit at Riverside Stadium – and a cause of lament at Tottenham Hotspur Stadium.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cq1kdmej1xnvo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cq1kdmej1xnvo#5</guid>
+            <pubDate>Mon, 12 Oct 2026 05:40:07 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a725/live/34b5c0f0-c4d9-11f1-9a39-31b474234113.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Women's billion-dollar boom leaves players behind, says Fifpro]]></title>
+            <description><![CDATA[Women's football is on course to become a billion-dollar industry, but many professional players are still earning low wages, working on insecure contracts and experiencing rising psychological stress, a Fifpro survey indicates.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cmd7qn1g0xrxo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmd7qn1g0xrxo#5</guid>
+            <pubDate>Mon, 12 Oct 2026 10:04:50 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/779a/live/b7058b10-c616-11f1-bc2e-018d645d8d21.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Elite schedule 'not sustainable' amid 55-game seasons]]></title>
             <description><![CDATA[The Premier League may have just returned from a three-week break, but for many of its stars there was no rest at all.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cmp3gwz17qn7o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -277,22 +285,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cr93zn4kq0wjo#5</guid>
             <pubDate>Mon, 12 Oct 2026 10:20:21 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f32/live/479dcb60-c621-11f1-b048-6946f232cb95.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Wales wary but eye record run in World Cup bid]]></title>
-            <description><![CDATA[Rhian Wilkinson warns favourites Wales not to underestimate Albania in the second leg of their World Cup play-off semi-final.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cmd6d5980jz3o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmd6d5980jz3o#5</guid>
-            <pubDate>Mon, 12 Oct 2026 15:31:33 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dbc0/live/f6654e80-c625-11f1-b048-6946f232cb95.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Northern Ireland will have 'one last swing' at World Cup place]]></title>
-            <description><![CDATA[Boss Michael McArdle says Northern Ireland will have "one last swing" at trying to reach a first Women's World Cup as they look to overcome a four-goal play-off deficit in Portugal.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/ckpqg2r4ewgqo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ckpqg2r4ewgqo#5</guid>
-            <pubDate>Mon, 12 Oct 2026 15:46:33 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4410/live/734c6e10-c653-11f1-8600-efb62b613ab5.jpg"/>
         </item>
         <item>
             <title><![CDATA[Hull continue good start with entertaining Everton draw]]></title>
@@ -359,6 +351,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/21d0/live/24953340-c4f7-11f1-bc2e-018d645d8d21.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Northern Ireland will have 'one last swing' at World Cup place]]></title>
+            <description><![CDATA[Boss Michael McArdle says Northern Ireland will have "one last swing" at trying to reach a first Women's World Cup as they look to overcome a four-goal play-off deficit in Portugal.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/ckpqg2r4ewgqo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ckpqg2r4ewgqo#7</guid>
+            <pubDate>Mon, 12 Oct 2026 15:46:33 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4410/live/734c6e10-c653-11f1-8600-efb62b613ab5.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[BBC Women's Football Weekly]]></title>
             <description><![CDATA[How can Sarina Wiegman’s side become more ruthless in the final third?]]></description>
             <link>https://www.bbc.co.uk/sounds/play/p0pgbr8n?at_medium=RSS&amp;at_campaign=rss</link>
@@ -397,14 +397,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cw62y514kpgeo#7</guid>
             <pubDate>Mon, 12 Oct 2026 07:42:53 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfd0/live/09459dd0-c61b-11f1-8c89-b96b8469b965.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[McCabe and O'Sullivan to feature in Cork - Ward]]></title>
-            <description><![CDATA[Republic of Ireland manager Carla Ward confirms that Katie McCabe and Denise O'Sullivan will feature in the second leg of their Women's World Cup play-off against Kazakhstan, despite the Irish holding an 8-0 advantage from the first leg.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cx1l3p3ve8g9o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cx1l3p3ve8g9o#7</guid>
-            <pubDate>Mon, 12 Oct 2026 16:01:17 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5304/live/4ab36670-c63a-11f1-b99d-0127a94fa1d0.jpg"/>
         </item>
         <item>
             <title><![CDATA['Reminds me of Muller' - Naderi proving worth in Rangers revival]]></title>
