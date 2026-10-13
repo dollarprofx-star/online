@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/sport/football</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 13 Oct 2026 19:41:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Oct 2026 20:07:28 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -63,22 +63,23 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c146/live/274c5090-c642-11f1-abff-0d918239b2e3.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Richarlison starts for Spurs Under-21s in EFL Trophy]]></title>
-            <description><![CDATA[Out-of-favour Tottenham striker Richarlison starts for the club's under-21s in their EFL Trophy game at Cheltenham.
-
-]]></description>
-            <link>https://www.bbc.co.ukundefined/?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.ukundefined/#1</guid>
-            <pubDate>Tue, 13 Oct 2026 18:14:04 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b918/live/2fc57270-c731-11f1-b881-4391ac746e04.jpg"/>
-        </item>
-        <item>
             <title><![CDATA['Criticised for what?' - Maresca defends Anfield celebrations]]></title>
             <description><![CDATA[Manager Enzo Maresca reacts to criticism of Manchester City's celebrations after their win at Liverpool by saying: "What do you want us to do?"]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/ckn9r1ygv81wo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ckn9r1ygv81wo#1</guid>
             <pubDate>Tue, 13 Oct 2026 13:04:04 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2fc2/live/7a52ab60-c708-11f1-9783-ed95709f9dec.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Richarlison scores for Spurs Under-21s in EFL Trophy]]></title>
+            <description><![CDATA[Out-of-favour Tottenham striker Richarlison scores for the club's under-21s in their EFL Trophy win at Cheltenham Town.
+
+
+]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cx4g141vpe3eo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cx4g141vpe3eo#1</guid>
+            <pubDate>Tue, 13 Oct 2026 19:58:09 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a99d/live/eb9b2870-c73e-11f1-9085-f95bdc648acc.jpg"/>
         </item>
         <item>
             <title><![CDATA[Carragher settles tax debt to avoid bankruptcy]]></title>
