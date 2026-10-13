@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 13 Oct 2026 10:58:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Oct 2026 11:17:37 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -87,7 +87,7 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c9b1/live/c0667080-c6e7-11f1-bf38-57dc5cd42af2.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Bulgarian PM summons Russian ambassador after ship sinks in Black Sea drone attack]]></title>
+            <title><![CDATA[Bulgaria summons Russian ambassador after ship sinks in Black Sea drone attack]]></title>
             <description><![CDATA[Eleven crew members are missing after a merchant ship was sunk overnight, local officials say.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cmn06w5x9g25o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmn06w5x9g25o#1</guid>
@@ -179,7 +179,7 @@
             <description><![CDATA[A man, a woman and two children are confirmed dead and two other children are critically ill.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cq073814llkjo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cq073814llkjo#4</guid>
-            <pubDate>Tue, 13 Oct 2026 10:40:48 GMT</pubDate>
+            <pubDate>Tue, 13 Oct 2026 11:08:02 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/51ca/live/9f8f10c0-c6f0-11f1-a8c6-978790dcd160.jpg"/>
         </item>
         <item>
@@ -239,7 +239,7 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c146/live/274c5090-c642-11f1-abff-0d918239b2e3.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Australia close on win but Markram remains for South Africa - scorecard]]></title>
+            <title><![CDATA[Markram remains but Australia on the brink of victory - scorecard]]></title>
             <description><![CDATA[Latest scorecard from the first Test between South Africa and Australia in Durban.]]></description>
             <link>https://www.bbc.co.uk/sport/cricket/scorecard/e-236997?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/cricket/scorecard/e-236997#8</guid>
