@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/sport/football</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 13 Oct 2026 13:07:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Oct 2026 13:36:38 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -23,20 +23,20 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c146/live/274c5090-c642-11f1-abff-0d918239b2e3.jpg"/>
         </item>
         <item>
+            <title><![CDATA['Criticised for what?' - Maresca defends Anfield celebrations]]></title>
+            <description><![CDATA[Manager Enzo Maresca reacts to criticism of Manchester City's celebrations after their win at Liverpool by saying: "What do you want us to do?"]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/ckn9r1ygv81wo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ckn9r1ygv81wo#0</guid>
+            <pubDate>Tue, 13 Oct 2026 13:04:04 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2fc2/live/7a52ab60-c708-11f1-9783-ed95709f9dec.png"/>
+        </item>
+        <item>
             <title><![CDATA[Carragher settles tax debt to avoid bankruptcy]]></title>
             <description><![CDATA[Jamie Carragher has settled an unpaid tax bill with His Majesty's Revenue and Customs.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cw3djkpp2g78o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cw3djkpp2g78o#0</guid>
             <pubDate>Tue, 13 Oct 2026 11:02:28 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07f4/live/59f57ff0-a20a-11f1-ac57-b5f31f9074ef.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['Criticised for what?' - Maresca defends Anfield celebrations]]></title>
-            <description><![CDATA[Manchester City boss Enzo Maresca reacts to criticism of his team's celebrations at Liverpool by asking: "What do you want us to do?".]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/ckn9r1ygv81wo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ckn9r1ygv81wo#0</guid>
-            <pubDate>Tue, 13 Oct 2026 13:04:04 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c02c/live/e39b01b0-c700-11f1-b4dd-e786ec6f11b1.png"/>
         </item>
         <item>
             <title><![CDATA[Is Man Utd's Fernandes issue a symptom or reason for their form?]]></title>
