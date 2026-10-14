@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news/world</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 14 Oct 2026 17:44:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Oct 2026 18:13:26 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/world/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -185,6 +185,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/acc2/live/919d9da0-c746-11f1-a64c-550be9e3c66b.jpg"/>
         </item>
         <item>
+            <title><![CDATA[What if you could turn off your algorithm? Australia is about to try]]></title>
+            <description><![CDATA[New legislation is being tabled in Australia's parliament today to force big tech to allow users to switch off algorithms which send them recommended content.]]></description>
+            <link>https://www.bbc.co.uk/news/videos/ck78pj2qy42po?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/ck78pj2qy42po#3</guid>
+            <pubDate>Wed, 14 Oct 2026 18:00:54 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2835/live/1c61d100-c7fa-11f1-bc2e-018d645d8d21.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[What we know about the Pope's lung cancer diagnosis]]></title>
             <description><![CDATA[The Pope is recovering in hospital after a successful surgery to remove part of his right lung.]]></description>
             <link>https://www.bbc.co.uk/news/videos/cwyvrmp9qgrgo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -215,14 +223,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cm8xkxn8lqkeo#3</guid>
             <pubDate>Tue, 13 Oct 2026 22:00:20 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a9d/live/c0c4d690-be07-11f1-babe-4199b0e7ccea.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Inside Katie Zacharia's very brief White House briefing]]></title>
-            <description><![CDATA[The BBC's Sarah Smith was in the room and describes Zacharia's performance and the moment she broke news about Kimberly Guilfoyle being asked to resign.]]></description>
-            <link>https://www.bbc.co.uk/news/videos/cxm235y4l54lo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cxm235y4l54lo#3</guid>
-            <pubDate>Tue, 13 Oct 2026 17:04:37 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4614/live/b81d5210-c726-11f1-9a39-31b474234113.jpg"/>
         </item>
     </channel>
 </rss>
