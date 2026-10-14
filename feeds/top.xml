@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 14 Oct 2026 07:51:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Oct 2026 08:21:28 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -19,7 +19,7 @@
             <description><![CDATA[William Chapman was attacked by the tiger after he entered its pen at Yorkshire Wildlife Park.]]></description>
             <link>https://www.bbc.co.uk/news/articles/ck054nvzr676o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ck054nvzr676o#1</guid>
-            <pubDate>Tue, 13 Oct 2026 23:58:56 GMT</pubDate>
+            <pubDate>Wed, 14 Oct 2026 07:57:10 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/144a/live/95c60aa0-c793-11f1-9a39-31b474234113.jpg"/>
         </item>
         <item>
@@ -47,15 +47,7 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d6b/live/880ad440-c79d-11f1-a64c-550be9e3c66b.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Pope diagnosed with lung cancer but had successful surgery, Vatican says]]></title>
-            <description><![CDATA[Pope Leo had a "peaceful night" in the hospital after the surgery to remove a lower lobe of his right lung, the Vatican says.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o#1</guid>
-            <pubDate>Wed, 14 Oct 2026 07:23:46 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e2a0/live/ccd96d30-c792-11f1-a64c-550be9e3c66b.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Saudi man charged with planting 'sophisticated' recording device in OpenAI office]]></title>
+            <title><![CDATA[Saudi employee charged with planting recording device in OpenAI office]]></title>
             <description><![CDATA[Prosecutors say the device, wrapped in toilet paper, was found inserted in a USB port on the back of a TV in an executive conference room. ]]></description>
             <link>https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo#1</guid>
@@ -87,12 +79,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4d4/live/9551bda0-c796-11f1-9a39-31b474234113.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Actress Selma Blair faces charges for kicking nurse and officer after plane incident]]></title>
-            <description><![CDATA[The Legally Blonde actress faces two counts of assault for allegedly kicking a police officer and a nurse after allegedly attacking attendants on a flight.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/ck86zje2z4pwo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ck86zje2z4pwo#1</guid>
-            <pubDate>Tue, 13 Oct 2026 22:59:37 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1604/live/01ecf900-c74e-11f1-b4d5-87f9c6c95a29.jpg"/>
+            <title><![CDATA[Pope diagnosed with lung cancer but had successful surgery, Vatican says]]></title>
+            <description><![CDATA[Pope Leo had a "peaceful night" in the hospital after the surgery to remove a lower lobe of his right lung, the Vatican says.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o#1</guid>
+            <pubDate>Wed, 14 Oct 2026 07:23:46 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e2a0/live/ccd96d30-c792-11f1-a64c-550be9e3c66b.jpg"/>
         </item>
         <item>
             <title><![CDATA[Gales and heavy rain to impact UK as yellow wind warning issued]]></title>
@@ -143,7 +135,7 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/acc2/live/919d9da0-c746-11f1-a64c-550be9e3c66b.jpg"/>
         </item>
         <item>
-            <title><![CDATA['Spray and pray': How AI job applications can backfire]]></title>
+            <title><![CDATA['I applied for 200 jobs' - How 'spray and pray' AI job applications can backfire]]></title>
             <description><![CDATA[Graduates are increasingly using AI to misrepresent themselves in job applications, research suggests. But some say their peer group has no choice.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c623dnkn8pkyo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c623dnkn8pkyo#2</guid>
@@ -175,12 +167,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0bfb/live/6e2d8910-c738-11f1-9a39-31b474234113.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Turkey police raid opposition TV station, halting live broadcasts]]></title>
+            <title><![CDATA[Turkish police raid opposition TV station, halting live broadcasts]]></title>
             <description><![CDATA[Halk TV says its staff are unable to enter the building in Istanbul and a new manager has been appointed.]]></description>
             <link>https://www.bbc.co.uk/news/articles/crx23y3d970vo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/crx23y3d970vo#4</guid>
-            <pubDate>Wed, 14 Oct 2026 06:32:02 GMT</pubDate>
+            <pubDate>Wed, 14 Oct 2026 08:17:43 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd58/live/148a7250-c798-11f1-b506-c77373b53604.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Actress Selma Blair faces charges for kicking nurse and officer after plane incident]]></title>
+            <description><![CDATA[The Legally Blonde actress faces two counts of assault for allegedly kicking a police officer and a nurse after allegedly attacking attendants on a flight.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/ck86zje2z4pwo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ck86zje2z4pwo#4</guid>
+            <pubDate>Tue, 13 Oct 2026 22:59:37 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1604/live/01ecf900-c74e-11f1-b4d5-87f9c6c95a29.jpg"/>
         </item>
         <item>
             <title><![CDATA[Zelensky and Burnham to meet in Downing Street]]></title>
@@ -191,28 +191,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29cd/live/e9e20c80-c79b-11f1-9a39-31b474234113.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Lena Dunham's Girls to return for limited HBO run]]></title>
-            <description><![CDATA[Ten years after the series finale, the "Girls" are getting back together to explore the "milestone of turning forty", HBO says.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c9m26xp4zp8jo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c9m26xp4zp8jo#4</guid>
-            <pubDate>Wed, 14 Oct 2026 02:09:30 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/243d/live/cb0a4af0-c770-11f1-ab87-2bb7c0d2443c.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Not building third runway would be 'huge missed opportunity', warns Heathrow boss]]></title>
-            <description><![CDATA[Thomas Woldbye tells the Today progamme it would be "good to know" the government's position on the project, after comments made by the prime minister.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/ckdd8egder5ro?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckdd8egder5ro#4</guid>
-            <pubDate>Wed, 14 Oct 2026 04:59:06 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/645d/live/6faaea30-c74c-11f1-a64c-550be9e3c66b.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Robot seized by German police after it was allegedly used to grope teenage girl]]></title>
             <description><![CDATA[Police have launched an investigation on suspicion of sexual harassment after the robot's owner, 16, and his companion are said to have streamed the incident.]]></description>
             <link>https://www.bbc.co.uk/news/articles/ck9dzj40nzj5o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ck9dzj40nzj5o#4</guid>
             <pubDate>Tue, 13 Oct 2026 23:50:23 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8156/live/62cbcee0-c749-11f1-b4d5-87f9c6c95a29.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lena Dunham's Girls to return for limited HBO run]]></title>
+            <description><![CDATA[Ten years after the series finale, the "Girls" are getting back together to explore the "milestone of turning forty", HBO says.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c9m26xp4zp8jo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c9m26xp4zp8jo#4</guid>
+            <pubDate>Wed, 14 Oct 2026 02:09:30 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/243d/live/cb0a4af0-c770-11f1-ab87-2bb7c0d2443c.jpg"/>
         </item>
         <item>
             <title><![CDATA[Russell T Davies criticises BBC boss's 'clumsy' AI Doctor Who comments]]></title>
@@ -239,6 +231,14 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f810/live/6b054b60-c756-11f1-8157-e5961116a2ed.jpg"/>
         </item>
         <item>
+            <title><![CDATA['No excuses' - but is Villa's stadium rebuild affecting team?]]></title>
+            <description><![CDATA[With Villa Park's North Stand currently closed for building work, is the reduced capacity affecting Aston Villa's performances?]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cx054n684g7do?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cx054n684g7do#8</guid>
+            <pubDate>Wed, 14 Oct 2026 05:41:06 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e4f/live/5fa81060-c6eb-11f1-bc1b-8dfa7c975faa.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Saka responds to Arteta's challenge with 'huge impact']]></title>
             <description><![CDATA[Bukayo Saka responds to the challenge set by Mikel Arteta as he comes off the bench to change the game against Lille in the Champions League.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cqrlyd1grwkko?at_medium=RSS&amp;at_campaign=rss</link>
@@ -255,20 +255,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7651/live/6f952e60-c743-11f1-b4d5-87f9c6c95a29.jpg"/>
         </item>
         <item>
-            <title><![CDATA['No excuses' - but is Villa's stadium rebuild affecting team?]]></title>
-            <description><![CDATA[With Villa Park's North Stand currently closed for building work, is the reduced capacity affecting Aston Villa's performances?]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cx054n684g7do?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cx054n684g7do#8</guid>
-            <pubDate>Wed, 14 Oct 2026 05:41:06 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e4f/live/5fa81060-c6eb-11f1-bc1b-8dfa7c975faa.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[A 'landmark' moment - why has Rwanda been chosen to host F1?]]></title>
-            <description><![CDATA[How Rwanda has succeeded where Morocco and South Africa, among others, have failed by agreeing a deal to stage the African Grand Prix.]]></description>
-            <link>https://www.bbc.co.uk/sport/formula1/articles/cw62yglre6y5o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/formula1/articles/cw62yglre6y5o#8</guid>
-            <pubDate>Tue, 13 Oct 2026 15:01:17 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c63/live/b5e87b10-c702-11f1-b4dd-e786ec6f11b1.jpg"/>
+            <title><![CDATA[Rams player suspended for punch & kicker cut by club]]></title>
+            <description><![CDATA[The fallout from the Los Angeles Rams' defeat by the Buffalo Bills continues as offensive lineman Alaric Jackson is suspended for punching an opponent while kicker Harrison Mevis is released.]]></description>
+            <link>https://www.bbc.co.uk/sport/american-football/articles/c5zjxnwm8dzpo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/american-football/articles/c5zjxnwm8dzpo#8</guid>
+            <pubDate>Tue, 13 Oct 2026 21:47:36 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3dbc/live/aa138050-c74d-11f1-b4d5-87f9c6c95a29.png"/>
         </item>
     </channel>
 </rss>
