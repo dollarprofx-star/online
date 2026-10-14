@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 14 Oct 2026 08:21:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Oct 2026 09:00:24 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -19,7 +19,7 @@
             <description><![CDATA[William Chapman was attacked by the tiger after he entered its pen at Yorkshire Wildlife Park.]]></description>
             <link>https://www.bbc.co.uk/news/articles/ck054nvzr676o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ck054nvzr676o#1</guid>
-            <pubDate>Wed, 14 Oct 2026 07:57:10 GMT</pubDate>
+            <pubDate>Wed, 14 Oct 2026 08:44:04 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/144a/live/95c60aa0-c793-11f1-9a39-31b474234113.jpg"/>
         </item>
         <item>
@@ -55,12 +55,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e7bf/live/83811950-c790-11f1-a64c-550be9e3c66b.jpg"/>
         </item>
         <item>
-            <title><![CDATA[World's oldest shipwreck found off coast of Turkey]]></title>
+            <title><![CDATA[Shipwreck thought to be 4,700 years old found off coast of Turkey]]></title>
             <description><![CDATA[Archaeologists say the wreck is up to 4,700 years old, dating to the Early Bronze Age.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c6gr80rk1yyko?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6gr80rk1yyko#1</guid>
             <pubDate>Wed, 14 Oct 2026 05:00:35 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/19d5/live/72e7aa00-c71d-11f1-a82f-35874a3aae81.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why the lonely in China are hiring 'temporary children']]></title>
+            <description><![CDATA[A new industry being dubbed the “loneliness economy” has emerged in China, with people hiring themselves out as companions to help the elderly.]]></description>
+            <link>https://www.bbc.co.uk/news/videos/cm8xkxn8lqkeo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cm8xkxn8lqkeo#1</guid>
+            <pubDate>Tue, 13 Oct 2026 22:00:20 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a9d/live/c0c4d690-be07-11f1-babe-4199b0e7ccea.jpg"/>
         </item>
         <item>
             <title><![CDATA[Saudi Arabia overturns death sentence for man over Facebook comment, Sri Lanka says]]></title>
@@ -83,7 +91,7 @@
             <description><![CDATA[Pope Leo had a "peaceful night" in the hospital after the surgery to remove a lower lobe of his right lung, the Vatican says.]]></description>
             <link>https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o#1</guid>
-            <pubDate>Wed, 14 Oct 2026 07:23:46 GMT</pubDate>
+            <pubDate>Wed, 14 Oct 2026 08:53:40 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e2a0/live/ccd96d30-c792-11f1-a64c-550be9e3c66b.jpg"/>
         </item>
         <item>
@@ -93,14 +101,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/weather/articles/cxvgdq0jj8d2o#1</guid>
             <pubDate>Tue, 13 Oct 2026 23:55:49 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a22/live/f73dcdc0-c6e1-11f1-bf38-57dc5cd42af2.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Watch: Hong Kong crowds queue to see Van Gogh painting unveiled for first time in 60 years]]></title>
-            <description><![CDATA[Châtaigniers en fleurs, also known as Chestnut Trees in Blossom, is expected to receive record bids at auction this weekend.]]></description>
-            <link>https://www.bbc.co.uk/news/videos/ck0e0l3le555o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/ck0e0l3le555o#1</guid>
-            <pubDate>Wed, 14 Oct 2026 04:21:25 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d895/live/9b1f8260-c784-11f1-9a39-31b474234113.jpg"/>
         </item>
         <item>
             <title><![CDATA[Pictured: Winning entries for Wildlife Photographer of the Year 2026]]></title>
@@ -139,7 +139,7 @@
             <description><![CDATA[Graduates are increasingly using AI to misrepresent themselves in job applications, research suggests. But some say their peer group has no choice.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c623dnkn8pkyo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c623dnkn8pkyo#2</guid>
-            <pubDate>Wed, 14 Oct 2026 06:52:33 GMT</pubDate>
+            <pubDate>Wed, 14 Oct 2026 08:27:17 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38df/live/64af4870-c6e7-11f1-bf38-57dc5cd42af2.jpg"/>
         </item>
         <item>
@@ -159,6 +159,14 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d9f2/live/acc20ab0-c6ee-11f1-a64c-550be9e3c66b.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Sign up now]]></title>
+            <description><![CDATA[From news and politics to technology and the royals, get the best BBC journalism to your inbox.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c2lkky9zngvo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c2lkky9zngvo#3</guid>
+            <pubDate>Wed, 09 Sep 2026 10:24:59 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a71/live/3d86bbd0-c641-11f1-a64c-550be9e3c66b.png"/>
+        </item>
+        <item>
             <title><![CDATA[Cornell bans all fraternity parties over gang sex assault allegations]]></title>
             <description><![CDATA[The school has faced an uproar over how it handled assault allegations brought by a woman known as Jane Doe. ]]></description>
             <link>https://www.bbc.co.uk/news/articles/cw8dzg094zd9o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -172,7 +180,15 @@
             <link>https://www.bbc.co.uk/news/articles/crx23y3d970vo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/crx23y3d970vo#4</guid>
             <pubDate>Wed, 14 Oct 2026 08:17:43 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd58/live/148a7250-c798-11f1-b506-c77373b53604.jpg"/>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e70f/live/ab877350-c7a8-11f1-a624-a3d8608fc192.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Hong Kong crowds queue to see Van Gogh painting unveiled for first time in 60 years]]></title>
+            <description><![CDATA[Châtaigniers en fleurs, also known as Chestnut Trees in Blossom, is expected to receive record bids at auction this weekend.]]></description>
+            <link>https://www.bbc.co.uk/news/videos/ck0e0l3le555o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/ck0e0l3le555o#4</guid>
+            <pubDate>Wed, 14 Oct 2026 04:21:25 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d895/live/9b1f8260-c784-11f1-9a39-31b474234113.jpg"/>
         </item>
         <item>
             <title><![CDATA[Actress Selma Blair faces charges for kicking nurse and officer after plane incident]]></title>
@@ -207,14 +223,6 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/243d/live/cb0a4af0-c770-11f1-ab87-2bb7c0d2443c.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Russell T Davies criticises BBC boss's 'clumsy' AI Doctor Who comments]]></title>
-            <description><![CDATA[BBC director general Matt Brittin said he had seen a "pretty good" AI-generated episode of the show.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c8040531w45eo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c8040531w45eo#4</guid>
-            <pubDate>Wed, 14 Oct 2026 04:58:47 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd57/live/99daefe0-c741-11f1-9085-f95bdc648acc.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[BBC News app]]></title>
             <description><![CDATA[Top stories, breaking news, live reporting, and follow news topics that match your interests]]></description>
             <link>https://www.bbc.co.uk/news/10628994?at_medium=RSS&amp;at_campaign=rss</link>
@@ -236,7 +244,7 @@
             <link>https://www.bbc.co.uk/sport/football/articles/cx054n684g7do?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cx054n684g7do#8</guid>
             <pubDate>Wed, 14 Oct 2026 05:41:06 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e4f/live/5fa81060-c6eb-11f1-bc1b-8dfa7c975faa.jpg"/>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a34/live/ea641a80-c7ab-11f1-86ef-693282d0a891.jpg"/>
         </item>
         <item>
             <title><![CDATA[Saka responds to Arteta's challenge with 'huge impact']]></title>
@@ -252,7 +260,7 @@
             <link>https://www.bbc.co.uk/sport/football/articles/cm2kev8w934do?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cm2kev8w934do#8</guid>
             <pubDate>Tue, 13 Oct 2026 22:15:44 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7651/live/6f952e60-c743-11f1-b4d5-87f9c6c95a29.jpg"/>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1738/live/1033d250-c7ac-11f1-86ef-693282d0a891.jpg"/>
         </item>
         <item>
             <title><![CDATA[Rams player suspended for punch & kicker cut by club]]></title>
