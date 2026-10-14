@@ -9,17 +9,17 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 14 Oct 2026 20:24:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Oct 2026 20:56:59 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
-            <title><![CDATA[Musk says US government may be behind curbs on Ukraine's use of Starlink internet]]></title>
+            <title><![CDATA[Musk says any limits on Ukraine's Starlink access down to US, not his firm]]></title>
             <description><![CDATA[Ukraine says Starlink access has improved but it is still facing speed limits which are disrupting its battlefield "missions".]]></description>
             <link>https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c8wy9veedgygo#1</guid>
-            <pubDate>Wed, 14 Oct 2026 20:17:09 GMT</pubDate>
+            <pubDate>Wed, 14 Oct 2026 20:55:24 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a29b/live/2b9027f0-c807-11f1-aff0-65f8bbf884f7.jpg"/>
         </item>
         <item>
@@ -237,6 +237,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/iplayer/episode/m00303gc?at_mid=DEZSuyo6Vd&amp;at_campaign=Secrets_of_the_Bayeux_Tapestry_Inside_the_Museum&amp;at_medium=display_ad&amp;at_campaign_type=owned&amp;at_nation=NET&amp;at_audience_id=SS&amp;at_product=iplayer&amp;at_brand=m00303gc&amp;at_ptr_name=bbc&amp;at_ptr_type=media&amp;at_format=image&amp;at_objective=consumption&amp;at_link_title=Secrets_of_the_Bayeux_Tapestry_Inside_the_Museum&amp;at_bbc_team=BBC#7</guid>
             <pubDate>Thu, 10 Sep 2026 05:00:00 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/86fb/live/633b95d0-abac-11f1-a291-b542ee92de7c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[On night of mayhem for Liverpool, Barcola arrives in style]]></title>
+            <description><![CDATA[Bradley Barcola's form was the subject of pre-match questions before Liverpool faced LASK. The French forward's Champions League hat-trick was the perfect answer. ]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/c39wzg59x1yxo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c39wzg59x1yxo#8</guid>
+            <pubDate>Wed, 14 Oct 2026 20:46:35 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a49/live/38ee7ad0-c809-11f1-aff0-65f8bbf884f7.jpg"/>
         </item>
         <item>
             <title><![CDATA[Wilcox the target again in another damaging Man Utd fallout]]></title>
