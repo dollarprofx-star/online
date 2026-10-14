@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 14 Oct 2026 20:56:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Oct 2026 21:22:35 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -247,36 +247,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a49/live/38ee7ad0-c809-11f1-aff0-65f8bbf884f7.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Wilcox the target again in another damaging Man Utd fallout]]></title>
-            <description><![CDATA[Lisandro Martinez's explosive comments after Manchester United's Champions League defeat by Atletico Madrid turn the spotlight back on director of football Jason Wilcox.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cvp8g57ne53xo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cvp8g57ne53xo#8</guid>
-            <pubDate>Wed, 14 Oct 2026 15:30:03 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ac2/live/f663aa70-c7de-11f1-9a39-31b474234113.png"/>
-        </item>
-        <item>
-            <title><![CDATA[Fifa to offer extra £2.6bn for football development]]></title>
-            <description><![CDATA[Fifa is set to propose a $3.4bn increase in the amount of money it hands out for football development across the world.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/c64g1ex2d7gvo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c64g1ex2d7gvo#8</guid>
-            <pubDate>Wed, 14 Oct 2026 15:59:59 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df77/live/a0001370-c7df-11f1-b712-6f93dfe07e87.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Millwall's Neil criticised over racial abuse stoppage comments]]></title>
-            <description><![CDATA[Anti-racism campaign group Kick It Out calls on managers to "set the tone" after Millwall boss Alex Neil criticises halting a game following an accusation of abuse.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/c6rmykw391ljo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6rmykw391ljo#8</guid>
-            <pubDate>Wed, 14 Oct 2026 17:09:18 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/024c/live/a95276a0-c7c3-11f1-993a-152cbb068da1.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Cokayne back as England face Canada threat in Toronto]]></title>
-            <description><![CDATA[England welcome back the experience of Amy Cokayne at hooker as their 41-match unbeaten run comes under serious threat away to Canada.]]></description>
-            <link>https://www.bbc.co.uk/sport/rugby-union/articles/c6j472xqk5kro?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/rugby-union/articles/c6j472xqk5kro#8</guid>
-            <pubDate>Wed, 14 Oct 2026 17:31:11 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/835b/live/9e8df690-c7c3-11f1-993a-152cbb068da1.jpg"/>
+            <title><![CDATA[Man City show fight but fall short of fightback against slick PSG]]></title>
+            <description><![CDATA[Defending champions Paris Saint-Germain make it two wins from two in this season's Champions League, after beating Manchester City 4-2 at the Etihad Stadium]]></description>
+            <link>https://www.bbc.co.uk/sport/football/videos/cqp8gn9x801po?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cqp8gn9x801po#8</guid>
+            <pubDate>Wed, 14 Oct 2026 21:19:45 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d91b/live/8bd7b720-c813-11f1-bc2e-018d645d8d21.jpg"/>
         </item>
     </channel>
 </rss>
