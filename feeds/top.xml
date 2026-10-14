@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 14 Oct 2026 10:44:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Oct 2026 11:12:41 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -39,14 +39,6 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/144a/live/95c60aa0-c793-11f1-9a39-31b474234113.jpg"/>
         </item>
         <item>
-            <title><![CDATA[One stolen every four minutes - inside the police battle against vehicle thieves]]></title>
-            <description><![CDATA[Officers tell the BBC they are overstretched and struggling to keep up with sophisticated criminals.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cqpvgyz30zepo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqpvgyz30zepo#1</guid>
-            <pubDate>Wed, 14 Oct 2026 05:01:07 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4811/live/95407880-c3c5-11f1-bc2e-018d645d8d21.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Burnham had two hospitality dinners with Man City chairman, deleted records show]]></title>
             <description><![CDATA[The prime minister has been under growing pressure since the club was found guilty of Premier League rule breaches.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c83vq9vpwwr1o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -55,12 +47,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61e8/live/059e20b0-bdb7-11f1-bc2e-018d645d8d21.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Shipwreck thought to be 4,700 years old found off coast of Turkey]]></title>
-            <description><![CDATA[Archaeologists say the wreck is up to 4,700 years old, dating to the Early Bronze Age.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c6gr80rk1yyko?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6gr80rk1yyko#1</guid>
-            <pubDate>Wed, 14 Oct 2026 05:00:35 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/19d5/live/72e7aa00-c71d-11f1-a82f-35874a3aae81.jpg"/>
+            <title><![CDATA[One stolen every four minutes - inside the police battle against vehicle thieves]]></title>
+            <description><![CDATA[Officers tell the BBC they are overstretched and struggling to keep up with sophisticated criminals.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cqpvgyz30zepo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqpvgyz30zepo#1</guid>
+            <pubDate>Wed, 14 Oct 2026 05:01:07 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4811/live/95407880-c3c5-11f1-bc2e-018d645d8d21.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: BBC joins police on front line against car theft]]></title>
+            <description><![CDATA[Investigations reporter NJ Convery has been out on a nighttime hunt for vehicle thieves.]]></description>
+            <link>https://www.bbc.co.uk/news/videos/cw4g195p3g23o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cw4g195p3g23o#1</guid>
+            <pubDate>Wed, 14 Oct 2026 05:00:37 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a20d/live/62b0de20-c79c-11f1-a64c-550be9e3c66b.jpg"/>
         </item>
         <item>
             <title><![CDATA[Saudi employee charged with planting recording device in OpenAI office]]></title>
@@ -71,28 +71,28 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e7bf/live/83811950-c790-11f1-a64c-550be9e3c66b.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Shipwreck thought to be 4,700 years old found off coast of Turkey]]></title>
+            <description><![CDATA[Archaeologists say the wreck is up to 4,700 years old, dating to the Early Bronze Age.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c6gr80rk1yyko?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6gr80rk1yyko#1</guid>
+            <pubDate>Wed, 14 Oct 2026 05:00:35 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/19d5/live/72e7aa00-c71d-11f1-a82f-35874a3aae81.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Wayfair among firms fined millions for misleading sales tactics]]></title>
             <description><![CDATA[The Competition and Markets Authority has fined Wayfair, Appliances Direct, and Gold's Gym £6m in total.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cqx298e5rr3po?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqx298e5rr3po#1</guid>
-            <pubDate>Wed, 14 Oct 2026 10:28:53 GMT</pubDate>
+            <pubDate>Wed, 14 Oct 2026 11:05:16 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae51/live/acad1cb0-c7aa-11f1-a624-a3d8608fc192.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Saudi Arabia overturns death sentence for man over Facebook comment, Sri Lanka says]]></title>
-            <description><![CDATA[Anojan Sivarasa's case sent shockwaves through Sri Lanka, spurring diplomatic efforts to seek clemency.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c6x2v0vn7r1do?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6x2v0vn7r1do#1</guid>
-            <pubDate>Wed, 14 Oct 2026 06:11:08 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b052/live/df047440-c79d-11f1-bc2e-018d645d8d21.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gales and heavy rain to impact UK as yellow wind warning issued]]></title>
-            <description><![CDATA[The Met Office has issued a yellow warning for wind in north-west Scotland on Wednesday with 70mph gusts possible, as Ben Rich explains.]]></description>
-            <link>https://www.bbc.co.uk/weather/articles/cxvgdq0jj8d2o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/weather/articles/cxvgdq0jj8d2o#1</guid>
-            <pubDate>Tue, 13 Oct 2026 23:55:49 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a22/live/f73dcdc0-c6e1-11f1-bf38-57dc5cd42af2.jpg"/>
+            <title><![CDATA[Davina McCall says she had 'advanced Alzheimer's' symptoms after brain surgery]]></title>
+            <description><![CDATA[The TV presenter says she suffered memory loss following her operation to remove a benign tumour.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cky93v98x7jjo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cky93v98x7jjo#1</guid>
+            <pubDate>Wed, 14 Oct 2026 10:48:29 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/294a/live/facd0cf0-c7bb-11f1-ae81-f79bab61f11a.jpg"/>
         </item>
         <item>
             <title><![CDATA[Why the lonely in China are hiring 'temporary children']]></title>
@@ -119,14 +119,6 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d25/live/2922f8c0-c768-11f1-b10a-17422b0170eb.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Watch: BBC joins police on front line against car theft]]></title>
-            <description><![CDATA[Investigations reporter NJ Convery has been out on a nighttime hunt for vehicle thieves.]]></description>
-            <link>https://www.bbc.co.uk/news/videos/cw4g195p3g23o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cw4g195p3g23o#2</guid>
-            <pubDate>Wed, 14 Oct 2026 05:00:37 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a20d/live/62b0de20-c79c-11f1-a64c-550be9e3c66b.jpg"/>
-        </item>
-        <item>
             <title><![CDATA['I applied for 200 jobs' - How 'spray and pray' AI job applications can backfire]]></title>
             <description><![CDATA[Graduates are increasingly using AI to misrepresent themselves in job applications, research suggests. But some say their peer group has no choice.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c623dnkn8pkyo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -135,12 +127,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38df/live/64af4870-c6e7-11f1-bf38-57dc5cd42af2.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Our memorial garden helps us grieve - a cemetery felt too far away]]></title>
+            <title><![CDATA[We created a memorial garden at home to help us grieve - a cemetery felt too far away]]></title>
             <description><![CDATA[Emma Moore shares how creating a special place at home has helped her family.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cm4gvyvxyl1go?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm4gvyvxyl1go#2</guid>
-            <pubDate>Wed, 14 Oct 2026 06:55:14 GMT</pubDate>
+            <pubDate>Wed, 14 Oct 2026 10:53:46 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d9f2/live/acc20ab0-c6ee-11f1-a64c-550be9e3c66b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How did Katie Zacharia do at her first - very brief - White House briefing?]]></title>
+            <description><![CDATA[The BBC's Sarah Smith was in the room and describes Zacharia's performance and the moment she broke news about Kimberly Guilfoyle being asked to resign.]]></description>
+            <link>https://www.bbc.co.uk/news/videos/cxm235y4l54lo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cxm235y4l54lo#2</guid>
+            <pubDate>Tue, 13 Oct 2026 17:04:37 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4614/live/b81d5210-c726-11f1-9a39-31b474234113.jpg"/>
         </item>
         <item>
             <title><![CDATA[What we know about the deadly Six Flags rollercoaster incident in Georgia]]></title>
@@ -167,28 +167,28 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e2a0/live/ccd96d30-c792-11f1-a64c-550be9e3c66b.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Saudi Arabia overturns death sentence for man over Facebook comment, Sri Lanka says]]></title>
+            <description><![CDATA[Anojan Sivarasa's case sent shockwaves through Sri Lanka, spurring diplomatic efforts to seek clemency.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c6x2v0vn7r1do?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6x2v0vn7r1do#4</guid>
+            <pubDate>Wed, 14 Oct 2026 06:11:08 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b052/live/df047440-c79d-11f1-bc2e-018d645d8d21.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Turkish police raid opposition TV station, halting live broadcasts]]></title>
             <description><![CDATA[It is the latest in a series of crackdowns on media critical of the Turkish president and his government.]]></description>
             <link>https://www.bbc.co.uk/news/articles/crx23y3d970vo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/crx23y3d970vo#4</guid>
-            <pubDate>Wed, 14 Oct 2026 10:07:02 GMT</pubDate>
+            <pubDate>Wed, 14 Oct 2026 10:50:11 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8c8/live/c81672a0-c7ad-11f1-b41f-d7a6cb474575.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Cornell bans all fraternity parties over gang sex assault allegations]]></title>
-            <description><![CDATA[The school has faced an uproar over how it handled assault allegations brought by a woman known as Jane Doe. ]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cw8dzg094zd9o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cw8dzg094zd9o#4</guid>
-            <pubDate>Tue, 13 Oct 2026 18:25:28 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0bfb/live/6e2d8910-c738-11f1-9a39-31b474234113.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[How did Katie Zacharia do at her first - very brief - White House briefing?]]></title>
-            <description><![CDATA[The BBC's Sarah Smith was in the room and describes Zacharia's performance and the moment she broke news about Kimberly Guilfoyle being asked to resign.]]></description>
-            <link>https://www.bbc.co.uk/news/videos/cxm235y4l54lo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cxm235y4l54lo#4</guid>
-            <pubDate>Tue, 13 Oct 2026 17:04:37 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4614/live/b81d5210-c726-11f1-9a39-31b474234113.jpg"/>
+            <title><![CDATA[Gales and heavy rain to impact UK as yellow wind warning issued]]></title>
+            <description><![CDATA[The Met Office has issued a yellow warning for wind in north-west Scotland on Wednesday with 70mph gusts possible, as Ben Rich explains.]]></description>
+            <link>https://www.bbc.co.uk/weather/articles/cxvgdq0jj8d2o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/weather/articles/cxvgdq0jj8d2o#4</guid>
+            <pubDate>Tue, 13 Oct 2026 23:55:49 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a22/live/f73dcdc0-c6e1-11f1-bf38-57dc5cd42af2.jpg"/>
         </item>
         <item>
             <title><![CDATA[Watch: Hong Kong crowds queue to see Van Gogh painting unveiled for first time in 60 years]]></title>
@@ -223,7 +223,7 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf6/live/d1e71250-9509-11ee-8df3-1d2983d8814f.png"/>
         </item>
         <item>
-            <title><![CDATA[Struijk has red card shown after VAR intervention overturned]]></title>
+            <title><![CDATA[Struijk has red card after VAR intervention overturned]]></title>
             <description><![CDATA[The red card controversially shown to Brighton defender Pascal Struijk against Sunderland is overturned.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cv4g18gk8xzgo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cv4g18gk8xzgo#8</guid>
@@ -252,7 +252,7 @@
             <link>https://www.bbc.co.uk/sport/football/articles/cx054n684g7do?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cx054n684g7do#8</guid>
             <pubDate>Wed, 14 Oct 2026 05:41:06 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a34/live/ea641a80-c7ab-11f1-86ef-693282d0a891.jpg"/>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2325/live/56d4a980-c7bd-11f1-b41f-d7a6cb474575.jpg"/>
         </item>
         <item>
             <title><![CDATA[Rams player suspended for punch & kicker cut by club]]></title>
