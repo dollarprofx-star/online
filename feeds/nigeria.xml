@@ -5,7 +5,7 @@
         <atom:link href="https://rss.punchng.com" rel="self" type="application/rss+xml" />
         <link> https://rss.punchng.com </link>
         <description> Get the latest News in Nigeria </description>
-        <lastBuildDate> Wed, 14 Oct 2026 21:52:09 +0000</lastBuildDate>
+        <lastBuildDate> Wed, 14 Oct 2026 22:17:13 +0000</lastBuildDate>
         <language> en-US </language>
         <sy:updatePeriod> minutely	</sy:updatePeriod>
         <sy:updateFrequency> 5	</sy:updateFrequency>
@@ -13,6 +13,20 @@
         <generator>https://rss.punchng.com</generator>
 
         <item>
+                        <title>Family confirms death of gospel singer Toluwanisings</title>
+                        <link>https://punchng.com/family-confirms-death-of-gospel-singer-toluwanisings/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
+                        <pubDate>Wed, 14 Oct 2026 23:04:07 +0000</pubDate>
+                        <dc:creator><![CDATA[Punch Newspapers]]></dc:creator>
+                        <category><![CDATA[]]></category>
+                        <guid isPermaLink='true'>https://punchng.com/family-confirms-death-of-gospel-singer-toluwanisings/?utm_source=rss.punchng.com&amp;utm_medium=web</guid>
+                        <description><![CDATA[
+
+The family of Nigerian gospel singer, Olayemi Bolaji, popularly known as Toluwanisings, has announced his death on October 14, 2026.
+
+Read More: https://punchng.com/family-confirms-death-of-gospel-singer-toluwanisings/]]></description>
+                        <enclosure url='https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png' length='342247' type='image/png'/>
+                    </item>
+                    <item>
                         <title>MSF treats 87,000 malnourished Katsina children in eight months</title>
                         <link>https://punchng.com/msf-treats-87000-malnourished-katsina-children-in-eight-months/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
                         <pubDate>Wed, 14 Oct 2026 22:51:06 +0000</pubDate>
@@ -416,20 +430,6 @@ Read More: https://punchng.com/ondo-crash-naf-chief-orders-stricter-flight-safet
 Kano APC forms a 155-member campaign council led by Gov Yusuf, Shekarau, and Ganduje to provide strategic direction for the 2027 general elections.
 
 Read More: https://punchng.com/yusuf-shekarau-ganduje-lead-kano-apc-155-member-campaign-council/]]></description>
-                        <enclosure url='https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png' length='342247' type='image/png'/>
-                    </item>
-                    <item>
-                        <title>Three abducted CRIN staff regain freedom in Oyo </title>
-                        <link>https://punchng.com/three-abducted-crin-staff-regain-freedom-in-oyo/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
-                        <pubDate>Wed, 14 Oct 2026 18:20:33 +0000</pubDate>
-                        <dc:creator><![CDATA[Punch Newspapers]]></dc:creator>
-                        <category><![CDATA[]]></category>
-                        <guid isPermaLink='true'>https://punchng.com/three-abducted-crin-staff-regain-freedom-in-oyo/?utm_source=rss.punchng.com&amp;utm_medium=web</guid>
-                        <description><![CDATA[
-
-Three abducted staff of the Cocoa Research Institute of Nigeria (CRIN) in Oyo State have regained their freedom after six days in captivity.
-
-Read More: https://punchng.com/three-abducted-crin-staff-regain-freedom-in-oyo/]]></description>
                         <enclosure url='https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png' length='342247' type='image/png'/>
                     </item>
                         </channel>
