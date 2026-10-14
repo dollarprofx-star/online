@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news/world</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 14 Oct 2026 13:08:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Oct 2026 13:44:35 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/world/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -21,8 +21,16 @@
 ]]></description>
             <link>https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm2d6e62p49do#0</guid>
-            <pubDate>Wed, 14 Oct 2026 11:32:07 GMT</pubDate>
+            <pubDate>Wed, 14 Oct 2026 13:11:17 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d0ee/live/d48bf4b0-c7c6-11f1-9a39-31b474234113.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[US inflation rises more than expected ahead of midterm elections]]></title>
+            <description><![CDATA[The pace of price rises increased to 3.7% in the year to September, driving by higher motor fuel costs.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o#0</guid>
+            <pubDate>Wed, 14 Oct 2026 13:40:36 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd50/live/e1cf6860-c7cf-11f1-9e10-4dcbd31d4273.jpg"/>
         </item>
         <item>
             <title><![CDATA[Pope diagnosed with lung cancer but had successful surgery, Vatican says]]></title>
@@ -37,7 +45,7 @@
             <description><![CDATA[Four years after the attacks, Serhii Kuznetsov appears in court accused of a plot to destroy Russia's gas pipelines to Germany.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo#0</guid>
-            <pubDate>Wed, 14 Oct 2026 12:27:00 GMT</pubDate>
+            <pubDate>Wed, 14 Oct 2026 13:41:51 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/41b7/live/66289890-c7c4-11f1-993a-152cbb068da1.jpg"/>
         </item>
         <item>
@@ -57,14 +65,6 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8c8/live/c81672a0-c7ad-11f1-b41f-d7a6cb474575.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Mauritius reels from worst riots in decades after woman shot by police]]></title>
-            <description><![CDATA[Prime Minister Navin Ramgoolam imposed a curfew after days of unrest that first began over water shortages.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cm4g1rnj5qweo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm4g1rnj5qweo#0</guid>
-            <pubDate>Wed, 14 Oct 2026 11:24:25 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/731f/live/1d323040-c7c1-11f1-bc2e-018d645d8d21.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[World's oldest shipwreck found off coast of Turkey]]></title>
             <description><![CDATA[Archaeologists say the wreck is up to 4,700 years old, dating to the Early Bronze Age.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c6gr80rk1yyko?at_medium=RSS&amp;at_campaign=rss</link>
@@ -73,11 +73,19 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/19d5/live/72e7aa00-c71d-11f1-a82f-35874a3aae81.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Mauritius reels from worst riots in decades after woman shot by police]]></title>
+            <description><![CDATA[Prime Minister Navin Ramgoolam imposed a curfew after days of unrest that first began over water shortages.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cm4g1rnj5qweo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm4g1rnj5qweo#1</guid>
+            <pubDate>Wed, 14 Oct 2026 11:24:25 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/731f/live/1d323040-c7c1-11f1-bc2e-018d645d8d21.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Burnham says he wants to 'repair bridges' between Ukraine and US]]></title>
             <description><![CDATA[It comes ahead of a meeting between the prime minister and President Zelensky at Downing Street.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cq98z59xdny5o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cq98z59xdny5o#1</guid>
-            <pubDate>Wed, 14 Oct 2026 12:36:24 GMT</pubDate>
+            <pubDate>Wed, 14 Oct 2026 13:09:51 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29cd/live/e9e20c80-c79b-11f1-9a39-31b474234113.jpg"/>
         </item>
         <item>
