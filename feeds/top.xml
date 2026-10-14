@@ -9,28 +9,18 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 14 Oct 2026 19:58:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Oct 2026 20:24:36 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
-            <title><![CDATA[Russell Brand was a 'sexual predator', prosecution alleges as rape trial begins]]></title>
-            <description><![CDATA[The actor and comedian has pleaded not guilty to three counts of rape, three counts of sexual assault and one of indecent assault.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c3qjn45pepx1o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c3qjn45pepx1o#1</guid>
-            <pubDate>Wed, 14 Oct 2026 17:55:53 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af54/live/088f5d80-c7d9-11f1-9a39-31b474234113.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Starlink restrictions in Ukraine war linked to political situation, Zelensky aide says]]></title>
-            <description><![CDATA[Elon Musk's system allows Kyiv to protect Ukrainian skies and effectively guide drones to Russian targets.
-
-]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm2d6e62p49do#1</guid>
-            <pubDate>Wed, 14 Oct 2026 13:11:17 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d0ee/live/d48bf4b0-c7c6-11f1-9a39-31b474234113.jpg"/>
+            <title><![CDATA[Musk says US government may be behind curbs on Ukraine's use of Starlink internet]]></title>
+            <description><![CDATA[Ukraine says Starlink access has improved but it is still facing speed limits which are disrupting its battlefield "missions".]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c8wy9veedgygo#1</guid>
+            <pubDate>Wed, 14 Oct 2026 20:17:09 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a29b/live/2b9027f0-c807-11f1-aff0-65f8bbf884f7.jpg"/>
         </item>
         <item>
             <title><![CDATA[We are behind you and that will not change, PM tells Zelensky]]></title>
@@ -39,6 +29,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm0rl1gkz97do#1</guid>
             <pubDate>Wed, 14 Oct 2026 19:22:28 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a2be/live/2e4043e0-c7f3-11f1-9909-8f8db2b4c4ac.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Russell Brand was a 'sexual predator', prosecution alleges as rape trial begins]]></title>
+            <description><![CDATA[The actor and comedian has pleaded not guilty to three counts of rape, three counts of sexual assault and one of indecent assault.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c3qjn45pepx1o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c3qjn45pepx1o#1</guid>
+            <pubDate>Wed, 14 Oct 2026 17:55:53 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af54/live/088f5d80-c7d9-11f1-9a39-31b474234113.jpg"/>
         </item>
         <item>
             <title><![CDATA[Sally Rooney books withdrawn in UK over Palestine Action support]]></title>
@@ -105,12 +103,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/825a/live/0bb8ed30-c7db-11f1-9671-5b70c6e774ea.jpg"/>
         </item>
         <item>
-            <title><![CDATA['I applied for 200 jobs' - How 'spray and pray' AI job applications can backfire]]></title>
-            <description><![CDATA[Graduates are increasingly using AI to misrepresent themselves in job applications, research suggests. But some say their peer group has no choice.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c623dnkn8pkyo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c623dnkn8pkyo#2</guid>
-            <pubDate>Wed, 14 Oct 2026 08:27:17 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38df/live/64af4870-c6e7-11f1-bf38-57dc5cd42af2.jpg"/>
+            <title><![CDATA[Why is Starlink internet so important on the battlefield in Ukraine?]]></title>
+            <description><![CDATA[It is the "backbone of military communications in Ukraine" that provides vital high-speed internet to forces across the country.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cqkgk4zg54reo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqkgk4zg54reo#2</guid>
+            <pubDate>Wed, 14 Oct 2026 19:52:04 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/109c/live/7b3da5c0-c807-11f1-9a39-31b474234113.jpg"/>
         </item>
         <item>
             <title><![CDATA[One stolen every four minutes - inside the police battle against vehicle thieves]]></title>
@@ -119,6 +117,22 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqpvgyz30zepo#2</guid>
             <pubDate>Wed, 14 Oct 2026 05:01:07 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4811/live/95407880-c3c5-11f1-bc2e-018d645d8d21.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['I applied for 200 jobs' - How 'spray and pray' AI job applications can backfire]]></title>
+            <description><![CDATA[Graduates are increasingly using AI to misrepresent themselves in job applications, research suggests. But some say their peer group has no choice.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c623dnkn8pkyo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c623dnkn8pkyo#2</guid>
+            <pubDate>Wed, 14 Oct 2026 08:27:17 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38df/live/64af4870-c6e7-11f1-bf38-57dc5cd42af2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[What if you could turn off your algorithm? Australia is about to try]]></title>
+            <description><![CDATA[New legislation is being tabled in Australia's parliament on Thursday to force big tech to allow users to switch off algorithms which send them recommended content.]]></description>
+            <link>https://www.bbc.co.uk/news/videos/ck78pj2qy42po?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/ck78pj2qy42po#2</guid>
+            <pubDate>Wed, 14 Oct 2026 18:00:54 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2835/live/1c61d100-c7fa-11f1-bc2e-018d645d8d21.jpg"/>
         </item>
         <item>
             <title><![CDATA[Toilet paper and secret recorders: What we know about the arrest of the Saudi OpenAI engineer]]></title>
@@ -135,22 +149,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c678p0ld7z8lo#2</guid>
             <pubDate>Wed, 14 Oct 2026 12:22:17 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2be2/live/e3a279b0-c7da-11f1-9a39-31b474234113.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Why the lonely in China are hiring 'temporary children']]></title>
-            <description><![CDATA[A new industry being dubbed the “loneliness economy” has emerged in China, with people hiring themselves out as companions to help the elderly.]]></description>
-            <link>https://www.bbc.co.uk/news/videos/cm8xkxn8lqkeo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cm8xkxn8lqkeo#2</guid>
-            <pubDate>Tue, 13 Oct 2026 22:00:20 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a9d/live/c0c4d690-be07-11f1-babe-4199b0e7ccea.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Faisal Islam: What surprise praise for UK economy tells us about the Budget]]></title>
-            <description><![CDATA[On three occasions in the past 24 hours, top IMF officials have praised UK plans to reduce its annual levels of borrowing.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cx30eq0vyed4o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cx30eq0vyed4o#2</guid>
-            <pubDate>Wed, 14 Oct 2026 11:04:12 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31bf/live/83599ee0-c7b6-11f1-b41f-d7a6cb474575.jpg"/>
         </item>
         <item>
             <title><![CDATA[Pictured: Winning entries for Wildlife Photographer of the Year 2026]]></title>
