@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 14 Oct 2026 05:57:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Oct 2026 06:28:42 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -47,12 +47,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e2a0/live/ccd96d30-c792-11f1-a64c-550be9e3c66b.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Royal Mail losing 400 postal workers a week, says union]]></title>
-            <description><![CDATA[The CWU says more posties are leaving since a new delivery system was brought in, that it claims is not working in hundreds of offices.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cm5ynp0vz3p7o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm5ynp0vz3p7o#1</guid>
-            <pubDate>Tue, 13 Oct 2026 23:03:59 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6236/live/4d710eb0-c71d-11f1-a82f-35874a3aae81.jpg"/>
+            <title><![CDATA[Russian strikes hit key power plant in Kyiv, Zelensky says]]></title>
+            <description><![CDATA[The Ukrainian president says the ballistic missile strikes came with "no early warning from our partners".]]></description>
+            <link>https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ck20r9qpw505o#1</guid>
+            <pubDate>Wed, 14 Oct 2026 04:36:06 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/10cd/live/79669050-c74d-11f1-a64c-550be9e3c66b.jpg"/>
         </item>
         <item>
             <title><![CDATA[Saudi man charged with planting 'sophisticated' recording device in OpenAI office]]></title>
@@ -71,12 +71,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/19d5/live/72e7aa00-c71d-11f1-a82f-35874a3aae81.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Russian strikes hit key power plant in Kyiv, Zelensky says]]></title>
-            <description><![CDATA[The Ukrainian president says the ballistic missile strikes came with "no early warning from our partners".]]></description>
-            <link>https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ck20r9qpw505o#1</guid>
-            <pubDate>Wed, 14 Oct 2026 04:36:06 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/10cd/live/79669050-c74d-11f1-a64c-550be9e3c66b.jpg"/>
+            <title><![CDATA[Gales and heavy rain to impact UK as yellow wind warning issued]]></title>
+            <description><![CDATA[The Met Office has issued a yellow warning for wind in north-west Scotland on Wednesday with 70mph gusts possible, as Ben Rich explains.]]></description>
+            <link>https://www.bbc.co.uk/weather/articles/cxvgdq0jj8d2o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/weather/articles/cxvgdq0jj8d2o#1</guid>
+            <pubDate>Tue, 13 Oct 2026 23:55:49 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a22/live/f73dcdc0-c6e1-11f1-bf38-57dc5cd42af2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Royal Mail losing 400 postal workers a week, says union]]></title>
+            <description><![CDATA[The CWU says more posties are leaving since a new delivery system was brought in, that it claims is not working in hundreds of offices.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cm5ynp0vz3p7o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm5ynp0vz3p7o#1</guid>
+            <pubDate>Tue, 13 Oct 2026 23:03:59 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4d4/live/9551bda0-c796-11f1-9a39-31b474234113.jpg"/>
         </item>
         <item>
             <title><![CDATA[Zelensky and Burnham to meet in Downing Street]]></title>
@@ -87,12 +95,12 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1cfb/live/4dfc3380-c724-11f1-b881-4391ac746e04.png"/>
         </item>
         <item>
-            <title><![CDATA[Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder]]></title>
-            <description><![CDATA[Davis was found guilty last month over his role in the late rap superstar's death in a drive-by shooting in 1996. ]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c60rln2jvv2zo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c60rln2jvv2zo#1</guid>
-            <pubDate>Tue, 13 Oct 2026 19:51:14 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/37f6/live/8c0f8020-c73b-11f1-a64c-550be9e3c66b.jpg"/>
+            <title><![CDATA[Lena Dunham's Girls to return for limited HBO run]]></title>
+            <description><![CDATA[Ten years after the series finale, the "Girls" are getting back together to explore the "milestone of turning forty", HBO says.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c9m26xp4zp8jo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c9m26xp4zp8jo#1</guid>
+            <pubDate>Wed, 14 Oct 2026 02:09:30 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/243d/live/cb0a4af0-c770-11f1-ab87-2bb7c0d2443c.jpg"/>
         </item>
         <item>
             <title><![CDATA[Actress Selma Blair faces charges for kicking nurse and officer after plane incident]]></title>
@@ -101,14 +109,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ck86zje2z4pwo#1</guid>
             <pubDate>Tue, 13 Oct 2026 22:59:37 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1604/live/01ecf900-c74e-11f1-b4d5-87f9c6c95a29.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gales and heavy rain to impact UK as yellow wind warning issued]]></title>
-            <description><![CDATA[The Met Office has issued a yellow warning for wind in north-west Scotland on Wednesday with 70mph gusts possible, as Ben Rich explains.]]></description>
-            <link>https://www.bbc.co.uk/weather/articles/cxvgdq0jj8d2o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/weather/articles/cxvgdq0jj8d2o#1</guid>
-            <pubDate>Tue, 13 Oct 2026 23:55:49 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a22/live/f73dcdc0-c6e1-11f1-bf38-57dc5cd42af2.jpg"/>
         </item>
         <item>
             <title><![CDATA[Pictured: Winning entries for Wildlife Photographer of the Year 2026]]></title>
@@ -191,20 +191,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8156/live/62cbcee0-c749-11f1-b4d5-87f9c6c95a29.jpg"/>
         </item>
         <item>
-            <title><![CDATA[MI5 chief warns of threats to UK from Russia, Iran and AI]]></title>
-            <description><![CDATA[Sir Ken McCallum says operations to tackle terrorism and state threats are now roughly of an "equal scale".]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c60rl5vwpk02o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c60rl5vwpk02o#4</guid>
-            <pubDate>Tue, 13 Oct 2026 15:52:15 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7572/live/20ee0d90-c702-11f1-9a39-31b474234113.jpg"/>
+            <title><![CDATA[Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder]]></title>
+            <description><![CDATA[Davis was found guilty last month over his role in the late rap superstar's death in a drive-by shooting in 1996. ]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c60rln2jvv2zo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c60rln2jvv2zo#4</guid>
+            <pubDate>Tue, 13 Oct 2026 19:51:14 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/37f6/live/8c0f8020-c73b-11f1-a64c-550be9e3c66b.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Bumble bought for $1.3bn in 'bet on the future of humanity']]></title>
-            <description><![CDATA[The dating app which recently ditched its "women-first" chat rule has been bought by an investment firm. ]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cm9qzwjgnjxlo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm9qzwjgnjxlo#4</guid>
-            <pubDate>Tue, 13 Oct 2026 15:59:07 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e542/live/77558740-c724-11f1-a64c-550be9e3c66b.jpg"/>
+            <title><![CDATA[Russell T Davies criticises BBC boss's 'clumsy' AI Doctor Who comments]]></title>
+            <description><![CDATA[BBC director general Matt Brittin said he had seen a "pretty good" AI-generated episode of the show.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c8040531w45eo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c8040531w45eo#4</guid>
+            <pubDate>Wed, 14 Oct 2026 04:58:47 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd57/live/99daefe0-c741-11f1-9085-f95bdc648acc.jpg"/>
         </item>
         <item>
             <title><![CDATA[Bank of America hit with $1.2bn fine for money laundering failings]]></title>
@@ -212,7 +212,7 @@
             <link>https://www.bbc.co.uk/news/articles/cm3wvxy6n3z8o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm3wvxy6n3z8o#4</guid>
             <pubDate>Wed, 14 Oct 2026 02:05:32 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b893/live/c1765210-c764-11f1-b06d-fb50486dda65.jpg"/>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d37/live/18ad5d80-c797-11f1-b506-c77373b53604.jpg"/>
         </item>
         <item>
             <title><![CDATA[Martinez issues scathing attack on Man Utd board - has he made things worse?]]></title>
