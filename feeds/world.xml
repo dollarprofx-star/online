@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news/world</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 14 Oct 2026 02:18:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Oct 2026 02:55:18 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/world/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -140,7 +140,7 @@
             <link>https://www.bbc.co.uk/news/articles/ckreyq9re0n0o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckreyq9re0n0o#2</guid>
             <pubDate>Tue, 13 Oct 2026 22:01:43 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7867/live/0f1da240-c6fa-11f1-b4dd-e786ec6f11b1.jpg"/>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae98/live/38412da0-c776-11f1-8ea6-d52df4b01e11.jpg"/>
         </item>
         <item>
             <title><![CDATA[Pakistan has locked down Imran Khan's stronghold - but it could backfire]]></title>
@@ -167,8 +167,8 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f908/live/67b69200-c708-11f1-bc2e-018d645d8d21.png"/>
         </item>
         <item>
-            <title><![CDATA[Watch: 'Traumatic' - Witnesses recount moment man fell out of Six Flags roller coaster]]></title>
-            <description><![CDATA[One person has died and others were injured after an incident on a rollercoaster at an amusement park in the US state of Georgia.]]></description>
+            <title><![CDATA[Watch: Witnesses describe 'traumatic' moment man fell out of Six Flags rollercoaster]]></title>
+            <description><![CDATA[One person has died and others were injured after an incident at a US amusement park.]]></description>
             <link>https://www.bbc.co.uk/news/videos/cqy8le2mrd0po?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cqy8le2mrd0po#3</guid>
             <pubDate>Tue, 13 Oct 2026 23:42:15 GMT</pubDate>
