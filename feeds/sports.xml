@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/sport/football</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 14 Oct 2026 14:13:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Oct 2026 14:45:42 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -63,6 +63,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e4f/live/a02d3990-c7c1-11f1-9a39-31b474234113.png"/>
         </item>
         <item>
+            <title><![CDATA[Semenyo 'froze' after alleged racist abuse, court told]]></title>
+            <description><![CDATA[A Liverpool fan denies racially aggravated behaviour during a match against Bournemouth in 2025.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cvlyd3z1g8d8o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cvlyd3z1g8d8o#0</guid>
+            <pubDate>Wed, 14 Oct 2026 14:16:04 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7cd7/live/e16f7470-c7d7-11f1-9671-5b70c6e774ea.jpg"/>
+        </item>
+        <item>
             <title><![CDATA['Unplayable' Stanway a free-scoring warrior for Lionesses]]></title>
             <description><![CDATA[Whatever the game, whatever the result, Georgia Stanway always seems to score for England.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cm2kev8w934do?at_medium=RSS&amp;at_campaign=rss</link>
@@ -98,7 +106,7 @@
             <title><![CDATA[Is it time for Liverpool to drop Wirtz?]]></title>
             <description><![CDATA[More than a year since his £116m move, Florian Wirtz is still struggling to hit top form at Liverpool - so does he need to be dropped?]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cvglw07rx6jeo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cvglw07rx6jeo#0</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cvglw07rx6jeo#1</guid>
             <pubDate>Tue, 13 Oct 2026 16:45:59 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cbd1/live/8744c100-c6e0-11f1-bf38-57dc5cd42af2.jpg"/>
         </item>
@@ -138,7 +146,7 @@
             <title><![CDATA[Goal crisis & in drop zone - so why is Spurs' £60m striker stuck in U21s?]]></title>
             <description><![CDATA[After being left out of Tottenham's Premier League squad last month, Richarlison has been left to feature for the under-21s side]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/ck9qzwp9ejgro?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ck9qzwp9ejgro#1</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ck9qzwp9ejgro#2</guid>
             <pubDate>Tue, 13 Oct 2026 20:39:18 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0aff/live/b604c290-c737-11f1-9085-f95bdc648acc.jpg"/>
         </item>
@@ -183,14 +191,6 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b575/live/2cde58d0-c7c5-11f1-993a-152cbb068da1.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Majority of clubs on edge of 'financial disaster' - regulator]]></title>
-            <description><![CDATA[English football's finances are "dangerously exposed, with the majority of clubs living on the edge of financial disaster", a new report says.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/c6vgx70pzq1jo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6vgx70pzq1jo#2</guid>
-            <pubDate>Tue, 13 Oct 2026 16:00:11 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/37b4/live/971360b0-c71b-11f1-bc2e-018d645d8d21.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Watch: Scotland beat Czechs to set up Sweden play-off]]></title>
             <description><![CDATA[Watch the goals as Scotland twice come from behind to beat the Czech Republic 3-2 on Paisley and progress 5-2 on aggregate to a Women's World Cup play-off final against Sweden.]]></description>
             <link>https://www.bbc.co.uk/sport/videos/cmx235v7gqwro?at_medium=RSS&amp;at_campaign=rss</link>
@@ -229,6 +229,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cqvgrp5225z7o#3</guid>
             <pubDate>Mon, 12 Oct 2026 21:43:20 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/59aa/live/d8bec640-c684-11f1-bc2e-018d645d8d21.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Majority of clubs on edge of 'financial disaster' - regulator]]></title>
+            <description><![CDATA[English football's finances are "dangerously exposed, with the majority of clubs living on the edge of financial disaster", a new report says.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/c6vgx70pzq1jo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6vgx70pzq1jo#5</guid>
+            <pubDate>Tue, 13 Oct 2026 16:00:11 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/37b4/live/971360b0-c71b-11f1-bc2e-018d645d8d21.jpg"/>
         </item>
         <item>
             <title><![CDATA[PSG's Luis Enrique hopes Man City avoid sanctions]]></title>
