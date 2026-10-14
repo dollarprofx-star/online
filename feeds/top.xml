@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 14 Oct 2026 22:52:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Oct 2026 23:16:54 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -239,6 +239,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/86fb/live/633b95d0-abac-11f1-a291-b542ee92de7c.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Guardiola's return, Man City's defiance - and a game of glorious chaos]]></title>
+            <description><![CDATA[On their return to Etihad Stadium Manchester City put on a show of defiance - even in the face of a PSG masterclass, writes Phil McNulty.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cqp8gyv8le87o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqp8gyv8le87o#8</guid>
+            <pubDate>Wed, 14 Oct 2026 22:57:23 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d25/live/6b97a6a0-c822-11f1-bc2e-018d645d8d21.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[On night of mayhem for Liverpool, Barcola arrives in style]]></title>
             <description><![CDATA[Bradley Barcola's form was the subject of pre-match questions before Liverpool faced LASK - but the France forward's Champions League hat-trick was the perfect answer. ]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/c39wzg59x1yxo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -261,6 +269,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmx2wegg2pw5o#8</guid>
             <pubDate>Wed, 14 Oct 2026 21:55:37 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0231/live/1094d0e0-c816-11f1-82ac-736cd3146b70.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jackson steps up again as Aston Villa revival continues]]></title>
+            <description><![CDATA[Nicolas Jackson continues his fine goalscoring form as Aston Villa record an impressive Champions League win.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/c370pnwz0gw2o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c370pnwz0gw2o#8</guid>
+            <pubDate>Wed, 14 Oct 2026 22:45:22 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c8d/live/bc2e5020-c81b-11f1-9a39-31b474234113.jpg"/>
         </item>
         <item>
             <title><![CDATA[Man City show fight but fall short of fightback against slick PSG]]></title>
