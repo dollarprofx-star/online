@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/sport/football</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 14 Oct 2026 12:22:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Oct 2026 13:08:16 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -27,7 +27,7 @@
             <description><![CDATA[The prime minister has been under growing pressure since the club was found guilty of Premier League rule breaches.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c83vq9vpwwr1o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c83vq9vpwwr1o#0</guid>
-            <pubDate>Wed, 14 Oct 2026 12:15:09 GMT</pubDate>
+            <pubDate>Wed, 14 Oct 2026 12:47:43 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61e8/live/059e20b0-bdb7-11f1-bc2e-018d645d8d21.jpg"/>
         </item>
         <item>
@@ -155,8 +155,24 @@
             <description><![CDATA[Away fan John Ryan toppled from the upper tier at Ipswich's ground and landed on home supporters.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c65ynlyz385xo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c65ynlyz385xo#2</guid>
-            <pubDate>Wed, 14 Oct 2026 12:07:02 GMT</pubDate>
+            <pubDate>Wed, 14 Oct 2026 12:29:44 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d9c/live/fe16e0c0-c7bb-11f1-ae81-f79bab61f11a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Football Daily]]></title>
+            <description><![CDATA[Kelly Cates reacts to the Lisandro Martinez comments on the Man United hierarchy.]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/p0pgjm3k?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0pgjm3k#2</guid>
+            <pubDate>Tue, 13 Oct 2026 23:25:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0pgky09.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Cliftonville stripped of League Cup win as treble hopes end]]></title>
+            <description><![CDATA[Cliftonville's hopes of a domestic treble are over after they were stripped of their Women's League Cup title for fielding two ineligible players in the final.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cqy7l562zv1lo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqy7l562zv1lo#2</guid>
+            <pubDate>Wed, 14 Oct 2026 12:28:13 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b575/live/2cde58d0-c7c5-11f1-993a-152cbb068da1.jpg"/>
         </item>
         <item>
             <title><![CDATA[Majority of clubs on edge of 'financial disaster' - regulator]]></title>
@@ -165,14 +181,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6vgx70pzq1jo#2</guid>
             <pubDate>Tue, 13 Oct 2026 16:00:11 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/37b4/live/971360b0-c71b-11f1-bc2e-018d645d8d21.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Police investigate racial abuse of Swans' Eom claim]]></title>
-            <description><![CDATA[Swansea City boss Vitor Matos says South Korean winger Ji-sung Eom was targeted by racist abuse at Millwall on Tuesday.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cmdx3nk7kwwro?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmdx3nk7kwwro#2</guid>
-            <pubDate>Wed, 14 Oct 2026 11:42:57 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2917/live/2bdbfd10-c74e-11f1-b4d5-87f9c6c95a29.jpg"/>
         </item>
         <item>
             <title><![CDATA[PSG's Luis Enrique hopes Man City avoid sanctions]]></title>
@@ -231,20 +239,12 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b8ca/live/752f1a40-c723-11f1-b881-4391ac746e04.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Football Daily]]></title>
-            <description><![CDATA[Kelly Cates reacts to the Lisandro Martinez comments on the Man United hierarchy.]]></description>
-            <link>https://www.bbc.co.uk/sounds/play/p0pgjm3k?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0pgjm3k#5</guid>
-            <pubDate>Tue, 13 Oct 2026 23:25:00 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0pgky09.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[McArdle 'really encouraged' despite NI's Portugal loss]]></title>
-            <description><![CDATA[Northern Ireland manager Michael McArdle says their play-off defeat by Portugal is "the start of a new identity" despite their heavy 7-1 aggregate loss.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cmglwxd0d25xo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmglwxd0d25xo#5</guid>
-            <pubDate>Tue, 13 Oct 2026 22:20:39 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0501/live/80b5add0-c74f-11f1-b4d5-87f9c6c95a29.jpg"/>
+            <title><![CDATA[Police investigate racial abuse of Swans' Eom claim]]></title>
+            <description><![CDATA[Swansea City boss Vitor Matos says South Korean winger Ji-sung Eom was targeted by racist abuse at Millwall on Tuesday.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cmdx3nk7kwwro?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmdx3nk7kwwro#5</guid>
+            <pubDate>Wed, 14 Oct 2026 11:42:57 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2917/live/2bdbfd10-c74e-11f1-b4d5-87f9c6c95a29.jpg"/>
         </item>
         <item>
             <title><![CDATA[Doku delights as Manchester City cruise past 10-man Liverpool ]]></title>
@@ -325,6 +325,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqzjxn010r49o#7</guid>
             <pubDate>Tue, 13 Oct 2026 17:00:31 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8504/live/b3973c70-c720-11f1-b881-4391ac746e04.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[McArdle 'really encouraged' despite NI's Portugal loss]]></title>
+            <description><![CDATA[Northern Ireland manager Michael McArdle says their play-off defeat by Portugal is "the start of a new identity" despite their heavy 7-1 aggregate loss.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cmglwxd0d25xo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmglwxd0d25xo#7</guid>
+            <pubDate>Tue, 13 Oct 2026 22:20:39 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0501/live/80b5add0-c74f-11f1-b4d5-87f9c6c95a29.jpg"/>
         </item>
         <item>
             <title><![CDATA[How much did Man City's rule breaking cost your team?]]></title>
@@ -543,6 +551,22 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1738/live/1033d250-c7ac-11f1-86ef-693282d0a891.jpg"/>
         </item>
         <item>
+            <title><![CDATA['Possessed' Davidson fills Weir gap as Scots set up glamour Sweden tie]]></title>
+            <description><![CDATA[Erin Cuthbert praises Lauren Davidson as Scotland overcome Caroline Weir's absence to set up a World Cup play-off tie with Sweden.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cq5ynlez508no?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cq5ynlez508no#18</guid>
+            <pubDate>Wed, 14 Oct 2026 08:16:53 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/468a/live/94ff0b90-c75b-11f1-9a39-31b474234113.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why play-off win may not send Wales to World Cup]]></title>
+            <description><![CDATA[Wales face Norway in the Women's World Cup play-off final knowing even a famous victory may not be enough to send them to Brazil in 2027.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/c90k0x61ej7mo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c90k0x61ej7mo#18</guid>
+            <pubDate>Wed, 14 Oct 2026 10:49:27 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d22/live/35e0b780-c7ba-11f1-b41f-d7a6cb474575.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[BBC Women's Football Weekly]]></title>
             <description><![CDATA[After two standout displays, has Le Tissier made a case to start alongside Bronze?]]></description>
             <link>https://www.bbc.co.uk/sounds/play/p0pgjk3h?at_medium=RSS&amp;at_campaign=rss</link>
@@ -551,12 +575,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0lz125l.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Pressure on Norway in play-off final - Wilkinson]]></title>
-            <description><![CDATA[Rhian Wilkinson says the pressure will be on Gemma Grainger's Norway in their Women's World Cup play-off final against Wales in December.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/ck4g17rrz1j5o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ck4g17rrz1j5o#18</guid>
-            <pubDate>Tue, 13 Oct 2026 21:32:09 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a699/live/8e085a30-c74c-11f1-b4d5-87f9c6c95a29.jpg"/>
+            <title><![CDATA[Cliftonville stripped of League Cup win as treble hopes end]]></title>
+            <description><![CDATA[Cliftonville's hopes of a domestic treble are over after they were stripped of their Women's League Cup title for fielding two ineligible players in the final.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cqy7l562zv1lo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqy7l562zv1lo#18</guid>
+            <pubDate>Wed, 14 Oct 2026 12:28:13 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b575/live/2cde58d0-c7c5-11f1-993a-152cbb068da1.jpg"/>
         </item>
         <item>
             <title><![CDATA[The part-timers who won three Wembley finals in a row]]></title>
