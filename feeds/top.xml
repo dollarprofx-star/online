@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 14 Oct 2026 15:23:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Oct 2026 16:03:44 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -33,7 +33,7 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d0ee/live/d48bf4b0-c7c6-11f1-9a39-31b474234113.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Burnham careful before Zelensky meeting but promises Ukraine won't leave 'empty handed']]></title>
+            <title><![CDATA[Burnham careful as he meets Zelensky but promises Ukraine won't leave 'empty handed']]></title>
             <description><![CDATA[The UK's prime minister meets with Volodymyr Zelensky after a rocky week for the Ukraine president.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cmx23q4dwvneo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmx23q4dwvneo#1</guid>
@@ -93,7 +93,7 @@
             <description><![CDATA[The pace of price rises increased to 3.7% in the year to September, driving by higher motor fuel costs.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o#1</guid>
-            <pubDate>Wed, 14 Oct 2026 13:40:36 GMT</pubDate>
+            <pubDate>Wed, 14 Oct 2026 15:26:14 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd50/live/e1cf6860-c7cf-11f1-9e10-4dcbd31d4273.jpg"/>
         </item>
         <item>
@@ -161,7 +161,7 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9915/live/320124f0-c17b-11f1-bed0-05ebd781c53c.jpg"/>
         </item>
         <item>
-            <title><![CDATA[We created a memorial garden at home - a cemetery felt too far away]]></title>
+            <title><![CDATA[A cemetery felt too far away, so we created our own memorial garden at home]]></title>
             <description><![CDATA[Emma Moore shares how creating a special place at home has helped her family.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cm4gvyvxyl1go?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm4gvyvxyl1go#2</guid>
@@ -249,6 +249,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/86fb/live/633b95d0-abac-11f1-a291-b542ee92de7c.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Wilcox the target again in another damaging Man Utd fallout]]></title>
+            <description><![CDATA[Lisandro Martinez's explosive comments after Manchester United's Champions League defeat by Atletico Madrid turn the spotlight back on director of football Jason Wilcox.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cvp8g57ne53xo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cvp8g57ne53xo#8</guid>
+            <pubDate>Wed, 14 Oct 2026 15:30:03 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ac2/live/f663aa70-c7de-11f1-9a39-31b474234113.png"/>
+        </item>
+        <item>
             <title><![CDATA[Struijk red card shown after VAR intervention is overturned]]></title>
             <description><![CDATA[The red card controversially shown to Brighton defender Pascal Struijk against Sunderland is overturned.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cv4g18gk8xzgo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -265,28 +273,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61e8/live/059e20b0-bdb7-11f1-bc2e-018d645d8d21.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Man Utd defender Martinez issues scathing attack on board]]></title>
-            <description><![CDATA[Lisandro Martinez launches a blistering attack on Manchester United's hierarchy for not strengthening the squad following qualification for the Champions League.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/crlykw9eevx3o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/crlykw9eevx3o#8</guid>
-            <pubDate>Tue, 13 Oct 2026 21:43:09 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f810/live/6b054b60-c756-11f1-8157-e5961116a2ed.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Quiz: Do you remember the big names who took aim at football club chiefs?]]></title>
             <description><![CDATA[As Lisandro Martinez launches a blistering attack on the Manchester United hierarchy, do you remember these famous past examples of well-known football figure calling out leadership figures?]]></description>
             <link>https://www.bbc.co.uk/sport/articles/cqvgr7530085o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/articles/cqvgr7530085o#8</guid>
             <pubDate>Wed, 14 Oct 2026 12:13:38 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e4f/live/a02d3990-c7c1-11f1-9a39-31b474234113.png"/>
-        </item>
-        <item>
-            <title><![CDATA['No excuses' - but is Villa's stadium rebuild affecting team?]]></title>
-            <description><![CDATA[With Villa Park's North Stand currently closed for building work, is the reduced capacity affecting Aston Villa's performances?]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cx054n684g7do?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cx054n684g7do#8</guid>
-            <pubDate>Wed, 14 Oct 2026 05:41:06 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2325/live/56d4a980-c7bd-11f1-b41f-d7a6cb474575.jpg"/>
         </item>
         <item>
             <title><![CDATA[Big scorelines, one-sided games - are Women's World Cup play-offs working?]]></title>
