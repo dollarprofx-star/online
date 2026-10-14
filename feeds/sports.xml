@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/sport/football</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 14 Oct 2026 17:13:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Oct 2026 17:44:15 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -23,14 +23,6 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ac2/live/f663aa70-c7de-11f1-9a39-31b474234113.png"/>
         </item>
         <item>
-            <title><![CDATA[Struijk red card shown after VAR intervention is overturned]]></title>
-            <description><![CDATA[The red card controversially shown to Brighton defender Pascal Struijk against Sunderland is overturned.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cv4g18gk8xzgo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cv4g18gk8xzgo#0</guid>
-            <pubDate>Wed, 14 Oct 2026 10:18:45 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14a4/live/22dd9890-c7b2-11f1-bc2e-018d645d8d21.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Fifa to offer extra £2.6bn for football development]]></title>
             <description><![CDATA[Fifa is set to propose a $3.4bn increase in the amount of money it hands out for football development across the world.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/c64g1ex2d7gvo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -39,12 +31,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df77/live/a0001370-c7df-11f1-b712-6f93dfe07e87.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Burnham had two hospitality dinners with Man City chairman, deleted records show]]></title>
-            <description><![CDATA[The prime minister has been under growing pressure since the club was found guilty of Premier League rule breaches.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c83vq9vpwwr1o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c83vq9vpwwr1o#0</guid>
-            <pubDate>Wed, 14 Oct 2026 12:47:43 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61e8/live/059e20b0-bdb7-11f1-bc2e-018d645d8d21.jpg"/>
+            <title><![CDATA[Millwall's Neil criticised over racial abuse stoppage comments]]></title>
+            <description><![CDATA[Anti-racism campaign group Kick It Out calls on managers to "set the tone" after Millwall boss Alex Neil criticises halting a game following an accusation of abuse.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/c6rmykw391ljo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6rmykw391ljo#0</guid>
+            <pubDate>Wed, 14 Oct 2026 17:09:18 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/024c/live/a95276a0-c7c3-11f1-993a-152cbb068da1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Struijk red card shown after VAR intervention is overturned]]></title>
+            <description><![CDATA[The red card controversially shown to Brighton defender Pascal Struijk against Sunderland is overturned.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cv4g18gk8xzgo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cv4g18gk8xzgo#0</guid>
+            <pubDate>Wed, 14 Oct 2026 10:18:45 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14a4/live/22dd9890-c7b2-11f1-bc2e-018d645d8d21.jpg"/>
         </item>
         <item>
             <title><![CDATA[Big scorelines, one-sided games - are Women's World Cup play-offs working?]]></title>
@@ -69,6 +69,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/articles/cqvgr7530085o#0</guid>
             <pubDate>Wed, 14 Oct 2026 12:13:38 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e4f/live/a02d3990-c7c1-11f1-9a39-31b474234113.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Burnham had two hospitality dinners with Man City chairman, deleted records show]]></title>
+            <description><![CDATA[The prime minister has been under growing pressure since the club was found guilty of Premier League rule breaches.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c83vq9vpwwr1o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c83vq9vpwwr1o#0</guid>
+            <pubDate>Wed, 14 Oct 2026 12:47:43 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61e8/live/059e20b0-bdb7-11f1-bc2e-018d645d8d21.jpg"/>
         </item>
         <item>
             <title><![CDATA[Semenyo 'froze' after alleged racist abuse, court told]]></title>
@@ -98,7 +106,7 @@
             <title><![CDATA[How Ukrainians are uniting behind Shakhtar in London]]></title>
             <description><![CDATA[Shakhtar Donetsk will be playing Champions League home games at Stamford Bridge this season. It is a scenario nobody wants ideally, but the UK's Ukrainian community is making the best of a difficult situation.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/c32l4z71dq72o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c32l4z71dq72o#0</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c32l4z71dq72o#1</guid>
             <pubDate>Wed, 14 Oct 2026 06:37:12 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bdf8/live/2f97bb00-c79a-11f1-a624-a3d8608fc192.jpg"/>
         </item>
@@ -135,20 +143,20 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b1cd/live/0cddb1d0-c751-11f1-b4d5-87f9c6c95a29.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Who am I? Plus today's other quizzes]]></title>
-            <description><![CDATA[Test your football knowledge against today's Who Am I?, Five in Five and Brainteaser.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/c933xdrl731lo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c933xdrl731lo#1</guid>
-            <pubDate>Wed, 14 Oct 2026 06:19:21 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"/>
-        </item>
-        <item>
             <title><![CDATA[Goal crisis & in drop zone - so why is Spurs' £60m striker stuck in U21s?]]></title>
             <description><![CDATA[After being left out of Tottenham's Premier League squad last month, Richarlison has been left to feature for the under-21s side]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/ck9qzwp9ejgro?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ck9qzwp9ejgro#2</guid>
             <pubDate>Tue, 13 Oct 2026 20:39:18 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0aff/live/b604c290-c737-11f1-9085-f95bdc648acc.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Who am I? Plus today's other quizzes]]></title>
+            <description><![CDATA[Test your football knowledge against today's Who Am I?, Five in Five and Brainteaser.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/c933xdrl731lo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c933xdrl731lo#2</guid>
+            <pubDate>Wed, 14 Oct 2026 06:19:21 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"/>
         </item>
         <item>
             <title><![CDATA[Man Utd defender Martinez issues scathing attack on board]]></title>
@@ -189,14 +197,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c90k0x61ej7mo#2</guid>
             <pubDate>Wed, 14 Oct 2026 10:49:27 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d22/live/35e0b780-c7ba-11f1-b41f-d7a6cb474575.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Fan cleared of assaults after fall from Ipswich stand]]></title>
-            <description><![CDATA[Away fan John Ryan toppled from the upper tier at Ipswich's ground and landed on home supporters.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c65ynlyz385xo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c65ynlyz385xo#2</guid>
-            <pubDate>Wed, 14 Oct 2026 17:07:53 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d9c/live/fe16e0c0-c7bb-11f1-ae81-f79bab61f11a.jpg"/>
         </item>
         <item>
             <title><![CDATA[Watch: Scotland beat Czechs to set up Sweden play-off]]></title>
@@ -247,6 +247,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d32/live/c55f5460-c0c7-11f1-a5b0-6f550c662e91.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Fan cleared of assaults after fall from Ipswich stand]]></title>
+            <description><![CDATA[Away fan John Ryan toppled from the upper tier at Ipswich's ground and landed on home supporters.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c65ynlyz385xo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c65ynlyz385xo#5</guid>
+            <pubDate>Wed, 14 Oct 2026 17:07:53 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d9c/live/fe16e0c0-c7bb-11f1-ae81-f79bab61f11a.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Football Daily]]></title>
             <description><![CDATA[Kelly Cates reacts to the Lisandro Martinez comments on the Man United hierarchy.]]></description>
             <link>https://www.bbc.co.uk/sounds/play/p0pgjm3k?at_medium=RSS&amp;at_campaign=rss</link>
@@ -277,14 +285,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cjkge245n0gzo#5</guid>
             <pubDate>Tue, 13 Oct 2026 16:00:18 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b8ca/live/752f1a40-c723-11f1-b881-4391ac746e04.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Police investigate alleged racial abuse of Swans' Eom]]></title>
-            <description><![CDATA[Swansea City boss Vitor Matos says South Korean winger Ji-sung Eom was targeted by racist abuse at Millwall on Tuesday.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cmdx3nk7kwwro?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmdx3nk7kwwro#5</guid>
-            <pubDate>Wed, 14 Oct 2026 11:42:57 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2917/live/2bdbfd10-c74e-11f1-b4d5-87f9c6c95a29.jpg"/>
         </item>
         <item>
             <title><![CDATA[Doku delights as Manchester City cruise past 10-man Liverpool ]]></title>
@@ -365,6 +365,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6vgx70pzq1jo#7</guid>
             <pubDate>Tue, 13 Oct 2026 16:00:11 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/37b4/live/971360b0-c71b-11f1-bc2e-018d645d8d21.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Police investigate alleged racial abuse of Swans' Eom]]></title>
+            <description><![CDATA[Swansea City boss Vitor Matos says South Korean winger Ji-sung Eom was targeted by racist abuse at Millwall on Tuesday.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cmdx3nk7kwwro?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmdx3nk7kwwro#7</guid>
+            <pubDate>Wed, 14 Oct 2026 11:42:57 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2917/live/2bdbfd10-c74e-11f1-b4d5-87f9c6c95a29.jpg"/>
         </item>
         <item>
             <title><![CDATA[Bournemouth open to selling Scott for £100m in January]]></title>
@@ -543,12 +551,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/468a/live/94ff0b90-c75b-11f1-9a39-31b474234113.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Makhanya being tracked - Wednesday's gossip]]></title>
-            <description><![CDATA[Rangers are under no pressure to sell Olwethu Makhanya - but the 22-year-old South Africa defender is attracting plenty of interest.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cmvg9nkyzll1o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmvg9nkyzll1o#17</guid>
-            <pubDate>Wed, 14 Oct 2026 06:57:49 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0991/live/ab8ea7a0-c79a-11f1-a64c-550be9e3c66b.png"/>
+            <title><![CDATA[East Fife sack Campbell as Lennon steps in at Dumbarton]]></title>
+            <description><![CDATA[East Fife part ways with veteran manager Dick Campbell as Danny Lennon temporarily replaces Frank McKeown at Dumbarton.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cwzd6y4vr2y4o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cwzd6y4vr2y4o#17</guid>
+            <pubDate>Wed, 14 Oct 2026 17:16:23 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6110/live/1106acb0-c7ee-11f1-9bb8-8794f734d112.jpg"/>
         </item>
         <item>
             <title><![CDATA[Watch: Scotland beat Czechs to set up Sweden play-off]]></title>
