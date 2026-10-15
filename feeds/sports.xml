@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/sport/football</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 15 Oct 2026 16:28:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Oct 2026 17:04:23 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -269,6 +269,14 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee34/live/a8a02240-c8a2-11f1-aad3-554074f65f72.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Game's Gone: The Steve Bracknall Podcast]]></title>
+            <description><![CDATA[Curries, City Charges and Chippie Teas]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/p0pgqdnh?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0pgqdnh#4</guid>
+            <pubDate>Thu, 15 Oct 2026 06:00:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0mh9p6j.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Jackson steps up again as Aston Villa revival continues]]></title>
             <description><![CDATA[Nicolas Jackson continues his fine goalscoring form as Aston Villa record an impressive Champions League win.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/c370pnwz0gw2o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -304,7 +312,7 @@
             <title><![CDATA[Outburst came out of 'anger and frustration' - Martinez]]></title>
             <description><![CDATA[Manchester United defender Lisandro Martinez says he "spoke out of anger and frustration" when launching a scathing attack on the club's hierarchy.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cqd09l278n15o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqd09l278n15o#4</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqd09l278n15o#6</guid>
             <pubDate>Wed, 14 Oct 2026 22:42:02 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2594/live/36bd52e0-c81d-11f1-ba52-6f55b182b2fe.jpg"/>
         </item>
@@ -312,7 +320,7 @@
             <title><![CDATA[Wilcox the target again in another damaging Man Utd fallout]]></title>
             <description><![CDATA[Lisandro Martinez's explosive comments after Manchester United's Champions League defeat by Atletico Madrid turn the spotlight back on director of football Jason Wilcox.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cvp8g57ne53xo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cvp8g57ne53xo#4</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cvp8g57ne53xo#6</guid>
             <pubDate>Wed, 14 Oct 2026 15:30:03 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ac2/live/f663aa70-c7de-11f1-9a39-31b474234113.png"/>
         </item>
@@ -328,7 +336,7 @@
             <title><![CDATA[Semenyo 'froze' after alleged racist abuse, court told]]></title>
             <description><![CDATA[A Liverpool fan denies racially aggravated behaviour during a match against Bournemouth in 2025.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cvlyd3z1g8d8o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cvlyd3z1g8d8o#6</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cvlyd3z1g8d8o#7</guid>
             <pubDate>Wed, 14 Oct 2026 14:16:04 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7cd7/live/e16f7470-c7d7-11f1-9671-5b70c6e774ea.jpg"/>
         </item>
@@ -344,7 +352,7 @@
             <title><![CDATA[Struijk red card shown after VAR intervention is overturned]]></title>
             <description><![CDATA[The red card controversially shown to Brighton defender Pascal Struijk against Sunderland is overturned.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cv4g18gk8xzgo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cv4g18gk8xzgo#7</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cv4g18gk8xzgo#9</guid>
             <pubDate>Wed, 14 Oct 2026 10:18:45 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14a4/live/22dd9890-c7b2-11f1-bc2e-018d645d8d21.jpg"/>
         </item>
@@ -379,22 +387,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cx24097p00j8o#9</guid>
             <pubDate>Wed, 14 Oct 2026 18:21:21 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f030/live/c3e2bef0-c7f8-11f1-970c-196b57378f40.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Could Danish model help Scotland solve talent crisis?]]></title>
-            <description><![CDATA[How Nordsjaelland have become a powerhouse of youth football development - and what Scottish clubs could learn from them.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/c8y5639gdz75o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c8y5639gdz75o#9</guid>
-            <pubDate>Wed, 14 Oct 2026 10:35:26 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1aa1/live/f6a67fa0-c7b9-11f1-b41f-d7a6cb474575.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Saka responds to Arteta's challenge with 'huge impact']]></title>
-            <description><![CDATA[Bukayo Saka responds to the challenge set by Mikel Arteta as he comes off the bench to change the game against Lille in the Champions League.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cqrlyd1grwkko?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqrlyd1grwkko#9</guid>
-            <pubDate>Tue, 13 Oct 2026 23:03:04 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b1cd/live/0cddb1d0-c751-11f1-b4d5-87f9c6c95a29.jpg"/>
         </item>
         <item>
             <title><![CDATA[How much did Man City's rule breaking cost your team?]]></title>
