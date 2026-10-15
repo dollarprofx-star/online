@@ -9,11 +9,19 @@
             <link>https://www.bbc.co.uk/sport/football</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 15 Oct 2026 13:21:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Oct 2026 14:05:11 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Infantino apologises to Fifa Council - but told he's still not fit to lead]]></title>
+            <description><![CDATA[President Gianni Infantino apologises to the Fifa Council for his World Cup sell-off plan - but is asked to go further.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cmd7qgj3zwero?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmd7qgj3zwero#0</guid>
+            <pubDate>Thu, 15 Oct 2026 13:58:57 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f384/live/cd09a210-c89c-11f1-b0a4-81e564f1cfaa.jpg"/>
+        </item>
         <item>
             <title><![CDATA[Man Utd a circus after Martinez comments - Keane]]></title>
             <description><![CDATA[Lisandro Martinez's outburst shows Manchester United are in "chaos", says former captain Roy Keane.]]></description>
@@ -73,20 +81,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d91b/live/8bd7b720-c813-11f1-bc2e-018d645d8d21.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Could Wenger really take on Infantino and run for Fifa presidency?]]></title>
-            <description><![CDATA[Senior figures in European football tell BBC Sport they want former Arsenal manager Arsene Wenger to run as a surprise candidate against Gianni Infantino.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cx30e8dqmnzgo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cx30e8dqmnzgo#0</guid>
-            <pubDate>Thu, 15 Oct 2026 06:35:39 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db17/live/f473e230-c7fb-11f1-970c-196b57378f40.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Everton's Barry on the video he was scared to post]]></title>
-            <description><![CDATA[The Everton striker explains why he chose to post an emotional video from a training session.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cq8rzgry7dgko?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cq8rzgry7dgko#0</guid>
-            <pubDate>Thu, 15 Oct 2026 11:27:07 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4577/live/324f91b0-c88f-11f1-b0a4-81e564f1cfaa.jpg"/>
+            <title><![CDATA[Arsenal's injured Caldentey out for up to 10 weeks]]></title>
+            <description><![CDATA[Arsenal midfielder Mariona Caldentey is set to miss about two months of Women's Super League action because of a hamstring injury.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/ckr5y8l0ey2po?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ckr5y8l0ey2po#0</guid>
+            <pubDate>Thu, 15 Oct 2026 13:35:56 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa2c/live/0e07d870-c89a-11f1-b0a4-81e564f1cfaa.jpg"/>
         </item>
         <item>
             <title><![CDATA[Hibs ban fans group for three games after disorder]]></title>
@@ -204,6 +204,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6a0/live/6092c000-c813-11f1-bc2e-018d645d8d21.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Everton's Barry on the video he was scared to post]]></title>
+            <description><![CDATA[The Everton striker explains why he chose to post an emotional video from a training session.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cq8rzgry7dgko?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cq8rzgry7dgko#3</guid>
+            <pubDate>Thu, 15 Oct 2026 11:27:07 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4577/live/324f91b0-c88f-11f1-b0a4-81e564f1cfaa.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Martinez's future at Man Utd in doubt - Thursday's gossip]]></title>
             <description><![CDATA[Lisandro Martinez's future in doubt at Manchester United, Newcastle's Bazoumana Toure eyed by Manchester United and Arsenal, Getafe interested in free agent Jadon Sancho, plus more.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/c370pnz8d90wo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -244,20 +252,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b62/live/61c45310-c7cf-11f1-9e10-4dcbd31d4273.jpg"/>
         </item>
         <item>
-            <title><![CDATA['Shameless' - Mourinho critical of Vinicius Jr ban timing]]></title>
-            <description><![CDATA[Real Madrid forward Vinicius Jr will miss El Clasico against Barcelona after being given a four-game ban.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/ckd7qg5q87qvo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ckd7qg5q87qvo#3</guid>
-            <pubDate>Wed, 14 Oct 2026 23:13:20 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d69/live/901c4f60-c7f7-11f1-970c-196b57378f40.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[PSG on different level - but where do they rank against other great sides?]]></title>
             <description><![CDATA[Paris St-Germain are eyeing a third successive Champions League crown after dismantling Manchester City, but where do they rank against Europe's most dominant clubs?]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cmx2wegg2pw5o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmx2wegg2pw5o#4</guid>
             <pubDate>Wed, 14 Oct 2026 21:55:37 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0231/live/1094d0e0-c816-11f1-82ac-736cd3146b70.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Shameless' - Mourinho critical of Vinicius Jr ban timing]]></title>
+            <description><![CDATA[Real Madrid forward Vinicius Jr will miss El Clasico against Barcelona after being given a four-game ban.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/ckd7qg5q87qvo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ckd7qg5q87qvo#4</guid>
+            <pubDate>Wed, 14 Oct 2026 23:13:20 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d69/live/901c4f60-c7f7-11f1-970c-196b57378f40.jpg"/>
         </item>
         <item>
             <title><![CDATA[Outburst came out of 'anger and frustration' - Martinez]]></title>
@@ -532,6 +540,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c8y5639gdz75o#17</guid>
             <pubDate>Wed, 14 Oct 2026 10:35:26 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1aa1/live/f6a67fa0-c7b9-11f1-b41f-d7a6cb474575.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arsenal's injured Caldentey out for up to 10 weeks]]></title>
+            <description><![CDATA[Arsenal midfielder Mariona Caldentey is set to miss about two months of Women's Super League action because of a hamstring injury.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/ckr5y8l0ey2po?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ckr5y8l0ey2po#18</guid>
+            <pubDate>Thu, 15 Oct 2026 13:35:56 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa2c/live/0e07d870-c89a-11f1-b0a4-81e564f1cfaa.jpg"/>
         </item>
         <item>
             <title><![CDATA[Big scorelines, one-sided games - are Women's World Cup play-offs working?]]></title>
