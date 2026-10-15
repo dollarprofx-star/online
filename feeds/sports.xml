@@ -9,14 +9,14 @@
             <link>https://www.bbc.co.uk/sport/football</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 15 Oct 2026 05:38:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Oct 2026 06:08:33 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
             <title><![CDATA[Guardiola's return, Man City's defiance - and a game of glorious chaos]]></title>
-            <description><![CDATA[On their return to Etihad Stadium Manchester City put on a show of defiance - even in the face of a PSG masterclass, writes Phil McNulty.]]></description>
+            <description><![CDATA[Manchester City put on a show of defiance on their return to Etihad Stadium - even in the face of a PSG masterclass, writes Phil McNulty.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cqp8gyv8le87o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqp8gyv8le87o#0</guid>
             <pubDate>Wed, 14 Oct 2026 22:57:23 GMT</pubDate>
@@ -63,6 +63,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f64d/live/aa2cb5f0-c803-11f1-bc2e-018d645d8d21.png"/>
         </item>
         <item>
+            <title><![CDATA[Who am I? Plus today's other quizzes]]></title>
+            <description><![CDATA[Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/c64g1rny3e01o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c64g1rny3e01o#0</guid>
+            <pubDate>Thu, 15 Oct 2026 06:00:25 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"/>
+        </item>
+        <item>
             <title><![CDATA[Barcola shines as Liverpool score six to beat LASK ]]></title>
             <description><![CDATA[Bradley Barcola scores a hat-trick as Liverpool beat LASK 6-3 in Austria to make it two wins from two in the league phase of this season's Champions League. ]]></description>
             <link>https://www.bbc.co.uk/sport/football/videos/c68jzlwpk01zo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -71,12 +79,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d506/live/673a4720-c7fa-11f1-9a39-31b474234113.jpg"/>
         </item>
         <item>
-            <title><![CDATA['Shameless' - Mourinho critical of Vinicius Jr ban timing]]></title>
-            <description><![CDATA[Real Madrid forward Vinicius Jr will miss El Clasico against Barcelona after being given a four-game ban.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/ckd7qg5q87qvo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ckd7qg5q87qvo#0</guid>
-            <pubDate>Wed, 14 Oct 2026 23:13:20 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d69/live/901c4f60-c7f7-11f1-970c-196b57378f40.jpg"/>
+            <title><![CDATA[Southgate does not see return to Premier League management]]></title>
+            <description><![CDATA[Former England manager Gareth Southgate says he does not see himself returning to club management in the Premier League.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/c9kgj41jgm5go?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c9kgj41jgm5go#0</guid>
+            <pubDate>Thu, 15 Oct 2026 05:39:10 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b62/live/61c45310-c7cf-11f1-9e10-4dcbd31d4273.jpg"/>
         </item>
         <item>
             <title><![CDATA[Wilcox the target again in another damaging Man Utd fallout]]></title>
@@ -85,14 +93,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cvp8g57ne53xo#0</guid>
             <pubDate>Wed, 14 Oct 2026 15:30:03 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ac2/live/f663aa70-c7de-11f1-9a39-31b474234113.png"/>
-        </item>
-        <item>
-            <title><![CDATA[PSG on 'different level' - are they building greatest European dynasty?]]></title>
-            <description><![CDATA[Paris St-Germain are eyeing a third successive Champions League crown after dismantling Manchester City, but where do they rank against Europe's most dominant clubs?]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cmx2wegg2pw5o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmx2wegg2pw5o#0</guid>
-            <pubDate>Wed, 14 Oct 2026 21:55:37 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0231/live/1094d0e0-c816-11f1-82ac-736cd3146b70.jpg"/>
         </item>
         <item>
             <title><![CDATA[Villa rewrite the record books as they hit Fenerbahce for six ]]></title>
@@ -194,20 +194,28 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6a0/live/6092c000-c813-11f1-bc2e-018d645d8d21.jpg"/>
         </item>
         <item>
+            <title><![CDATA['Shameless' - Mourinho critical of Vinicius Jr ban timing]]></title>
+            <description><![CDATA[Real Madrid forward Vinicius Jr will miss El Clasico against Barcelona after being given a four-game ban.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/ckd7qg5q87qvo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ckd7qg5q87qvo#3</guid>
+            <pubDate>Wed, 14 Oct 2026 23:13:20 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d69/live/901c4f60-c7f7-11f1-970c-196b57378f40.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[PSG on 'different level' - are they building greatest European dynasty?]]></title>
+            <description><![CDATA[Paris St-Germain are eyeing a third successive Champions League crown after dismantling Manchester City, but where do they rank against Europe's most dominant clubs?]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cmx2wegg2pw5o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmx2wegg2pw5o#3</guid>
+            <pubDate>Wed, 14 Oct 2026 21:55:37 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0231/live/1094d0e0-c816-11f1-82ac-736cd3146b70.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Millwall's Neil criticised over racial abuse stoppage comments]]></title>
             <description><![CDATA[Anti-racism campaign group Kick It Out calls on managers to "set the tone" after Millwall boss Alex Neil criticises halting a game following an accusation of abuse.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/c6rmykw391ljo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6rmykw391ljo#3</guid>
             <pubDate>Wed, 14 Oct 2026 17:09:18 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/024c/live/a95276a0-c7c3-11f1-993a-152cbb068da1.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Fifa to offer extra £2.6bn for football development]]></title>
-            <description><![CDATA[Fifa is set to propose a $3.4bn increase in the amount of money it hands out for football development across the world.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/c64g1ex2d7gvo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c64g1ex2d7gvo#3</guid>
-            <pubDate>Wed, 14 Oct 2026 15:59:59 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df77/live/a0001370-c7df-11f1-b712-6f93dfe07e87.jpg"/>
         </item>
         <item>
             <title><![CDATA[Semenyo 'froze' after alleged racist abuse, court told]]></title>
@@ -234,28 +242,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82c7/live/eb28dd30-c7c3-11f1-993a-152cbb068da1.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Fifa to offer extra £2.6bn for football development]]></title>
+            <description><![CDATA[Fifa is set to propose a $3.4bn increase in the amount of money it hands out for football development across the world.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/c64g1ex2d7gvo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c64g1ex2d7gvo#6</guid>
+            <pubDate>Wed, 14 Oct 2026 15:59:59 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df77/live/a0001370-c7df-11f1-b712-6f93dfe07e87.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Struijk red card shown after VAR intervention is overturned]]></title>
             <description><![CDATA[The red card controversially shown to Brighton defender Pascal Struijk against Sunderland is overturned.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cv4g18gk8xzgo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cv4g18gk8xzgo#6</guid>
             <pubDate>Wed, 14 Oct 2026 10:18:45 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14a4/live/22dd9890-c7b2-11f1-bc2e-018d645d8d21.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Set-piece sessions and finding fixes - how international break lifted Chelsea]]></title>
-            <description><![CDATA[The extended three-week break may have benefited Chelsea more than any other team in the Premier League.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/ckwy4nj4842qo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ckwy4nj4842qo#6</guid>
-            <pubDate>Wed, 14 Oct 2026 10:43:19 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/85b6/live/53e3ca90-c74e-11f1-b4d5-87f9c6c95a29.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Wolves striker Jimenez to have knee surgery]]></title>
-            <description><![CDATA[Wolves' veteran striker Raul Jimenez is to have knee surgery - and is now expected to be out of action until January.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cx24097p00j8o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cx24097p00j8o#6</guid>
-            <pubDate>Wed, 14 Oct 2026 18:21:21 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f030/live/c3e2bef0-c7f8-11f1-970c-196b57378f40.jpg"/>
         </item>
         <item>
             <title><![CDATA[How Ukrainians are uniting behind Shakhtar in London]]></title>
@@ -266,12 +266,28 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bdf8/live/2f97bb00-c79a-11f1-a624-a3d8608fc192.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Set-piece sessions and finding fixes - how international break lifted Chelsea]]></title>
+            <description><![CDATA[The extended three-week break may have benefited Chelsea more than any other team in the Premier League.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/ckwy4nj4842qo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ckwy4nj4842qo#7</guid>
+            <pubDate>Wed, 14 Oct 2026 10:43:19 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/85b6/live/53e3ca90-c74e-11f1-b4d5-87f9c6c95a29.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Dionisi set to remain in charge of Watford]]></title>
             <description><![CDATA[BBC Three Counties Radio report Watford are set to stick with head coach Alessio Dionisi despite a run of four successive defeats]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cmd7qv7l2530o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmd7qv7l2530o#7</guid>
             <pubDate>Wed, 14 Oct 2026 14:46:30 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8235/live/aa0e4d90-c7b8-11f1-b41f-d7a6cb474575.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Wolves striker Jimenez to have knee surgery]]></title>
+            <description><![CDATA[Wolves' veteran striker Raul Jimenez is to have knee surgery - and is now expected to be out of action until January.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cx24097p00j8o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cx24097p00j8o#7</guid>
+            <pubDate>Wed, 14 Oct 2026 18:21:21 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f030/live/c3e2bef0-c7f8-11f1-970c-196b57378f40.jpg"/>
         </item>
         <item>
             <title><![CDATA[Burnham had two hospitality dinners with Man City chairman, deleted records show]]></title>
@@ -298,28 +314,20 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b1cd/live/0cddb1d0-c751-11f1-b4d5-87f9c6c95a29.jpg"/>
         </item>
         <item>
-            <title><![CDATA[South African striker swaps Sunday league for Champions League]]></title>
-            <description><![CDATA[A former student from Rotherham has climbed the football ladder from the bottom up.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c99dm52ypkjo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c99dm52ypkjo#7</guid>
-            <pubDate>Wed, 14 Oct 2026 05:08:30 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d32/live/c55f5460-c0c7-11f1-a5b0-6f550c662e91.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['Possessed' Davidson fills Weir gap as Scots set up glamour Sweden tie]]></title>
-            <description><![CDATA[Erin Cuthbert praises Lauren Davidson as Scotland overcome Caroline Weir's absence to set up a World Cup play-off tie with Sweden.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cq5ynlez508no?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cq5ynlez508no#7</guid>
-            <pubDate>Wed, 14 Oct 2026 08:16:53 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/468a/live/94ff0b90-c75b-11f1-9a39-31b474234113.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Cliftonville stripped of League Cup win as treble hopes end]]></title>
             <description><![CDATA[Cliftonville's hopes of a domestic treble are over after they were stripped of their Women's League Cup title for fielding two ineligible players in the final.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cqy7l562zv1lo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqy7l562zv1lo#7</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqy7l562zv1lo#9</guid>
             <pubDate>Wed, 14 Oct 2026 12:28:13 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b575/live/2cde58d0-c7c5-11f1-993a-152cbb068da1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[South African striker swaps Sunday league for Champions League]]></title>
+            <description><![CDATA[A former student from Rotherham has climbed the football ladder from the bottom up.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c99dm52ypkjo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c99dm52ypkjo#9</guid>
+            <pubDate>Wed, 14 Oct 2026 05:08:30 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d32/live/c55f5460-c0c7-11f1-a5b0-6f550c662e91.jpg"/>
         </item>
         <item>
             <title><![CDATA[Why play-off win may not send Wales to World Cup]]></title>
@@ -328,6 +336,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c90k0x61ej7mo#9</guid>
             <pubDate>Wed, 14 Oct 2026 10:49:27 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d22/live/35e0b780-c7ba-11f1-b41f-d7a6cb474575.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Possessed' Davidson fills Weir gap as Scots set up glamour Sweden tie]]></title>
+            <description><![CDATA[Erin Cuthbert praises Lauren Davidson as Scotland overcome Caroline Weir's absence to set up a World Cup play-off tie with Sweden.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cq5ynlez508no?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cq5ynlez508no#9</guid>
+            <pubDate>Wed, 14 Oct 2026 08:16:53 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/468a/live/94ff0b90-c75b-11f1-9a39-31b474234113.jpg"/>
         </item>
         <item>
             <title><![CDATA[72+: The EFL Podcast]]></title>
@@ -352,22 +368,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cm2kev8w934do#9</guid>
             <pubDate>Tue, 13 Oct 2026 22:15:44 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1738/live/1033d250-c7ac-11f1-86ef-693282d0a891.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Football regulator says he would quit over Man City political interference]]></title>
-            <description><![CDATA[The head of English football's independent regulator says he will resign if he encounters any political interference over Manchester City's future.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cjkge245n0gzo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cjkge245n0gzo#9</guid>
-            <pubDate>Tue, 13 Oct 2026 16:00:18 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b8ca/live/752f1a40-c723-11f1-b881-4391ac746e04.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Police investigate alleged racial abuse of Swans' Eom]]></title>
-            <description><![CDATA[Swansea City boss Vitor Matos says South Korean winger Ji-sung Eom was targeted by racist abuse at Millwall on Tuesday.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cmdx3nk7kwwro?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmdx3nk7kwwro#9</guid>
-            <pubDate>Wed, 14 Oct 2026 11:42:57 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2917/live/2bdbfd10-c74e-11f1-b4d5-87f9c6c95a29.jpg"/>
         </item>
         <item>
             <title><![CDATA[How much did Man City's rule breaking cost your team?]]></title>
