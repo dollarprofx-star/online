@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 15 Oct 2026 20:56:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Oct 2026 21:23:33 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -237,14 +237,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cw77p152jz64o#8</guid>
             <pubDate>Thu, 15 Oct 2026 18:03:28 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/89af/live/f4ecd4f0-c8ba-11f1-bdfb-e3788aeae9ec.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Australia clinch thrilling World Cup opener against New Zealand]]></title>
-            <description><![CDATA[Australia beat New Zealand 24-22 in a dramatic Rugby League World Cup opener in Sydney, with debutant Jack Bostock scoring a hat-trick to see the hosts snatch victory late on.  ]]></description>
-            <link>https://www.bbc.co.uk/sport/rugby-league/videos/cmn4eqpvw1ppo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/rugby-league/videos/cmn4eqpvw1ppo#8</guid>
-            <pubDate>Thu, 15 Oct 2026 17:00:06 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e8a/live/bac7ea70-c8ac-11f1-9a39-31b474234113.jpg"/>
         </item>
         <item>
             <title><![CDATA[Walsh vomit & Ponga pain - the physical toll of World Cup opener]]></title>
