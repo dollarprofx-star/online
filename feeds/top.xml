@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 15 Oct 2026 19:55:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Oct 2026 20:18:21 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -71,12 +71,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/11a9/live/dc91f1f0-c87f-11f1-9a39-31b474234113.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Severe drought declared in parts of southern England]]></title>
-            <description><![CDATA[Reservoir levels continue to drop after a hot summer and less September rain than normal.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cwm243lrgdpgo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwm243lrgdpgo#1</guid>
-            <pubDate>Thu, 15 Oct 2026 19:26:13 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb8c/live/25934700-c894-11f1-b0a4-81e564f1cfaa.jpg"/>
+            <title><![CDATA[London housing project wins top architecture award]]></title>
+            <description><![CDATA[Lion Green Road in Coulsdon was recognised for the way it responds to its surroundings.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cq8jzgl7zz9po?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cq8jzgl7zz9po#1</guid>
+            <pubDate>Thu, 15 Oct 2026 20:02:59 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/036f/live/a0a66fe0-c87f-11f1-a2e8-f71844f8002e.jpg"/>
         </item>
         <item>
             <title><![CDATA[Man killed by tiger climbed two fences before suffering multiple injuries, inquest hears]]></title>
@@ -167,12 +167,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a71/live/3d86bbd0-c641-11f1-a64c-550be9e3c66b.png"/>
         </item>
         <item>
-            <title><![CDATA[Infantino apologises to Fifa Council - but told he is still not fit to lead]]></title>
-            <description><![CDATA[President Gianni Infantino apologises to the Fifa Council for his World Cup sell-off plan - but is asked to go further.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cmd7qgj3zwero?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmd7qgj3zwero#4</guid>
-            <pubDate>Thu, 15 Oct 2026 14:46:09 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f384/live/cd09a210-c89c-11f1-b0a4-81e564f1cfaa.jpg"/>
+            <title><![CDATA[Severe drought declared in parts of southern England]]></title>
+            <description><![CDATA[Reservoir levels continue to drop after a hot summer and less September rain than normal.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cwm243lrgdpgo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwm243lrgdpgo#4</guid>
+            <pubDate>Thu, 15 Oct 2026 19:26:13 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb8c/live/25934700-c894-11f1-b0a4-81e564f1cfaa.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Another man admits raping woman drugged by husband over 20 years]]></title>
+            <description><![CDATA[The husband is accused of inviting 13 other men to abuse her at their family home in Stockport.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cwvgdn1164v1o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwvgdn1164v1o#4</guid>
+            <pubDate>Thu, 15 Oct 2026 14:56:46 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d930/live/47b1a3b0-c8a1-11f1-929c-0b57deb4f9df.jpg"/>
         </item>
         <item>
             <title><![CDATA[Letters with 'suspicious substances' sent to US election offices]]></title>
@@ -183,12 +191,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9974/live/7783af20-c8c4-11f1-95b2-9f12d414946d.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Another man admits raping woman drugged by husband over 20 years]]></title>
-            <description><![CDATA[The husband is accused of inviting 13 other men to abuse her at their family home in Stockport.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cwvgdn1164v1o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwvgdn1164v1o#4</guid>
-            <pubDate>Thu, 15 Oct 2026 14:56:46 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d930/live/47b1a3b0-c8a1-11f1-929c-0b57deb4f9df.jpg"/>
+            <title><![CDATA[Mother of Henry Nowak killer could be deported ]]></title>
+            <description><![CDATA[Kiran Kaur was found guilty of assisting an offender and was jailed for three years in July.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cqze4l9l2eywo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqze4l9l2eywo#4</guid>
+            <pubDate>Thu, 15 Oct 2026 19:43:07 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f63d/live/8fe0dc80-5aa8-11f1-b277-cd187c78657d.jpg"/>
         </item>
         <item>
             <title><![CDATA[Nandy 'minded to intervene' in Sky's £1.6bn takeover of ITV entertainment arm]]></title>
@@ -207,14 +215,6 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc8a/live/6921a380-c8a4-11f1-929c-0b57deb4f9df.png"/>
         </item>
         <item>
-            <title><![CDATA[Farage defends Reform's vetting after councillors filmed making racist comments]]></title>
-            <description><![CDATA[The Reform leader says "you can't vet for future comments", after undercover filming of party activists.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/crlykvgx1wvxo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/crlykvgx1wvxo#4</guid>
-            <pubDate>Thu, 15 Oct 2026 16:36:32 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed71/live/be9e0870-c89b-11f1-b0a4-81e564f1cfaa.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Katie Price 'coached' alleged victim, court told]]></title>
             <description><![CDATA[Kieran Hayler says claims were fabricated amid the breakdown of his marriage.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cmwyq6l04gzyo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -223,10 +223,18 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/064f/live/e85a66f0-c89f-11f1-929c-0b57deb4f9df.png"/>
         </item>
         <item>
+            <title><![CDATA[Download now]]></title>
+            <description><![CDATA[Top stories, breaking news, live reporting, and follow news topics that match your interests]]></description>
+            <link>https://www.bbc.co.uk/news/10628994?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/10628994#5</guid>
+            <pubDate>Wed, 30 Apr 2025 14:04:28 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf6/live/d1e71250-9509-11ee-8df3-1d2983d8814f.png"/>
+        </item>
+        <item>
             <title><![CDATA[Martinez apologises for outburst and fined by Man Utd]]></title>
             <description><![CDATA[Manchester United defender Lisandro Martinez issues an apology following his controversial remarks criticising the club's hierarchy.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cw77p152jz64o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cw77p152jz64o#7</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cw77p152jz64o#8</guid>
             <pubDate>Thu, 15 Oct 2026 18:03:28 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/89af/live/f4ecd4f0-c8ba-11f1-bdfb-e3788aeae9ec.jpg"/>
         </item>
@@ -234,7 +242,7 @@
             <title><![CDATA[Australia clinch thrilling World Cup opener against New Zealand]]></title>
             <description><![CDATA[Australia beat New Zealand 24-22 in a dramatic Rugby League World Cup opener in Sydney, with debutant Jack Bostock scoring a hat-trick to see the hosts snatch victory late on.  ]]></description>
             <link>https://www.bbc.co.uk/sport/rugby-league/videos/cmn4eqpvw1ppo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/rugby-league/videos/cmn4eqpvw1ppo#7</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/rugby-league/videos/cmn4eqpvw1ppo#8</guid>
             <pubDate>Thu, 15 Oct 2026 17:00:06 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e8a/live/bac7ea70-c8ac-11f1-9a39-31b474234113.jpg"/>
         </item>
@@ -242,7 +250,7 @@
             <title><![CDATA[Walsh vomit & Ponga pain - the physical toll of World Cup opener]]></title>
             <description><![CDATA[Australia's Reece Walsh exerted himself to the point of throwing up, while New Zealand's Kalyn Ponga tried to play on with a suspected broken arm in a dramatic Men's Rugby League World Cup opener.]]></description>
             <link>https://www.bbc.co.uk/sport/rugby-league/articles/c574pn7j0yp3o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/rugby-league/articles/c574pn7j0yp3o#7</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/rugby-league/articles/c574pn7j0yp3o#8</guid>
             <pubDate>Thu, 15 Oct 2026 15:07:28 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c73/live/7bfc5710-c8a5-11f1-a573-f1e461934384.png"/>
         </item>
@@ -250,7 +258,7 @@
             <title><![CDATA[Infantino apologises to Fifa Council - but told he is still not fit to lead]]></title>
             <description><![CDATA[President Gianni Infantino apologises to the Fifa Council for his World Cup sell-off plan - but is asked to go further.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cmd7qgj3zwero?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmd7qgj3zwero#7</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmd7qgj3zwero#8</guid>
             <pubDate>Thu, 15 Oct 2026 14:46:09 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f384/live/cd09a210-c89c-11f1-b0a4-81e564f1cfaa.jpg"/>
         </item>
