@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/sport/football</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 15 Oct 2026 08:13:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Oct 2026 08:48:42 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -71,12 +71,22 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db17/live/f473e230-c7fb-11f1-970c-196b57378f40.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Martinez's future at Man Utd in doubt - Thursday's gossip]]></title>
-            <description><![CDATA[Lisandro Martinez's future in doubt at Manchester United, Newcastle's Bazoumana Toure eyed by Manchester United and Arsenal, Getafe interested in free agent Jadon Sancho, plus more.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/c370pnz8d90wo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c370pnz8d90wo#0</guid>
-            <pubDate>Wed, 14 Oct 2026 21:27:34 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f64d/live/aa2cb5f0-c803-11f1-bc2e-018d645d8d21.png"/>
+            <title><![CDATA[The Andorran club making history with a Pochettino in the team]]></title>
+            <description><![CDATA[Maurizio Pochettino and inter Club d'Escaldes are set to make European history for footballing minnows Andorra.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cmwy4nyv3rqzo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmwy4nyv3rqzo#0</guid>
+            <pubDate>Thu, 15 Oct 2026 06:09:12 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20ad/live/ed9a6fe0-c7b7-11f1-b41f-d7a6cb474575.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why Souness rejected Barcelona when he left Liverpool]]></title>
+            <description><![CDATA[Liverpool legend Graeme Souness reveals he rejected the chance to sign for Barcelona when he left the European champions.
+
+]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cm0j07pdw95eo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cm0j07pdw95eo#0</guid>
+            <pubDate>Thu, 15 Oct 2026 08:30:04 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22ff/live/26cf8080-c7e4-11f1-bc2e-018d645d8d21.jpg"/>
         </item>
         <item>
             <title><![CDATA[Who am I? Plus today's other quizzes]]></title>
@@ -85,14 +95,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c64g1rny3e01o#0</guid>
             <pubDate>Thu, 15 Oct 2026 06:00:25 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"/>
-        </item>
-        <item>
-            <title><![CDATA[The Andorran club making history with a Pochettino in the team]]></title>
-            <description><![CDATA[Maurizio Pochettino and inter Club d'Escaldes are set to make European history for footballing minnows Andorra.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cmwy4nyv3rqzo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmwy4nyv3rqzo#0</guid>
-            <pubDate>Thu, 15 Oct 2026 06:09:12 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20ad/live/ed9a6fe0-c7b7-11f1-b41f-d7a6cb474575.jpg"/>
         </item>
         <item>
             <title><![CDATA[Barcola shines as Liverpool score six to beat LASK ]]></title>
@@ -202,6 +204,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6a0/live/6092c000-c813-11f1-bc2e-018d645d8d21.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Martinez's future at Man Utd in doubt - Thursday's gossip]]></title>
+            <description><![CDATA[Lisandro Martinez's future in doubt at Manchester United, Newcastle's Bazoumana Toure eyed by Manchester United and Arsenal, Getafe interested in free agent Jadon Sancho, plus more.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/c370pnz8d90wo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c370pnz8d90wo#3</guid>
+            <pubDate>Wed, 14 Oct 2026 21:27:34 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f64d/live/aa2cb5f0-c803-11f1-bc2e-018d645d8d21.png"/>
+        </item>
+        <item>
             <title><![CDATA[Southgate does not see return to Premier League management]]></title>
             <description><![CDATA[Former England manager Gareth Southgate says he does not see himself returning to club management in the Premier League.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/c9kgj41jgm5go?at_medium=RSS&amp;at_campaign=rss</link>
@@ -218,20 +228,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d69/live/901c4f60-c7f7-11f1-970c-196b57378f40.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Wilcox the target again in another damaging Man Utd fallout]]></title>
-            <description><![CDATA[Lisandro Martinez's explosive comments after Manchester United's Champions League defeat by Atletico Madrid turn the spotlight back on director of football Jason Wilcox.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cvp8g57ne53xo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cvp8g57ne53xo#3</guid>
-            <pubDate>Wed, 14 Oct 2026 15:30:03 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ac2/live/f663aa70-c7de-11f1-9a39-31b474234113.png"/>
-        </item>
-        <item>
             <title><![CDATA[PSG on different level - but where do they rank against other great sides?]]></title>
             <description><![CDATA[Paris St-Germain are eyeing a third successive Champions League crown after dismantling Manchester City, but where do they rank against Europe's most dominant clubs?]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cmx2wegg2pw5o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmx2wegg2pw5o#3</guid>
             <pubDate>Wed, 14 Oct 2026 21:55:37 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0231/live/1094d0e0-c816-11f1-82ac-736cd3146b70.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Wilcox the target again in another damaging Man Utd fallout]]></title>
+            <description><![CDATA[Lisandro Martinez's explosive comments after Manchester United's Champions League defeat by Atletico Madrid turn the spotlight back on director of football Jason Wilcox.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cvp8g57ne53xo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cvp8g57ne53xo#4</guid>
+            <pubDate>Wed, 14 Oct 2026 15:30:03 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ac2/live/f663aa70-c7de-11f1-9a39-31b474234113.png"/>
         </item>
         <item>
             <title><![CDATA[Millwall's Neil criticised over racial abuse stoppage comments]]></title>
@@ -261,17 +271,9 @@
             <title><![CDATA[Struijk red card shown after VAR intervention is overturned]]></title>
             <description><![CDATA[The red card controversially shown to Brighton defender Pascal Struijk against Sunderland is overturned.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cv4g18gk8xzgo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cv4g18gk8xzgo#6</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cv4g18gk8xzgo#7</guid>
             <pubDate>Wed, 14 Oct 2026 10:18:45 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14a4/live/22dd9890-c7b2-11f1-bc2e-018d645d8d21.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Quiz: Do you remember the big names who took aim at football club chiefs?]]></title>
-            <description><![CDATA[As Lisandro Martinez launches a blistering attack on the Manchester United hierarchy, do you remember these famous past examples of well-known football figure calling out leadership figures?]]></description>
-            <link>https://www.bbc.co.uk/sport/articles/cqvgr7530085o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/articles/cqvgr7530085o#7</guid>
-            <pubDate>Wed, 14 Oct 2026 12:13:38 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e4f/live/a02d3990-c7c1-11f1-9a39-31b474234113.png"/>
         </item>
         <item>
             <title><![CDATA[Fifa to offer extra £2.6bn for football development]]></title>
@@ -490,6 +492,16 @@
             <media:thumbnail url="https://ichef.bbci.co.uk/images/ic/480xn/p0pcy5zl.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Why Souness rejected Barcelona when he left Liverpool]]></title>
+            <description><![CDATA[Liverpool legend Graeme Souness reveals he rejected the chance to sign for Barcelona when he left the European champions.
+
+]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cm0j07pdw95eo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cm0j07pdw95eo#17</guid>
+            <pubDate>Thu, 15 Oct 2026 08:30:04 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22ff/live/26cf8080-c7e4-11f1-bc2e-018d645d8d21.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Listen: Will Celtic bounce back in Lisbon - and how will Hearts start?]]></title>
             <description><![CDATA[Celtic face a huge European test at Benfica while Hearts have a Conference League opener.]]></description>
             <link>https://www.bbc.co.uk/sounds/play/p0pgrhkb?at_medium=RSS&amp;at_campaign=rss</link>
@@ -512,14 +524,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c8y5639gdz75o#17</guid>
             <pubDate>Wed, 14 Oct 2026 10:35:26 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1aa1/live/f6a67fa0-c7b9-11f1-b41f-d7a6cb474575.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['Possessed' Davidson fills Weir gap as Scots set up glamour Sweden tie]]></title>
-            <description><![CDATA[Erin Cuthbert praises Lauren Davidson as Scotland overcome Caroline Weir's absence to set up a World Cup play-off tie with Sweden.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cq5ynlez508no?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cq5ynlez508no#17</guid>
-            <pubDate>Wed, 14 Oct 2026 08:16:53 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/468a/live/94ff0b90-c75b-11f1-9a39-31b474234113.jpg"/>
         </item>
         <item>
             <title><![CDATA[East Fife sack Campbell as Lennon steps in at Dumbarton]]></title>
