@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/sport/football</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 15 Oct 2026 11:59:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Oct 2026 12:34:30 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -65,14 +65,6 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d25/live/6b97a6a0-c822-11f1-bc2e-018d645d8d21.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Martinez's future at Man Utd in doubt - Thursday's gossip]]></title>
-            <description><![CDATA[Lisandro Martinez's future in doubt at Manchester United, Newcastle's Bazoumana Toure eyed by Manchester United and Arsenal, Getafe interested in free agent Jadon Sancho, plus more.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/c370pnz8d90wo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c370pnz8d90wo#0</guid>
-            <pubDate>Wed, 14 Oct 2026 21:27:34 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f64d/live/aa2cb5f0-c803-11f1-bc2e-018d645d8d21.png"/>
-        </item>
-        <item>
             <title><![CDATA[Man City show fight but fall short of fightback against slick PSG]]></title>
             <description><![CDATA[Defending champions Paris Saint-Germain make it two wins from two in this season's Champions League, after beating Manchester City 4-2 at the Etihad Stadium]]></description>
             <link>https://www.bbc.co.uk/sport/football/videos/cqp8gn9x801po?at_medium=RSS&amp;at_campaign=rss</link>
@@ -87,6 +79,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cx30e8dqmnzgo#0</guid>
             <pubDate>Thu, 15 Oct 2026 06:35:39 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db17/live/f473e230-c7fb-11f1-970c-196b57378f40.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Everton's Barry on the video he was scared to post]]></title>
+            <description><![CDATA[The Everton striker explains why he chose to post an emotional video from a training session.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cq8rzgry7dgko?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cq8rzgry7dgko#0</guid>
+            <pubDate>Thu, 15 Oct 2026 11:27:07 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4577/live/324f91b0-c88f-11f1-b0a4-81e564f1cfaa.jpg"/>
         </item>
         <item>
             <title><![CDATA[Hibs ban fans group for three games after disorder]]></title>
@@ -204,6 +204,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6a0/live/6092c000-c813-11f1-bc2e-018d645d8d21.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Martinez's future at Man Utd in doubt - Thursday's gossip]]></title>
+            <description><![CDATA[Lisandro Martinez's future in doubt at Manchester United, Newcastle's Bazoumana Toure eyed by Manchester United and Arsenal, Getafe interested in free agent Jadon Sancho, plus more.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/c370pnz8d90wo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c370pnz8d90wo#3</guid>
+            <pubDate>Wed, 14 Oct 2026 21:27:34 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f64d/live/aa2cb5f0-c803-11f1-bc2e-018d645d8d21.png"/>
+        </item>
+        <item>
             <title><![CDATA[Who am I? Plus today's other quizzes]]></title>
             <description><![CDATA[Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/c64g1rny3e01o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -242,14 +250,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ckd7qg5q87qvo#3</guid>
             <pubDate>Wed, 14 Oct 2026 23:13:20 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d69/live/901c4f60-c7f7-11f1-970c-196b57378f40.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Everton's Barry on the video he was scared to post]]></title>
-            <description><![CDATA[The Everton striker explains why he chose to post an emotional video from a training session.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cq8rzgry7dgko?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cq8rzgry7dgko#3</guid>
-            <pubDate>Thu, 15 Oct 2026 11:27:07 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4577/live/324f91b0-c88f-11f1-b0a4-81e564f1cfaa.jpg"/>
         </item>
         <item>
             <title><![CDATA[PSG on different level - but where do they rank against other great sides?]]></title>
