@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 15 Oct 2026 10:59:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Oct 2026 11:28:02 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -19,7 +19,7 @@
             <description><![CDATA[William Chapman climbed two fences to enter a tiger's pen at Yorkshire Wildlife Park, an inquest hears.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cxr5y83v1eldo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cxr5y83v1eldo#1</guid>
-            <pubDate>Thu, 15 Oct 2026 10:46:42 GMT</pubDate>
+            <pubDate>Thu, 15 Oct 2026 11:07:13 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/676d/live/4c848760-c7c3-11f1-993a-152cbb068da1.jpg"/>
         </item>
         <item>
@@ -35,7 +35,7 @@
             <description><![CDATA[It is the "backbone of military communications in Ukraine" that provides vital high-speed internet to forces across the country.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cqkgk4zg54reo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqkgk4zg54reo#1</guid>
-            <pubDate>Thu, 15 Oct 2026 10:53:40 GMT</pubDate>
+            <pubDate>Thu, 15 Oct 2026 11:25:19 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/109c/live/7b3da5c0-c807-11f1-9a39-31b474234113.jpg"/>
         </item>
         <item>
@@ -45,6 +45,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c30rl1q1j200o#1</guid>
             <pubDate>Thu, 15 Oct 2026 09:17:57 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/935c/live/1c24f8c0-22eb-11f1-abe1-05da6de99c2b.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Severe drought declared in parts of southern England]]></title>
+            <description><![CDATA[Reservoir levels continue to drop after a hot summer and less September rain than normal.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cwm243lrgdpgo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwm243lrgdpgo#1</guid>
+            <pubDate>Thu, 15 Oct 2026 11:24:04 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7106/live/b9cf8280-c871-11f1-971b-634f423608e9.jpg"/>
         </item>
         <item>
             <title><![CDATA[Healey says surprise UK growth is 'sign of resilience' ahead of Budget]]></title>
@@ -63,22 +71,6 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d6c/live/f9b9cb20-c85e-11f1-bc2e-018d645d8d21.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Hundreds of IDF investigations into killings still have no public outcome, BBC Verify finds]]></title>
-            <description><![CDATA[BBC Verify has identified 254 incidents from the past three years the Israeli military said it is reviewing after being accused of harm.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c574e228vlygo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c574e228vlygo#1</guid>
-            <pubDate>Thu, 15 Oct 2026 05:00:23 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cd5/live/6628d920-c7e4-11f1-a64c-550be9e3c66b.png"/>
-        </item>
-        <item>
-            <title><![CDATA[White House defends new press secretary after questions about her legal credentials]]></title>
-            <description><![CDATA[Katie Zacharia does not appear to be registered to the legal bar in any state where she has lived.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/ckqxne2evqreo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckqxne2evqreo#1</guid>
-            <pubDate>Thu, 15 Oct 2026 08:41:04 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c7f/live/f7333c90-c838-11f1-b2e8-93da8301514e.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Tiny critically endangered puddle frogs hatch at London Zoo]]></title>
             <description><![CDATA[The Afia Birago’s puddle frogs are a recently identified species from a single Ghanaian forest.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cr2keqxggx0wo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -95,12 +87,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8554/live/d1f10220-c26e-11f1-bc2e-018d645d8d21.jpg"/>
         </item>
         <item>
-            <title><![CDATA[How backlash against data centres could shape the US midterm elections]]></title>
-            <description><![CDATA[Democrats and Republicans alike are coming out against data centre development, amid growing backlash across the US.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c0rezqpnekro?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c0rezqpnekro#2</guid>
-            <pubDate>Wed, 14 Oct 2026 23:02:57 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ef9/live/8b1f1580-c813-11f1-b60d-ef789a67d4e2.jpg"/>
+            <title><![CDATA[Hundreds of IDF investigations into killings still have no public outcome, BBC Verify finds]]></title>
+            <description><![CDATA[BBC Verify has identified 254 incidents from the past three years the Israeli military said it is reviewing after being accused of harm.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c574e228vlygo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c574e228vlygo#2</guid>
+            <pubDate>Thu, 15 Oct 2026 05:00:23 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cd5/live/6628d920-c7e4-11f1-a64c-550be9e3c66b.png"/>
         </item>
         <item>
             <title><![CDATA[Wales has an education crisis. Can it be fixed?]]></title>
@@ -111,12 +103,28 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8172/live/9b4a0440-c7c5-11f1-a64c-550be9e3c66b.jpg"/>
         </item>
         <item>
+            <title><![CDATA[How backlash against data centres could shape the US midterm elections]]></title>
+            <description><![CDATA[Democrats and Republicans alike are coming out against data centre development, amid growing backlash across the US.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c0rezqpnekro?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c0rezqpnekro#2</guid>
+            <pubDate>Wed, 14 Oct 2026 23:02:57 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ef9/live/8b1f1580-c813-11f1-b60d-ef789a67d4e2.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[How West Midlands shed its gun crime capital label]]></title>
             <description><![CDATA[Firearms discharges drop by more than half in the past six years in the force area.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c6x23dlk31ejo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6x23dlk31ejo#2</guid>
             <pubDate>Thu, 15 Oct 2026 00:02:34 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52a3/live/d4d60090-c7c7-11f1-bc2e-018d645d8d21.png"/>
+        </item>
+        <item>
+            <title><![CDATA[What's going on between Kelly Clarkson and a Brooklyn store bird?]]></title>
+            <description><![CDATA[The Since U Been Gone singer claims she was "looked at as if I couldn't afford" an item in the store.]]></description>
+            <link>https://www.bbc.co.uk/news/videos/c6e3x9z8jpj1o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/c6e3x9z8jpj1o#2</guid>
+            <pubDate>Thu, 15 Oct 2026 08:19:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f0c9/live/daf720f0-c86f-11f1-a64c-550be9e3c66b.jpg"/>
         </item>
         <item>
             <title><![CDATA[Could Wenger really take on Infantino and run for Fifa presidency?]]></title>
@@ -143,6 +151,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e6d0/live/97152170-c7f7-11f1-bc2e-018d645d8d21.jpg"/>
         </item>
         <item>
+            <title><![CDATA[White House defends new press secretary after questions about her legal credentials]]></title>
+            <description><![CDATA[Katie Zacharia does not appear to be registered to the legal bar in any state where she has lived.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/ckqxne2evqreo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckqxne2evqreo#4</guid>
+            <pubDate>Thu, 15 Oct 2026 08:41:04 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c7f/live/f7333c90-c838-11f1-b2e8-93da8301514e.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Brazil's Congress approves shorter working week in win for Lula]]></title>
             <description><![CDATA[Lula's supporters hope the measure will boost his popularity ahead of a presidential run-off in 10 days.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cmwy43pp08elo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -151,20 +167,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de61/live/a7661b70-c87d-11f1-8101-e3c2ed61ec71.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Crew in Lewis fishing boat tragedy named by police ]]></title>
+            <title><![CDATA[Crew in Lewis fishing boat tragedy named by police]]></title>
             <description><![CDATA[The alarm was raised after the men's fishing boat failed to return as planned to Lewis on Tuesday.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cxnv012jy04eo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cxnv012jy04eo#4</guid>
-            <pubDate>Thu, 15 Oct 2026 10:30:51 GMT</pubDate>
+            <pubDate>Thu, 15 Oct 2026 11:22:17 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c774/live/9dda82d0-c878-11f1-a64c-550be9e3c66b.jpg"/>
         </item>
         <item>
-            <title><![CDATA[PM launches brain cancer review after meeting 'inspirational' patient]]></title>
-            <description><![CDATA[The Scottish athlete, who has inoperable brain tumours, previously made a tearful plea for more investment in brain cancer research on BBC Breakfast.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cm74pn052j2vo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm74pn052j2vo#4</guid>
-            <pubDate>Wed, 14 Oct 2026 19:04:46 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0123/live/f5d6f8d0-c7f4-11f1-bc2e-018d645d8d21.jpg"/>
+            <title><![CDATA[Watch: Emotional TV brain cancer plea leads to meeting with PM]]></title>
+            <description><![CDATA[Scottish athlete, Archie Goodburn, who was diagnosed with three inoperable brain tumours two years ago, met Andy Burnham after an appeal for more investment into brain cancer research.]]></description>
+            <link>https://www.bbc.co.uk/news/videos/cxnv01gylmvjo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cxnv01gylmvjo#4</guid>
+            <pubDate>Thu, 15 Oct 2026 10:56:25 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/11a9/live/dc91f1f0-c87f-11f1-9a39-31b474234113.jpg"/>
         </item>
         <item>
             <title><![CDATA[Dog that hunts invasive 'sea vomit' honoured as animal of the year]]></title>
@@ -191,20 +207,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf6/live/d1e71250-9509-11ee-8df3-1d2983d8814f.png"/>
         </item>
         <item>
-            <title><![CDATA[Unravel the secrets of a priceless piece of British history]]></title>
-            <description><![CDATA[As the Bayeux Tapestry travels to the UK for the first time in 950 years, historians and experts unravel its secrets]]></description>
-            <link>https://www.bbc.co.uk/iplayer/episode/m00303gc?at_mid=DEZSuyo6Vd&amp;at_campaign=Secrets_of_the_Bayeux_Tapestry_Inside_the_Museum&amp;at_medium=display_ad&amp;at_campaign_type=owned&amp;at_nation=NET&amp;at_audience_id=SS&amp;at_product=iplayer&amp;at_brand=m00303gc&amp;at_ptr_name=bbc&amp;at_ptr_type=media&amp;at_format=image&amp;at_objective=consumption&amp;at_link_title=Secrets_of_the_Bayeux_Tapestry_Inside_the_Museum&amp;at_bbc_team=BBC</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/iplayer/episode/m00303gc?at_mid=DEZSuyo6Vd&amp;at_campaign=Secrets_of_the_Bayeux_Tapestry_Inside_the_Museum&amp;at_medium=display_ad&amp;at_campaign_type=owned&amp;at_nation=NET&amp;at_audience_id=SS&amp;at_product=iplayer&amp;at_brand=m00303gc&amp;at_ptr_name=bbc&amp;at_ptr_type=media&amp;at_format=image&amp;at_objective=consumption&amp;at_link_title=Secrets_of_the_Bayeux_Tapestry_Inside_the_Museum&amp;at_bbc_team=BBC#7</guid>
-            <pubDate>Thu, 10 Sep 2026 05:00:00 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/86fb/live/633b95d0-abac-11f1-a291-b542ee92de7c.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Guardiola's return, Man City's defiance - and a game of glorious chaos]]></title>
-            <description><![CDATA[Manchester City put on a show of defiance on their return to Etihad Stadium - even in the face of a PSG masterclass, writes Phil McNulty.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cqp8gyv8le87o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqp8gyv8le87o#8</guid>
-            <pubDate>Wed, 14 Oct 2026 22:57:23 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d25/live/6b97a6a0-c822-11f1-bc2e-018d645d8d21.jpg"/>
+            <title><![CDATA[Man Utd a circus after Martinez comments - Keane]]></title>
+            <description><![CDATA[Lisandro Martinez's outburst shows Manchester United are in "chaos", says former captain Roy Keane.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/c3n04gy12r91o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c3n04gy12r91o#8</guid>
+            <pubDate>Thu, 15 Oct 2026 10:57:15 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4964/live/e36c9e90-c888-11f1-bc2e-018d645d8d21.jpg"/>
         </item>
         <item>
             <title><![CDATA[Could Wenger really take on Infantino and run for Fifa presidency?]]></title>
@@ -223,12 +231,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/89b3/live/288628a0-c7cd-11f1-9e10-4dcbd31d4273.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Southgate does not see return to Premier League management]]></title>
-            <description><![CDATA[Former England manager Gareth Southgate says he does not see himself returning to club management in the Premier League.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/c9kgj41jgm5go?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c9kgj41jgm5go#8</guid>
-            <pubDate>Thu, 15 Oct 2026 05:39:10 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b62/live/61c45310-c7cf-11f1-9e10-4dcbd31d4273.jpg"/>
+            <title><![CDATA[Guardiola's return, Man City's defiance - and a game of glorious chaos]]></title>
+            <description><![CDATA[Manchester City put on a show of defiance on their return to Etihad Stadium - even in the face of a PSG masterclass, writes Phil McNulty.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cqp8gyv8le87o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqp8gyv8le87o#8</guid>
+            <pubDate>Wed, 14 Oct 2026 22:57:23 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d25/live/6b97a6a0-c822-11f1-bc2e-018d645d8d21.jpg"/>
         </item>
         <item>
             <title><![CDATA[Spain bids for Rugby World Cup with Nou Camp final]]></title>
