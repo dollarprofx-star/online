@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/sport/football</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 15 Oct 2026 20:18:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Oct 2026 20:56:39 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -66,7 +66,7 @@
             <title><![CDATA[Man City show fight but fall short of fightback against slick PSG]]></title>
             <description><![CDATA[Defending champions Paris Saint-Germain make it two wins from two in this season's Champions League, after beating Manchester City 4-2 at the Etihad Stadium]]></description>
             <link>https://www.bbc.co.uk/sport/football/videos/cqp8gn9x801po?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cqp8gn9x801po#0</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cqp8gn9x801po#1</guid>
             <pubDate>Wed, 14 Oct 2026 21:19:45 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d91b/live/8bd7b720-c813-11f1-bc2e-018d645d8d21.jpg"/>
         </item>
@@ -106,7 +106,7 @@
             <title><![CDATA[Yoro sent off as Man Utd stumble to defeat against Atletico Madrid]]></title>
             <description><![CDATA[Manchester United's winless run stretches to five matches, as they're beaten 2-0 by Atletico Madrid in the Champions League, in a match which saw them concede in the opening minute before ending the game with ten men after Leny Yoro was sent off. ]]></description>
             <link>https://www.bbc.co.uk/sport/football/videos/c6pq0rg10xp1o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/c6pq0rg10xp1o#1</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/c6pq0rg10xp1o#2</guid>
             <pubDate>Wed, 14 Oct 2026 21:00:34 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e64/live/13bb3b10-c74e-11f1-a64c-550be9e3c66b.jpg"/>
         </item>
@@ -250,6 +250,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cq8rzgry7dgko#4</guid>
             <pubDate>Thu, 15 Oct 2026 11:27:07 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4577/live/324f91b0-c88f-11f1-b0a4-81e564f1cfaa.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Football Daily]]></title>
+            <description><![CDATA[Rick & Lloyd are back! And by popular(ish) demand. They discuss Man City's defeat to PSG.]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/p0pgvd87?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0pgvd87#4</guid>
+            <pubDate>Thu, 15 Oct 2026 17:47:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0pgvdbk.jpg"/>
         </item>
         <item>
             <title><![CDATA[Hibs ban fans group for three games after disorder]]></title>
