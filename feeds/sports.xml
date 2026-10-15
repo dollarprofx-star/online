@@ -9,17 +9,17 @@
             <link>https://www.bbc.co.uk/sport/football</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 15 Oct 2026 14:42:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Oct 2026 15:15:41 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
-            <title><![CDATA[Infantino apologises to Fifa Council - but told he's still not fit to lead]]></title>
+            <title><![CDATA[Infantino apologises to Fifa Council - but told he is still not fit to lead]]></title>
             <description><![CDATA[President Gianni Infantino apologises to the Fifa Council for his World Cup sell-off plan - but is asked to go further.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cmd7qgj3zwero?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmd7qgj3zwero#0</guid>
-            <pubDate>Thu, 15 Oct 2026 14:17:11 GMT</pubDate>
+            <pubDate>Thu, 15 Oct 2026 14:46:09 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f384/live/cd09a210-c89c-11f1-b0a4-81e564f1cfaa.jpg"/>
         </item>
         <item>
@@ -95,6 +95,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmde8dx2263lo#0</guid>
             <pubDate>Thu, 15 Oct 2026 10:38:50 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b337/live/7f40fdc0-c884-11f1-a2e8-f71844f8002e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Martinez's future at Man Utd in doubt - Thursday's gossip]]></title>
+            <description><![CDATA[Lisandro Martinez's future in doubt at Manchester United, Newcastle's Bazoumana Toure eyed by Manchester United and Arsenal, Getafe interested in free agent Jadon Sancho, plus more.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/c370pnz8d90wo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c370pnz8d90wo#0</guid>
+            <pubDate>Wed, 14 Oct 2026 21:27:34 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f64d/live/aa2cb5f0-c803-11f1-bc2e-018d645d8d21.png"/>
         </item>
         <item>
             <title><![CDATA[Barcola shines as Liverpool score six to beat LASK ]]></title>
@@ -212,14 +220,6 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4577/live/324f91b0-c88f-11f1-b0a4-81e564f1cfaa.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Martinez's future at Man Utd in doubt - Thursday's gossip]]></title>
-            <description><![CDATA[Lisandro Martinez's future in doubt at Manchester United, Newcastle's Bazoumana Toure eyed by Manchester United and Arsenal, Getafe interested in free agent Jadon Sancho, plus more.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/c370pnz8d90wo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c370pnz8d90wo#3</guid>
-            <pubDate>Wed, 14 Oct 2026 21:27:34 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f64d/live/aa2cb5f0-c803-11f1-bc2e-018d645d8d21.png"/>
-        </item>
-        <item>
             <title><![CDATA[Who am I? Plus today's other quizzes]]></title>
             <description><![CDATA[Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/c64g1rny3e01o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -244,6 +244,14 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2354/live/aafdbc60-c815-11f1-ba46-41cadbdcf7dc.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Why 6-0, nine-man loss to West Ham 'won't define' Lincoln]]></title>
+            <description><![CDATA[Lincoln City will not be defined by their 6-0 Championship defeat by West Ham, says Imps head coach Tom Shaw.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cmze4lx10l4lo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmze4lx10l4lo#3</guid>
+            <pubDate>Thu, 15 Oct 2026 15:01:26 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee34/live/a8a02240-c8a2-11f1-aad3-554074f65f72.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Southgate does not see return to Premier League management]]></title>
             <description><![CDATA[Former England manager Gareth Southgate says he does not see himself returning to club management in the Premier League.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/c9kgj41jgm5go?at_medium=RSS&amp;at_campaign=rss</link>
@@ -255,7 +263,7 @@
             <title><![CDATA[PSG on different level - but where do they rank against other great sides?]]></title>
             <description><![CDATA[Paris St-Germain are eyeing a third successive Champions League crown after dismantling Manchester City, but where do they rank against Europe's most dominant clubs?]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cmx2wegg2pw5o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmx2wegg2pw5o#4</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmx2wegg2pw5o#3</guid>
             <pubDate>Wed, 14 Oct 2026 21:55:37 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0231/live/1094d0e0-c816-11f1-82ac-736cd3146b70.jpg"/>
         </item>
@@ -327,7 +335,7 @@
             <title><![CDATA[Set-piece sessions and finding fixes - how international break lifted Chelsea]]></title>
             <description><![CDATA[The extended three-week break may have benefited Chelsea more than any other team in the Premier League.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/ckwy4nj4842qo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ckwy4nj4842qo#9</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ckwy4nj4842qo#7</guid>
             <pubDate>Wed, 14 Oct 2026 10:43:19 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/85b6/live/53e3ca90-c74e-11f1-b4d5-87f9c6c95a29.jpg"/>
         </item>
@@ -370,6 +378,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqrlyd1grwkko#9</guid>
             <pubDate>Tue, 13 Oct 2026 23:03:04 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b1cd/live/0cddb1d0-c751-11f1-b4d5-87f9c6c95a29.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[South African striker swaps Sunday league for Champions League]]></title>
+            <description><![CDATA[A former student from Rotherham has climbed the football ladder from the bottom up.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c99dm52ypkjo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c99dm52ypkjo#9</guid>
+            <pubDate>Wed, 14 Oct 2026 05:08:30 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d32/live/c55f5460-c0c7-11f1-a5b0-6f550c662e91.jpg"/>
         </item>
         <item>
             <title><![CDATA[How much did Man City's rule breaking cost your team?]]></title>
