@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/sport/football</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 15 Oct 2026 12:34:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Oct 2026 13:21:41 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -23,20 +23,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4964/live/e36c9e90-c888-11f1-bc2e-018d645d8d21.jpg"/>
         </item>
         <item>
-            <title><![CDATA[The Andorran club making history with a Pochettino in the team]]></title>
-            <description><![CDATA[Maurizio Pochettino and inter Club d'Escaldes are set to make European history for footballing minnows Andorra.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cmwy4nyv3rqzo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmwy4nyv3rqzo#0</guid>
-            <pubDate>Thu, 15 Oct 2026 06:09:12 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20ad/live/ed9a6fe0-c7b7-11f1-b41f-d7a6cb474575.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Getafe make offer to sign free agent Sancho]]></title>
             <description><![CDATA[Getafe make a formal offer to sign attacker Jadon Sancho, who is searching for a new club after leaving Manchester United in the summer.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cm3r5p11d23no?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cm3r5p11d23no#0</guid>
             <pubDate>Thu, 15 Oct 2026 11:45:02 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6783/live/034c8880-c88c-11f1-b0a4-81e564f1cfaa.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Andorran club making history with a Pochettino in the team]]></title>
+            <description><![CDATA[Maurizio Pochettino and inter Club d'Escaldes are set to make European history for footballing minnows Andorra.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cmwy4nyv3rqzo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmwy4nyv3rqzo#0</guid>
+            <pubDate>Thu, 15 Oct 2026 06:09:12 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20ad/live/ed9a6fe0-c7b7-11f1-b41f-d7a6cb474575.jpg"/>
         </item>
         <item>
             <title><![CDATA[The Portuguese second-tier team hosting Sunderland in Europe]]></title>
@@ -100,7 +100,7 @@
             <title><![CDATA[Barcola shines as Liverpool score six to beat LASK ]]></title>
             <description><![CDATA[Bradley Barcola scores a hat-trick as Liverpool beat LASK 6-3 in Austria to make it two wins from two in the league phase of this season's Champions League. ]]></description>
             <link>https://www.bbc.co.uk/sport/football/videos/c68jzlwpk01zo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/c68jzlwpk01zo#0</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/c68jzlwpk01zo#1</guid>
             <pubDate>Wed, 14 Oct 2026 21:00:24 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d506/live/673a4720-c7fa-11f1-9a39-31b474234113.jpg"/>
         </item>
@@ -140,7 +140,7 @@
             <title><![CDATA['Players won't like it' - Martinez apologises, but is the damage done?]]></title>
             <description><![CDATA[Champions League Match of the Day pundits Nedum Onuoha, Stephen Warnock, and Rory Smith analyse Lisandro Martinez's comments following Manchester United's 2-0 loss to Atletico Madrid and the impact they'll have on the club. ]]></description>
             <link>https://www.bbc.co.uk/sport/football/videos/cw2409qg6pe0o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cw2409qg6pe0o#1</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cw2409qg6pe0o#2</guid>
             <pubDate>Wed, 14 Oct 2026 23:13:53 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c4f2/live/844a3dd0-c821-11f1-a64c-550be9e3c66b.jpg"/>
         </item>
