@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 15 Oct 2026 00:16:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Oct 2026 01:05:17 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -88,7 +88,7 @@
         </item>
         <item>
             <title><![CDATA[Dog that hunts invasive 'sea vomit' honoured as animal of the year]]></title>
-            <description><![CDATA[A working is named animal of the year for hunting out an invasive marine creature, the carpet sea squirt.]]></description>
+            <description><![CDATA[Sgiath is thought to be the UK's first sea squirt-hunting dog and has been trained to sniff out the marine pest.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cvwy761zyx7eo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cvwy761zyx7eo#1</guid>
             <pubDate>Wed, 14 Oct 2026 23:35:40 GMT</pubDate>
@@ -135,6 +135,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52a3/live/d4d60090-c7c7-11f1-bc2e-018d645d8d21.png"/>
         </item>
         <item>
+            <title><![CDATA[The Papers: 'Zelenskyy blames Trump' and Brand a 'sex predator']]></title>
+            <description><![CDATA[Volodymyr Zelensky's visit to London and the first day of Russell Brand's rape trial dominate Thursday's front pages. ]]></description>
+            <link>https://www.bbc.co.uk/news/articles/ckwyq67e64pdo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckwyq67e64pdo#2</guid>
+            <pubDate>Thu, 15 Oct 2026 00:41:45 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63d8/live/ebd400f0-c829-11f1-9a39-31b474234113.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[I'm 12 and I want to try protein powder - should I?]]></title>
             <description><![CDATA[We asked experts how safe it is for children and teenagers to take protein supplements.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cm158555dq1go?at_medium=RSS&amp;at_campaign=rss</link>
@@ -149,14 +157,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/ck78pj2qy42po#2</guid>
             <pubDate>Wed, 14 Oct 2026 18:00:54 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2835/live/1c61d100-c7fa-11f1-bc2e-018d645d8d21.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Toilet paper and secret recorders: What we know about the arrest of the Saudi OpenAI engineer]]></title>
-            <description><![CDATA[Abdulrahman Alfozan had worked for the AI giant for more than a year before he was arrested by the FBI. ]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cm04054ykqqqo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm04054ykqqqo#2</guid>
-            <pubDate>Wed, 14 Oct 2026 15:54:04 GMT</pubDate>
-            <media:thumbnail width="240" height="156" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9074/live/83100400-c7bc-11f1-9a39-31b474234113.jpg"/>
         </item>
         <item>
             <title><![CDATA[Sign up now]]></title>
