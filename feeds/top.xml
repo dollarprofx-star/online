@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 16 Oct 2026 14:58:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Oct 2026 15:25:35 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -19,8 +19,8 @@
             <description><![CDATA[EU leaders rally around Ukraine's president after new criticism from Donald Trump, who says Zelensky is "more difficult to work with than Putin".]]></description>
             <link>https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c58jz174w89ro#1</guid>
-            <pubDate>Fri, 16 Oct 2026 14:44:11 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32ee/live/b7238230-c96a-11f1-a6e6-417671ef62cb.jpg"/>
+            <pubDate>Fri, 16 Oct 2026 15:22:12 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fdf/live/b08eef30-c975-11f1-bc2e-018d645d8d21.jpg"/>
         </item>
         <item>
             <title><![CDATA[Norwegian teen 'hitman' detained for UK murder plot]]></title>
@@ -279,20 +279,20 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0837/live/9bbd98a0-c63b-11f1-b99d-0127a94fa1d0.png"/>
         </item>
         <item>
+            <title><![CDATA[Stewart and Morris add to GB gold tally at Worlds]]></title>
+            <description><![CDATA[Mark Stewart and Anna Morris add to Great Britain's gold medal tally on day three of the Track Cycling World Championships in Shanghai.  ]]></description>
+            <link>https://www.bbc.co.uk/sport/cycling/articles/cwdd8z932nq2o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/cycling/articles/cwdd8z932nq2o#8</guid>
+            <pubDate>Fri, 16 Oct 2026 14:22:42 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8fb3/live/c7c64720-c96b-11f1-9a39-31b474234113.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Does the Premier League 'Big Six' still exist?]]></title>
             <description><![CDATA[For years the Premier League has had a defined 'Big Six', comprised of Arsenal, Chelsea, Liverpool, Manchester City, Manchester United and Tottenham Hotspur., but could this era be coming to an end?]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/ckj0lrjzjgqno?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ckj0lrjzjgqno#8</guid>
             <pubDate>Fri, 16 Oct 2026 05:53:57 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0fa7/live/42928a00-c317-11f1-8f04-85217d686658.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rew, 18, to captain England Lions in West Indies]]></title>
-            <description><![CDATA[The elevation of teenager Thomas Rew to Lions captain is a further sign of the high regard he is held in by the England hierarchy and follows him being given his first senior call-up and central contract.]]></description>
-            <link>https://www.bbc.co.uk/sport/cricket/articles/cjn5vk4qe6g1o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/cricket/articles/cjn5vk4qe6g1o#8</guid>
-            <pubDate>Fri, 16 Oct 2026 10:33:59 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c5f/live/7e362f50-c946-11f1-94af-5f148d758fe7.jpg"/>
         </item>
     </channel>
 </rss>

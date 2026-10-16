@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news/world</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 16 Oct 2026 14:58:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Oct 2026 15:25:36 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/world/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -19,8 +19,8 @@
             <description><![CDATA[EU leaders rally around Ukraine's president after new criticism from Donald Trump, who says Zelensky is "more difficult to work with than Putin".]]></description>
             <link>https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c58jz174w89ro#0</guid>
-            <pubDate>Fri, 16 Oct 2026 14:44:11 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32ee/live/b7238230-c96a-11f1-a6e6-417671ef62cb.jpg"/>
+            <pubDate>Fri, 16 Oct 2026 15:22:12 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fdf/live/b08eef30-c975-11f1-bc2e-018d645d8d21.jpg"/>
         </item>
         <item>
             <title><![CDATA[Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack]]></title>
@@ -29,14 +29,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c65ynk7212vqo#0</guid>
             <pubDate>Fri, 16 Oct 2026 14:31:04 GMT</pubDate>
             <media:thumbnail width="240" height="130" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc2e/live/1a3bde40-c96f-11f1-9a39-31b474234113.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ship attack reports near Hormuz reach record high as oil exports slow]]></title>
-            <description><![CDATA[BBC Verify analysis of data from a UK maritime agency shows 12 vessels were struck in a week.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cmde8dpg8g0no?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmde8dpg8g0no#0</guid>
-            <pubDate>Fri, 16 Oct 2026 05:00:17 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/139a/live/0f24b0c0-c8b3-11f1-bc2e-018d645d8d21.png"/>
         </item>
         <item>
             <title><![CDATA[Pope pictured for first time since surgery and cancer diagnosis]]></title>
@@ -55,12 +47,28 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca70/live/ee811780-c945-11f1-94af-5f148d758fe7.jpg"/>
         </item>
         <item>
+            <title><![CDATA[India's 'cockroach' party founder detained ahead of protest]]></title>
+            <description><![CDATA[The youth-led movement planned a fresh Delhi protest after mass detentions last week and the jailing of two leaders.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cmx237n1y9lzo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmx237n1y9lzo#0</guid>
+            <pubDate>Fri, 16 Oct 2026 11:44:31 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc0b/live/9877b0a0-c955-11f1-8879-9d9deeb686e1.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[US senators call for investigation into Ukraine's Starlink restrictions]]></title>
             <description><![CDATA[Ukraine says temporary speed limits to the Starlink internet network disrupted its battlefield missions.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cq398zl8jmvdo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cq398zl8jmvdo#0</guid>
             <pubDate>Fri, 16 Oct 2026 14:19:50 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36aa/live/cac07320-c951-11f1-8879-9d9deeb686e1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ship attack reports near Hormuz reach record high as oil exports slow]]></title>
+            <description><![CDATA[BBC Verify analysis of data from a UK maritime agency shows 12 vessels were struck in a week.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cmde8dpg8g0no?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmde8dpg8g0no#1</guid>
+            <pubDate>Fri, 16 Oct 2026 05:00:17 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/139a/live/0f24b0c0-c8b3-11f1-bc2e-018d645d8d21.png"/>
         </item>
         <item>
             <title><![CDATA[Albanian protests turn violent: What we know]]></title>
@@ -213,14 +221,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ck3r5pv5j1g1o#1</guid>
             <pubDate>Thu, 15 Oct 2026 08:17:07 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f633/live/f4307ee0-c86f-11f1-971b-634f423608e9.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Australian woman charged with lacing colleague's curry with snail poison]]></title>
-            <description><![CDATA[The alleged victim, who was in a relationship with the woman, had spotted bright green pellets in the meal.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cmp3gnep35gko?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmp3gnep35gko#1</guid>
-            <pubDate>Thu, 15 Oct 2026 04:17:45 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f2c3/live/e815ab80-c84c-11f1-84a9-6fa955e1582c.jpg"/>
         </item>
         <item>
             <title><![CDATA[They fled Russia, but the West sent them back]]></title>
