@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 16 Oct 2026 05:10:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Oct 2026 05:39:05 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -45,14 +45,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmpqgepejr2ro#1</guid>
             <pubDate>Thu, 15 Oct 2026 23:27:57 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee76/live/db556ac0-c8b5-11f1-bdfb-e3788aeae9ec.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Met needs to move away from criminalising sex workers, officers say after Levy failings]]></title>
-            <description><![CDATA[The force is piloting a two-officer female team in north London to engage with street sex workers, in a bid to improve trust.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c2l8jpzwv9jo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c2l8jpzwv9jo#1</guid>
-            <pubDate>Fri, 16 Oct 2026 05:05:38 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/062e/live/0400ba10-4305-11f1-8f44-65d2172cbb44.jpg"/>
         </item>
         <item>
             <title><![CDATA[Bus hits train stopped on French side of Channel Tunnel, with 19 injured   ]]></title>
@@ -93,6 +85,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cq8jzgl7zz9po#1</guid>
             <pubDate>Thu, 15 Oct 2026 20:36:32 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/036f/live/a0a66fe0-c87f-11f1-a2e8-f71844f8002e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Met needs to move away from criminalising sex workers, officers say after Levy failings]]></title>
+            <description><![CDATA[The force is piloting a two-officer female team in north London to engage with street sex workers, in a bid to improve trust.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c2l8jpzwv9jo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c2l8jpzwv9jo#1</guid>
+            <pubDate>Fri, 16 Oct 2026 05:05:38 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/062e/live/0400ba10-4305-11f1-8f44-65d2172cbb44.jpg"/>
         </item>
         <item>
             <title><![CDATA[India's 'cockroach' protesters set to return despite police crackdown]]></title>
@@ -247,7 +247,7 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/89af/live/f4ecd4f0-c8ba-11f1-bdfb-e3788aeae9ec.jpg"/>
         </item>
         <item>
-            <title><![CDATA[O'Neill defiant in defeat but Celtic's 'flat-track bullies' fail another big test]]></title>
+            <title><![CDATA[O'Neill defiant in defeat, but Celtic's 'flat-track bullies' fail another big test]]></title>
             <description><![CDATA[Celtic have now lost two Europa League group games, as well as two derbies - but Martin O'Neill is adamant he can see positive signs.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cwm243rxn1pxo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cwm243rxn1pxo#8</guid>
@@ -269,6 +269,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6lyez88m1n2o#8</guid>
             <pubDate>Thu, 15 Oct 2026 22:42:26 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f616/live/09406380-c8d5-11f1-95b2-9f12d414946d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sutton's predictions v boxer & Ipswich fan Fabio Wardley]]></title>
+            <description><![CDATA[BBC Sport football expert Chris Sutton takes on boxer and Ipswich fan Fabio Wardley, plus the BBC readers and AI with his predictions for this weekend's Premier League fixtures.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/crgqwvnnyv30o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/crgqwvnnyv30o#8</guid>
+            <pubDate>Thu, 15 Oct 2026 19:26:51 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/68ae/live/a4aca140-c73f-11f1-bc2e-018d645d8d21.png"/>
         </item>
         <item>
             <title><![CDATA[Walsh vomit & Ponga pain - the physical toll of World Cup opener]]></title>
