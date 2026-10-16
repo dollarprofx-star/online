@@ -9,11 +9,19 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 16 Oct 2026 02:08:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Oct 2026 02:39:11 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Three children and teacher killed by 16-year-old at Oregon primary school]]></title>
+            <description><![CDATA[The suspect was shot dead by a local community member who followed him into the school, said police.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm89zp48k4kzo#1</guid>
+            <pubDate>Fri, 16 Oct 2026 02:32:49 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5bc6/live/40d818d0-c8f6-11f1-977f-01c60c7120c0.jpg"/>
+        </item>
         <item>
             <title><![CDATA[Bus hits train stopped on French side of Channel Tunnel, with 19 injured   ]]></title>
             <description><![CDATA[Two people were airlifted to hospital but no-one's life appeared to be in danger, officials said.]]></description>
@@ -237,6 +245,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cw77p152jz64o#8</guid>
             <pubDate>Thu, 15 Oct 2026 18:03:28 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/89af/live/f4ecd4f0-c8ba-11f1-bdfb-e3788aeae9ec.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[O'Neill defiant in defeat but Celtic's 'flat-track bullies' fail another big test]]></title>
+            <description><![CDATA[Celtic have now lost two Europa League group games, as well as two derbies - but Martin O'Neill is adamant he can see positive signs.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cwm243rxn1pxo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cwm243rxn1pxo#8</guid>
+            <pubDate>Thu, 15 Oct 2026 23:04:37 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ebf/live/9cc98cc0-c8e0-11f1-aed7-153a8dff3c2e.jpg"/>
         </item>
         <item>
             <title><![CDATA[Australia clinch thrilling World Cup opener against New Zealand]]></title>
