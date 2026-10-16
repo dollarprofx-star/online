@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/sport/football</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 16 Oct 2026 10:57:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Oct 2026 11:23:54 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -71,7 +71,7 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2917/live/2bdbfd10-c74e-11f1-b4d5-87f9c6c95a29.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Under pressure Dionisi addresses sacking 'fake news']]></title>
+            <title><![CDATA[Under-pressure Dionisi addresses sacking 'fake news']]></title>
             <description><![CDATA[Under pressure Watford manager Alessio Dionisi says reports he would lose his job after Tuesday's heavy defeat at Cardiff were "fake news".]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cvrly0n268xwo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cvrly0n268xwo#0</guid>
@@ -439,6 +439,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cvgyxyxplkvo#11</guid>
             <pubDate>Wed, 07 Oct 2026 19:45:58 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aec0/live/fd14b290-e25e-11ef-a819-277e390a7a08.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Matt Damon and Leonardo DiCaprio star in a tense 2006 crime thriller]]></title>
+            <description><![CDATA[Lies. Betrayal. Sacrifice. How far will you go to survive? Martin Scorsese's Oscar-winner]]></description>
+            <link>https://www.bbc.co.uk/iplayer/episode/m0032m77?at_mid=mSY9B0KXxo&amp;at_campaign=The_Departed&amp;at_medium=display_ad&amp;at_campaign_type=owned&amp;at_nation=NET&amp;at_audience_id=SS&amp;at_product=iplayer&amp;at_brand=m0032m77&amp;at_ptr_name=bbc&amp;at_ptr_type=media&amp;at_format=image&amp;at_objective=consumption&amp;at_link_title=The_Departed&amp;at_bbc_team=BBC</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/iplayer/episode/m0032m77?at_mid=mSY9B0KXxo&amp;at_campaign=The_Departed&amp;at_medium=display_ad&amp;at_campaign_type=owned&amp;at_nation=NET&amp;at_audience_id=SS&amp;at_product=iplayer&amp;at_brand=m0032m77&amp;at_ptr_name=bbc&amp;at_ptr_type=media&amp;at_format=image&amp;at_objective=consumption&amp;at_link_title=The_Departed&amp;at_bbc_team=BBC#13</guid>
+            <pubDate>Tue, 06 Oct 2026 05:00:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/907e/live/19585c60-c80c-11f1-9a39-31b474234113.jpg"/>
         </item>
         <item>
             <title><![CDATA[Were any current Man City players signed during charges period?]]></title>
