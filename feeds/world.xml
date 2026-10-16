@@ -9,18 +9,18 @@
             <link>https://www.bbc.co.uk/news/world</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 16 Oct 2026 13:11:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Oct 2026 13:48:03 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/world/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
-            <title><![CDATA[Children aged 5, 8 and 11 killed in US school shooting before suspect shot by bystander]]></title>
-            <description><![CDATA[A teacher was also killed in the attack at the Silver Rail Elementary School in the city of Bend, Oregon, police say.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm89zp48k4kzo#0</guid>
-            <pubDate>Fri, 16 Oct 2026 11:41:58 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4dc0/live/70180250-c959-11f1-8879-9d9deeb686e1.jpg"/>
+            <title><![CDATA[Zelensky says Ukraine has right to defend itself after Trump criticism]]></title>
+            <description><![CDATA[EU leaders rally around Ukraine's leader after Donald Trump says he is "more difficult to work with than Putin".]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c58jz174w89ro#0</guid>
+            <pubDate>Fri, 16 Oct 2026 13:25:48 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd15/live/93347340-c954-11f1-9a39-31b474234113.jpg"/>
         </item>
         <item>
             <title><![CDATA['It's really hard to believe' - How Oregon primary school shooting unfolded]]></title>
@@ -37,14 +37,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmde8dpg8g0no#0</guid>
             <pubDate>Fri, 16 Oct 2026 05:00:17 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/139a/live/0f24b0c0-c8b3-11f1-bc2e-018d645d8d21.png"/>
-        </item>
-        <item>
-            <title><![CDATA[Zelensky rallies EU support as Trump says Ukraine leader 'more difficult to deal with than Putin']]></title>
-            <description><![CDATA[The US president launches a new wave of blistering criticism at Volodymyr Zelensky ahead of a meeting of EU leaders in Brussels.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c58jz174w89ro#0</guid>
-            <pubDate>Fri, 16 Oct 2026 10:37:47 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd15/live/93347340-c954-11f1-9a39-31b474234113.jpg"/>
         </item>
         <item>
             <title><![CDATA[China tells Israel to stop 'forced establishment' of West Bank settlements]]></title>
@@ -69,6 +61,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cq398zl8jmvdo#0</guid>
             <pubDate>Fri, 16 Oct 2026 12:16:42 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36aa/live/cac07320-c951-11f1-8879-9d9deeb686e1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Patients in chains rescued from suspected illegal rehab centre in South Africa]]></title>
+            <description><![CDATA[Some of the 200 patients were found with "sores all over their bodies" and in overcrowded rooms.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cmwyvxj49gpwo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmwyvxj49gpwo#1</guid>
+            <pubDate>Fri, 16 Oct 2026 13:09:43 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ae2/live/aea9db50-c950-11f1-8879-9d9deeb686e1.jpg"/>
         </item>
         <item>
             <title><![CDATA[At least 33 pupils and teacher killed after school roof collapses in Pakistan ]]></title>
@@ -223,14 +223,6 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e22e/live/16b3fb40-c857-11f1-8965-5da449ed1a42.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Student protesters attack government buildings in Albania]]></title>
-            <description><![CDATA[Buildings were set alight on the second day of demonstrations from thousands of students who want better university conditions and job prospects.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cq80zk5k2ep4o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cq80zk5k2ep4o#1</guid>
-            <pubDate>Wed, 14 Oct 2026 20:29:05 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4571/live/704a3630-c7f6-11f1-9a39-31b474234113.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[They fled Russia, but the West sent them back]]></title>
             <description><![CDATA[Over the past year there has been a stark rise in anti-government activists deported to Russia from the EU and US where they were seeking refuge.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c6x23qpzjklwo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -276,7 +268,7 @@
             <link>https://www.bbc.co.uk/news/videos/ckly4mj1g3n9o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/ckly4mj1g3n9o#3</guid>
             <pubDate>Fri, 16 Oct 2026 12:32:31 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b12/live/2b8819b0-c95c-11f1-bc2e-018d645d8d21.jpg"/>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b96f/live/01c77470-c963-11f1-bc2e-018d645d8d21.png"/>
         </item>
         <item>
             <title><![CDATA[Israeli settlers attack Palestinians in West Bank during olive harvest]]></title>
