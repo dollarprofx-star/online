@@ -9,18 +9,18 @@
             <link>https://www.bbc.co.uk/news/world</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 16 Oct 2026 15:57:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Oct 2026 16:25:05 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/world/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
-            <title><![CDATA[Zelensky says Ukraine has right to defend itself after Trump calls latest strikes a 'disgrace']]></title>
-            <description><![CDATA[EU leaders rally around Ukraine's president after new criticism from Donald Trump, who says Zelensky is "more difficult to work with than Putin".]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c58jz174w89ro#0</guid>
-            <pubDate>Fri, 16 Oct 2026 15:22:12 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fdf/live/b08eef30-c975-11f1-bc2e-018d645d8d21.jpg"/>
+            <title><![CDATA[Ukraine pushes Russia back on front line where Starlink has played key role]]></title>
+            <description><![CDATA[Ukraine's Operation Vivaldi has regained crucial territory in the Donbas but optimism has been dampened by souring relations with President Trump.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cvx284w16z1po#0</guid>
+            <pubDate>Fri, 16 Oct 2026 16:00:30 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e40/live/404f3fb0-c978-11f1-80fc-ab418b149008.jpg"/>
         </item>
         <item>
             <title><![CDATA[Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack]]></title>
@@ -31,6 +31,14 @@
             <media:thumbnail width="240" height="130" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc2e/live/1a3bde40-c96f-11f1-9a39-31b474234113.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Zelensky says Ukraine has right to defend itself after Trump calls latest strikes a 'disgrace']]></title>
+            <description><![CDATA[EU leaders rally around Ukraine's president after new criticism from Donald Trump, who says Zelensky is "more difficult to work with than Putin".]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c58jz174w89ro#0</guid>
+            <pubDate>Fri, 16 Oct 2026 15:59:30 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fdf/live/b08eef30-c975-11f1-bc2e-018d645d8d21.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Pope pictured for first time since surgery and cancer diagnosis]]></title>
             <description><![CDATA[The pontiff was diagnosed with lung cancer after having surgery at Rome's Gemelli Hospital on Tuesday.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cw146ej00yn7o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -39,16 +47,8 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e15/live/049ac9a0-c96c-11f1-a6e6-417671ef62cb.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Dad fined after son, 2, died in Cyprus hotel fall]]></title>
-            <description><![CDATA[Joshua Foster "lost control" of his son while showing him the view of a water park from a window. ]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cvj6j1klez88o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cvj6j1klez88o#0</guid>
-            <pubDate>Fri, 16 Oct 2026 14:21:32 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca70/live/ee811780-c945-11f1-94af-5f148d758fe7.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[India's 'cockroach' party founder detained ahead of protest]]></title>
-            <description><![CDATA[The youth-led movement planned a fresh Delhi protest after mass detentions last week and the jailing of two leaders.]]></description>
+            <description><![CDATA[The youth-led movement had called for a Delhi protest after mass detentions last week and the jailing of two leaders.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cmx237n1y9lzo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmx237n1y9lzo#0</guid>
             <pubDate>Fri, 16 Oct 2026 11:44:31 GMT</pubDate>
@@ -61,6 +61,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cq398zl8jmvdo#0</guid>
             <pubDate>Fri, 16 Oct 2026 14:19:50 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36aa/live/cac07320-c951-11f1-8879-9d9deeb686e1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dad fined after son, 2, died in Cyprus hotel fall]]></title>
+            <description><![CDATA[Joshua Foster "lost control" of his son while showing him the view of a water park from a window. ]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cvj6j1klez88o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cvj6j1klez88o#1</guid>
+            <pubDate>Fri, 16 Oct 2026 14:21:32 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca70/live/ee811780-c945-11f1-94af-5f148d758fe7.jpg"/>
         </item>
         <item>
             <title><![CDATA[Ship attack reports near Hormuz reach record high as oil exports slow]]></title>
@@ -215,14 +223,6 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b225/live/c443afc0-c85d-11f1-9a39-31b474234113.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Actor Imran Khan ordered to leave India after participating in protest]]></title>
-            <description><![CDATA[The Bollywood actor had been detained and released while participating in a protest in Mumbai on 10 October.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/ck3r5pv5j1g1o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ck3r5pv5j1g1o#1</guid>
-            <pubDate>Thu, 15 Oct 2026 08:17:07 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f633/live/f4307ee0-c86f-11f1-971b-634f423608e9.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[They fled Russia, but the West sent them back]]></title>
             <description><![CDATA[Over the past year there has been a stark rise in anti-government activists deported to Russia from the EU and US where they were seeking refuge.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c6x23qpzjklwo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -263,6 +263,14 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/052f/live/ca6f9ca0-c8a4-11f1-929c-0b57deb4f9df.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Watch: Will Ukraine get the support needed as tensions with US rise?]]></title>
+            <description><![CDATA[Zelensky thanked the "real leaders" ahead of a meeting with the EU in Brussels.]]></description>
+            <link>https://www.bbc.co.uk/news/videos/cm2ke1v8e4geo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cm2ke1v8e4geo#3</guid>
+            <pubDate>Fri, 16 Oct 2026 15:45:10 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d887/live/549b5300-c978-11f1-9a39-31b474234113.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Watch: Did Tesla really just unveil a flying car?]]></title>
             <description><![CDATA[Tesla CEO Elon Musk showcased the vehicle at a facility owned by his SpaceX company, which helped develop the model.]]></description>
             <link>https://www.bbc.co.uk/news/videos/ckly4mj1g3n9o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -293,16 +301,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cqr7yzpxm083o#3</guid>
             <pubDate>Thu, 15 Oct 2026 17:31:37 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/717d/live/c5e33180-c8b6-11f1-bc2e-018d645d8d21.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Watch: Moment drone hits supermarket in Odesa]]></title>
-            <description><![CDATA[CCTV video verified by the BBC shows the drone strike in the town of Mayaky in Ukraine's Odesa region. 
-
-]]></description>
-            <link>https://www.bbc.co.uk/news/videos/cmwyq62z0n19o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cmwyq62z0n19o#3</guid>
-            <pubDate>Thu, 15 Oct 2026 17:06:12 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fbb5/live/7e70dee0-c8b8-11f1-bdfb-e3788aeae9ec.jpg"/>
         </item>
     </channel>
 </rss>
