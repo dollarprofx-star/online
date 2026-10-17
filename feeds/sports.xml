@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/sport/football</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 17 Oct 2026 12:41:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Oct 2026 13:14:06 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -63,20 +63,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1307/live/63565910-c961-11f1-a64c-550be9e3c66b.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Bellingham agrees new Real deal - Saturday's gossip]]></title>
-            <description><![CDATA[Real Madrid midfielder Jude Bellingham ready to commit his future to La Liga club, Arsenal and Liverpool told price for Brentford's Kevin Schade, Man Utd and Chelsea among clubs monitoring Jules Kounde's future at Barcelona, plus more.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/ck7vprzqmr56o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ck7vprzqmr56o#0</guid>
-            <pubDate>Fri, 16 Oct 2026 21:57:37 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a9e0/live/022b0be0-c99d-11f1-9a39-31b474234113.png"/>
-        </item>
-        <item>
             <title><![CDATA[Who am I? Plus today's other quizzes]]></title>
             <description><![CDATA[Test your football knowledge against today's Who Am I?, Five in Five and Brainteaser.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cw1l3dz2ppe0o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cw1l3dz2ppe0o#1</guid>
             <pubDate>Sat, 17 Oct 2026 05:15:17 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Bellingham agrees new Real deal - Saturday's gossip]]></title>
+            <description><![CDATA[Real Madrid midfielder Jude Bellingham ready to commit his future to La Liga club, Arsenal and Liverpool told price for Brentford's Kevin Schade, Man Utd and Chelsea among clubs monitoring Jules Kounde's future at Barcelona, plus more.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/ck7vprzqmr56o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ck7vprzqmr56o#1</guid>
+            <pubDate>Fri, 16 Oct 2026 21:57:37 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a9e0/live/022b0be0-c99d-11f1-9a39-31b474234113.png"/>
         </item>
         <item>
             <title><![CDATA[Real demand Tebas resign over Goebbels comparison]]></title>
@@ -106,17 +106,9 @@
             <title><![CDATA[Sutton's predictions v boxer & Ipswich fan Fabio Wardley]]></title>
             <description><![CDATA[BBC Sport football expert Chris Sutton takes on boxer and Ipswich fan Fabio Wardley, plus the BBC readers and AI with his predictions for this weekend's Premier League fixtures.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/crgqwvnnyv30o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/crgqwvnnyv30o#1</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/crgqwvnnyv30o#2</guid>
             <pubDate>Thu, 15 Oct 2026 19:26:51 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/68ae/live/a4aca140-c73f-11f1-bc2e-018d645d8d21.png"/>
-        </item>
-        <item>
-            <title><![CDATA[Celtic-Hearts showdown tops weekend's Premiership bill]]></title>
-            <description><![CDATA[Celtic face Heart of Midlothian in the big game of the Scottish Premiership weekend on Sunday, but there is plenty of interest in Saturday's five games too.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/c6jrwn993y0lo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6jrwn993y0lo#1</guid>
-            <pubDate>Fri, 16 Oct 2026 13:52:39 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ba6/live/4c1d49e0-c95f-11f1-a64c-550be9e3c66b.png"/>
         </item>
         <item>
             <title><![CDATA['Our roots are Man Utd' - but FC United ethos 'more important than ever']]></title>
@@ -125,6 +117,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmr4yn3qyw2go#2</guid>
             <pubDate>Fri, 16 Oct 2026 16:01:49 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ca7/live/bb3bbd00-c70e-11f1-bc2e-018d645d8d21.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Does the Premier League 'Big Six' still exist?]]></title>
+            <description><![CDATA[For years the Premier League has had a defined 'Big Six', comprised of Arsenal, Chelsea, Liverpool, Manchester City, Manchester United and Tottenham Hotspur, but could this era be coming to an end?]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/ckj0lrjzjgqno?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ckj0lrjzjgqno#2</guid>
+            <pubDate>Fri, 16 Oct 2026 05:53:57 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0fa7/live/42928a00-c317-11f1-8f04-85217d686658.jpg"/>
         </item>
         <item>
             <title><![CDATA[Chelsea's James out for three months after knee surgery]]></title>
@@ -149,22 +149,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cr86zg3w2lg2o#2</guid>
             <pubDate>Fri, 16 Oct 2026 11:48:33 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9776/live/b4fd1f80-32ab-11f1-a335-4b4a52c0a693.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Does the Premier League 'Big Six' still exist?]]></title>
-            <description><![CDATA[For years the Premier League has had a defined 'Big Six', comprised of Arsenal, Chelsea, Liverpool, Manchester City, Manchester United and Tottenham Hotspur, but could this era be coming to an end?]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/ckj0lrjzjgqno?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ckj0lrjzjgqno#2</guid>
-            <pubDate>Fri, 16 Oct 2026 05:53:57 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0fa7/live/42928a00-c317-11f1-8f04-85217d686658.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Are De Cuyper and Gross essential? FPL gameweek seven dilemmas]]></title>
-            <description><![CDATA[BBC Sport's FPL expert Gianni Buttice looks at some of the biggest dilemmas facing Fantasy Premier League managers heading into gameweek seven.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cqy7l51e80p0o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqy7l51e80p0o#2</guid>
-            <pubDate>Fri, 16 Oct 2026 07:28:45 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7696/live/69414400-c8a5-11f1-a64c-550be9e3c66b.png"/>
         </item>
         <item>
             <title><![CDATA[Football Daily]]></title>
@@ -443,7 +427,7 @@
             <description><![CDATA[Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cvgyxyxplkvo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cvgyxyxplkvo#11</guid>
-            <pubDate>Wed, 07 Oct 2026 19:45:58 GMT</pubDate>
+            <pubDate>Sat, 17 Oct 2026 12:53:04 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aec0/live/fd14b290-e25e-11ef-a819-277e390a7a08.jpg"/>
         </item>
         <item>
@@ -541,14 +525,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6jrwn993y0lo#17</guid>
             <pubDate>Fri, 16 Oct 2026 13:52:39 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ba6/live/4c1d49e0-c95f-11f1-a64c-550be9e3c66b.png"/>
-        </item>
-        <item>
-            <title><![CDATA[Listen to Off The Ball]]></title>
-            <description><![CDATA[The most petty and ill-informed football show on radio.]]></description>
-            <link>https://www.bbc.co.uk/sounds/play/live:bbc_radio_scotland_fm?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/live:bbc_radio_scotland_fm#17</guid>
-            <pubDate>Sat, 17 Oct 2026 13:00:00 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0d5ff0c.jpg"/>
         </item>
         <item>
             <title><![CDATA['Ferguson poised to become Glentoran manager' - gossip]]></title>
