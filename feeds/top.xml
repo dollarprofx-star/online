@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 17 Oct 2026 18:22:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Oct 2026 18:53:11 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -31,12 +31,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42a7/live/0ba95eb0-8762-11f1-b2ab-0dd01740f9f6.jpg"/>
         </item>
         <item>
-            <title><![CDATA[UK must protect against Russian 'hybrid attacks', ex-national security adviser says]]></title>
-            <description><![CDATA[Lord Ricketts says more should be spent on improving the resilience of energy, transport, air traffic control and defence sites.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cmze4y9rjepro?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmze4y9rjepro#1</guid>
-            <pubDate>Sat, 17 Oct 2026 12:56:09 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/17c3/live/a1eb45a0-ca24-11f1-9a39-31b474234113.jpg"/>
+            <title><![CDATA[European diplomats attacked by Israeli settlers in West Bank]]></title>
+            <description><![CDATA[The Israeli military condemns the violence but the prime minister's office says it is part of a "smear" campaign.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c962ydpmjm3zo#1</guid>
+            <pubDate>Sat, 17 Oct 2026 18:38:57 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15c7/live/4f318350-ca52-11f1-852c-2b93a8fc4799.jpg"/>
         </item>
         <item>
             <title><![CDATA[Scotland 'not like Manchester', Swinney says in dig at PM Burnham]]></title>
@@ -103,6 +103,14 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f66/live/02fe0650-ca2c-11f1-9ab2-b325ce61f9d2.jpg"/>
         </item>
         <item>
+            <title><![CDATA[UK must protect against Russian 'hybrid attacks', ex-national security adviser says]]></title>
+            <description><![CDATA[Lord Ricketts says more should be spent on improving the resilience of energy, transport, air traffic control and defence sites.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cmze4y9rjepro?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmze4y9rjepro#3</guid>
+            <pubDate>Sat, 17 Oct 2026 12:56:09 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/17c3/live/a1eb45a0-ca24-11f1-9a39-31b474234113.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Harry Styles debuts new track in memory of Liam Payne]]></title>
             <description><![CDATA[The pop star performed the song on the second anniversary of Liam Payne's death.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c34g180knv91o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -141,14 +149,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cr15jw22v50qo#3</guid>
             <pubDate>Sat, 17 Oct 2026 10:52:17 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b26c/live/6e030d50-ca0f-11f1-9a39-31b474234113.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Alligator kills 71-year-old man fishing in Florida]]></title>
-            <description><![CDATA[The 3.7m (12ft) alligator reportedly dragged the man into the water where he was fishing near Orlando.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c84g1d1xd029o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c84g1d1xd029o#3</guid>
-            <pubDate>Sat, 17 Oct 2026 16:52:38 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/efa2/live/2f1908c0-ca45-11f1-81dd-07b2258f847d.jpg"/>
         </item>
         <item>
             <title><![CDATA['Taking in my great-grandkids at 74 saved me'  ]]></title>
@@ -221,14 +221,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c9vgr6vj4mnyo#9</guid>
             <pubDate>Sat, 17 Oct 2026 18:02:39 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ecba/live/d20cec20-ca51-11f1-852c-2b93a8fc4799.png"/>
-        </item>
-        <item>
-            <title><![CDATA[McDermott seeks fix as England fight to save their World Cup]]></title>
-            <description><![CDATA[Brian McDermott says he can fix the errors that led to England's Rugby League World Cup defeat by Tonga - but is it already too late?]]></description>
-            <link>https://www.bbc.co.uk/sport/rugby-league/articles/crwyqgjg5y8wo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/rugby-league/articles/crwyqgjg5y8wo#9</guid>
-            <pubDate>Sat, 17 Oct 2026 14:12:33 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c677/live/89fb6bc0-ca31-11f1-9a39-31b474234113.jpg"/>
         </item>
     </channel>
 </rss>
