@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 17 Oct 2026 16:36:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Oct 2026 17:02:54 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -143,12 +143,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b26c/live/6e030d50-ca0f-11f1-9a39-31b474234113.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Recovery driver sentenced after runaway car crush]]></title>
-            <description><![CDATA[CCTV footage captured the vehicle rolling down the road, dragging driver Sean Baker along.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c9ly08pm8jz7o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c9ly08pm8jz7o#3</guid>
-            <pubDate>Sat, 17 Oct 2026 11:10:35 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c611/live/d5386880-ca0f-11f1-bd4e-1bb57c253812.jpg"/>
+            <title><![CDATA[Alligator kills 71-year-old man fishing in Florida]]></title>
+            <description><![CDATA[The 3.7m (12ft) alligator reportedly dragged the man into the water where he was fishing near Orlando.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c84g1d1xd029o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c84g1d1xd029o#3</guid>
+            <pubDate>Sat, 17 Oct 2026 16:52:38 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/efa2/live/2f1908c0-ca45-11f1-81dd-07b2258f847d.jpg"/>
         </item>
         <item>
             <title><![CDATA['Taking in my great-grandkids at 74 saved me'  ]]></title>
