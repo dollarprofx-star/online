@@ -9,11 +9,27 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 17 Oct 2026 21:41:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Oct 2026 22:02:14 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Violent clashes, looting and buildings ablaze in France as over 1,000 arrested after protests]]></title>
+            <description><![CDATA[Disorder broke out in cities across the country on a day in which more than half a million joined cost of living protests.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6d937wedj7jo#1</guid>
+            <pubDate>Sat, 17 Oct 2026 20:52:17 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8264/live/a6715ba0-ca74-11f1-9ef8-9dedd6ab697d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How day of protests unfolded as disorder breaks out across France]]></title>
+            <description><![CDATA[Demonstrations across the country turned violent, with cars and buildings set alight and shops ransacked.]]></description>
+            <link>https://www.bbc.co.uk/news/videos/cwz0vy770gpzo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cwz0vy770gpzo#1</guid>
+            <pubDate>Sat, 17 Oct 2026 21:33:17 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/087d/live/01edc4a0-ca75-11f1-9a39-31b474234113.jpg"/>
+        </item>
         <item>
             <title><![CDATA[More NHS staff sacked over attacks victims' records]]></title>
             <description><![CDATA[Nottingham University Hospitals NHS Trust says a new system will be brought in to protect records.]]></description>
@@ -21,14 +37,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmd7q8ld3dd3o#1</guid>
             <pubDate>Sat, 17 Oct 2026 16:34:39 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42a7/live/0ba95eb0-8762-11f1-b2ab-0dd01740f9f6.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[European diplomats attacked by Israeli settlers in West Bank]]></title>
-            <description><![CDATA[The Israeli military condemns the violence but the prime minister's office says it is part of a "smear" campaign.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c962ydpmjm3zo#1</guid>
-            <pubDate>Sat, 17 Oct 2026 18:38:57 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15c7/live/4f318350-ca52-11f1-852c-2b93a8fc4799.jpg"/>
         </item>
         <item>
             <title><![CDATA[Anti-government protesters battle with police in Albania ]]></title>
@@ -39,20 +47,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b85/live/bbc9c4f0-ca6b-11f1-b2e2-233efb1fd43c.jpg"/>
         </item>
         <item>
+            <title><![CDATA[European diplomats attacked by Israeli settlers in West Bank]]></title>
+            <description><![CDATA[The Israeli military condemns the violence but the prime minister's office says it is part of a "smear" campaign.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c962ydpmjm3zo#1</guid>
+            <pubDate>Sat, 17 Oct 2026 18:38:57 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15c7/live/4f318350-ca52-11f1-852c-2b93a8fc4799.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Swinney's emotional explanation for his commitment to independence]]></title>
             <description><![CDATA[BBC Scotland's political editor Glenn Campbell reflects on John Swinney's SNP conference speech. ]]></description>
             <link>https://www.bbc.co.uk/news/articles/cx5yn9n7v5zeo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cx5yn9n7v5zeo#1</guid>
             <pubDate>Sat, 17 Oct 2026 18:11:42 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0cd8/live/4bdea770-ca55-11f1-9a39-31b474234113.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pope discharged from hospital days after lung cancer surgery]]></title>
-            <description><![CDATA[The pontiff will give the traditional Angelus prayer and blessing in St Peter's Square on Sunday.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c5x2vkddrkrko?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c5x2vkddrkrko#1</guid>
-            <pubDate>Sat, 17 Oct 2026 13:51:36 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c6c/live/9aad8f70-ca31-11f1-9ab2-b325ce61f9d2.jpg"/>
         </item>
         <item>
             <title><![CDATA[Chelsea's Martinez taken to hospital for 'precautionary tests']]></title>
@@ -103,12 +111,12 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f50/live/e57d8d50-c8c1-11f1-bdfb-e3788aeae9ec.jpg"/>
         </item>
         <item>
-            <title><![CDATA[UK must protect against Russian 'hybrid attacks', ex-national security adviser says]]></title>
-            <description><![CDATA[Lord Ricketts says more should be spent on improving the resilience of energy, transport, air traffic control and defence sites.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cmze4y9rjepro?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmze4y9rjepro#3</guid>
-            <pubDate>Sat, 17 Oct 2026 12:56:09 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/17c3/live/a1eb45a0-ca24-11f1-9a39-31b474234113.jpg"/>
+            <title><![CDATA[Pope discharged from hospital days after lung cancer surgery]]></title>
+            <description><![CDATA[The pontiff will give the traditional Angelus prayer and blessing in St Peter's Square on Sunday.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c5x2vkddrkrko?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c5x2vkddrkrko#3</guid>
+            <pubDate>Sat, 17 Oct 2026 13:51:36 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c6c/live/9aad8f70-ca31-11f1-9ab2-b325ce61f9d2.jpg"/>
         </item>
         <item>
             <title><![CDATA[Harry Styles debuts new track in memory of Liam Payne]]></title>
