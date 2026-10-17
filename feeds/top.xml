@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 17 Oct 2026 22:02:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Oct 2026 22:33:38 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -221,6 +221,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/iplayer/episode/m0032x9b?at_mid=5Ey2ExaRnm&amp;at_campaign=Wildfire_A_Warning_from_the_Midlands_news_rail&amp;at_medium=display_ad&amp;at_campaign_type=owned&amp;at_nation=NET&amp;at_audience_id=SS&amp;at_product=iplayer&amp;at_brand=m0032x9b&amp;at_ptr_name=bbc&amp;at_ptr_type=media&amp;at_format=image&amp;at_objective=consumption&amp;at_link_title=Wildfire_A_Warning_from_the_Midlands_news_rail&amp;at_bbc_team=BBC&amp;at_creation=News#7</guid>
             <pubDate>Fri, 16 Oct 2026 05:00:00 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dec4/live/b6283de0-c89c-11f1-9a39-31b474234113.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dubois destroys Wardley in two rounds to retain title ]]></title>
+            <description><![CDATA[WBO world champion Daniel Dubois underlines his status as Britain's leading heavyweight with a devastating second-round stoppage of Fabio Wardley. ]]></description>
+            <link>https://www.bbc.co.uk/sport/boxing/articles/c6gelq3zdy8wo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/boxing/articles/c6gelq3zdy8wo#9</guid>
+            <pubDate>Sat, 17 Oct 2026 22:27:49 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b3f/live/ab9ff830-ca78-11f1-aebd-051362f1d912.jpg"/>
         </item>
         <item>
             <title><![CDATA[Wirtz delivers but remains Liverpool's conundrum]]></title>
