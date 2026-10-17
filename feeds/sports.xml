@@ -9,11 +9,19 @@
             <link>https://www.bbc.co.uk/sport/football</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 17 Oct 2026 16:01:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Oct 2026 16:36:40 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Chelsea's Martinez taken to hospital for 'precautionary tests']]></title>
+            <description><![CDATA[Goalkeeper Emiliano Martinez was taken to hospital as Chelsea's 2-0 win at Everton on Saturday meant they secured their first clean sheet in nine months. ]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/c6rryqq00yp4o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6rryqq00yp4o#0</guid>
+            <pubDate>Sat, 17 Oct 2026 16:02:31 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a3ff/live/157a6f70-ca3c-11f1-9ab2-b325ce61f9d2.jpg"/>
+        </item>
         <item>
             <title><![CDATA[Neto stars but who was subdued? - player ratings for Everton v Chelsea]]></title>
             <description><![CDATA[Pedro Neto's two second half goals for Chelsea secured an important away win at Everton on Saturday.]]></description>
@@ -26,105 +34,33 @@
             <title><![CDATA[Ranking the Premier League's all-time greatest super subs  ]]></title>
             <description><![CDATA[Some players are destined to make their biggest impact off the bench, but who are the top 10 Premier League super subs of all time?]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cqn73xe5eelgo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqn73xe5eelgo#0</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqn73xe5eelgo#1</guid>
             <pubDate>Fri, 16 Oct 2026 21:15:47 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ebe8/live/306d9e20-c946-11f1-94af-5f148d758fe7.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Do Manchester City have any grounds to win their appeal?]]></title>
-            <description><![CDATA[Manchester City face "substantial hurdles" to overcome if they are to have any chance of winning their appeal after being found guilty of breaking the Premier League's financial rules, a leading lawyer has told BBC Sport.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/c6je5lwxk5l0o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6je5lwxk5l0o#0</guid>
-            <pubDate>Fri, 16 Oct 2026 16:17:01 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee2f/live/cb7000d0-b9aa-11f1-8a1a-0176f978c211.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['I had so many medals under the bed' - Green on Chelsea success]]></title>
-            <description><![CDATA[When Paul Green left Chelsea after 13 years, he had achieved so much success that the majority of his medals were hidden away in a box under the bed.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cj5ynpgzly7no?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cj5ynpgzly7no#0</guid>
-            <pubDate>Sat, 17 Oct 2026 07:16:49 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/45c0/live/d2f7da50-c93e-11f1-8c38-abe947e72d6d.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['I am telling you the truth' - Carrick on Martinez fallout]]></title>
-            <description><![CDATA[Manchester United boss Michael Carrick says he is telling the truth about the club moving on from Lisandro Martinez's explosive post-match interview.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cm4g189leelno?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cm4g189leelno#1</guid>
-            <pubDate>Fri, 16 Oct 2026 13:59:12 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1307/live/63565910-c961-11f1-a64c-550be9e3c66b.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Arteta told Arsenal job cuts will help create success]]></title>
-            <description><![CDATA[Arsenal boss Mikel Arteta says he was told the club's decision to cut 60 jobs had been made to "achieve the success we want to create".]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cr3wv4xd2l6yo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cr3wv4xd2l6yo#1</guid>
-            <pubDate>Fri, 16 Oct 2026 15:31:54 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ec1/live/f5372550-c973-11f1-80fc-ab418b149008.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Who am I? Plus today's other quizzes]]></title>
-            <description><![CDATA[Test your football knowledge against today's Who Am I?, Five in Five and Brainteaser.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cw1l3dz2ppe0o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cw1l3dz2ppe0o#1</guid>
-            <pubDate>Sat, 17 Oct 2026 05:15:17 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"/>
         </item>
         <item>
             <title><![CDATA[Bellingham agrees new Real deal - Saturday's gossip]]></title>
             <description><![CDATA[Real Madrid midfielder Jude Bellingham ready to commit his future to La Liga club, Arsenal and Liverpool told price for Brentford's Kevin Schade, Man Utd and Chelsea among clubs monitoring Jules Kounde's future at Barcelona, plus more.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/ck7vprzqmr56o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ck7vprzqmr56o#1</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ck7vprzqmr56o#2</guid>
             <pubDate>Fri, 16 Oct 2026 21:57:37 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a9e0/live/022b0be0-c99d-11f1-9a39-31b474234113.png"/>
         </item>
         <item>
-            <title><![CDATA[Does Scott's Disney+ exit unmask wider issue in coverage of women's game?]]></title>
-            <description><![CDATA[Alex Scott's sudden departure from her Disney+ presenter role reveals a pressing challenge for broadcasters of women's football.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cm3wv4ej7lv2o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cm3wv4ej7lv2o#2</guid>
-            <pubDate>Fri, 16 Oct 2026 15:49:55 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/198d/live/498a8450-c94f-11f1-9a39-31b474234113.jpg"/>
+            <title><![CDATA['I had so many medals under the bed' - Green on Chelsea success]]></title>
+            <description><![CDATA[When Paul Green left Chelsea after 13 years, he had achieved so much success that the majority of his medals were hidden away in a box under the bed.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cj5ynpgzly7no?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cj5ynpgzly7no#2</guid>
+            <pubDate>Sat, 17 Oct 2026 07:16:49 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/45c0/live/d2f7da50-c93e-11f1-8c38-abe947e72d6d.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Real demand Tebas resign over Goebbels comparison]]></title>
-            <description><![CDATA[Real Madrid have called for the "immediate resignation" of La Liga president Javier Tebas after he compared the club's management to Joseph Goebbels.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cr5yngpgejw0o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cr5yngpgejw0o#2</guid>
-            <pubDate>Fri, 16 Oct 2026 15:43:32 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f2b/live/02651960-c976-11f1-8791-fbfa2cae660f.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Matos on tactics, Klopp's influence, and taking Swans to top of the league]]></title>
-            <description><![CDATA[Swansea boss Vitor Matos spent five years as an elite development coach at Liverpool, but it would be unfair to paint him with a Jurgen Klopp-shaped brush entirely.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/crp3gq832gqxo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/crp3gq832gqxo#2</guid>
-            <pubDate>Sat, 17 Oct 2026 05:56:25 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96f3/live/d47286e0-c953-11f1-8879-9d9deeb686e1.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sutton's predictions v boxer & Ipswich fan Fabio Wardley]]></title>
-            <description><![CDATA[BBC Sport football expert Chris Sutton takes on boxer and Ipswich fan Fabio Wardley, plus the BBC readers and AI with his predictions for this weekend's Premier League fixtures.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/crgqwvnnyv30o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/crgqwvnnyv30o#2</guid>
-            <pubDate>Thu, 15 Oct 2026 19:26:51 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/68ae/live/a4aca140-c73f-11f1-bc2e-018d645d8d21.png"/>
-        </item>
-        <item>
-            <title><![CDATA['Our roots are Man Utd' - but FC United ethos 'more important than ever']]></title>
-            <description><![CDATA[FC United are hoping for FA Cup success, 21 years after being formed as a supporter-owned club following the Glazer family takeover of Manchester United.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cmr4yn3qyw2go?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmr4yn3qyw2go#2</guid>
-            <pubDate>Fri, 16 Oct 2026 16:01:49 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ca7/live/bb3bbd00-c70e-11f1-bc2e-018d645d8d21.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Football Daily]]></title>
-            <description><![CDATA[Alex Scott sits down with Kasper and Peter Schmeichel for this week's Football Interview.]]></description>
-            <link>https://www.bbc.co.uk/sounds/play/p0ph4183?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0ph4183#2</guid>
-            <pubDate>Sat, 17 Oct 2026 09:00:00 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0ph41bt.jpg"/>
+            <title><![CDATA[Do Manchester City have any grounds to win their appeal?]]></title>
+            <description><![CDATA[Manchester City face "substantial hurdles" to overcome if they are to have any chance of winning their appeal after being found guilty of breaking the Premier League's financial rules, a leading lawyer has told BBC Sport.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/c6je5lwxk5l0o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6je5lwxk5l0o#2</guid>
+            <pubDate>Fri, 16 Oct 2026 16:17:01 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee2f/live/cb7000d0-b9aa-11f1-8a1a-0176f978c211.jpg"/>
         </item>
         <item>
             <title><![CDATA[Alonso praises 'serious' Chelsea]]></title>
@@ -167,116 +103,92 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/663a/live/bde28a80-c744-11f1-bc2e-018d645d8d21.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Feel-good Koumas story something for Liverpool to smile about]]></title>
-            <description><![CDATA[Lewis Koumas on breaking Steven Gerrard's record, seizing his opportunity under Andoni Iraola, and why he couldn't sleep after playing Manchester City.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cwy7l5e4376no?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cwy7l5e4376no#5</guid>
-            <pubDate>Fri, 16 Oct 2026 16:06:37 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/816c/live/a60cdcc0-c86c-11f1-971b-634f423608e9.jpg"/>
+            <title><![CDATA['I am telling you the truth' - Carrick on Martinez fallout]]></title>
+            <description><![CDATA[Manchester United boss Michael Carrick says he is telling the truth about the club moving on from Lisandro Martinez's explosive post-match interview.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cm4g189leelno?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cm4g189leelno#5</guid>
+            <pubDate>Fri, 16 Oct 2026 13:59:12 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1307/live/63565910-c961-11f1-a64c-550be9e3c66b.jpg"/>
         </item>
         <item>
-            <title><![CDATA['A bit early' for Rangers to put pressure on Celtic & Hearts - McInnes]]></title>
-            <description><![CDATA[Derek McInnes dismissed the idea that Rangers could put pressure on Celtic and Hearts with a win against Dundee on Saturday evening. ]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cqev30d0dngno?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqev30d0dngno#5</guid>
-            <pubDate>Fri, 16 Oct 2026 15:32:27 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/168e/live/c3624c90-c972-11f1-80fc-ab418b149008.jpg"/>
+            <title><![CDATA[Who am I? Plus today's other quizzes]]></title>
+            <description><![CDATA[Test your football knowledge against today's Who Am I?, Five in Five and Brainteaser.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cw1l3dz2ppe0o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cw1l3dz2ppe0o#5</guid>
+            <pubDate>Sat, 17 Oct 2026 05:15:17 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Arteta told Arsenal job cuts will help create success]]></title>
+            <description><![CDATA[Arsenal boss Mikel Arteta says he was told the club's decision to cut 60 jobs had been made to "achieve the success we want to create".]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cr3wv4xd2l6yo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cr3wv4xd2l6yo#5</guid>
+            <pubDate>Fri, 16 Oct 2026 15:31:54 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ec1/live/f5372550-c973-11f1-80fc-ab418b149008.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Does Scott's Disney+ exit unmask wider issue in coverage of women's game?]]></title>
+            <description><![CDATA[Alex Scott's sudden departure from her Disney+ presenter role reveals a pressing challenge for broadcasters of women's football.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cm3wv4ej7lv2o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cm3wv4ej7lv2o#5</guid>
+            <pubDate>Fri, 16 Oct 2026 15:49:55 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/198d/live/498a8450-c94f-11f1-9a39-31b474234113.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Real demand Tebas resign over Goebbels comparison]]></title>
+            <description><![CDATA[Real Madrid have called for the "immediate resignation" of La Liga president Javier Tebas after he compared the club's management to Joseph Goebbels.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cr5yngpgejw0o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cr5yngpgejw0o#5</guid>
+            <pubDate>Fri, 16 Oct 2026 15:43:32 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f2b/live/02651960-c976-11f1-8791-fbfa2cae660f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Matos on tactics, Klopp's influence, and taking Swans to top of the league]]></title>
+            <description><![CDATA[Swansea boss Vitor Matos spent five years as an elite development coach at Liverpool, but it would be unfair to paint him with a Jurgen Klopp-shaped brush entirely.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/crp3gq832gqxo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/crp3gq832gqxo#5</guid>
+            <pubDate>Sat, 17 Oct 2026 05:56:25 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96f3/live/d47286e0-c953-11f1-8879-9d9deeb686e1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sutton's predictions v boxer & Ipswich fan Fabio Wardley]]></title>
+            <description><![CDATA[BBC Sport football expert Chris Sutton takes on boxer and Ipswich fan Fabio Wardley, plus the BBC readers and AI with his predictions for this weekend's Premier League fixtures.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/crgqwvnnyv30o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/crgqwvnnyv30o#6</guid>
+            <pubDate>Thu, 15 Oct 2026 19:26:51 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/68ae/live/a4aca140-c73f-11f1-bc2e-018d645d8d21.png"/>
         </item>
         <item>
             <title><![CDATA[Does the Premier League 'Big Six' still exist?]]></title>
             <description><![CDATA[For years the Premier League has had a defined 'Big Six', comprised of Arsenal, Chelsea, Liverpool, Manchester City, Manchester United and Tottenham Hotspur, but could this era be coming to an end?]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/ckj0lrjzjgqno?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ckj0lrjzjgqno#5</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ckj0lrjzjgqno#6</guid>
             <pubDate>Fri, 16 Oct 2026 05:53:57 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0fa7/live/42928a00-c317-11f1-8f04-85217d686658.jpg"/>
         </item>
         <item>
-            <title><![CDATA['Not about me' - Arbeloa dismisses future questions]]></title>
-            <description><![CDATA[Fulham head coach Alvaro Arbeloa says the focus should not be on him as his side searches for a first Premier League win this season against Hull City this weekend.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/c615jw414vypo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c615jw414vypo#5</guid>
-            <pubDate>Fri, 16 Oct 2026 10:24:57 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afa5/live/e831b9f0-c947-11f1-8566-4db41fa77717.jpg"/>
+            <title><![CDATA['Our roots are Man Utd' - but FC United ethos 'more important than ever']]></title>
+            <description><![CDATA[FC United are hoping for FA Cup success, 21 years after being formed as a supporter-owned club following the Glazer family takeover of Manchester United.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cmr4yn3qyw2go?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmr4yn3qyw2go#6</guid>
+            <pubDate>Fri, 16 Oct 2026 16:01:49 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ca7/live/bb3bbd00-c70e-11f1-bc2e-018d645d8d21.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Chelsea's James out for three months after knee surgery]]></title>
-            <description><![CDATA[Chelsea captain Reece James is set to miss three months of action after undergoing knee surgery.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cq073d9l0ly9o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cq073d9l0ly9o#5</guid>
-            <pubDate>Fri, 16 Oct 2026 13:36:09 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e9d/live/09e289c0-c93f-11f1-8c38-abe947e72d6d.jpg"/>
+            <title><![CDATA[Football Daily]]></title>
+            <description><![CDATA[Alex Scott sits down with Kasper and Peter Schmeichel for this week's Football Interview.]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/p0ph4183?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0ph4183#6</guid>
+            <pubDate>Sat, 17 Oct 2026 09:00:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0ph41bt.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Getting to know Man Utd boss Olid]]></title>
-            <description><![CDATA[It has been a whirlwind 10 weeks for Eva Olid since she became manager of Manchester United.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/c6qxneqry885o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6qxneqry885o#5</guid>
-            <pubDate>Fri, 16 Oct 2026 07:47:56 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70ed/live/f2087120-c8a3-11f1-a64c-550be9e3c66b.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['I'm fortunate to be alive' - Merino relives bus attack]]></title>
-            <description><![CDATA[Arsenal and Spain midfielder Mikel Merino reflects on the attack on Dortmund's team bus in 2017, when he was 20 years old.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/c8dx3l9r5lqlo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c8dx3l9r5lqlo#5</guid>
-            <pubDate>Fri, 16 Oct 2026 09:16:31 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e98/live/d5701d60-c92a-11f1-bcc7-a3638a736ce9.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The rapid rise of a former art dealer to Europe's hottest young manager]]></title>
-            <description><![CDATA[How Brighton's Fabian Hurzeler has gone from Germany's fifth tier to being reportedly of interest to Manchester United.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cmde8l07569no?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmde8l07569no#6</guid>
-            <pubDate>Fri, 16 Oct 2026 06:28:10 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0837/live/9bbd98a0-c63b-11f1-b99d-0127a94fa1d0.png"/>
-        </item>
-        <item>
-            <title><![CDATA[Police investigating antisemitic Nazi chants from Hajduk Split fans]]></title>
-            <description><![CDATA[Footage shows Hajduk supporters chanting outside the stadium about Auschwitz and Adolf Hitler before their Conference League match against Ajax.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cwj0lmr8gne5o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cwj0lmr8gne5o#6</guid>
-            <pubDate>Fri, 16 Oct 2026 14:22:19 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a949/live/2b82b6c0-c941-11f1-8c38-abe947e72d6d.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Harrogate boss Weaver becomes co-owner]]></title>
-            <description><![CDATA[Long-serving Harrogate Town manager Simon Weaver becomes co-owner of the National League club, ending his father's ownership.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cwe9lx8jmv71o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cwe9lx8jmv71o#6</guid>
-            <pubDate>Fri, 16 Oct 2026 13:15:05 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f23/live/e0cc7630-c962-11f1-a6e6-417671ef62cb.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Spain handed partial stadium closure after discriminatory chants v Egypt]]></title>
-            <description><![CDATA[Spain must play their next international friendly with a partial stadium closure after supporters sang a discriminatory chant about Muslims multiple times during a game against Egypt on 31 March.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cr86zg3w2lg2o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cr86zg3w2lg2o#6</guid>
-            <pubDate>Fri, 16 Oct 2026 11:48:33 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9776/live/b4fd1f80-32ab-11f1-a335-4b4a52c0a693.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The bitter local rivalry fuelled by a 22-year wait]]></title>
-            <description><![CDATA[MK Dons will host Luton Town for the first time since 2004 on Saturday.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/c3pwg7d11krqo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c3pwg7d11krqo#6</guid>
-            <pubDate>Fri, 16 Oct 2026 08:08:07 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/24b3/live/545b9ea0-c93b-11f1-a64c-550be9e3c66b.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Under-pressure Dionisi addresses sacking 'fake news']]></title>
-            <description><![CDATA[Under pressure Watford manager Alessio Dionisi says reports he would lose his job after Tuesday's heavy defeat at Cardiff were "fake news".]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cvrly0n268xwo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cvrly0n268xwo#6</guid>
-            <pubDate>Fri, 16 Oct 2026 08:59:43 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a026/live/1273ef70-c93a-11f1-bc2e-018d645d8d21.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The England keeper set to face his dad at a World Cup]]></title>
-            <description><![CDATA[Colin Gordon will be coaching Argentina at the World Cup, while son Chris will be  playing for England.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cw98z1v08vg4o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cw98z1v08vg4o#6</guid>
-            <pubDate>Fri, 16 Oct 2026 09:14:05 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b435/live/c14ea750-c88c-11f1-b0a4-81e564f1cfaa.jpg"/>
+            <title><![CDATA['A bit early' for Rangers to put pressure on Celtic & Hearts - McInnes]]></title>
+            <description><![CDATA[Derek McInnes dismissed the idea that Rangers could put pressure on Celtic and Hearts with a win against Dundee on Saturday evening. ]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cqev30d0dngno?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqev30d0dngno#6</guid>
+            <pubDate>Fri, 16 Oct 2026 15:32:27 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/168e/live/c3624c90-c972-11f1-80fc-ab418b149008.jpg"/>
         </item>
         <item>
             <title><![CDATA[Independent regulator waiting for Man City appeal]]></title>
@@ -349,6 +261,54 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/c61mvdy2mdx9o#7</guid>
             <pubDate>Sun, 11 Oct 2026 18:59:04 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b46a/live/e253b1c0-c599-11f1-a64c-550be9e3c66b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The rapid rise of a former art dealer to Europe's hottest young manager]]></title>
+            <description><![CDATA[How Brighton's Fabian Hurzeler has gone from Germany's fifth tier to being reportedly of interest to Manchester United.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cmde8l07569no?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmde8l07569no#9</guid>
+            <pubDate>Fri, 16 Oct 2026 06:28:10 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0837/live/9bbd98a0-c63b-11f1-b99d-0127a94fa1d0.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Feel-good Koumas story something for Liverpool to smile about]]></title>
+            <description><![CDATA[Lewis Koumas on breaking Steven Gerrard's record, seizing his opportunity under Andoni Iraola, and why he couldn't sleep after playing Manchester City.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cwy7l5e4376no?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cwy7l5e4376no#9</guid>
+            <pubDate>Fri, 16 Oct 2026 16:06:37 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/816c/live/a60cdcc0-c86c-11f1-971b-634f423608e9.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Chelsea's James out for three months after knee surgery]]></title>
+            <description><![CDATA[Chelsea captain Reece James is set to miss three months of action after undergoing knee surgery.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cq073d9l0ly9o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cq073d9l0ly9o#9</guid>
+            <pubDate>Fri, 16 Oct 2026 13:36:09 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e9d/live/09e289c0-c93f-11f1-8c38-abe947e72d6d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Getting to know Man Utd boss Olid]]></title>
+            <description><![CDATA[It has been a whirlwind 10 weeks for Eva Olid since she became manager of Manchester United.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/c6qxneqry885o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6qxneqry885o#9</guid>
+            <pubDate>Fri, 16 Oct 2026 07:47:56 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70ed/live/f2087120-c8a3-11f1-a64c-550be9e3c66b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Harrogate boss Weaver becomes co-owner]]></title>
+            <description><![CDATA[Long-serving Harrogate Town manager Simon Weaver becomes co-owner of the National League club, ending his father's ownership.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cwe9lx8jmv71o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cwe9lx8jmv71o#9</guid>
+            <pubDate>Fri, 16 Oct 2026 13:15:05 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f23/live/e0cc7630-c962-11f1-a6e6-417671ef62cb.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The bitter local rivalry fuelled by a 22-year wait]]></title>
+            <description><![CDATA[MK Dons will host Luton Town for the first time since 2004 on Saturday.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/c3pwg7d11krqo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c3pwg7d11krqo#9</guid>
+            <pubDate>Fri, 16 Oct 2026 08:08:07 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/24b3/live/545b9ea0-c93b-11f1-a64c-550be9e3c66b.jpg"/>
         </item>
         <item>
             <title><![CDATA[Wilcox the target again in another damaging Man Utd fallout]]></title>
@@ -485,22 +445,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/bitesize/articles/z8t4b7h#16</guid>
             <pubDate>Mon, 21 Sep 2026 20:12:31 GMT</pubDate>
             <media:thumbnail url="https://ichef.bbci.co.uk/images/ic/480xn/p0pcy5zl.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Watch Open All Mics]]></title>
-            <description><![CDATA[Join the Sportsound team for all the latest Scottish football scores.]]></description>
-            <link>https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/iplayer/live/bbcone#17</guid>
-            <pubDate>Sat, 17 Oct 2026 16:11:00 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0hmh81g.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['Ferguson poised to become Glentoran manager' - gossip]]></title>
-            <description><![CDATA[Glentoran appear poised to appoint Duncan Ferguson as manager as Dinamo Bucharest winger Danny Armstrong eyes a Scotland call-up.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cq70pr5270p7o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cq70pr5270p7o#17</guid>
-            <pubDate>Sat, 17 Oct 2026 09:01:01 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8992/live/6d5797d0-ca1f-11f1-9a39-31b474234113.png"/>
         </item>
         <item>
             <title><![CDATA['I had so many medals under the bed' - Green on Chelsea success]]></title>
