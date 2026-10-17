@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/sport/football</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 17 Oct 2026 06:44:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Oct 2026 07:19:18 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -617,6 +617,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d090/live/3bf8baa0-c927-11f1-bc2e-018d645d8d21.png"/>
         </item>
         <item>
+            <title><![CDATA['I had so many medals under the bed' - Green on Chelsea success]]></title>
+            <description><![CDATA[When Paul Green left Chelsea after 13 years, he had achieved so much success that the majority of his medals were hidden away in a box under the bed.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cj5ynpgzly7no?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cj5ynpgzly7no#18</guid>
+            <pubDate>Sat, 17 Oct 2026 07:16:49 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/45c0/live/d2f7da50-c93e-11f1-8c38-abe947e72d6d.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Does Scott's Disney+ exit unmask wider issue in coverage of women's game?]]></title>
             <description><![CDATA[Alex Scott's sudden departure from her Disney+ presenter role reveals a pressing challenge for broadcasters of women's football.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cm3wv4ej7lv2o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -663,14 +671,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cq5ynlez508no#18</guid>
             <pubDate>Wed, 14 Oct 2026 08:16:53 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/468a/live/94ff0b90-c75b-11f1-9a39-31b474234113.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BBC Women's Football Weekly]]></title>
-            <description><![CDATA[After two standout displays, has Le Tissier made a case to start alongside Bronze?]]></description>
-            <link>https://www.bbc.co.uk/sounds/play/p0pgjk3h?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0pgjk3h#18</guid>
-            <pubDate>Tue, 13 Oct 2026 22:47:00 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0lz125l.jpg"/>
         </item>
         <item>
             <title><![CDATA[The part-timers who won three Wembley finals in a row]]></title>
