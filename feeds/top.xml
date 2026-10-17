@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 17 Oct 2026 13:41:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Oct 2026 14:03:46 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -23,14 +23,6 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4971/live/07261b40-ca23-11f1-bc2e-018d645d8d21.jpg"/>
         </item>
         <item>
-            <title><![CDATA[UK must protect against Russian 'hybrid attacks', ex-national security adviser says]]></title>
-            <description><![CDATA[Lord Ricketts says more should be spent on improving the resilience of energy, transport, air traffic control and defence sites.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cmze4y9rjepro?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmze4y9rjepro#1</guid>
-            <pubDate>Sat, 17 Oct 2026 12:56:09 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/17c3/live/a1eb45a0-ca24-11f1-9a39-31b474234113.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[More NHS staff sacked over attacks victims' records]]></title>
             <description><![CDATA[Nottingham University Hospitals NHS Trust says a new system will be brought in to protect records.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cmd7q8ld3dd3o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -39,20 +31,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42a7/live/0ba95eb0-8762-11f1-b2ab-0dd01740f9f6.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Oregon teacher fought school attacker before armed dad shot suspect 'multiple times']]></title>
-            <description><![CDATA[The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o#1</guid>
-            <pubDate>Sat, 17 Oct 2026 09:58:17 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c80/live/72894110-c9b4-11f1-9409-01a8c77950d7.jpg"/>
+            <title><![CDATA[UK must protect against Russian 'hybrid attacks', ex-national security adviser says]]></title>
+            <description><![CDATA[Lord Ricketts says more should be spent on improving the resilience of energy, transport, air traffic control and defence sites.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cmze4y9rjepro?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmze4y9rjepro#1</guid>
+            <pubDate>Sat, 17 Oct 2026 12:56:09 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/17c3/live/a1eb45a0-ca24-11f1-9a39-31b474234113.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Boy, 16, and 80-year-old man die in light aircraft crash near Loch Lomond]]></title>
-            <description><![CDATA[Emergency services were called at about 16:45 on Friday, and pronounced both dead at the scene. ]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cky83g11q46lo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cky83g11q46lo#1</guid>
-            <pubDate>Sat, 17 Oct 2026 11:57:27 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/71c6/live/a7279ba0-ca19-11f1-a718-8f4bc8d2cdf5.jpg"/>
+            <title><![CDATA[Pope discharged from hospital days after lung cancer surgery]]></title>
+            <description><![CDATA[The pontiff will give the traditional Angelus prayer and blessing in St Peter's Square on Sunday.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c5x2vkddrkrko?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c5x2vkddrkrko#1</guid>
+            <pubDate>Sat, 17 Oct 2026 13:51:36 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c6c/live/9aad8f70-ca31-11f1-9ab2-b325ce61f9d2.jpg"/>
         </item>
         <item>
             <title><![CDATA[Toxic algorithms wouldn't let them go - now Australia wants an off switch]]></title>
@@ -68,7 +60,7 @@
             <link>https://www.bbc.co.uk/news/articles/ck62y33489zqo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ck62y33489zqo#2</guid>
             <pubDate>Fri, 16 Oct 2026 23:49:16 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3de0/live/d89c4a70-ca03-11f1-a64c-550be9e3c66b.jpg"/>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d5a8/live/e214ac90-ca31-11f1-9ab2-b325ce61f9d2.jpg"/>
         </item>
         <item>
             <title><![CDATA[Not sure what to wear for Halloween? These outfits are set to be the most popular this year]]></title>
@@ -111,12 +103,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a168/live/0fb29030-ca24-11f1-9a39-31b474234113.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Pope to be discharged days after lung cancer surgery]]></title>
-            <description><![CDATA[The pontiff will give the traditional Angelus prayer and blessing in St Peter's Square on Sunday.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c5x2vkddrkrko?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c5x2vkddrkrko#3</guid>
-            <pubDate>Sat, 17 Oct 2026 12:37:26 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8795/live/43b0cae0-ca20-11f1-a718-8f4bc8d2cdf5.jpg"/>
+            <title><![CDATA[Boy, 16, and 80-year-old man die in light aircraft crash near Loch Lomond]]></title>
+            <description><![CDATA[Emergency services were called at about 16:45 on Friday, and pronounced both dead at the scene. ]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cky83g11q46lo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cky83g11q46lo#3</guid>
+            <pubDate>Sat, 17 Oct 2026 11:57:27 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/71c6/live/a7279ba0-ca19-11f1-a718-8f4bc8d2cdf5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Oregon teacher fought school attacker before armed dad shot suspect 'multiple times']]></title>
+            <description><![CDATA[The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o#3</guid>
+            <pubDate>Sat, 17 Oct 2026 09:58:17 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c80/live/72894110-c9b4-11f1-9409-01a8c77950d7.jpg"/>
         </item>
         <item>
             <title><![CDATA[Trump waives several Russia sanctions as row with Zelensky intensifies]]></title>
@@ -143,20 +143,12 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c611/live/d5386880-ca0f-11f1-bd4e-1bb57c253812.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Swinney insists 'stars are aligning' for Scottish independence]]></title>
-            <description><![CDATA[The first minister will tell delegates at the SNP conference in Aberdeen that 2026 has been a turning point in Scotland's "journey to nationhood".]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cmx2844n7nepo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmx2844n7nepo#3</guid>
-            <pubDate>Sat, 17 Oct 2026 08:17:18 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9288/live/99d7ed00-c98e-11f1-adc3-01d8629f0470.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Obama receives honorary degree from Queen's University Belfast]]></title>
-            <description><![CDATA[Receiving his doctorate, the 44th US president praised Northern Ireland's progress and challenged the next generation to continue building a peaceful and inclusive future.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c6gqwvk399xlo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6gqwvk399xlo#4</guid>
-            <pubDate>Tue, 13 Oct 2026 21:17:33 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ebf6/live/5681ab20-c747-11f1-b4d5-87f9c6c95a29.jpg"/>
+            <title><![CDATA['Taking in my great-grandkids at 74 saved me'  ]]></title>
+            <description><![CDATA[A Somerset great-grandmother talks about becoming a kinship carer after her daughter died.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c5lyev4e2m9zo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c5lyev4e2m9zo#4</guid>
+            <pubDate>Sat, 10 Oct 2026 06:11:22 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97a1/live/1be03b50-c3d0-11f1-8cee-d9704951662c.jpg"/>
         </item>
         <item>
             <title><![CDATA[The Sabrina Carpenter clip that helped a 22-year-old make £120,000 a year]]></title>
@@ -175,12 +167,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/118f/live/511ce960-c701-11f1-b4dd-e786ec6f11b1.png"/>
         </item>
         <item>
-            <title><![CDATA[At the Brooklyn shop in 'surreal' row with Kelly Clarkson over mechanical bird]]></title>
-            <description><![CDATA[Art of Play says its staff have been threatened after the singer complained online about how she was treated.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cxvgdneplgzeo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cxvgdneplgzeo#4</guid>
-            <pubDate>Wed, 14 Oct 2026 22:19:13 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b225/live/c443afc0-c85d-11f1-9a39-31b474234113.jpg"/>
+            <title><![CDATA[Poodle party reunites rescued dogs]]></title>
+            <description><![CDATA[The eight dogs were found alongside more than 250 poodle-cross breeds at a property in Norfolk.]]></description>
+            <link>https://www.bbc.co.uk/news/videos/cm2kevzevp1lo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cm2kevzevp1lo#4</guid>
+            <pubDate>Tue, 13 Oct 2026 11:17:19 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9350/live/0aef1b20-c6f7-11f1-bc1b-8dfa7c975faa.jpg"/>
         </item>
         <item>
             <title><![CDATA[Sign up now]]></title>
