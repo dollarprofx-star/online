@@ -5,7 +5,7 @@
         <atom:link href="https://rss.punchng.com" rel="self" type="application/rss+xml" />
         <link> https://rss.punchng.com </link>
         <description> Get the latest News in Nigeria </description>
-        <lastBuildDate> Sat, 17 Oct 2026 22:29:57 +0000</lastBuildDate>
+        <lastBuildDate> Sat, 17 Oct 2026 22:55:01 +0000</lastBuildDate>
         <language> en-US </language>
         <sy:updatePeriod> minutely	</sy:updatePeriod>
         <sy:updateFrequency> 5	</sy:updateFrequency>
@@ -13,6 +13,20 @@
         <generator>https://rss.punchng.com</generator>
 
         <item>
+                        <title>Soldiers kill two suspected kidnappers, recover N10m ransom</title>
+                        <link>https://punchng.com/soldiers-kill-two-suspected-kidnappers-recover-n10m-ransom/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
+                        <pubDate>Sat, 17 Oct 2026 23:52:40 +0000</pubDate>
+                        <dc:creator><![CDATA[Punch Newspapers]]></dc:creator>
+                        <category><![CDATA[]]></category>
+                        <guid isPermaLink='true'>https://punchng.com/soldiers-kill-two-suspected-kidnappers-recover-n10m-ransom/?utm_source=rss.punchng.com&amp;utm_medium=web</guid>
+                        <description><![CDATA[
+
+Nigerian Army troops have killed two suspected kidnappers and recovered a N10m ransom during a rescue operation in Falgore Forest, Kano State.
+
+Read More: https://punchng.com/soldiers-kill-two-suspected-kidnappers-recover-n10m-ransom/]]></description>
+                        <enclosure url='https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png' length='342247' type='image/png'/>
+                    </item>
+                    <item>
                         <title>2027: North will support Tinubu’s re-election, says Kano gov</title>
                         <link>https://punchng.com/2027-north-will-support-tinubus-re-election-says-kano-gov/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
                         <pubDate>Sat, 17 Oct 2026 22:35:09 +0000</pubDate>
@@ -416,20 +430,6 @@ Read More: https://punchng.com/from-online-maps-to-flying-cars-elon-musks-bigges
 The APC National Chairman, Nentawe Yilwatda, has predicted that President Bola Tinubu will secure over 70% of northern votes in the 2027 election.
 
 Read More: https://punchng.com/2027-north-will-give-tinubu-over-70-of-votes-apc-chairman-predicts/]]></description>
-                        <enclosure url='https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png' length='342247' type='image/png'/>
-                    </item>
-                    <item>
-                        <title>FG begins 3,700 rural connectivity tower rollout in Abia</title>
-                        <link>https://punchng.com/fg-begins-3700-rural-connectivity-tower-rollout-in-abia/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
-                        <pubDate>Sat, 17 Oct 2026 17:26:01 +0000</pubDate>
-                        <dc:creator><![CDATA[Punch Newspapers]]></dc:creator>
-                        <category><![CDATA[]]></category>
-                        <guid isPermaLink='true'>https://punchng.com/fg-begins-3700-rural-connectivity-tower-rollout-in-abia/?utm_source=rss.punchng.com&amp;utm_medium=web</guid>
-                        <description><![CDATA[
-
-The Federal Government has commissioned the first of 3,700 rural connectivity towers in Bende, Abia State, to provide broadband to underserved communities.
-
-Read More: https://punchng.com/fg-begins-3700-rural-connectivity-tower-rollout-in-abia/]]></description>
                         <enclosure url='https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png' length='342247' type='image/png'/>
                     </item>
                         </channel>
