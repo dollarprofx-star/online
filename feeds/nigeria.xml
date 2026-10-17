@@ -5,7 +5,7 @@
         <atom:link href="https://rss.punchng.com" rel="self" type="application/rss+xml" />
         <link> https://rss.punchng.com </link>
         <description> Get the latest News in Nigeria </description>
-        <lastBuildDate> Sat, 17 Oct 2026 19:54:32 +0000</lastBuildDate>
+        <lastBuildDate> Sat, 17 Oct 2026 20:14:36 +0000</lastBuildDate>
         <language> en-US </language>
         <sy:updatePeriod> minutely	</sy:updatePeriod>
         <sy:updateFrequency> 5	</sy:updateFrequency>
@@ -13,6 +13,20 @@
         <generator>https://rss.punchng.com</generator>
 
         <item>
+                        <title>From Salah to Kane: Players who have scored in all three UEFA competitions</title>
+                        <link>https://punchng.com/from-salah-to-kane-players-who-have-scored-in-all-three-uefa-competitions/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
+                        <pubDate>Sat, 17 Oct 2026 21:12:58 +0000</pubDate>
+                        <dc:creator><![CDATA[Punch Newspapers]]></dc:creator>
+                        <category><![CDATA[]]></category>
+                        <guid isPermaLink='true'>https://punchng.com/from-salah-to-kane-players-who-have-scored-in-all-three-uefa-competitions/?utm_source=rss.punchng.com&amp;utm_medium=web</guid>
+                        <description><![CDATA[
+
+Mohamed Salah has joined a select group of players, including Harry Kane and Edin Dzeko, who have scored in all three major UEFA club competitions.
+
+Read More: https://punchng.com/from-salah-to-kane-players-who-have-scored-in-all-three-uefa-competitions/]]></description>
+                        <enclosure url='https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png' length='342247' type='image/png'/>
+                    </item>
+                    <item>
                         <title>EU to provide €20m defence support to Nigeria — Minister</title>
                         <link>https://punchng.com/eu-to-provide-e20m-defence-support-to-nigeria-minister/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
                         <pubDate>Sat, 17 Oct 2026 20:48:10 +0000</pubDate>
@@ -416,20 +430,6 @@ Read More: https://punchng.com/saudi-arabia-executes-five-on-terrorism-charges/]
 The Sokoto State Government has approved over N21bn for the construction of roads, solar-powered boreholes, and renovation of hospitals across the state.
 
 Read More: https://punchng.com/sokoto-approves-n21bn-for-roads-boreholes-hospital-renovations/]]></description>
-                        <enclosure url='https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png' length='342247' type='image/png'/>
-                    </item>
-                    <item>
-                        <title>Pope Leo discharged from hospital after lung cancer surgery</title>
-                        <link>https://punchng.com/pope-leo-discharged-from-hospital-after-lung-cancer-surgery/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
-                        <pubDate>Sat, 17 Oct 2026 16:02:22 +0000</pubDate>
-                        <dc:creator><![CDATA[Punch Newspapers]]></dc:creator>
-                        <category><![CDATA[]]></category>
-                        <guid isPermaLink='true'>https://punchng.com/pope-leo-discharged-from-hospital-after-lung-cancer-surgery/?utm_source=rss.punchng.com&amp;utm_medium=web</guid>
-                        <description><![CDATA[
-
-Pope Leo XIV has been discharged from a Rome hospital four days after undergoing successful surgery to remove a cancerous nodule from his right lung.
-
-Read More: https://punchng.com/pope-leo-discharged-from-hospital-after-lung-cancer-surgery/]]></description>
                         <enclosure url='https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png' length='342247' type='image/png'/>
                     </item>
                         </channel>
