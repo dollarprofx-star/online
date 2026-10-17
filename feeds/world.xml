@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news/world</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 17 Oct 2026 05:05:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Oct 2026 05:36:33 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/world/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -23,20 +23,20 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43ab/live/8511edf0-c9be-11f1-ae9f-bf0ab88aba90.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Oregon teacher fought school attacker before armed dad shot suspect 'multiple times']]></title>
-            <description><![CDATA[The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o#0</guid>
-            <pubDate>Sat, 17 Oct 2026 01:19:04 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c80/live/72894110-c9b4-11f1-9409-01a8c77950d7.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Trump waives several Russia sanctions as new US law takes effect]]></title>
             <description><![CDATA[Trump says parts of a new law that aims to punish Moscow for its war against Ukraine are against US national interests.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o#0</guid>
             <pubDate>Sat, 17 Oct 2026 05:02:50 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c147/live/f608c860-c9cf-11f1-84c1-fd3c3266bb86.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Oregon teacher fought school attacker before armed dad shot suspect 'multiple times']]></title>
+            <description><![CDATA[The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o#0</guid>
+            <pubDate>Sat, 17 Oct 2026 01:19:04 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c80/live/72894110-c9b4-11f1-9409-01a8c77950d7.jpg"/>
         </item>
         <item>
             <title><![CDATA[Three men jailed for 158 years each for murdering Australian and US surfers in Mexico]]></title>
@@ -63,11 +63,11 @@
             <media:thumbnail width="240" height="130" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc2e/live/1a3bde40-c96f-11f1-9a39-31b474234113.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Katie Zacharia leaving her White House role less than five days on the job]]></title>
-            <description><![CDATA[Her public debut as White House press secretary on Tuesday ended with a flurry of media criticism about her credentials and preparedness. ]]></description>
+            <title><![CDATA[Katie Zacharia leaving White House role less than five days into job]]></title>
+            <description><![CDATA[Her public debut as press secretary ended with a flurry of media criticism about her credentials and preparedness. ]]></description>
             <link>https://www.bbc.co.uk/news/articles/c32l4ekpvzl8o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c32l4ekpvzl8o#0</guid>
-            <pubDate>Fri, 16 Oct 2026 21:05:05 GMT</pubDate>
+            <pubDate>Sat, 17 Oct 2026 05:20:40 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8455/live/c34abe60-c99d-11f1-8844-b58b162b44d4.jpg"/>
         </item>
         <item>
