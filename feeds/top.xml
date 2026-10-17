@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 17 Oct 2026 20:50:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Oct 2026 21:13:50 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -31,12 +31,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15c7/live/4f318350-ca52-11f1-852c-2b93a8fc4799.jpg"/>
         </item>
         <item>
-            <title><![CDATA[UK must protect against Russian 'hybrid attacks', ex-national security adviser says]]></title>
-            <description><![CDATA[Lord Ricketts says more should be spent on improving the resilience of energy, transport, air traffic control and defence sites.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cmze4y9rjepro?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmze4y9rjepro#1</guid>
-            <pubDate>Sat, 17 Oct 2026 12:56:09 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/17c3/live/a1eb45a0-ca24-11f1-9a39-31b474234113.jpg"/>
+            <title><![CDATA[Anti-government protesters battle with police in Albania ]]></title>
+            <description><![CDATA[There were violent clashes between demonstrators and riot police throughout Saturday in the capital Tirana.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/crwydey50xeno#1</guid>
+            <pubDate>Sat, 17 Oct 2026 20:53:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b85/live/bbc9c4f0-ca6b-11f1-b2e2-233efb1fd43c.jpg"/>
         </item>
         <item>
             <title><![CDATA[Swinney's emotional explanation for his commitment to independence]]></title>
@@ -103,12 +103,12 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f50/live/e57d8d50-c8c1-11f1-bdfb-e3788aeae9ec.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Violent clashes between police and protesters in Albania]]></title>
-            <description><![CDATA[Police in Albania's capital Tirana have fired tear gas and water cannons onto crowds gathered outside the Ministry of Education where students are among those protesting.]]></description>
-            <link>https://www.bbc.co.uk/news/videos/c8040dk1rnq4o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/c8040dk1rnq4o#3</guid>
-            <pubDate>Sat, 17 Oct 2026 13:11:20 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f66/live/02fe0650-ca2c-11f1-9ab2-b325ce61f9d2.jpg"/>
+            <title><![CDATA[UK must protect against Russian 'hybrid attacks', ex-national security adviser says]]></title>
+            <description><![CDATA[Lord Ricketts says more should be spent on improving the resilience of energy, transport, air traffic control and defence sites.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cmze4y9rjepro?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmze4y9rjepro#3</guid>
+            <pubDate>Sat, 17 Oct 2026 12:56:09 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/17c3/live/a1eb45a0-ca24-11f1-9a39-31b474234113.jpg"/>
         </item>
         <item>
             <title><![CDATA[Harry Styles debuts new track in memory of Liam Payne]]></title>
@@ -127,14 +127,6 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/71c6/live/a7279ba0-ca19-11f1-a718-8f4bc8d2cdf5.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Teacher fought US school attacker before armed dad shot suspect 'multiple times']]></title>
-            <description><![CDATA[The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o#3</guid>
-            <pubDate>Sat, 17 Oct 2026 09:58:17 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c80/live/72894110-c9b4-11f1-9409-01a8c77950d7.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Trump waives several Russia sanctions as row with Zelensky intensifies]]></title>
             <description><![CDATA[The US president temporarily ends many restrictions on Moscow recently passed by Congress over "national security" concerns.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -143,12 +135,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c147/live/f608c860-c9cf-11f1-84c1-fd3c3266bb86.jpg"/>
         </item>
         <item>
-            <title><![CDATA[No further action against government adviser's wife over Palestine Action post, police say]]></title>
-            <description><![CDATA[Sarah Helm, who is married to Jonathan Powell, was responding to a discussion about the author Sally Rooney. ]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cv8ez40yz950o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cv8ez40yz950o#3</guid>
-            <pubDate>Sat, 17 Oct 2026 20:24:32 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a4d/live/defb13e0-ca5a-11f1-852c-2b93a8fc4799.jpg"/>
+            <title><![CDATA[Reform activist suspended after reportedly saying Muslims cannot be British]]></title>
+            <description><![CDATA[The alleged comments were filmed by an undercover reporter for an ITV broadcast: Undercover a Year in Reform]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cr3elnevylywo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cr3elnevylywo#3</guid>
+            <pubDate>Sat, 17 Oct 2026 20:49:50 GMT</pubDate>
+            <media:thumbnail width="240" height="140" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/acc8/live/21b5e2d0-ca62-11f1-bc2e-018d645d8d21.jpg"/>
         </item>
         <item>
             <title><![CDATA[DIY SOS to be 'rested' next year to save money, BBC says]]></title>
@@ -157,6 +149,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cr15jw22v50qo#3</guid>
             <pubDate>Sat, 17 Oct 2026 10:52:17 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b26c/live/6e030d50-ca0f-11f1-9a39-31b474234113.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[No further action against government adviser's wife over Palestine Action post, police say]]></title>
+            <description><![CDATA[Sarah Helm, who is married to Jonathan Powell, was responding to a discussion about the author Sally Rooney. ]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cv8ez40yz950o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cv8ez40yz950o#3</guid>
+            <pubDate>Sat, 17 Oct 2026 20:24:32 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a4d/live/defb13e0-ca5a-11f1-852c-2b93a8fc4799.jpg"/>
         </item>
         <item>
             <title><![CDATA['Taking in my great-grandkids at 74 saved me'  ]]></title>
@@ -237,6 +237,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c9vgr6vj4mnyo#9</guid>
             <pubDate>Sat, 17 Oct 2026 18:02:39 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ecba/live/d20cec20-ca51-11f1-852c-2b93a8fc4799.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Tributes to Andrews before Champions Cup matches]]></title>
+            <description><![CDATA[Lions and Sale Sharks are among the clubs to pay tribute to Hyron Andrews at their matches on Saturday, following the South African's death aged 31.]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-union/articles/cq5ynl4nvv5vo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/rugby-union/articles/cq5ynl4nvv5vo#9</guid>
+            <pubDate>Sat, 17 Oct 2026 19:08:14 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f014/live/52f59ef0-ca4c-11f1-a64c-550be9e3c66b.jpg"/>
         </item>
         <item>
             <title><![CDATA[Liverpool come from behind to beat nine-man Brentford]]></title>
