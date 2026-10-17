@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/sport/football</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 17 Oct 2026 15:01:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Oct 2026 15:35:39 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -20,7 +20,7 @@
             <link>https://www.bbc.co.uk/sport/football/articles/c674pzzlz8zlo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c674pzzlz8zlo#0</guid>
             <pubDate>Sat, 17 Oct 2026 13:39:16 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b516/live/51894b40-ca2c-11f1-9ab2-b325ce61f9d2.jpg"/>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f664/live/3d4a5cb0-ca3f-11f1-81dd-07b2258f847d.jpg"/>
         </item>
         <item>
             <title><![CDATA[Ranking the Premier League's all-time greatest super subs  ]]></title>
@@ -487,20 +487,20 @@
             <media:thumbnail url="https://ichef.bbci.co.uk/images/ic/480xn/p0pcy5zl.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Watch Open All Mics]]></title>
+            <description><![CDATA[Join the Sportsound team for all the latest Scottish football scores.]]></description>
+            <link>https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/iplayer/live/bbcone#17</guid>
+            <pubDate>Sat, 17 Oct 2026 16:11:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0hmh81g.jpg"/>
+        </item>
+        <item>
             <title><![CDATA['Ferguson poised to become Glentoran manager' - gossip]]></title>
             <description><![CDATA[Glentoran appear poised to appoint Duncan Ferguson as manager as Dinamo Bucharest winger Danny Armstrong eyes a Scotland call-up.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cq70pr5270p7o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cq70pr5270p7o#17</guid>
             <pubDate>Sat, 17 Oct 2026 09:01:01 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8992/live/6d5797d0-ca1f-11f1-9a39-31b474234113.png"/>
-        </item>
-        <item>
-            <title><![CDATA['A bit early' for Rangers to put pressure on Celtic & Hearts - McInnes]]></title>
-            <description><![CDATA[Derek McInnes dismissed the idea that Rangers could put pressure on Celtic and Hearts with a win against Dundee on Saturday evening. ]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cqev30d0dngno?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqev30d0dngno#17</guid>
-            <pubDate>Fri, 16 Oct 2026 15:32:27 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/168e/live/c3624c90-c972-11f1-80fc-ab418b149008.jpg"/>
         </item>
         <item>
             <title><![CDATA['I had so many medals under the bed' - Green on Chelsea success]]></title>
