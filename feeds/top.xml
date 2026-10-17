@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 17 Oct 2026 03:06:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Oct 2026 03:37:26 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -21,6 +21,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o#1</guid>
             <pubDate>Sat, 17 Oct 2026 01:19:04 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c80/live/72894110-c9b4-11f1-9409-01a8c77950d7.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump waives several Russia sanctions as new US law takes effect]]></title>
+            <description><![CDATA[Trump says parts of a new law that aims to punish Moscow for its war against Ukraine are against US national interests.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o#1</guid>
+            <pubDate>Sat, 17 Oct 2026 02:48:36 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c147/live/f608c860-c9cf-11f1-84c1-fd3c3266bb86.jpg"/>
         </item>
         <item>
             <title><![CDATA[Analysis: Zacharia was thrown into a whirlwind - and failed at a critical time for Trump]]></title>
@@ -45,14 +53,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmlyl889jqzjo#1</guid>
             <pubDate>Fri, 16 Oct 2026 20:08:07 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d75/live/0ca950a0-c99c-11f1-bbdb-dfedf7e9e654.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Trump waives several Russia sanctions as new US law takes effect]]></title>
-            <description><![CDATA[Trump says parts of a new law that aims to punish Moscow for its war against Ukraine are against US national interests.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o#1</guid>
-            <pubDate>Sat, 17 Oct 2026 02:48:36 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c147/live/f608c860-c9cf-11f1-84c1-fd3c3266bb86.jpg"/>
         </item>
         <item>
             <title><![CDATA[Miranda's tears, joy and dance moves steal show as deadly boredom sets in on The Celebrity Traitors]]></title>
@@ -183,6 +183,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f7c/live/e1c76d70-c961-11f1-a6e6-417671ef62cb.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Three men jailed for 158 years each for murdering Australian and US surfers in Mexico]]></title>
+            <description><![CDATA[Brothers Jake and Callum Robinson and their friend Carter Rhoad were killed on a surfing trip in an apparent botched robbery.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c3kgqjkzw29wo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c3kgqjkzw29wo#4</guid>
+            <pubDate>Sat, 17 Oct 2026 03:11:10 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ab9/live/138578c0-c453-11f1-bc2e-018d645d8d21.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Why hasn't the UK had any named storms yet?]]></title>
             <description><![CDATA[So far this autumn wet and windy weather patterns have been steered away from the UK. When could we see that change?
 ]]></description>
@@ -190,6 +198,22 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/weather/articles/ck5yn68mj88vo#4</guid>
             <pubDate>Sat, 17 Oct 2026 01:53:34 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e3e5/live/af595230-c971-11f1-bc2e-018d645d8d21.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ex-top official Robbins reaches settlement with government over sacking]]></title>
+            <description><![CDATA[Sir Olly Robbins was sacked as the top civil servant in the Foreign Office over the vetting of Lord Mandelson.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c64g18r402geo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c64g18r402geo#4</guid>
+            <pubDate>Fri, 16 Oct 2026 16:38:18 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0212/live/e6e99a00-c97d-11f1-80fc-ab418b149008.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Police assess Palestine Action post by national security adviser's wife]]></title>
+            <description><![CDATA[Downing Street says Sarah Helm, the wife of Jonathan Powell, "does not represent the government in any capacity".]]></description>
+            <link>https://www.bbc.co.uk/news/articles/crn4el88y7p2o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/crn4el88y7p2o#4</guid>
+            <pubDate>Fri, 16 Oct 2026 18:58:05 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1144/live/5fea0720-c977-11f1-8791-fbfa2cae660f.jpg"/>
         </item>
         <item>
             <title><![CDATA[Watch: Did Tesla really just unveil a flying car?]]></title>
@@ -206,30 +230,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ck8dz6m1d2n6o#4</guid>
             <pubDate>Fri, 16 Oct 2026 14:06:59 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f6b/live/30927a50-c93d-11f1-8c38-abe947e72d6d.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pope pictured for first time since surgery as he says Mass at makeshift altar in hospital]]></title>
-            <description><![CDATA[The pontiff was diagnosed with lung cancer after having surgery at Rome's Gemelli Hospital on Tuesday.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cw146ej00yn7o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cw146ej00yn7o#4</guid>
-            <pubDate>Fri, 16 Oct 2026 23:20:37 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b711/live/6c3028b0-c978-11f1-9a39-31b474234113.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Police assess Palestine Action post by national security adviser's wife]]></title>
-            <description><![CDATA[Downing Street says Sarah Helm, the wife of Jonathan Powell, "does not represent the government in any capacity".]]></description>
-            <link>https://www.bbc.co.uk/news/articles/crn4el88y7p2o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/crn4el88y7p2o#4</guid>
-            <pubDate>Fri, 16 Oct 2026 18:58:05 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1144/live/5fea0720-c977-11f1-8791-fbfa2cae660f.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ex-top official Robbins reaches settlement with government over sacking]]></title>
-            <description><![CDATA[Sir Olly Robbins was sacked as the top civil servant in the Foreign Office over the vetting of Lord Mandelson.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c64g18r402geo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c64g18r402geo#4</guid>
-            <pubDate>Fri, 16 Oct 2026 16:38:18 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0212/live/e6e99a00-c97d-11f1-80fc-ab418b149008.jpg"/>
         </item>
         <item>
             <title><![CDATA[Download now]]></title>
