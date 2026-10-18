@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 18 Oct 2026 00:32:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Oct 2026 01:14:41 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -23,12 +23,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8264/live/a6715ba0-ca74-11f1-9ef8-9dedd6ab697d.jpg"/>
         </item>
         <item>
-            <title><![CDATA[How day of protests unfolded as disorder breaks out across France]]></title>
-            <description><![CDATA[Demonstrations across the country turned violent, with cars and buildings set alight and shops ransacked.]]></description>
-            <link>https://www.bbc.co.uk/news/videos/cwz0vy770gpzo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cwz0vy770gpzo#1</guid>
-            <pubDate>Sat, 17 Oct 2026 21:33:17 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/087d/live/01edc4a0-ca75-11f1-9a39-31b474234113.jpg"/>
+            <title><![CDATA[Watch: Moment historic French town hall spire collapses in flames amid protests]]></title>
+            <description><![CDATA[An historic town hall in the southern French city of Limoges was set ablaze during national protests.]]></description>
+            <link>https://www.bbc.co.uk/news/videos/c6e3xjw37wn7o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/c6e3xjw37wn7o#1</guid>
+            <pubDate>Sun, 18 Oct 2026 00:49:42 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92f0/live/2c3d5d40-ca8b-11f1-9a39-31b474234113.jpg"/>
         </item>
         <item>
             <title><![CDATA[More NHS staff sacked over attacks victims' records]]></title>
@@ -85,6 +85,22 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmx2375zqwwwo#2</guid>
             <pubDate>Sun, 18 Oct 2026 00:11:09 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b79/live/6d035b30-c94c-11f1-9a39-31b474234113.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Three takeaways from Elon Musk's latest political donations]]></title>
+            <description><![CDATA[New filings show the world's richest person spent this summer again trying to help Republicans win office, with most of his focus on one candidate.  ]]></description>
+            <link>https://www.bbc.co.uk/news/articles/ckx2dgq8jljjo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckx2dgq8jljjo#2</guid>
+            <pubDate>Sun, 18 Oct 2026 00:41:06 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb9c/live/ffd0d920-c9a5-11f1-ad54-aba20166b422.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How day of protests unfolded as disorder breaks out across France]]></title>
+            <description><![CDATA[Demonstrations across the country turned violent, with cars and buildings set alight and shops ransacked.]]></description>
+            <link>https://www.bbc.co.uk/news/videos/cwz0vy770gpzo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cwz0vy770gpzo#2</guid>
+            <pubDate>Sat, 17 Oct 2026 21:33:17 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/087d/live/01edc4a0-ca75-11f1-9a39-31b474234113.jpg"/>
         </item>
         <item>
             <title><![CDATA[How The Traitors' music plays with your emotions]]></title>
@@ -147,7 +163,7 @@
             <description><![CDATA[The US president temporarily ends many restrictions on Moscow recently passed by Congress over "national security" concerns.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o#3</guid>
-            <pubDate>Sat, 17 Oct 2026 19:19:19 GMT</pubDate>
+            <pubDate>Sun, 18 Oct 2026 01:10:25 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c147/live/f608c860-c9cf-11f1-84c1-fd3c3266bb86.jpg"/>
         </item>
         <item>
