@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/sport/football</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 18 Oct 2026 20:49:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Oct 2026 21:13:15 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -127,6 +127,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"/>
         </item>
         <item>
+            <title><![CDATA['Four points is nothing' - O'Neill stays cool after statement win]]></title>
+            <description><![CDATA[Amid supporter discontent, a recent protest against the major shareholder and a veteran manager deciding now is not the time to "wrap things up", as Martin O'Neill put it, you'd be forgiven for scratching your head when examining Celtic's current domestic situation.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cw0k0zn0lkjgo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cw0k0zn0lkjgo#2</guid>
+            <pubDate>Sun, 18 Oct 2026 20:50:09 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7891/live/57df0e90-cb34-11f1-9a39-31b474234113.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Martinez breaks jaw in Chelsea win at Everton]]></title>
             <description><![CDATA[Chelsea goalkeeper Emiliano Martinez says he will be back "in a few weeks" after breaking his jaw in a collision with Jarrad Branthwaite.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cked3vl198eyo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -138,7 +146,7 @@
             <title><![CDATA[What awaits Everton hero Ferguson in shock Glens role?]]></title>
             <description><![CDATA[The expected appointment of former Scotland striker Duncan Ferguson at Glentoran will be one of the most surprising in Irish Premiership history.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cwdd832e7gqmo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cwdd832e7gqmo#2</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cwdd832e7gqmo#3</guid>
             <pubDate>Sun, 18 Oct 2026 13:36:49 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cb0/live/cc06fcc0-cad9-11f1-bec8-affa112ccb73.jpg"/>
         </item>
@@ -157,14 +165,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ck054652mv07o#3</guid>
             <pubDate>Sat, 17 Oct 2026 21:18:26 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e187/live/674bcbf0-ca6e-11f1-a64c-550be9e3c66b.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Who am I? Guess WSL star No 8]]></title>
-            <description><![CDATA[Work out the identity of today's player in as few attempts as possible.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/c8p3065w9y7po?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c8p3065w9y7po#3</guid>
-            <pubDate>Sun, 18 Oct 2026 06:18:18 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/59d9/live/d4203540-9afd-11f1-aed2-8d6da8d75094.jpg"/>
         </item>
         <item>
             <title><![CDATA[Man City remain unbeaten as Shaw scores twice against Brighton]]></title>
@@ -226,10 +226,18 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/045f/live/abcd2d40-ca79-11f1-8a8a-d934d437227c.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Who am I? Guess WSL star No 8]]></title>
+            <description><![CDATA[Work out the identity of today's player in as few attempts as possible.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/c8p3065w9y7po?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c8p3065w9y7po#6</guid>
+            <pubDate>Sun, 18 Oct 2026 06:18:18 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/59d9/live/d4203540-9afd-11f1-aed2-8d6da8d75094.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Kirby 'stressed' by abrupt Vidosic exit from Brighton]]></title>
             <description><![CDATA[Former England striker Fran Kirby says the departure of Brighton head coach Dario Vidosic on the eve of the season left her feeling "stressed" and "disappointed".]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cjly05yn12w5o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cjly05yn12w5o#6</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cjly05yn12w5o#7</guid>
             <pubDate>Sun, 18 Oct 2026 05:49:25 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87d7/live/5703fb40-c7db-11f1-9a39-31b474234113.jpg"/>
         </item>
@@ -506,20 +514,20 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ef9/live/38173b20-cb1e-11f1-bfba-6f29101eb4a3.jpg"/>
         </item>
         <item>
+            <title><![CDATA['Four points is nothing' - O'Neill stays cool after statement win]]></title>
+            <description><![CDATA[Amid supporter discontent, a recent protest against the major shareholder and a veteran manager deciding now is not the time to "wrap things up", as Martin O'Neill put it, you'd be forgiven for scratching your head when examining Celtic's current domestic situation.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cw0k0zn0lkjgo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cw0k0zn0lkjgo#18</guid>
+            <pubDate>Sun, 18 Oct 2026 20:50:09 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7891/live/57df0e90-cb34-11f1-9a39-31b474234113.jpg"/>
+        </item>
+        <item>
             <title><![CDATA['Hearts defending was junior level... and that's disrespectful to the juniors']]></title>
             <description><![CDATA[After Celtic's 7-1 thrashing of Hearts, we hear from the managers and the Sportsound team]]></description>
             <link>https://www.bbc.co.uk/sounds/play/p0phcwb2?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0phcwb2#18</guid>
             <pubDate>Sun, 18 Oct 2026 17:05:00 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0gf9mfx.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Watch: Saturday Premiership highlights on Sportscene]]></title>
-            <description><![CDATA[Watch highlights and analysis of Saturday's five games in the Scottish Premiership.]]></description>
-            <link>https://www.bbc.co.uk/sport/videos/cmed3vy75pe4o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/videos/cmed3vy75pe4o#18</guid>
-            <pubDate>Sun, 18 Oct 2026 09:09:34 GMT</pubDate>
-            <media:thumbnail width="240" height="133" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c10b/live/960bec30-cad3-11f1-bc2e-018d645d8d21.png"/>
         </item>
         <item>
             <title><![CDATA[Rangers 'pop balloon' as Neil gift wastes chance to go top]]></title>
