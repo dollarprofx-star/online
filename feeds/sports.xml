@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/sport/football</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 18 Oct 2026 08:53:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Oct 2026 09:15:45 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -503,20 +503,28 @@
             <media:thumbnail url="https://ichef.bbci.co.uk/images/ic/480xn/p0pcy5zl.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Rangers 'pop balloon' as Neil gift wastes chance to go top]]></title>
-            <description><![CDATA[Rangers were full of positive energy as they made the trip to Dundee on the back of seven straight wins. However, a Dan Neil error felt "like a balloon popping", says Derek McInnes.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cm1j3nl91gg2o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cm1j3nl91gg2o#18</guid>
-            <pubDate>Sat, 17 Oct 2026 22:29:15 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/045f/live/abcd2d40-ca79-11f1-8a8a-d934d437227c.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Can Hearts prove credentials at scene of title heartbreak?]]></title>
             <description><![CDATA[Hearts' last trip to Parkhead ended with their title dream being crushed in the space of 11 minutes. They return to face Celtic on Sunday refreshed and reshaped.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/c6y93xw91dv3o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6y93xw91dv3o#18</guid>
             <pubDate>Sat, 17 Oct 2026 21:55:44 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1bcd/live/5987f290-ca42-11f1-bc2e-018d645d8d21.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Saturday Premiership highlights on Sportscene]]></title>
+            <description><![CDATA[Watch highlights and analysis of Saturday's five games in the Scottish Premiership.]]></description>
+            <link>https://www.bbc.co.uk/sport/videos/cmed3vy75pe4o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/videos/cmed3vy75pe4o#18</guid>
+            <pubDate>Sun, 18 Oct 2026 09:09:34 GMT</pubDate>
+            <media:thumbnail width="240" height="133" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c10b/live/960bec30-cad3-11f1-bc2e-018d645d8d21.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Rangers 'pop balloon' as Neil gift wastes chance to go top]]></title>
+            <description><![CDATA[Rangers were full of positive energy as they made the trip to Dundee on the back of seven straight wins. However, a Dan Neil error felt "like a balloon popping", says Derek McInnes.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cm1j3nl91gg2o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cm1j3nl91gg2o#18</guid>
+            <pubDate>Sat, 17 Oct 2026 22:29:15 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/045f/live/abcd2d40-ca79-11f1-8a8a-d934d437227c.jpg"/>
         </item>
         <item>
             <title><![CDATA[Film star Law to play Shankly in TV series - gossip]]></title>
