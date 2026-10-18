@@ -9,18 +9,18 @@
             <link>https://www.bbc.co.uk/sport/football</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 18 Oct 2026 15:01:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Oct 2026 15:35:08 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
-            <title><![CDATA[Calvert-Lewin denies Man Utd - who rated highest?]]></title>
+            <title><![CDATA[Everything a struggle for Fernandes - Leeds v Man Utd ratings]]></title>
             <description><![CDATA[Dominic Calvert-Lewin's second-half equaliser means Manchester United have now gone six games without a win for the first time since 2019 - find out who rated highest at Elland Road.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/ckvg7v43x1xyo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ckvg7v43x1xyo#0</guid>
             <pubDate>Sun, 18 Oct 2026 14:56:01 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e2ba/live/1fdd5c90-cb02-11f1-bc2e-018d645d8d21.jpg"/>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52da/live/cdec1700-cb06-11f1-a64c-550be9e3c66b.jpg"/>
         </item>
         <item>
             <title><![CDATA[Martinez breaks jaw in Chelsea win at Everton]]></title>
@@ -106,7 +106,7 @@
             <title><![CDATA[Wirtz delivers but remains Liverpool's conundrum]]></title>
             <description><![CDATA[Florian Wirtz is instrumental as Liverpool return to winning ways in the Premier League, but does he remain boss Andoni Iraola's great conundrum?]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/c9j34rke27zjo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c9j34rke27zjo#2</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c9j34rke27zjo#3</guid>
             <pubDate>Sat, 17 Oct 2026 20:07:40 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd8e/live/95495ef0-ca64-11f1-a8e8-d5fafa9ef723.jpg"/>
         </item>
@@ -114,17 +114,9 @@
             <title><![CDATA[Villa's Manzambi shows Newcastle what they missed out on]]></title>
             <description><![CDATA[Aston Villa are a side back in form, with Johan Manzambi scoring the winner against a Newcastle team he turned down to move to Villa Park.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/ck054652mv07o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ck054652mv07o#2</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ck054652mv07o#3</guid>
             <pubDate>Sat, 17 Oct 2026 21:18:26 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e187/live/674bcbf0-ca6e-11f1-a64c-550be9e3c66b.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Who am I? Guess WSL star No 8]]></title>
-            <description><![CDATA[Work out the identity of today's player in as few attempts as possible.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/c8p3065w9y7po?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c8p3065w9y7po#2</guid>
-            <pubDate>Sun, 18 Oct 2026 06:18:18 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/59d9/live/d4203540-9afd-11f1-aed2-8d6da8d75094.jpg"/>
         </item>
         <item>
             <title><![CDATA[West Ham unstoppable, Norwich in trouble - Aaron McLean's EFL takeaways]]></title>
@@ -133,6 +125,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ckgelq3gxx49o#3</guid>
             <pubDate>Sat, 17 Oct 2026 19:43:05 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/86f8/live/785fef60-801f-11f0-ab3e-bd52082cd0ae.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Who am I? Guess WSL star No 8]]></title>
+            <description><![CDATA[Work out the identity of today's player in as few attempts as possible.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/c8p3065w9y7po?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c8p3065w9y7po#3</guid>
+            <pubDate>Sun, 18 Oct 2026 06:18:18 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/59d9/live/d4203540-9afd-11f1-aed2-8d6da8d75094.jpg"/>
         </item>
         <item>
             <title><![CDATA[Rangers 'pop balloon' as Neil gift wastes chance to go top]]></title>
@@ -149,14 +149,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cm4g1e15g76jo#3</guid>
             <pubDate>Sat, 17 Oct 2026 21:37:38 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3004/live/efaef830-ca4d-11f1-bc2e-018d645d8d21.png"/>
-        </item>
-        <item>
-            <title><![CDATA[Kirby 'stressed' by abrupt Vidosic exit from Brighton]]></title>
-            <description><![CDATA[Former England striker Fran Kirby says the departure of Brighton head coach Dario Vidosic on the eve of the season left her feeling "stressed" and "disappointed".]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cjly05yn12w5o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cjly05yn12w5o#3</guid>
-            <pubDate>Sun, 18 Oct 2026 05:49:25 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87d7/live/5703fb40-c7db-11f1-9a39-31b474234113.jpg"/>
         </item>
         <item>
             <title><![CDATA[How 'dangerous' Man City maintained 100 per cent record]]></title>
@@ -199,6 +191,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e95d/live/063a3f60-ca49-11f1-9a39-31b474234113.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Kirby 'stressed' by abrupt Vidosic exit from Brighton]]></title>
+            <description><![CDATA[Former England striker Fran Kirby says the departure of Brighton head coach Dario Vidosic on the eve of the season left her feeling "stressed" and "disappointed".]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cjly05yn12w5o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cjly05yn12w5o#6</guid>
+            <pubDate>Sun, 18 Oct 2026 05:49:25 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87d7/live/5703fb40-c7db-11f1-9a39-31b474234113.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Wrexham had to block outside noise - Parkinson]]></title>
             <description><![CDATA[Wrexham had to "block everything out"  says Phil Parkinson as they responded to recent criticism with a victory over Preston North End.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/c38xzv091v5go?at_medium=RSS&amp;at_campaign=rss</link>
@@ -210,7 +210,7 @@
             <title><![CDATA[Swansea must use West Ham defeat as fuel - Matos ]]></title>
             <description><![CDATA[Vitor Matos tells Swansea City to use the frustration of defeat to West Ham United as fuel in their bid to keep pace in the Championship promotion race.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cr5ynge8jnnyo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cr5ynge8jnnyo#6</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cr5ynge8jnnyo#7</guid>
             <pubDate>Sat, 17 Oct 2026 17:47:22 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae42/live/22723750-ca49-11f1-81dd-07b2258f847d.jpg"/>
         </item>
@@ -501,14 +501,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cm4g1e15g76jo#18</guid>
             <pubDate>Sat, 17 Oct 2026 21:37:38 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3004/live/efaef830-ca4d-11f1-bc2e-018d645d8d21.png"/>
-        </item>
-        <item>
-            <title><![CDATA[Kirby 'stressed' by abrupt Vidosic exit from Brighton]]></title>
-            <description><![CDATA[Former England striker Fran Kirby says the departure of Brighton head coach Dario Vidosic on the eve of the season left her feeling "stressed" and "disappointed".]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cjly05yn12w5o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cjly05yn12w5o#19</guid>
-            <pubDate>Sun, 18 Oct 2026 05:49:25 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87d7/live/5703fb40-c7db-11f1-9a39-31b474234113.jpg"/>
         </item>
         <item>
             <title><![CDATA[Who am I? Guess WSL star No 8]]></title>
