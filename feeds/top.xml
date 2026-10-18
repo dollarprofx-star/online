@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 17 Oct 2026 23:59:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Oct 2026 00:32:45 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -79,12 +79,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a208/live/829d3600-c861-11f1-9a39-31b474234113.png"/>
         </item>
         <item>
-            <title><![CDATA[The Papers: 'French protests become violent' and SAS men 'arrested for murder']]></title>
-            <description><![CDATA[The Times reports soldiers accused of murder were sent into war zones while still under police investigation.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cwp9g4ryl4gro?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwp9g4ryl4gro#2</guid>
-            <pubDate>Sat, 17 Oct 2026 23:40:34 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b836/live/67d3c2d0-ca7d-11f1-a00e-1561d16c9c25.png"/>
+            <title><![CDATA[There's a crackdown on sports piracy - but is it already out of control?]]></title>
+            <description><![CDATA[The sports industry's lucrative business model is being undermined by dodgy TV sticks and illegal streaming links, writes Theo Leggett.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cmx2375zqwwwo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmx2375zqwwwo#2</guid>
+            <pubDate>Sun, 18 Oct 2026 00:11:09 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b79/live/6d035b30-c94c-11f1-9a39-31b474234113.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How The Traitors' music plays with your emotions]]></title>
+            <description><![CDATA[It's not just treachery and villainy - the soundtrack for Traitors helps set the show's campy tone.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/crwyq75117z4o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/crwyq75117z4o#2</guid>
+            <pubDate>Sun, 18 Oct 2026 00:29:58 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0053/live/4d5e5df0-c976-11f1-bc2e-018d645d8d21.jpg"/>
         </item>
         <item>
             <title><![CDATA[The playground murder: Trauma, loss and a love that endured]]></title>
@@ -103,14 +111,6 @@
             <media:thumbnail width="240" height="160" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1182/live/ee2b5bb0-ca1c-11f1-bc2e-018d645d8d21.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Why people who have never smoked are getting hooked on vapes]]></title>
-            <description><![CDATA[More than one million people now vape who have never been smokers, according to the ONS.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/ck62y33489zqo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ck62y33489zqo#2</guid>
-            <pubDate>Fri, 16 Oct 2026 23:49:16 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d5a8/live/e214ac90-ca31-11f1-9ab2-b325ce61f9d2.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Pope discharged from hospital days after lung cancer surgery]]></title>
             <description><![CDATA[The pontiff will give the traditional Angelus prayer and blessing in St Peter's Square on Sunday.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c5x2vkddrkrko?at_medium=RSS&amp;at_campaign=rss</link>
@@ -119,28 +119,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c6c/live/9aad8f70-ca31-11f1-9ab2-b325ce61f9d2.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Harry Styles debuts new track in memory of Liam Payne]]></title>
-            <description><![CDATA[The pop star performed the song on the second anniversary of Liam Payne's death.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c34g180knv91o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c34g180knv91o#3</guid>
-            <pubDate>Sat, 17 Oct 2026 11:57:19 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a168/live/0fb29030-ca24-11f1-9a39-31b474234113.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Boy, 16, and 80-year-old man die in light aircraft crash near Loch Lomond]]></title>
-            <description><![CDATA[Emergency services were called at about 16:45 on Friday, and pronounced both dead at the scene. ]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cky83g11q46lo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cky83g11q46lo#3</guid>
-            <pubDate>Sat, 17 Oct 2026 11:57:27 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/71c6/live/a7279ba0-ca19-11f1-a718-8f4bc8d2cdf5.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Trump waives several Russia sanctions as row with Zelensky intensifies]]></title>
-            <description><![CDATA[The US president temporarily ends many restrictions on Moscow recently passed by Congress over "national security" concerns.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o#3</guid>
-            <pubDate>Sat, 17 Oct 2026 19:19:19 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c147/live/f608c860-c9cf-11f1-84c1-fd3c3266bb86.jpg"/>
+            <title><![CDATA[The Papers: 'French protests become violent' and SAS men 'arrested for murder']]></title>
+            <description><![CDATA[The Times reports soldiers accused of murder were sent into war zones while still under police investigation.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cwp9g4ryl4gro?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwp9g4ryl4gro#3</guid>
+            <pubDate>Sat, 17 Oct 2026 23:40:34 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b836/live/67d3c2d0-ca7d-11f1-a00e-1561d16c9c25.png"/>
         </item>
         <item>
             <title><![CDATA[Reform activist suspended after reportedly saying Muslims cannot be British]]></title>
@@ -149,6 +133,22 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cr3elnevylywo#3</guid>
             <pubDate>Sat, 17 Oct 2026 20:49:50 GMT</pubDate>
             <media:thumbnail width="240" height="140" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/acc8/live/21b5e2d0-ca62-11f1-bc2e-018d645d8d21.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Comedian Paul Whitehouse mugged at London cash machine]]></title>
+            <description><![CDATA[His wife wrote on Instagram that the actor had been "mugged at a cash machine behind a Sainsbury's in Islington".]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cmd6dnq2j4v3o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmd6dnq2j4v3o#3</guid>
+            <pubDate>Sun, 18 Oct 2026 00:06:36 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b3f9/live/3b471730-ca82-11f1-9a39-31b474234113.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump waives several Russia sanctions as row with Zelensky intensifies]]></title>
+            <description><![CDATA[The US president temporarily ends many restrictions on Moscow recently passed by Congress over "national security" concerns.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o#3</guid>
+            <pubDate>Sat, 17 Oct 2026 19:19:19 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c147/live/f608c860-c9cf-11f1-84c1-fd3c3266bb86.jpg"/>
         </item>
         <item>
             <title><![CDATA[DIY SOS to be 'rested' next year to save money, BBC says]]></title>
