@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 18 Oct 2026 05:06:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Oct 2026 05:36:48 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -47,20 +47,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16b9/live/88b2a660-caa5-11f1-9f95-1db69c12ee59.jpg"/>
         </item>
         <item>
+            <title><![CDATA[A wave of homemade, synthetic drugs sweeps US and deepens crisis]]></title>
+            <description><![CDATA[BBC News hears from users, dealers, prison and recovery workers as the country battles with a deadly new drug epidemic. ]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o#1</guid>
+            <pubDate>Sun, 18 Oct 2026 05:04:31 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a90/live/cf7329e0-ca0e-11f1-bc2e-018d645d8d21.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[European diplomats attacked by Israeli settlers in West Bank]]></title>
             <description><![CDATA[The Israeli military condemns the violence but the prime minister's office says it is part of a "smear" campaign.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c962ydpmjm3zo#1</guid>
             <pubDate>Sat, 17 Oct 2026 23:52:38 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15c7/live/4f318350-ca52-11f1-852c-2b93a8fc4799.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Anti-government protesters battle with police in Albania ]]></title>
-            <description><![CDATA[There were violent clashes between demonstrators and riot police throughout Saturday in the capital Tirana.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/crwydey50xeno#1</guid>
-            <pubDate>Sat, 17 Oct 2026 20:53:00 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b85/live/bbc9c4f0-ca6b-11f1-b2e2-233efb1fd43c.jpg"/>
         </item>
         <item>
             <title><![CDATA[Swinney's emotional explanation for his commitment to independence]]></title>
@@ -87,14 +87,6 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b79/live/6d035b30-c94c-11f1-9a39-31b474234113.jpg"/>
         </item>
         <item>
-            <title><![CDATA[How day of protests unfolded as disorder breaks out across France]]></title>
-            <description><![CDATA[Demonstrations across the country turned violent, with cars and buildings set alight and shops ransacked.]]></description>
-            <link>https://www.bbc.co.uk/news/videos/cwz0vy770gpzo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cwz0vy770gpzo#2</guid>
-            <pubDate>Sat, 17 Oct 2026 21:33:17 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/087d/live/01edc4a0-ca75-11f1-9a39-31b474234113.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[How The Traitors' music plays with your emotions]]></title>
             <description><![CDATA[It's not just treachery and villainy - the soundtrack for Traitors helps set the show's campy tone.]]></description>
             <link>https://www.bbc.co.uk/news/articles/crwyq75117z4o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -111,14 +103,6 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3597/live/91a88040-c94d-11f1-9a39-31b474234113.jpg"/>
         </item>
         <item>
-            <title><![CDATA[The Papers: 'French protests become violent' and SAS men 'arrested for murder']]></title>
-            <description><![CDATA[The Times reports soldiers accused of murder were sent into war zones while still under police investigation.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cwp9g4ryl4gro?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwp9g4ryl4gro#2</guid>
-            <pubDate>Sat, 17 Oct 2026 23:40:34 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b836/live/67d3c2d0-ca7d-11f1-a00e-1561d16c9c25.png"/>
-        </item>
-        <item>
             <title><![CDATA[Manifest: From reality TV to Wembley Arena in one turbulent year]]></title>
             <description><![CDATA[Turkish girl group manifest on taking their music to a global audience, as they prepare for their first UK concert.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cqrky2rkd5n1o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -133,6 +117,22 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/boxing/articles/c6gelq3zdy8wo#3</guid>
             <pubDate>Sat, 17 Oct 2026 22:27:49 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b3f/live/ab9ff830-ca78-11f1-aebd-051362f1d912.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Anti-government protesters battle with police in Albania ]]></title>
+            <description><![CDATA[There were violent clashes between demonstrators and riot police throughout Saturday in the capital Tirana.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/crwydey50xeno#3</guid>
+            <pubDate>Sat, 17 Oct 2026 20:53:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b85/live/bbc9c4f0-ca6b-11f1-b2e2-233efb1fd43c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Papers: 'French protests become violent' and SAS men 'arrested for murder']]></title>
+            <description><![CDATA[The Times reports soldiers accused of murder were sent into war zones while still under police investigation.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cwp9g4ryl4gro?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwp9g4ryl4gro#3</guid>
+            <pubDate>Sat, 17 Oct 2026 23:40:34 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b836/live/67d3c2d0-ca7d-11f1-a00e-1561d16c9c25.png"/>
         </item>
         <item>
             <title><![CDATA[Comedian Paul Whitehouse mugged at London cash machine]]></title>
@@ -165,22 +165,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o#3</guid>
             <pubDate>Sun, 18 Oct 2026 01:10:25 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c147/live/f608c860-c9cf-11f1-84c1-fd3c3266bb86.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[DIY SOS to be 'rested' next year to save money, BBC says]]></title>
-            <description><![CDATA[The long-running programme will be replaced by a "more cost-effective" spin-off show revisiting past projects.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cr15jw22v50qo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cr15jw22v50qo#3</guid>
-            <pubDate>Sat, 17 Oct 2026 10:52:17 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b26c/live/6e030d50-ca0f-11f1-9a39-31b474234113.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[No further action against government adviser's wife over Palestine Action post, police say]]></title>
-            <description><![CDATA[Sarah Helm, who is married to Jonathan Powell, was responding to a discussion about the author Sally Rooney. ]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cv8ez40yz950o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cv8ez40yz950o#3</guid>
-            <pubDate>Sat, 17 Oct 2026 20:24:32 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a4d/live/defb13e0-ca5a-11f1-852c-2b93a8fc4799.jpg"/>
         </item>
         <item>
             <title><![CDATA['Taking in my great-grandkids at 74 saved me'  ]]></title>
