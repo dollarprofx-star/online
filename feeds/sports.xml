@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/sport/football</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 18 Oct 2026 17:04:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Oct 2026 17:34:24 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -87,6 +87,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/27f8/live/a1c88950-ca4e-11f1-bc2e-018d645d8d21.jpg"/>
         </item>
         <item>
+            <title><![CDATA[What awaits Everton hero Ferguson in shock Glens role?]]></title>
+            <description><![CDATA[The expected appointment of former Scotland striker Duncan Ferguson at Glentoran will be one of the most surprising in Irish Premiership history.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cwdd832e7gqmo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cwdd832e7gqmo#2</guid>
+            <pubDate>Sun, 18 Oct 2026 13:36:49 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cb0/live/cc06fcc0-cad9-11f1-bec8-affa112ccb73.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Gyokeres pushing for Arsenal exit - Sunday's gossip]]></title>
             <description><![CDATA[Viktor Gyokeres wants to leave Arsenal, Xabi Alonso eyes Barcelona duo and Liverpool target Dortmund's Felix Nmecha.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/c9gkv34kezdko?at_medium=RSS&amp;at_campaign=rss</link>
@@ -101,14 +109,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c9vgr6vj4mnyo#2</guid>
             <pubDate>Sat, 17 Oct 2026 18:02:39 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ecba/live/d20cec20-ca51-11f1-852c-2b93a8fc4799.png"/>
-        </item>
-        <item>
-            <title><![CDATA[Wirtz delivers but remains Liverpool's conundrum]]></title>
-            <description><![CDATA[Florian Wirtz is instrumental as Liverpool return to winning ways in the Premier League, but does he remain boss Andoni Iraola's great conundrum?]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/c9j34rke27zjo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c9j34rke27zjo#2</guid>
-            <pubDate>Sat, 17 Oct 2026 20:07:40 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd8e/live/95495ef0-ca64-11f1-a8e8-d5fafa9ef723.jpg"/>
         </item>
         <item>
             <title><![CDATA[Villa's Manzambi shows Newcastle what they missed out on]]></title>
@@ -151,12 +151,28 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3004/live/efaef830-ca4d-11f1-bc2e-018d645d8d21.png"/>
         </item>
         <item>
+            <title><![CDATA[Man City remain unbeaten as Shaw scores twice against Brighton]]></title>
+            <description><![CDATA[Khadija Shaw scores twice as Manchester City made it six wins from six in the Women's Super League after a 3-2 victory over Brighton. ]]></description>
+            <link>https://www.bbc.co.uk/sport/football/videos/cqrly0ly7j59o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cqrly0ly7j59o#4</guid>
+            <pubDate>Sun, 18 Oct 2026 16:13:45 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0612/live/c8cbdbe0-cb0e-11f1-9a39-31b474234113.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[My one feeling is shame - Sage on bruising Palace defeat ]]></title>
             <description><![CDATA[Crystal Palace head coach Pierre Sage says he feels "shame" after their 5-0 defeat by Brighton.]]></description>
             <link>https://www.bbc.co.uk/sport/football/videos/cq3dj1ddn83xo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cq3dj1ddn83xo#4</guid>
             <pubDate>Sun, 18 Oct 2026 15:41:16 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c9dc/live/42795c70-cb09-11f1-a64c-550be9e3c66b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[James scores brilliant double as Chelsea put six past Spurs]]></title>
+            <description><![CDATA[Chelsea secure their fifth-consecutive Women's Super League win with victory over Tottenham in manager Sonia Bompastor's 50th game in the competition.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/videos/c962yd2ykejmo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/c962yd2ykejmo#4</guid>
+            <pubDate>Sun, 18 Oct 2026 17:02:19 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f416/live/9fdaed40-cb16-11f1-bc2e-018d645d8d21.jpg"/>
         </item>
         <item>
             <title><![CDATA[Man Utd showed 'unity' in draw with Leeds - Carrick]]></title>
@@ -173,22 +189,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cx7vpl5qd008o#4</guid>
             <pubDate>Sat, 17 Oct 2026 23:00:53 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/438e/live/d1402670-ca76-11f1-a64c-550be9e3c66b.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Diaz hat-trick fires Bayern to win in Kane's 100th Bundesliga game]]></title>
-            <description><![CDATA[Harry Kane scored on his 100th Bundesliga appearance while Luis Diaz netted a hat-trick as Bayern Munich thrashed RB Leipzig 6-1 to go top of the table.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/videos/cmj47e479xg5o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cmj47e479xg5o#4</guid>
-            <pubDate>Sat, 17 Oct 2026 20:55:25 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be94/live/32dd4770-ca6b-11f1-a64c-550be9e3c66b.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Why Liverpool are still 'too easy' to play against]]></title>
-            <description><![CDATA[Match of the Day's Danny Murphy analyses how Liverpool are still to "easy" to play against despite their 2-1 victory over Brentford.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/videos/c65ynpkjydemo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/c65ynpkjydemo#4</guid>
-            <pubDate>Sat, 17 Oct 2026 23:00:48 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb38/live/8bd4bcd0-ca77-11f1-bc2e-018d645d8d21.jpg"/>
         </item>
         <item>
             <title><![CDATA[Kirby 'stressed' by abrupt Vidosic exit from Brighton]]></title>
@@ -221,6 +221,22 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cv0ld456k5e6o#7</guid>
             <pubDate>Sat, 17 Oct 2026 15:03:21 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b3c8/live/92366550-ca32-11f1-9ab2-b325ce61f9d2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Diaz hat-trick fires Bayern to win in Kane's 100th Bundesliga game]]></title>
+            <description><![CDATA[Harry Kane scored on his 100th Bundesliga appearance while Luis Diaz netted a hat-trick as Bayern Munich thrashed RB Leipzig 6-1 to go top of the table.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/videos/cmj47e479xg5o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cmj47e479xg5o#8</guid>
+            <pubDate>Sat, 17 Oct 2026 20:55:25 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be94/live/32dd4770-ca6b-11f1-a64c-550be9e3c66b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why Liverpool are still 'too easy' to play against]]></title>
+            <description><![CDATA[Match of the Day's Danny Murphy analyses how Liverpool are still to "easy" to play against despite their 2-1 victory over Brentford.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/videos/c65ynpkjydemo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/c65ynpkjydemo#8</guid>
+            <pubDate>Sat, 17 Oct 2026 23:00:48 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb38/live/8bd4bcd0-ca77-11f1-bc2e-018d645d8d21.jpg"/>
         </item>
         <item>
             <title><![CDATA[Lamine Yamal opens scoring as Barcelona beat Real Betis]]></title>
@@ -277,22 +293,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/c6eq373g3vx9o#8</guid>
             <pubDate>Sat, 17 Oct 2026 17:14:21 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e46a/live/16f164c0-ca4c-11f1-9a39-31b474234113.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Man City's Maresca 'very happy' after Ipswich win ]]></title>
-            <description><![CDATA[Manchester City manager Enzo Maresca praises his side after their beat Ipswich Town at home in the Premier League.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/videos/cmp3gkge7064o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cmp3gkge7064o#8</guid>
-            <pubDate>Sat, 17 Oct 2026 17:08:01 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d60/live/781bb0a0-ca49-11f1-9a39-31b474234113.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Everton did not play well - Moyes]]></title>
-            <description><![CDATA[Everton manager David Moyes reacts to their defeat against Chelsea at the Hill Dickinson Stadium.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/videos/ck0j04346n70o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/ck0j04346n70o#8</guid>
-            <pubDate>Sat, 17 Oct 2026 14:42:46 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4104/live/b7037d60-ca36-11f1-bc2e-018d645d8d21.jpg"/>
         </item>
         <item>
             <title><![CDATA[Do Manchester City have any grounds to win their appeal?]]></title>
