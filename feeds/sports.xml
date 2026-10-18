@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/sport/football</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 18 Oct 2026 21:13:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Oct 2026 21:40:52 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -167,20 +167,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e187/live/674bcbf0-ca6e-11f1-a64c-550be9e3c66b.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Mbappe scores twice as Real Madrid beat Sevilla]]></title>
+            <description><![CDATA[Kylian Mbappe scores twice as Real Madrid beat Sevilla 4-1 in La Liga to close the gap on Barcelona to six points ahead of next weekend's El Clasico. ]]></description>
+            <link>https://www.bbc.co.uk/sport/football/videos/crp3g7z9x215o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/crp3g7z9x215o#4</guid>
+            <pubDate>Sun, 18 Oct 2026 21:39:04 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3477/live/ba6c08a0-cb3a-11f1-9a39-31b474234113.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Man City remain unbeaten as Shaw scores twice against Brighton]]></title>
             <description><![CDATA[Khadija Shaw scores twice as Manchester City made it six wins from six in the Women's Super League after a 3-2 victory over Brighton. ]]></description>
             <link>https://www.bbc.co.uk/sport/football/videos/cqrly0ly7j59o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cqrly0ly7j59o#4</guid>
             <pubDate>Sun, 18 Oct 2026 16:13:45 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0612/live/c8cbdbe0-cb0e-11f1-9a39-31b474234113.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[My one feeling is shame - Sage on bruising Palace defeat ]]></title>
-            <description><![CDATA[Crystal Palace head coach Pierre Sage says he feels "shame" after their 5-0 defeat by Brighton.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/videos/cq3dj1ddn83xo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cq3dj1ddn83xo#4</guid>
-            <pubDate>Sun, 18 Oct 2026 15:41:16 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c9dc/live/42795c70-cb09-11f1-a64c-550be9e3c66b.jpg"/>
         </item>
         <item>
             <title><![CDATA[Long-range goals from further and further out]]></title>
@@ -191,15 +191,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4107/live/ee0151b0-cb1d-11f1-a64c-550be9e3c66b.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Arsenal substitutes change game - Arteta]]></title>
-            <description><![CDATA[Arsenal manager Mikel Arteta says their substitutes changed the game as they beat Nottingham Forest 1-0 in the Premier League.
-
-
-]]></description>
-            <link>https://www.bbc.co.uk/sport/football/videos/cqwyrkyyglzjo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cqwyrkyyglzjo#4</guid>
-            <pubDate>Sun, 18 Oct 2026 18:31:09 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e66/live/a6aa32c0-cb20-11f1-9a39-31b474234113.jpg"/>
+            <title><![CDATA[My one feeling is shame - Sage on bruising Palace defeat ]]></title>
+            <description><![CDATA[Crystal Palace head coach Pierre Sage says he feels "shame" after their 5-0 defeat by Brighton.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/videos/cq3dj1ddn83xo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cq3dj1ddn83xo#4</guid>
+            <pubDate>Sun, 18 Oct 2026 15:41:16 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c9dc/live/42795c70-cb09-11f1-a64c-550be9e3c66b.jpg"/>
         </item>
         <item>
             <title><![CDATA[Boos and bananas on day of defiance at Man City ]]></title>
@@ -256,6 +253,17 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cr5ynge8jnnyo#7</guid>
             <pubDate>Sat, 17 Oct 2026 17:47:22 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae42/live/22723750-ca49-11f1-81dd-07b2258f847d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arsenal substitutes change game - Arteta]]></title>
+            <description><![CDATA[Arsenal manager Mikel Arteta says their substitutes changed the game as they beat Nottingham Forest 1-0 in the Premier League.
+
+
+]]></description>
+            <link>https://www.bbc.co.uk/sport/football/videos/cqwyrkyyglzjo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cqwyrkyyglzjo#8</guid>
+            <pubDate>Sun, 18 Oct 2026 18:31:09 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e66/live/a6aa32c0-cb20-11f1-9a39-31b474234113.jpg"/>
         </item>
         <item>
             <title><![CDATA[James scores brilliant double as Chelsea put six past Spurs]]></title>
@@ -320,14 +328,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/c5vgjny1082lo#8</guid>
             <pubDate>Sat, 17 Oct 2026 14:53:23 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f93/live/e4d8b4f0-ca39-11f1-a64c-550be9e3c66b.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Arsenal held at home by Birmingham]]></title>
-            <description><![CDATA[Arsenal continue to struggle in the Women's Super League after having to come from behind to draw 1-1 with Birmingham at the Emirates. ]]></description>
-            <link>https://www.bbc.co.uk/sport/football/videos/c680zp4djprgo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/c680zp4djprgo#8</guid>
-            <pubDate>Sat, 17 Oct 2026 17:46:41 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/abf4/live/4ad19fe0-ca37-11f1-bc2e-018d645d8d21.jpg"/>
         </item>
         <item>
             <title><![CDATA[Bury FC fans say bumper FA Cup crowd 'meant everything']]></title>
