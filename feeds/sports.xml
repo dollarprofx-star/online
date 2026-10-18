@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/sport/football</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 18 Oct 2026 05:36:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Oct 2026 06:03:30 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -87,6 +87,22 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a3ff/live/157a6f70-ca3c-11f1-9ab2-b325ce61f9d2.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Gyokeres pushing for Arsenal exit - Sunday's gossip]]></title>
+            <description><![CDATA[Viktor Gyokeres wants to leave Arsenal, Xabi Alonso eyes Barcelona duo and Liverpool target Dortmund's Felix Nmecha.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/c9gkv34kezdko?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c9gkv34kezdko#1</guid>
+            <pubDate>Sat, 17 Oct 2026 20:37:25 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a6d/live/3f1a6520-ca68-11f1-bc2e-018d645d8d21.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Who am I? Plus today's other quizzes]]></title>
+            <description><![CDATA[Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cwn8dzjp41d1o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cwn8dzjp41d1o#1</guid>
+            <pubDate>Sun, 18 Oct 2026 05:46:16 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"/>
+        </item>
+        <item>
             <title><![CDATA['Sick feeling in stomach' - are Reedijk's Hibs in relegation fight?]]></title>
             <description><![CDATA[Two games in, no points gathered and a chorus of boos greeting him at full-time at Easter Road. The honeymoon is well and truly over for Marink Reedijk.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cm4g1e15g76jo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -95,12 +111,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3004/live/efaef830-ca4d-11f1-bc2e-018d645d8d21.png"/>
         </item>
         <item>
-            <title><![CDATA[Gyokeres pushing for Arsenal exit - Sunday's gossip]]></title>
-            <description><![CDATA[Viktor Gyokeres wants to leave Arsenal, Xabi Alonso eyes Barcelona duo and Liverpool target Dortmund's Felix Nmecha.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/c9gkv34kezdko?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c9gkv34kezdko#1</guid>
-            <pubDate>Sat, 17 Oct 2026 20:37:25 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a6d/live/3f1a6520-ca68-11f1-bc2e-018d645d8d21.png"/>
+            <title><![CDATA[Kirby 'stressed' by abrupt Vidosic exit from Brighton]]></title>
+            <description><![CDATA[Former England striker Fran Kirby says the departure of Brighton head coach Dario Vidosic on the eve of the season left her feeling "stressed" and "disappointed".]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cjly05yn12w5o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cjly05yn12w5o#1</guid>
+            <pubDate>Sun, 18 Oct 2026 05:49:25 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87d7/live/5703fb40-c7db-11f1-9a39-31b474234113.jpg"/>
         </item>
         <item>
             <title><![CDATA[Can Hearts prove credentials at scene of title heartbreak?]]></title>
@@ -122,17 +138,9 @@
             <title><![CDATA[Swansea must use West Ham defeat as fuel - Matos ]]></title>
             <description><![CDATA[Vitor Matos tells Swansea City to use the frustration of defeat to West Ham United as fuel in their bid to keep pace in the Championship promotion race.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cr5ynge8jnnyo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cr5ynge8jnnyo#2</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cr5ynge8jnnyo#3</guid>
             <pubDate>Sat, 17 Oct 2026 17:47:22 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae42/live/22723750-ca49-11f1-81dd-07b2258f847d.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Neto stars but who was subdued? - player ratings for Everton v Chelsea]]></title>
-            <description><![CDATA[Pedro Neto's two second half goals for Chelsea secured an important away win at Everton on Saturday.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/c674pzzlz8zlo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c674pzzlz8zlo#3</guid>
-            <pubDate>Sat, 17 Oct 2026 13:39:16 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f664/live/3d4a5cb0-ca3f-11f1-81dd-07b2258f847d.jpg"/>
         </item>
         <item>
             <title><![CDATA[Wrexham had to block outside noise - Parkinson]]></title>
@@ -186,17 +194,9 @@
             <title><![CDATA[Football Daily]]></title>
             <description><![CDATA[Alex Scott sits down with Kasper and Peter Schmeichel for this week's Football Interview.]]></description>
             <link>https://www.bbc.co.uk/sounds/play/p0ph4183?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0ph4183#6</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0ph4183#7</guid>
             <pubDate>Sat, 17 Oct 2026 09:00:00 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0ph41bt.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Who am I? Plus today's other quizzes]]></title>
-            <description><![CDATA[Test your football knowledge against today's Who Am I?, Five in Five and Brainteaser.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cw1l3dz2ppe0o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cw1l3dz2ppe0o#7</guid>
-            <pubDate>Sat, 17 Oct 2026 05:15:17 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"/>
         </item>
         <item>
             <title><![CDATA['I had so many medals under the bed' - Green on Chelsea success]]></title>
@@ -511,6 +511,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3004/live/efaef830-ca4d-11f1-bc2e-018d645d8d21.png"/>
         </item>
         <item>
+            <title><![CDATA[Kirby 'stressed' by abrupt Vidosic exit from Brighton]]></title>
+            <description><![CDATA[Former England striker Fran Kirby says the departure of Brighton head coach Dario Vidosic on the eve of the season left her feeling "stressed" and "disappointed".]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cjly05yn12w5o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cjly05yn12w5o#19</guid>
+            <pubDate>Sun, 18 Oct 2026 05:49:25 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87d7/live/5703fb40-c7db-11f1-9a39-31b474234113.jpg"/>
+        </item>
+        <item>
             <title><![CDATA['I had so many medals under the bed' - Green on Chelsea success]]></title>
             <description><![CDATA[When Paul Green left Chelsea after 13 years, he had achieved so much success that the majority of his medals were hidden away in a box under the bed.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cj5ynpgzly7no?at_medium=RSS&amp;at_campaign=rss</link>
@@ -549,14 +557,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cq0k0x1l8gndo#19</guid>
             <pubDate>Wed, 14 Oct 2026 13:25:56 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82c7/live/eb28dd30-c7c3-11f1-993a-152cbb068da1.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['Unplayable' Stanway a free-scoring warrior for Lionesses]]></title>
-            <description><![CDATA[Whatever the game, whatever the result, Georgia Stanway always seems to score for England.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cm2kev8w934do?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cm2kev8w934do#19</guid>
-            <pubDate>Tue, 13 Oct 2026 22:15:44 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1738/live/1033d250-c7ac-11f1-86ef-693282d0a891.jpg"/>
         </item>
         <item>
             <title><![CDATA[The part-timers who won three Wembley finals in a row]]></title>
