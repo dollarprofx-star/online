@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/sport/football</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 18 Oct 2026 22:59:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Oct 2026 23:20:11 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -191,6 +191,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0612/live/c8cbdbe0-cb0e-11f1-9a39-31b474234113.jpg"/>
         </item>
         <item>
+            <title><![CDATA['Why not?' - are 'breathtaking' Brighton in title race?]]></title>
+            <description><![CDATA[Match of the Day pundits Shay Given and Dion Dublin analyse Brighton's emphatic 5-0 victory over Crystal Palace, with Dublin saying the Seagulls could be in the title race.  ]]></description>
+            <link>https://www.bbc.co.uk/sport/football/videos/c679plrx05q7o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/c679plrx05q7o#4</guid>
+            <pubDate>Sun, 18 Oct 2026 22:59:46 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd85/live/29f44ad0-cb3f-11f1-9a39-31b474234113.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Long-range goals from further and further out]]></title>
             <description><![CDATA[After Diego Gomez's halfway-line stunner for Brighton on Sunday, BBC Sport looks at the previous longest-range Premier League goals as recorded by Opta in the last 20 seasons.]]></description>
             <link>https://www.bbc.co.uk/sport/football/videos/c6jdmy04ryjgo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -320,14 +328,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/ckgelqlz37w3o#8</guid>
             <pubDate>Sat, 17 Oct 2026 16:56:12 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e95d/live/063a3f60-ca49-11f1-9a39-31b474234113.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Alonso praises 'serious' Chelsea]]></title>
-            <description><![CDATA[Chelsea manager Xabi Alonso describes his side's 2-0 victory over Everton as ''professional and solid' as they move up to fifth in the Premier League table. ]]></description>
-            <link>https://www.bbc.co.uk/sport/football/videos/c5vgjny1082lo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/c5vgjny1082lo#8</guid>
-            <pubDate>Sat, 17 Oct 2026 14:53:23 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f93/live/e4d8b4f0-ca39-11f1-a64c-550be9e3c66b.jpg"/>
         </item>
         <item>
             <title><![CDATA[Wrexham had to block outside noise - Parkinson]]></title>
