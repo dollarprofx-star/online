@@ -5,7 +5,7 @@
         <atom:link href="https://rss.punchng.com" rel="self" type="application/rss+xml" />
         <link> https://rss.punchng.com </link>
         <description> Get the latest News in Nigeria </description>
-        <lastBuildDate> Sun, 18 Oct 2026 19:34:02 +0000</lastBuildDate>
+        <lastBuildDate> Sun, 18 Oct 2026 19:54:05 +0000</lastBuildDate>
         <language> en-US </language>
         <sy:updatePeriod> minutely	</sy:updatePeriod>
         <sy:updateFrequency> 5	</sy:updateFrequency>
@@ -13,6 +13,20 @@
         <generator>https://rss.punchng.com</generator>
 
         <item>
+                        <title>Police arrest 56-year old over wife&#8217;s death in Ogun</title>
+                        <link>https://punchng.com/police-arrest-56-year-old-over-wifes-death-in-ogun/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
+                        <pubDate>Sun, 18 Oct 2026 20:47:09 +0000</pubDate>
+                        <dc:creator><![CDATA[Punch Newspapers]]></dc:creator>
+                        <category><![CDATA[]]></category>
+                        <guid isPermaLink='true'>https://punchng.com/police-arrest-56-year-old-over-wifes-death-in-ogun/?utm_source=rss.punchng.com&amp;utm_medium=web</guid>
+                        <description><![CDATA[
+
+Ogun State Police have arrested a 56-year-old man, Madarikan Emehinola, over a suspected arson incident that led to the death of his 40-year-old wife.
+
+Read More: https://punchng.com/police-arrest-56-year-old-over-wifes-death-in-ogun/]]></description>
+                        <enclosure url='https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png' length='342247' type='image/png'/>
+                    </item>
+                    <item>
                         <title>Police arrest man over cult-related killing in Imo</title>
                         <link>https://punchng.com/police-arrest-man-over-cult-related-killing-in-imo/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
                         <pubDate>Sun, 18 Oct 2026 20:30:51 +0000</pubDate>
@@ -416,20 +430,6 @@ Read More: https://punchng.com/2027-abia-youth-group-backs-tinubu-benjamin-kalu/
 Senator Rabiu Kwankwaso has ruled out any possibility of the Nigeria Democratic Congress withdrawing its presidential ticket for the ADC in the 2027 electi
 
 Read More: https://punchng.com/2027-kwankwaso-says-ndc-wont-withdraw-for-adc-other-parties/]]></description>
-                        <enclosure url='https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png' length='342247' type='image/png'/>
-                    </item>
-                    <item>
-                        <title>2027: Ogun PDP chieftain disowns lawyer, governorship bid</title>
-                        <link>https://punchng.com/2027-ogun-pdp-chieftain-disowns-lawyer-governorship-bid/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
-                        <pubDate>Sun, 18 Oct 2026 15:57:29 +0000</pubDate>
-                        <dc:creator><![CDATA[Punch Newspapers]]></dc:creator>
-                        <category><![CDATA[]]></category>
-                        <guid isPermaLink='true'>https://punchng.com/2027-ogun-pdp-chieftain-disowns-lawyer-governorship-bid/?utm_source=rss.punchng.com&amp;utm_medium=web</guid>
-                        <description><![CDATA[
-
-An Ogun State PDP chieftain, Topa Peter, has disowned reports identifying him as a governorship aspirant, alleging his name was used without his consent.
-
-Read More: https://punchng.com/2027-ogun-pdp-chieftain-disowns-lawyer-governorship-bid/]]></description>
                         <enclosure url='https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png' length='342247' type='image/png'/>
                     </item>
                         </channel>
