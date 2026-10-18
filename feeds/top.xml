@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 18 Oct 2026 04:38:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Oct 2026 05:06:34 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -39,6 +39,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42a7/live/0ba95eb0-8762-11f1-b2ab-0dd01740f9f6.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Deaths confirmed in major fire at Canada military base]]></title>
+            <description><![CDATA[Number of casualties unknown in "very, very active and delicate" situation in Alberta, says defence minister.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo#1</guid>
+            <pubDate>Sun, 18 Oct 2026 04:00:50 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16b9/live/88b2a660-caa5-11f1-9f95-1db69c12ee59.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[European diplomats attacked by Israeli settlers in West Bank]]></title>
             <description><![CDATA[The Israeli military condemns the violence but the prime minister's office says it is part of a "smear" campaign.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -61,14 +69,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cx5yn9n7v5zeo#1</guid>
             <pubDate>Sat, 17 Oct 2026 18:11:42 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0cd8/live/4bdea770-ca55-11f1-9a39-31b474234113.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dubois destroys Wardley in two rounds to retain title ]]></title>
-            <description><![CDATA[WBO champion Daniel Dubois underlines his status as Britain's leading heavyweight with a devastating second-round stoppage of Fabio Wardley. ]]></description>
-            <link>https://www.bbc.co.uk/sport/boxing/articles/c6gelq3zdy8wo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/boxing/articles/c6gelq3zdy8wo#1</guid>
-            <pubDate>Sat, 17 Oct 2026 22:27:49 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b3f/live/ab9ff830-ca78-11f1-aebd-051362f1d912.jpg"/>
         </item>
         <item>
             <title><![CDATA[Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat]]></title>
@@ -127,12 +127,12 @@
             <media:thumbnail width="240" height="160" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1182/live/ee2b5bb0-ca1c-11f1-bc2e-018d645d8d21.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Deadly fire breaks out at Canada military base]]></title>
-            <description><![CDATA[Defence Minister David McGuinty says there are casualties in what the prime minister called a "serious incident".]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo#3</guid>
-            <pubDate>Sun, 18 Oct 2026 04:00:50 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16b9/live/88b2a660-caa5-11f1-9f95-1db69c12ee59.jpg"/>
+            <title><![CDATA[Dubois destroys Wardley in two rounds to retain title ]]></title>
+            <description><![CDATA[WBO champion Daniel Dubois underlines his status as Britain's leading heavyweight with a devastating second-round stoppage of Fabio Wardley. ]]></description>
+            <link>https://www.bbc.co.uk/sport/boxing/articles/c6gelq3zdy8wo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/boxing/articles/c6gelq3zdy8wo#3</guid>
+            <pubDate>Sat, 17 Oct 2026 22:27:49 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b3f/live/ab9ff830-ca78-11f1-aebd-051362f1d912.jpg"/>
         </item>
         <item>
             <title><![CDATA[Comedian Paul Whitehouse mugged at London cash machine]]></title>
