@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 18 Oct 2026 01:43:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Oct 2026 02:09:00 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -87,14 +87,6 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b79/live/6d035b30-c94c-11f1-9a39-31b474234113.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Three takeaways from Elon Musk's latest political donations]]></title>
-            <description><![CDATA[New filings show the world's richest person spent this summer again trying to help Republicans win office, with most of his focus on one candidate.  ]]></description>
-            <link>https://www.bbc.co.uk/news/articles/ckx2dgq8jljjo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckx2dgq8jljjo#2</guid>
-            <pubDate>Sun, 18 Oct 2026 00:41:06 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb9c/live/ffd0d920-c9a5-11f1-ad54-aba20166b422.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[How day of protests unfolded as disorder breaks out across France]]></title>
             <description><![CDATA[Demonstrations across the country turned violent, with cars and buildings set alight and shops ransacked.]]></description>
             <link>https://www.bbc.co.uk/news/videos/cwz0vy770gpzo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -119,6 +111,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3597/live/91a88040-c94d-11f1-9a39-31b474234113.jpg"/>
         </item>
         <item>
+            <title><![CDATA[The Papers: 'French protests become violent' and SAS men 'arrested for murder']]></title>
+            <description><![CDATA[The Times reports soldiers accused of murder were sent into war zones while still under police investigation.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cwp9g4ryl4gro?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwp9g4ryl4gro#2</guid>
+            <pubDate>Sat, 17 Oct 2026 23:40:34 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b836/live/67d3c2d0-ca7d-11f1-a00e-1561d16c9c25.png"/>
+        </item>
+        <item>
             <title><![CDATA[Manifest: From reality TV to Wembley Arena in one turbulent year]]></title>
             <description><![CDATA[Turkish girl group manifest on taking their music to a global audience, as they prepare for their first UK concert.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cqrky2rkd5n1o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -135,12 +135,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c6c/live/9aad8f70-ca31-11f1-9ab2-b325ce61f9d2.jpg"/>
         </item>
         <item>
-            <title><![CDATA[The Papers: 'French protests become violent' and SAS men 'arrested for murder']]></title>
-            <description><![CDATA[The Times reports soldiers accused of murder were sent into war zones while still under police investigation.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cwp9g4ryl4gro?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwp9g4ryl4gro#3</guid>
-            <pubDate>Sat, 17 Oct 2026 23:40:34 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b836/live/67d3c2d0-ca7d-11f1-a00e-1561d16c9c25.png"/>
+            <title><![CDATA[Three takeaways from Elon Musk's latest political donations]]></title>
+            <description><![CDATA[New filings show the world's richest person spent this summer again trying to help Republicans win office, with most of his focus on one candidate.  ]]></description>
+            <link>https://www.bbc.co.uk/news/articles/ckx2dgq8jljjo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckx2dgq8jljjo#3</guid>
+            <pubDate>Sun, 18 Oct 2026 00:41:06 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb9c/live/ffd0d920-c9a5-11f1-ad54-aba20166b422.jpg"/>
         </item>
         <item>
             <title><![CDATA[Reform activist suspended after reportedly saying Muslims cannot be British]]></title>
