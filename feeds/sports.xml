@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/sport/football</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 18 Oct 2026 13:41:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Oct 2026 14:03:02 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -31,12 +31,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1bcd/live/5987f290-ca42-11f1-bc2e-018d645d8d21.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Gyokeres pushing for Arsenal exit - Sunday's gossip]]></title>
-            <description><![CDATA[Viktor Gyokeres wants to leave Arsenal, Xabi Alonso eyes Barcelona duo and Liverpool target Dortmund's Felix Nmecha.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/c9gkv34kezdko?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c9gkv34kezdko#0</guid>
-            <pubDate>Sat, 17 Oct 2026 20:37:25 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a6d/live/3f1a6520-ca68-11f1-bc2e-018d645d8d21.png"/>
+            <title><![CDATA[What awaits Everton hero Ferguson in shock Glens role?]]></title>
+            <description><![CDATA[The expected appointment of former Scotland striker Duncan Ferguson at Glentoran will be one of the most surprising in Irish Premiership history.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cwdd832e7gqmo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cwdd832e7gqmo#0</guid>
+            <pubDate>Sun, 18 Oct 2026 13:36:49 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cb0/live/cc06fcc0-cad9-11f1-bec8-affa112ccb73.jpg"/>
         </item>
         <item>
             <title><![CDATA[Who am I? Plus today's other quizzes]]></title>
@@ -103,6 +103,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/27f8/live/a1c88950-ca4e-11f1-bc2e-018d645d8d21.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Gyokeres pushing for Arsenal exit - Sunday's gossip]]></title>
+            <description><![CDATA[Viktor Gyokeres wants to leave Arsenal, Xabi Alonso eyes Barcelona duo and Liverpool target Dortmund's Felix Nmecha.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/c9gkv34kezdko?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c9gkv34kezdko#2</guid>
+            <pubDate>Sat, 17 Oct 2026 20:37:25 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a6d/live/3f1a6520-ca68-11f1-bc2e-018d645d8d21.png"/>
+        </item>
+        <item>
             <title><![CDATA[Wirtz delivers but remains Liverpool's conundrum]]></title>
             <description><![CDATA[Florian Wirtz is instrumental as Liverpool return to winning ways in the Premier League, but does he remain boss Andoni Iraola's great conundrum?]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/c9j34rke27zjo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -127,14 +135,6 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87d7/live/5703fb40-c7db-11f1-9a39-31b474234113.jpg"/>
         </item>
         <item>
-            <title><![CDATA['Sick feeling in stomach' - are Reedijk's Hibs in relegation fight?]]></title>
-            <description><![CDATA[Two games in, no points gathered and a chorus of boos greeting him at full-time at Easter Road. The honeymoon is well and truly over for Marink Reedijk.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cm4g1e15g76jo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cm4g1e15g76jo#2</guid>
-            <pubDate>Sat, 17 Oct 2026 21:37:38 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3004/live/efaef830-ca4d-11f1-bc2e-018d645d8d21.png"/>
-        </item>
-        <item>
             <title><![CDATA[Who am I? Guess WSL star No 8]]></title>
             <description><![CDATA[Work out the identity of today's player in as few attempts as possible.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/c8p3065w9y7po?at_medium=RSS&amp;at_campaign=rss</link>
@@ -157,6 +157,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cm1j3nl91gg2o#3</guid>
             <pubDate>Sat, 17 Oct 2026 22:29:15 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/045f/live/abcd2d40-ca79-11f1-8a8a-d934d437227c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Sick feeling in stomach' - are Reedijk's Hibs in relegation fight?]]></title>
+            <description><![CDATA[Two games in, no points gathered and a chorus of boos greeting him at full-time at Easter Road. The honeymoon is well and truly over for Marink Reedijk.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cm4g1e15g76jo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cm4g1e15g76jo#3</guid>
+            <pubDate>Sat, 17 Oct 2026 21:37:38 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3004/live/efaef830-ca4d-11f1-bc2e-018d645d8d21.png"/>
         </item>
         <item>
             <title><![CDATA[How 'dangerous' Man City maintained 100 per cent record]]></title>
