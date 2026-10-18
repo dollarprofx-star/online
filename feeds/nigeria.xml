@@ -5,7 +5,7 @@
         <atom:link href="https://rss.punchng.com" rel="self" type="application/rss+xml" />
         <link> https://rss.punchng.com </link>
         <description> Get the latest News in Nigeria </description>
-        <lastBuildDate> Sun, 18 Oct 2026 17:33:39 +0000</lastBuildDate>
+        <lastBuildDate> Sun, 18 Oct 2026 17:58:45 +0000</lastBuildDate>
         <language> en-US </language>
         <sy:updatePeriod> minutely	</sy:updatePeriod>
         <sy:updateFrequency> 5	</sy:updateFrequency>
@@ -13,6 +13,20 @@
         <generator>https://rss.punchng.com</generator>
 
         <item>
+                        <title>Evening recap: Tinubu’s 2027 alliance, Eaglets’ AFCON setback, Tenia Abraham’s death, other top stories</title>
+                        <link>https://punchng.com/evening-recap-tinubus-2027-alliance-eaglets-afcon-setback-tenia-abrahams-death-other-top-stories/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
+                        <pubDate>Sun, 18 Oct 2026 18:51:59 +0000</pubDate>
+                        <dc:creator><![CDATA[Punch Newspapers]]></dc:creator>
+                        <category><![CDATA[]]></category>
+                        <guid isPermaLink='true'>https://punchng.com/evening-recap-tinubus-2027-alliance-eaglets-afcon-setback-tenia-abrahams-death-other-top-stories/?utm_source=rss.punchng.com&amp;utm_medium=web</guid>
+                        <description><![CDATA[
+
+Read the evening&#8217;s top stories, including Tinubu&#8217;s 2027 alliance with Wike and Soludo, the Golden Eaglets&#8217; AFCON setback, and Tenia Abraham&#8217;s death.
+
+Read More: https://punchng.com/evening-recap-tinubus-2027-alliance-eaglets-afcon-setback-tenia-abrahams-death-other-top-stories/]]></description>
+                        <enclosure url='https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png' length='342247' type='image/png'/>
+                    </item>
+                    <item>
                         <title>Police arrest five suspected armed robbers in Delta</title>
                         <link>https://punchng.com/police-arrest-five-suspected-armed-robbers-in-delta/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
                         <pubDate>Sun, 18 Oct 2026 18:31:45 +0000</pubDate>
@@ -416,20 +430,6 @@ Read More: https://punchng.com/ogun-cp-summons-four-officers-over-viral-assault-
 France is reeling from widespread damage after violent protests over the cost of living saw 1,800 people arrested and hundreds of businesses looted.
 
 Read More: https://punchng.com/france-counts-cost-of-violent-protests-as-1800-arrested/]]></description>
-                        <enclosure url='https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png' length='342247' type='image/png'/>
-                    </item>
-                    <item>
-                        <title>Multiple casualties as fire hits Canadian military base</title>
-                        <link>https://punchng.com/multiple-casualties-as-fire-hits-canadian-military-base/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
-                        <pubDate>Sun, 18 Oct 2026 13:13:33 +0000</pubDate>
-                        <dc:creator><![CDATA[Punch Newspapers]]></dc:creator>
-                        <category><![CDATA[]]></category>
-                        <guid isPermaLink='true'>https://punchng.com/multiple-casualties-as-fire-hits-canadian-military-base/?utm_source=rss.punchng.com&amp;utm_medium=web</guid>
-                        <description><![CDATA[
-
-A major fire at Canadian Forces Base Wainwright in Alberta has resulted in multiple fatalities and injuries, according to the country&#8217;s defence minister.
-
-Read More: https://punchng.com/multiple-casualties-as-fire-hits-canadian-military-base/]]></description>
                         <enclosure url='https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png' length='342247' type='image/png'/>
                     </item>
                         </channel>
