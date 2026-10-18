@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 18 Oct 2026 02:37:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Oct 2026 03:06:35 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -39,20 +39,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42a7/live/0ba95eb0-8762-11f1-b2ab-0dd01740f9f6.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Anti-government protesters battle with police in Albania ]]></title>
-            <description><![CDATA[There were violent clashes between demonstrators and riot police throughout Saturday in the capital Tirana.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/crwydey50xeno#1</guid>
-            <pubDate>Sat, 17 Oct 2026 20:53:00 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b85/live/bbc9c4f0-ca6b-11f1-b2e2-233efb1fd43c.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[European diplomats attacked by Israeli settlers in West Bank]]></title>
             <description><![CDATA[The Israeli military condemns the violence but the prime minister's office says it is part of a "smear" campaign.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c962ydpmjm3zo#1</guid>
             <pubDate>Sat, 17 Oct 2026 23:52:38 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15c7/live/4f318350-ca52-11f1-852c-2b93a8fc4799.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Anti-government protesters battle with police in Albania ]]></title>
+            <description><![CDATA[There were violent clashes between demonstrators and riot police throughout Saturday in the capital Tirana.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/crwydey50xeno#1</guid>
+            <pubDate>Sat, 17 Oct 2026 20:53:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b85/live/bbc9c4f0-ca6b-11f1-b2e2-233efb1fd43c.jpg"/>
         </item>
         <item>
             <title><![CDATA[Swinney's emotional explanation for his commitment to independence]]></title>
@@ -135,14 +135,6 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c6c/live/9aad8f70-ca31-11f1-9ab2-b325ce61f9d2.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Three takeaways from Elon Musk's latest political donations]]></title>
-            <description><![CDATA[New filings show the world's richest person spent this summer again trying to help Republicans win office, with most of his focus on one candidate.  ]]></description>
-            <link>https://www.bbc.co.uk/news/articles/ckx2dgq8jljjo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckx2dgq8jljjo#3</guid>
-            <pubDate>Sun, 18 Oct 2026 00:41:06 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb9c/live/ffd0d920-c9a5-11f1-ad54-aba20166b422.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Reform activist suspended after reportedly saying Muslims cannot be British]]></title>
             <description><![CDATA[The alleged comments were filmed by an undercover reporter for an ITV broadcast: Undercover a Year in Reform]]></description>
             <link>https://www.bbc.co.uk/news/articles/cr3elnevylywo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -157,6 +149,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmd6dnq2j4v3o#3</guid>
             <pubDate>Sun, 18 Oct 2026 00:06:36 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b3f9/live/3b471730-ca82-11f1-9a39-31b474234113.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Three takeaways from Elon Musk's latest political donations]]></title>
+            <description><![CDATA[New filings show the world's richest person spent this summer again trying to help Republicans win office, with most of his focus on one candidate.  ]]></description>
+            <link>https://www.bbc.co.uk/news/articles/ckx2dgq8jljjo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckx2dgq8jljjo#3</guid>
+            <pubDate>Sun, 18 Oct 2026 00:41:06 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb9c/live/ffd0d920-c9a5-11f1-ad54-aba20166b422.jpg"/>
         </item>
         <item>
             <title><![CDATA[Trump waives several Russia sanctions as row with Zelensky intensifies]]></title>
