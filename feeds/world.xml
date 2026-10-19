@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news/world</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 19 Oct 2026 03:42:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Oct 2026 04:16:07 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/world/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -63,12 +63,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a585/live/c0af3490-cb61-11f1-a812-d3be2dbc962d.jpg"/>
         </item>
         <item>
-            <title><![CDATA[EU tariffs aimed at China hitting Ukraine, steel boss says]]></title>
-            <description><![CDATA[The boss of one of Ukraine's biggest steel companies says the country has been "bundled together" in measures aimed at curbing cheap imports.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cwdd8z6gyy96o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwdd8z6gyy96o#0</guid>
-            <pubDate>Sun, 18 Oct 2026 23:28:45 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29eb/live/c667f2d0-c96f-11f1-80fc-ab418b149008.jpg"/>
+            <title><![CDATA[Kenya pastor accused of ordering parents to starve their children to death faces verdict]]></title>
+            <description><![CDATA[Prosecutors say Paul Mackenzie lured the latest victims to their deaths by writing notes from his prison cell.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo#0</guid>
+            <pubDate>Mon, 19 Oct 2026 03:44:02 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8068/live/34a82040-c956-11f1-8879-9d9deeb686e1.jpg"/>
         </item>
         <item>
             <title><![CDATA[Threat forces Israel to Austria flight into emergency landing]]></title>
@@ -79,12 +79,28 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f91d/live/31ebfb00-cb5a-11f1-97b1-010e9e08360f.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Cindy Crawford 'beyond heartbroken' after death of son Presley at 27]]></title>
+            <description><![CDATA[Presley Gerber's death in September is being investigated as a suspected overdose.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cwzrd6123jyyo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwzrd6123jyyo#1</guid>
+            <pubDate>Sun, 18 Oct 2026 19:53:27 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e6f/live/104d6ec0-cb23-11f1-862d-eb45b1209086.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Anthropic says it will commit 5% of its shares to 'public benefit fund']]></title>
             <description><![CDATA[The announcement comes as Anthropic lays the ground for a blockbuster stock market listing.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cm2kez327gdko?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm2kez327gdko#1</guid>
             <pubDate>Mon, 19 Oct 2026 02:41:41 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87fa/live/537946d0-cb5d-11f1-a1ba-9502012907ad.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[EU tariffs aimed at China hitting Ukraine, steel boss says]]></title>
+            <description><![CDATA[The boss of one of Ukraine's biggest steel companies says the country has been "bundled together" in measures aimed at curbing cheap imports.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cwdd8z6gyy96o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwdd8z6gyy96o#1</guid>
+            <pubDate>Sun, 18 Oct 2026 23:28:45 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29eb/live/c667f2d0-c96f-11f1-80fc-ab418b149008.jpg"/>
         </item>
         <item>
             <title><![CDATA[Australian Greens senator denies claims of misconduct towards women ]]></title>
@@ -111,14 +127,6 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f795/live/26bf0220-cacb-11f1-b5ff-6fb710f59c84.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Cindy Crawford 'beyond heartbroken' after death of son Presley at 27]]></title>
-            <description><![CDATA[Presley Gerber's death in September is being investigated as a suspected overdose.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cwzrd6123jyyo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwzrd6123jyyo#1</guid>
-            <pubDate>Sun, 18 Oct 2026 19:53:27 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e6f/live/104d6ec0-cb23-11f1-862d-eb45b1209086.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[European diplomats attacked by Israeli settlers in West Bank]]></title>
             <description><![CDATA[The Israeli military condemns the violence but the prime minister's office says it is part of a "smear" campaign.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -133,6 +141,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/crwydey50xeno#1</guid>
             <pubDate>Sat, 17 Oct 2026 20:53:00 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b85/live/bbc9c4f0-ca6b-11f1-b2e2-233efb1fd43c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[A wave of homemade, synthetic drugs sweeps US and deepens crisis]]></title>
+            <description><![CDATA[BBC News hears from users, dealers, prison and recovery workers as the country battles with a deadly new drug epidemic. ]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o#2</guid>
+            <pubDate>Sun, 18 Oct 2026 05:04:31 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a90/live/cf7329e0-ca0e-11f1-bc2e-018d645d8d21.jpg"/>
         </item>
         <item>
             <title><![CDATA[Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat]]></title>
@@ -173,14 +189,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwvgdn3d656vo#2</guid>
             <pubDate>Fri, 16 Oct 2026 23:07:18 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f50/live/e57d8d50-c8c1-11f1-bdfb-e3788aeae9ec.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[What we learned from heated US midterm Senate debates]]></title>
-            <description><![CDATA[As the 3 November election approaches and both parties fight for control of Congress, some clear themes have emerged.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cqly03y3zg7lo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqly03y3zg7lo#2</guid>
-            <pubDate>Fri, 16 Oct 2026 19:09:37 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7468/live/37bdc2e0-c991-11f1-adc3-01d8629f0470.jpg"/>
         </item>
         <item>
             <title><![CDATA[Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role]]></title>
