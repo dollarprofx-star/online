@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 19 Oct 2026 01:40:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Oct 2026 02:10:28 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -37,6 +37,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cwd09vlv78rvo#1</guid>
             <pubDate>Mon, 19 Oct 2026 00:28:44 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d9e/live/da9a2570-c983-11f1-bc2e-018d645d8d21.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Burnham says youth employment and training crisis is a 'moral failure']]></title>
+            <description><![CDATA[The UK faces "economic catastrophe" with one million young people not in work or training, the prime minister says.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cq0melgpre23o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cq0melgpre23o#1</guid>
+            <pubDate>Mon, 19 Oct 2026 01:40:53 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb1f/live/137139a0-cb47-11f1-95cf-bdf5fa1b56da.jpg"/>
         </item>
         <item>
             <title><![CDATA[Major fire at Canada military base leaves four dead, dozens injured ]]></title>
@@ -105,14 +113,6 @@ A national campaign asking rail passengers "share the carriage, not the noise" i
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56ea/live/ba38b020-cad8-11f1-9a39-31b474234113.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Search for Amelia Earhart's plane resumes after stormy weather]]></title>
-            <description><![CDATA[An expedition to a remote Pacific island hoping to uncover the American aviator's wreckage was on hold for three days.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cv70pxe5j90eo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cv70pxe5j90eo#1</guid>
-            <pubDate>Sun, 18 Oct 2026 13:47:07 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f795/live/26bf0220-cacb-11f1-b5ff-6fb710f59c84.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[GTA 6: Can you cheat on someone with a video game character?]]></title>
             <description><![CDATA[Grand Theft Auto VI lets you build and nurture a romantic relationship but some say dates with a fictional character are a step too far.]]></description>
             <link>https://www.bbc.co.uk/news/articles/ckn9wrr75dyeo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -175,6 +175,14 @@ A national campaign asking rail passengers "share the carriage, not the noise" i
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c2lkky9zngvo#3</guid>
             <pubDate>Wed, 09 Sep 2026 10:24:59 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a71/live/3d86bbd0-c641-11f1-a64c-550be9e3c66b.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Search for Amelia Earhart's plane resumes after stormy weather]]></title>
+            <description><![CDATA[An expedition to a remote Pacific island hoping to uncover the American aviator's wreckage was on hold for three days.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cv70pxe5j90eo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cv70pxe5j90eo#4</guid>
+            <pubDate>Sun, 18 Oct 2026 13:47:07 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f795/live/26bf0220-cacb-11f1-b5ff-6fb710f59c84.jpg"/>
         </item>
         <item>
             <title><![CDATA[Polanski says he will not overturn Green Party's 'Zionism is racism' motion]]></title>
