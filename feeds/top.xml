@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 19 Oct 2026 07:42:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Oct 2026 08:21:53 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -27,7 +27,7 @@
             <description><![CDATA[Political tension grips France after rioting marred protests over the cost of living and struggling public services, Katya Adler writes.]]></description>
             <link>https://www.bbc.co.uk/news/articles/crwyd02yz22vo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/crwyd02yz22vo#1</guid>
-            <pubDate>Mon, 19 Oct 2026 04:16:46 GMT</pubDate>
+            <pubDate>Mon, 19 Oct 2026 07:46:54 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4190/live/1ce2e400-cb80-11f1-bba6-c7bcff195158.jpg"/>
         </item>
         <item>
@@ -55,12 +55,38 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/482f/live/526f94a0-cb81-11f1-bc2e-018d645d8d21.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Watch: Inside Chicago's battle against the synthetic drugs flooding the US]]></title>
+            <title><![CDATA[Watch: Chicago's battle against the synthetic drugs flooding the US]]></title>
             <description><![CDATA[The BBC's Quentin Sommerville reports from Chicago, where communities are battling a new wave of synthetic drugs.]]></description>
             <link>https://www.bbc.co.uk/news/videos/c84g166kz003o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/c84g166kz003o#1</guid>
             <pubDate>Sun, 18 Oct 2026 21:00:22 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b06/live/086155e0-cb8d-11f1-bc2e-018d645d8d21.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Cindy Crawford 'beyond heartbroken' after death of son Presley at 27]]></title>
+            <description><![CDATA[Presley Gerber's death in September is being investigated as a suspected overdose.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cwzrd6123jyyo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwzrd6123jyyo#1</guid>
+            <pubDate>Sun, 18 Oct 2026 19:53:27 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e6f/live/104d6ec0-cb23-11f1-862d-eb45b1209086.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Burnham says youth employment and training crisis is a 'moral failure']]></title>
+            <description><![CDATA[The UK faces "economic catastrophe" with one million young people not in work or training, the prime minister says.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cq0melgpre23o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cq0melgpre23o#1</guid>
+            <pubDate>Mon, 19 Oct 2026 07:58:30 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb1f/live/137139a0-cb47-11f1-95cf-bdf5fa1b56da.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[People playing loud music on buses could face £100 fine]]></title>
+            <description><![CDATA[Antisocial behaviour on buses in England could lead to fines while a new campaign is also being launched for trains.
+A national campaign asking rail passengers "share the carriage, not the noise" is being launched. 
+]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cm89z008x7xdo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm89z008x7xdo#1</guid>
+            <pubDate>Mon, 19 Oct 2026 07:17:25 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db1b/live/55c58490-cb0c-11f1-8d4d-2553b65f173b.jpg"/>
         </item>
         <item>
             <title><![CDATA[NHS bosses say smaller maternity units may have to close]]></title>
@@ -79,30 +105,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f6ba/live/3668c500-cb64-11f1-9a39-31b474234113.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Burnham says youth employment and training crisis is a 'moral failure']]></title>
-            <description><![CDATA[The UK faces "economic catastrophe" with one million young people not in work or training, the prime minister says.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cq0melgpre23o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cq0melgpre23o#1</guid>
-            <pubDate>Mon, 19 Oct 2026 01:40:53 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb1f/live/137139a0-cb47-11f1-95cf-bdf5fa1b56da.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Cindy Crawford 'beyond heartbroken' after death of son Presley at 27]]></title>
-            <description><![CDATA[Presley Gerber's death in September is being investigated as a suspected overdose.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cwzrd6123jyyo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwzrd6123jyyo#1</guid>
-            <pubDate>Sun, 18 Oct 2026 19:53:27 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e6f/live/104d6ec0-cb23-11f1-862d-eb45b1209086.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[People playing loud music on buses could face £100 fine]]></title>
-            <description><![CDATA[Antisocial behaviour on buses in England could lead to fines while a new campaign is also being launched for trains.
-A national campaign asking rail passengers "share the carriage, not the noise" is being launched. 
-]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cm89z008x7xdo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm89z008x7xdo#1</guid>
-            <pubDate>Mon, 19 Oct 2026 07:17:25 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db1b/live/55c58490-cb0c-11f1-8d4d-2553b65f173b.jpg"/>
+            <title><![CDATA[The portraits that helped bring the lost Aberfan children home]]></title>
+            <description><![CDATA[An artist living hundreds of miles away felt compelled to help the village that lost its children.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/ckr5y832v8ddo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckr5y832v8ddo#2</guid>
+            <pubDate>Mon, 19 Oct 2026 05:28:02 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06c2/live/d24c2cd0-c945-11f1-94af-5f148d758fe7.png"/>
         </item>
         <item>
             <title><![CDATA[Don't fall for this - how to protect yourself from AI scams]]></title>
@@ -121,7 +129,7 @@ A national campaign asking rail passengers "share the carriage, not the noise" i
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a2c/live/e6934370-cb7c-11f1-8d42-dd1c1e8413a3.jpg"/>
         </item>
         <item>
-            <title><![CDATA[GTA 6: Can you cheat on someone with a video game character?]]></title>
+            <title><![CDATA[Can you cheat on someone with a video game character?]]></title>
             <description><![CDATA[Grand Theft Auto VI lets you build and nurture a romantic relationship but some say dates with a fictional character are a step too far.]]></description>
             <link>https://www.bbc.co.uk/news/articles/ckn9wrr75dyeo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckn9wrr75dyeo#2</guid>
@@ -129,11 +137,19 @@ A national campaign asking rail passengers "share the carriage, not the noise" i
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e828/live/0110bda0-bb78-11f1-bc1f-3f186ca4140c.jpg"/>
         </item>
         <item>
-            <title><![CDATA[The father and son on opposite sides of Alberta’s separation referendum]]></title>
-            <description><![CDATA[Albertans are voting on Monday on whether to stay in Canada or pursue independence, splitting even some close-knit families.]]></description>
+            <title><![CDATA[How one rule change is altering the face of one-day cricket]]></title>
+            <description><![CDATA[One rule change has changed the face of ODI cricket. BBC Sport looks at its impact, who is benefiting and what it could mean for the future.]]></description>
+            <link>https://www.bbc.co.uk/sport/cricket/articles/c6eweg47wv11o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/cricket/articles/c6eweg47wv11o#2</guid>
+            <pubDate>Mon, 19 Oct 2026 05:27:56 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b495/live/41953e00-c898-11f1-b0a4-81e564f1cfaa.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The father and son on opposite sides of Alberta’s separation vote]]></title>
+            <description><![CDATA[Albertans are voting on whether to stay in Canada or pursue independence via a referendum, splitting even some close-knit families.]]></description>
             <link>https://www.bbc.co.uk/news/videos/c6g7xj3d88nvo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/c6g7xj3d88nvo#2</guid>
-            <pubDate>Mon, 19 Oct 2026 00:42:51 GMT</pubDate>
+            <pubDate>Mon, 19 Oct 2026 07:55:32 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1486/live/667db890-cb55-11f1-a64c-550be9e3c66b.jpg"/>
         </item>
         <item>
@@ -166,7 +182,7 @@ A national campaign asking rail passengers "share the carriage, not the noise" i
             <link>https://www.bbc.co.uk/news/articles/c680zdmn100lo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c680zdmn100lo#4</guid>
             <pubDate>Mon, 19 Oct 2026 06:29:55 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f91d/live/31ebfb00-cb5a-11f1-97b1-010e9e08360f.jpg"/>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/874b/live/3d27e8a0-cb94-11f1-93a7-b36f3083f4d3.jpg"/>
         </item>
         <item>
             <title><![CDATA[Major fire at Canada military base leaves four dead, dozens injured ]]></title>
