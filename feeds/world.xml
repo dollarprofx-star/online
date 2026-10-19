@@ -9,19 +9,11 @@
             <link>https://www.bbc.co.uk/news/world</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 19 Oct 2026 11:27:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Oct 2026 12:03:09 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/world/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
-        <item>
-            <title><![CDATA[Inside the shadowy world of anti-Putin sabotage from within Russia]]></title>
-            <description><![CDATA[Two men tell of the work they say they have been doing to support Ukrainian intelligence during the war.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c6pwgzkj8zzgo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6pwgzkj8zzgo#0</guid>
-            <pubDate>Mon, 19 Oct 2026 00:06:25 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b9f8/live/f9937b60-c943-11f1-a64c-550be9e3c66b.jpg"/>
-        </item>
         <item>
             <title><![CDATA[Alberta heads to polls to decide whether to hold vote on separation from Canada]]></title>
             <description><![CDATA[Polling suggests most Albertans favour remaining part of the country, although the debate alone has proven divisive.]]></description>
@@ -47,20 +39,28 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a2c/live/e6934370-cb7c-11f1-8d42-dd1c1e8413a3.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Possible wreckage of Amelia Earhart's plane likely to be trees, say researchers]]></title>
-            <description><![CDATA[Researchers travelled to a remote Pacific Island to confirm whether an object first spotted on satellite imagery in 2020 solved the mystery of the pilot's disappearance.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cmq5n8x106jdo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmq5n8x106jdo#0</guid>
-            <pubDate>Mon, 19 Oct 2026 09:11:42 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3478/live/aeec8b30-c4d2-11f1-b8e5-dd3682886df5.png"/>
-        </item>
-        <item>
             <title><![CDATA[Trump says suspension of Russia sanctions is to keep peace negotiations going]]></title>
             <description><![CDATA[The US president blocked numerous sanctions on Russia two days before they were due to take effect.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo#1</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo#0</guid>
             <pubDate>Sun, 18 Oct 2026 23:20:15 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4644/live/461bcc30-cb38-11f1-8a27-2de4c72fadc2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Personal attacks fire up debate before Brazil's run-off vote]]></title>
+            <description><![CDATA[The race heats up just days before the run-off between the left-wing incumbent and his right-wing challenger.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/ck98zlzyqle3o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ck98zlzyqle3o#0</guid>
+            <pubDate>Mon, 19 Oct 2026 11:41:24 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/389a/live/fbd9f9b0-cb98-11f1-93a7-b36f3083f4d3.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Italian PM Meloni to hold emergency meeting after weekend of violent clashes]]></title>
+            <description><![CDATA[More than 200 people were detained during two days of rioting in the city, Italian media reports.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c6j9kwxxmxydo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6j9kwxxmxydo#1</guid>
+            <pubDate>Mon, 19 Oct 2026 11:23:36 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16d1/live/3cdb5c00-cba4-11f1-9ee2-f74dfb8e54e5.jpg"/>
         </item>
         <item>
             <title><![CDATA[Bangladesh says it was not informed of its citizens' execution by Saudi Arabia]]></title>
@@ -69,6 +69,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmde83w13p00o#1</guid>
             <pubDate>Mon, 19 Oct 2026 08:17:19 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9cad/live/89e4af20-cb94-11f1-93a7-b36f3083f4d3.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Possible wreckage of Amelia Earhart's plane likely to be trees, say researchers]]></title>
+            <description><![CDATA[Researchers travelled to a remote Pacific Island to confirm whether an object first spotted on satellite imagery in 2020 solved the mystery of the pilot's disappearance.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cmq5n8x106jdo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmq5n8x106jdo#1</guid>
+            <pubDate>Mon, 19 Oct 2026 09:11:42 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3478/live/aeec8b30-c4d2-11f1-b8e5-dd3682886df5.png"/>
         </item>
         <item>
             <title><![CDATA[Deadly fire at Canada military base moved a kilometre 'in 30 to 60 seconds']]></title>
@@ -121,20 +129,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eff2/live/f7cb4020-cb54-11f1-9097-8b5edc27827e.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Oil facilities hit in deadly overnight attack on St Petersburg]]></title>
-            <description><![CDATA[At least one person was killed in the strikes, which also hit a data centre used by Russia's equivalent of Facebook.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c3eweygrjzd7o#1</guid>
-            <pubDate>Sun, 18 Oct 2026 15:46:10 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4966/live/70482900-cad8-11f1-a64c-550be9e3c66b.jpg"/>
+            <title><![CDATA[Katya Adler: France's government under pressure after weekend of widespread violence]]></title>
+            <description><![CDATA[Political tension grips France after rioting marred protests over the cost of living and struggling public services, Katya Adler writes.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/crwyd02yz22vo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/crwyd02yz22vo#2</guid>
+            <pubDate>Mon, 19 Oct 2026 07:46:54 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8457/live/0a19c430-cba1-11f1-9ee2-f74dfb8e54e5.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Cindy Crawford 'beyond heartbroken' after death of son Presley at 27]]></title>
-            <description><![CDATA[Presley Gerber's death in September is being investigated as a suspected overdose.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cwzrd6123jyyo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwzrd6123jyyo#1</guid>
-            <pubDate>Sun, 18 Oct 2026 19:53:27 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e6f/live/104d6ec0-cb23-11f1-862d-eb45b1209086.jpg"/>
+            <title><![CDATA[Inside the shadowy world of anti-Putin sabotage from within Russia]]></title>
+            <description><![CDATA[Two men tell of the work they say they have been doing to support Ukrainian intelligence during the war.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c6pwgzkj8zzgo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6pwgzkj8zzgo#2</guid>
+            <pubDate>Mon, 19 Oct 2026 00:06:25 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b9f8/live/f9937b60-c943-11f1-a64c-550be9e3c66b.jpg"/>
         </item>
         <item>
             <title><![CDATA[A wave of homemade, synthetic drugs sweeps US and deepens crisis]]></title>
@@ -143,14 +151,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o#2</guid>
             <pubDate>Sun, 18 Oct 2026 05:04:31 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a90/live/cf7329e0-ca0e-11f1-bc2e-018d645d8d21.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Katya Adler: France's government under pressure after weekend of widespread violence]]></title>
-            <description><![CDATA[Political tension grips France after rioting marred protests over the cost of living and struggling public services, Katya Adler writes.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/crwyd02yz22vo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/crwyd02yz22vo#2</guid>
-            <pubDate>Mon, 19 Oct 2026 07:46:54 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8457/live/0a19c430-cba1-11f1-9ee2-f74dfb8e54e5.jpg"/>
         </item>
         <item>
             <title><![CDATA[Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat]]></title>
@@ -167,30 +167,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c623dnn3xvpko#2</guid>
             <pubDate>Sat, 17 Oct 2026 01:18:08 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a7e9/live/0fd9b790-c971-11f1-80fc-ab418b149008.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Toxic algorithms wouldn't let them go - now Australia wants an off switch]]></title>
-            <description><![CDATA[The Australian government hopes to protect social media users from being served content they don't want to see.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cwr7y8er1n8vo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwr7y8er1n8vo#2</guid>
-            <pubDate>Fri, 16 Oct 2026 18:11:29 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/21ca/live/8f226840-c966-11f1-a64c-550be9e3c66b.png"/>
-        </item>
-        <item>
-            <title><![CDATA[A thousand slogans echoed here - but it could be the end for iconic Delhi protest site]]></title>
-            <description><![CDATA[Jantar Mantar, an 18th Century site almost synonymous with demonstrations in Delhi, has been denotified as a protest site.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c6kgqjvdv4n2o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6kgqjvdv4n2o#2</guid>
-            <pubDate>Sat, 17 Oct 2026 00:41:58 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae0a/live/7e914b00-c96f-11f1-80fc-ab418b149008.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Trial of German steakhouse heiress that sparked a huge spy scandal]]></title>
-            <description><![CDATA[For 15 months, a high-security courtroom in Hamburg has been hearing the case of Christina Block, accused of ordering the abduction of her children.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cwvgdn3d656vo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwvgdn3d656vo#2</guid>
-            <pubDate>Fri, 16 Oct 2026 23:07:18 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f50/live/e57d8d50-c8c1-11f1-bdfb-e3788aeae9ec.jpg"/>
         </item>
         <item>
             <title><![CDATA[Inside Chicago's battle against the synthetic drugs flooding the US]]></title>
