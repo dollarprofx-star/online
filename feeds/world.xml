@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news/world</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 19 Oct 2026 12:49:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Oct 2026 13:35:35 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/world/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -55,7 +55,7 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/389a/live/fbd9f9b0-cb98-11f1-93a7-b36f3083f4d3.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Italian PM Meloni to hold emergency meeting after weekend of violent clashes]]></title>
+            <title><![CDATA[Meloni calls emergency meeting after weekend of violent clashes]]></title>
             <description><![CDATA[More than 200 people were detained during two days of rioting in the city, Italian media reports.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c6j9kwxxmxydo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6j9kwxxmxydo#1</guid>
@@ -71,14 +71,6 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9cad/live/89e4af20-cb94-11f1-93a7-b36f3083f4d3.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Possible wreckage of Amelia Earhart's plane likely to be trees, say researchers]]></title>
-            <description><![CDATA[Researchers travelled to a remote Pacific Island to confirm whether an object first spotted on satellite imagery in 2020 solved the mystery of the pilot's disappearance.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cmq5n8x106jdo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmq5n8x106jdo#1</guid>
-            <pubDate>Mon, 19 Oct 2026 09:11:42 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3478/live/aeec8b30-c4d2-11f1-b8e5-dd3682886df5.png"/>
-        </item>
-        <item>
             <title><![CDATA[Deadly fire at Canada military base moved a kilometre 'in 30 to 60 seconds']]></title>
             <description><![CDATA[The blaze that killed four men and injured dozens of others spread with alarming speed, accounts suggest.
 
@@ -86,7 +78,23 @@
             <link>https://www.bbc.co.uk/news/articles/ckj0ly6qnp1lo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckj0ly6qnp1lo#1</guid>
             <pubDate>Mon, 19 Oct 2026 09:40:44 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e871/live/9a1e4770-cb94-11f1-93a7-b36f3083f4d3.jpg"/>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ede/live/03f0b480-cbbd-11f1-bc2e-018d645d8d21.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Exiled critic of Rwandan president found beheaded]]></title>
+            <description><![CDATA[Former army sergeant major Robert Kabera was a popular YouTuber and singer, who had sought asylum in Uganda.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c3lylj78777do?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c3lylj78777do#1</guid>
+            <pubDate>Mon, 19 Oct 2026 13:13:15 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6002/live/ca68a640-cbae-11f1-821f-c5d07d801cca.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Possible wreckage of Amelia Earhart's plane likely to be trees, say researchers]]></title>
+            <description><![CDATA[Researchers travelled to a remote Pacific Island to confirm whether an object first spotted on satellite imagery in 2020 solved the mystery of the pilot's disappearance.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cmq5n8x106jdo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmq5n8x106jdo#1</guid>
+            <pubDate>Mon, 19 Oct 2026 09:11:42 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3478/live/aeec8b30-c4d2-11f1-b8e5-dd3682886df5.png"/>
         </item>
         <item>
             <title><![CDATA[Bollywood actor Tiger Shroff survives shooting attempt in Mumbai ]]></title>
