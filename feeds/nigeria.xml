@@ -5,7 +5,7 @@
         <atom:link href="https://rss.punchng.com" rel="self" type="application/rss+xml" />
         <link> https://rss.punchng.com </link>
         <description> Get the latest News in Nigeria </description>
-        <lastBuildDate> Mon, 19 Oct 2026 04:15:29 +0000</lastBuildDate>
+        <lastBuildDate> Mon, 19 Oct 2026 05:00:35 +0000</lastBuildDate>
         <language> en-US </language>
         <sy:updatePeriod> minutely	</sy:updatePeriod>
         <sy:updateFrequency> 5	</sy:updateFrequency>
@@ -13,6 +13,20 @@
         <generator>https://rss.punchng.com</generator>
 
         <item>
+                        <title>W’Bank: FG pays N658.9bn to 10.46m poor households</title>
+                        <link>https://punchng.com/wbank-fg-pays-n658-9bn-to-10-46m-poor-households/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
+                        <pubDate>Mon, 19 Oct 2026 05:07:14 +0000</pubDate>
+                        <dc:creator><![CDATA[Punch Newspapers]]></dc:creator>
+                        <category><![CDATA[]]></category>
+                        <guid isPermaLink='true'>https://punchng.com/wbank-fg-pays-n658-9bn-to-10-46m-poor-households/?utm_source=rss.punchng.com&amp;utm_medium=web</guid>
+                        <description><![CDATA[
+
+The World Bank has confirmed the Federal Government&#8217;s disbursement of N658.9bn in cash transfers to 10.46m poor households, urging for wider coverage.
+
+Read More: https://punchng.com/wbank-fg-pays-n658-9bn-to-10-46m-poor-households/]]></description>
+                        <enclosure url='https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png' length='342247' type='image/png'/>
+                    </item>
+                    <item>
                         <title>SERAP sues INEC over N126bn electoral funds</title>
                         <link>https://punchng.com/serap-sues-inec-over-n126bn-electoral-funds/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
                         <pubDate>Mon, 19 Oct 2026 05:04:31 +0000</pubDate>
@@ -416,20 +430,6 @@ Read More: https://punchng.com/fg-disputes-world-banks-n7-7tn-interest-payments/
 Ex-Fidelity Bank Chairman, Mustafa Chike-Obi, says Nigeria may be paying over $10bn annually to maintain its foreign reserves for relatively low returns.
 
 Read More: https://punchng.com/chike-obi-bigger-reserves-dont-make-nigeria-richer/]]></description>
-                        <enclosure url='https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png' length='342247' type='image/png'/>
-                    </item>
-                    <item>
-                        <title>15 African stars selected for Dakar 2026 Youth Olympics</title>
-                        <link>https://punchng.com/15-african-stars-selected-for-dakar-2026-youth-olympics/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
-                        <pubDate>Mon, 19 Oct 2026 00:20:50 +0000</pubDate>
-                        <dc:creator><![CDATA[Punch Newspapers]]></dc:creator>
-                        <category><![CDATA[]]></category>
-                        <guid isPermaLink='true'>https://punchng.com/15-african-stars-selected-for-dakar-2026-youth-olympics/?utm_source=rss.punchng.com&amp;utm_medium=web</guid>
-                        <description><![CDATA[
-
-Fifteen young African table tennis players, including Nigeria’s Matthew Kuti and Favour Ojo, have secured places at the Youth Olympic Games Dakar 2026.
-
-Read More: https://punchng.com/15-african-stars-selected-for-dakar-2026-youth-olympics/]]></description>
                         <enclosure url='https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png' length='342247' type='image/png'/>
                     </item>
                         </channel>
