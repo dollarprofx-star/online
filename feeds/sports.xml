@@ -9,11 +9,19 @@
             <link>https://www.bbc.co.uk/sport/football</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 19 Oct 2026 09:44:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Oct 2026 10:18:21 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[England manager Wiegman signs contract extension]]></title>
+            <description><![CDATA[Sarina Wiegman says she "cannot think of a better job in football" as she commits to staying on as manager of the Lionesses until after Euro 2029.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/c679plpvellgo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c679plpvellgo#0</guid>
+            <pubDate>Mon, 19 Oct 2026 10:08:01 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/383f/live/75035850-cba2-11f1-9ee2-f74dfb8e54e5.jpg"/>
+        </item>
         <item>
             <title><![CDATA[Mbeumo offers Carrick solace as Man Utd winless run goes on]]></title>
             <description><![CDATA[Michael Carrick said he had his headphones on this week so didn't hear the noise around Manchester United, but a 1-1 draw at Leeds means it is six games without a win.]]></description>
@@ -576,6 +584,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0phfm6n#18</guid>
             <pubDate>Mon, 19 Oct 2026 07:00:00 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0phfm8s.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[England manager Wiegman signs contract extension]]></title>
+            <description><![CDATA[Sarina Wiegman says she "cannot think of a better job in football" as she commits to staying on as manager of the Lionesses until after Euro 2029.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/c679plpvellgo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c679plpvellgo#19</guid>
+            <pubDate>Mon, 19 Oct 2026 10:08:01 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/383f/live/75035850-cba2-11f1-9ee2-f74dfb8e54e5.jpg"/>
         </item>
         <item>
             <title><![CDATA[The part-timers who won three Wembley finals in a row]]></title>
