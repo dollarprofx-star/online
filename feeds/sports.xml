@@ -9,11 +9,19 @@
             <link>https://www.bbc.co.uk/sport/football</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 19 Oct 2026 21:39:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Oct 2026 22:08:40 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Spurs beat Coventry to earn first league win of the season]]></title>
+            <description><![CDATA[Tottenham Hotspur record their first Premier League win of the season and move off the bottom of the table with a home victory over Coventry City.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/videos/c9x28pyg05vyo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/c9x28pyg05vyo#0</guid>
+            <pubDate>Mon, 19 Oct 2026 21:33:07 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81f1/live/0dab38a0-cbff-11f1-9a39-31b474234113.jpg"/>
+        </item>
         <item>
             <title><![CDATA[Maddison shines on return - Tottenham v Coventry ratings]]></title>
             <description><![CDATA[How Spurs and Coventry City's players rated following their Premier League match.]]></description>
@@ -67,7 +75,7 @@
             <description><![CDATA[Liverpool and Manchester United are interested in Borussia Dortmund midfielder Felix Nmecha, plus the rest of Tuesday's gossip.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/crjwe6wyjeqwo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/crjwe6wyjeqwo#0</guid>
-            <pubDate>Mon, 19 Oct 2026 20:15:18 GMT</pubDate>
+            <pubDate>Mon, 19 Oct 2026 22:01:39 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/37af/live/f32f97b0-cbf3-11f1-9a39-31b474234113.png"/>
         </item>
         <item>
@@ -98,7 +106,7 @@
             <title><![CDATA[Guehi among players not to take knee - is it time to 'move campaign along'?]]></title>
             <description><![CDATA[Premier League clubs took the knee for the first time this season, but six players chose to remain standing.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cxyvrndz49v7o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cxyvrndz49v7o#0</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cxyvrndz49v7o#1</guid>
             <pubDate>Mon, 19 Oct 2026 16:41:54 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c9b/live/7edc9af0-cbd7-11f1-b139-f77a8b036d06.jpg"/>
         </item>
@@ -207,12 +215,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0lz125l.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Spurs beat Coventry to earn first league win of the season]]></title>
-            <description><![CDATA[Tottenham Hotspur record their first Premier League win of the season and move off the bottom of the table with a home victory over Coventry City.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/videos/c9x28pyg05vyo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/c9x28pyg05vyo#3</guid>
-            <pubDate>Mon, 19 Oct 2026 21:33:07 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81f1/live/0dab38a0-cbff-11f1-9a39-31b474234113.jpg"/>
+            <title><![CDATA[Spurs 'lack confidence' but we are a good team - De Zerbi]]></title>
+            <description><![CDATA[Tottenham Hotspur head coach Roberto de Zerbi hails the spirit and attitude of his side following their first Premier League win of the season, as they beat Coventry City.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/videos/cqvgrn518d6jo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cqvgrn518d6jo#3</guid>
+            <pubDate>Mon, 19 Oct 2026 21:59:30 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96d6/live/78115d30-cc06-11f1-a64c-550be9e3c66b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lampard 'proud' of Coventry performance in defeat by Spurs]]></title>
+            <description><![CDATA[Coventry City manager Frank Lampard says he is proud of his side's performance, despite losing at struggling Tottenham Hotspur in the Premier League. ]]></description>
+            <link>https://www.bbc.co.uk/sport/football/videos/c32l4x1k28ero?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/c32l4x1k28ero#3</guid>
+            <pubDate>Mon, 19 Oct 2026 21:41:21 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec42/live/1b9be3a0-cc05-11f1-9a39-31b474234113.jpg"/>
         </item>
         <item>
             <title><![CDATA[All the goals from the Women's Super League - matchweek six ]]></title>
@@ -240,14 +256,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/crp3g7z9x215o#3</guid>
             <pubDate>Sun, 18 Oct 2026 21:39:04 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3477/live/ba6c08a0-cb3a-11f1-9a39-31b474234113.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Man City remain unbeaten as Shaw scores twice against Brighton]]></title>
-            <description><![CDATA[Khadija Shaw scores twice as Manchester City made it six wins from six in the Women's Super League after a 3-2 victory over Brighton. ]]></description>
-            <link>https://www.bbc.co.uk/sport/football/videos/cqrly0ly7j59o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cqrly0ly7j59o#3</guid>
-            <pubDate>Sun, 18 Oct 2026 16:13:45 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0612/live/c8cbdbe0-cb0e-11f1-9a39-31b474234113.jpg"/>
         </item>
         <item>
             <title><![CDATA[Mbeumo offers Carrick solace as Man Utd winless run goes on]]></title>
@@ -290,14 +298,6 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5cf2/live/2b5a2e20-cb18-11f1-a9ef-8b4e735f71f0.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Free-scoring Brighton & Man Utd settle for a point]]></title>
-            <description><![CDATA[Paul Robinson joins to discuss Brighton and Lloyd making history, and Leeds v Man United.]]></description>
-            <link>https://www.bbc.co.uk/sounds/play/p0phbswc?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0phbswc#5</guid>
-            <pubDate>Sun, 18 Oct 2026 22:26:00 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0pgvdbk.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[How to follow the Champions League on the BBC]]></title>
             <description><![CDATA[The Champions League returns this week and you will be able to listen to commentary and watch highlights of the best of the action on the BBC.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/c5yw79e4zgdo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -320,6 +320,22 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ckvg7v43x1xyo#6</guid>
             <pubDate>Sun, 18 Oct 2026 14:56:01 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52da/live/cdec1700-cb06-11f1-a64c-550be9e3c66b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Free-scoring Brighton & Man Utd settle for a point]]></title>
+            <description><![CDATA[Paul Robinson joins to discuss Brighton and Lloyd making history, and Leeds v Man United.]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/p0phbswc?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0phbswc#6</guid>
+            <pubDate>Sun, 18 Oct 2026 22:26:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0pgvdbk.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Man City remain unbeaten as Shaw scores twice against Brighton]]></title>
+            <description><![CDATA[Khadija Shaw scores twice as Manchester City made it six wins from six in the Women's Super League after a 3-2 victory over Brighton. ]]></description>
+            <link>https://www.bbc.co.uk/sport/football/videos/cqrly0ly7j59o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cqrly0ly7j59o#7</guid>
+            <pubDate>Sun, 18 Oct 2026 16:13:45 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0612/live/c8cbdbe0-cb0e-11f1-9a39-31b474234113.jpg"/>
         </item>
         <item>
             <title><![CDATA['Why not?' - are 'breathtaking' Brighton in title race?]]></title>
@@ -373,22 +389,6 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e579/live/c8a24d20-cb09-11f1-9a39-31b474234113.jpg"/>
         </item>
         <item>
-            <title><![CDATA[How 'dangerous' Man City maintained 100 per cent record]]></title>
-            <description><![CDATA[Match of the Day's Joe Hart and Danny Murphy analyse how Manchester City made it seven wins from seven in the Premier League with a 3-2 victory against Ipswich. ]]></description>
-            <link>https://www.bbc.co.uk/sport/football/videos/cx7vpl5qd008o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cx7vpl5qd008o#7</guid>
-            <pubDate>Sat, 17 Oct 2026 23:00:53 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/438e/live/d1402670-ca76-11f1-a64c-550be9e3c66b.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Diaz hat-trick fires Bayern to win in Kane's 100th Bundesliga game]]></title>
-            <description><![CDATA[Harry Kane scored on his 100th Bundesliga appearance while Luis Diaz netted a hat-trick as Bayern Munich thrashed RB Leipzig 6-1 to go top of the table.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/videos/cmj47e479xg5o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cmj47e479xg5o#7</guid>
-            <pubDate>Sat, 17 Oct 2026 20:55:25 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be94/live/32dd4770-ca6b-11f1-a64c-550be9e3c66b.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Boos and bananas on day of defiance at Man City ]]></title>
             <description><![CDATA[Manchester City fans boo the Premier League anthem before watching their side move six points clear at the top of the table.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/c9vgr6vj4mnyo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -403,14 +403,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cked3vl198eyo#9</guid>
             <pubDate>Sun, 18 Oct 2026 09:42:10 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae43/live/de9a2760-cad7-11f1-806f-7338b2b9c1b1.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro Leagues]]></title>
-            <description><![CDATA[Mikey Moore is on loan at Cologne from Spurs - and loving life in the Bundesliga.]]></description>
-            <link>https://www.bbc.co.uk/sounds/play/p0ph7nfj?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0ph7nfj#9</guid>
-            <pubDate>Mon, 19 Oct 2026 05:00:00 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0p4zrww.jpg"/>
         </item>
         <item>
             <title><![CDATA[Villa's Manzambi shows Newcastle what they missed out on]]></title>
