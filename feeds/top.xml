@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 19 Oct 2026 12:03:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Oct 2026 12:49:27 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -28,7 +28,7 @@
             <link>https://www.bbc.co.uk/news/articles/cvj6jylk3456o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cvj6jylk3456o#1</guid>
             <pubDate>Mon, 19 Oct 2026 11:55:47 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/517d/live/7f8c63c0-cba7-11f1-9ee2-f74dfb8e54e5.jpg"/>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/98c2/live/6f6173a0-cbb6-11f1-a64c-550be9e3c66b.jpg"/>
         </item>
         <item>
             <title><![CDATA[Inside the shadowy world of anti-Putin sabotage from within Russia]]></title>
@@ -87,12 +87,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f3e/live/90ae7a90-cb97-11f1-9a39-31b474234113.jpg"/>
         </item>
         <item>
-            <title><![CDATA[England manager Wiegman signs contract extension]]></title>
-            <description><![CDATA[Sarina Wiegman says she "cannot think of a better job in football" as she commits to staying on as manager of the Lionesses until after Euro 2029.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/c679plpvellgo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c679plpvellgo#1</guid>
-            <pubDate>Mon, 19 Oct 2026 10:08:01 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/383f/live/75035850-cba2-11f1-9ee2-f74dfb8e54e5.jpg"/>
+            <title><![CDATA['It's messed with my family too much' - inside the US opioid crisis]]></title>
+            <description><![CDATA[The BBC's Quentin Sommerville spoke to a former heroin addict who now helps other people overcome addiction.]]></description>
+            <link>https://www.bbc.co.uk/news/videos/cmlyljlzw487o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cmlyljlzw487o#1</guid>
+            <pubDate>Mon, 19 Oct 2026 12:12:02 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2046/live/ba2e5d90-cba1-11f1-a64c-550be9e3c66b.jpg"/>
         </item>
         <item>
             <title><![CDATA[The portraits that helped bring the lost Aberfan children home]]></title>
@@ -103,12 +103,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6893/live/7a328df0-cba2-11f1-bc2e-018d645d8d21.png"/>
         </item>
         <item>
-            <title><![CDATA[Watch: Chicago's battle against the synthetic drugs flooding the US]]></title>
-            <description><![CDATA[The BBC's Quentin Sommerville reports from Chicago, where communities are battling a new wave of synthetic drugs.]]></description>
-            <link>https://www.bbc.co.uk/news/videos/c84g166kz003o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/c84g166kz003o#2</guid>
-            <pubDate>Sun, 18 Oct 2026 21:00:22 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b06/live/086155e0-cb8d-11f1-bc2e-018d645d8d21.jpg"/>
+            <title><![CDATA[What we know about apparent attack on Australian MP hit by car]]></title>
+            <description><![CDATA[Helen Haines was hit by a car in what the prime minister has called a "deliberate act".]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cm5ynk1g88kwo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm5ynk1g88kwo#2</guid>
+            <pubDate>Mon, 19 Oct 2026 11:59:26 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3997/live/05ab1e70-cbac-11f1-a64c-550be9e3c66b.jpg"/>
         </item>
         <item>
             <title><![CDATA[Don't fall for this - how to protect yourself from AI scams]]></title>
@@ -167,12 +167,20 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e6f/live/104d6ec0-cb23-11f1-862d-eb45b1209086.jpg"/>
         </item>
         <item>
-            <title><![CDATA[NHS bosses say smaller maternity units may have to close]]></title>
-            <description><![CDATA[The NHS Alliance said "difficult decisions" lie ahead and some maternity services may have to be consolidated.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cm040rgv7wz4o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm040rgv7wz4o#4</guid>
-            <pubDate>Mon, 19 Oct 2026 06:24:25 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6fef/live/5b8f5c70-cb20-11f1-bfba-6f29101eb4a3.jpg"/>
+            <title><![CDATA[England manager Wiegman signs contract extension]]></title>
+            <description><![CDATA[Sarina Wiegman says she "cannot think of a better job in football" as she commits to staying on as manager of the Lionesses until after Euro 2029.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/c679plpvellgo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c679plpvellgo#4</guid>
+            <pubDate>Mon, 19 Oct 2026 10:08:01 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/383f/live/75035850-cba2-11f1-9ee2-f74dfb8e54e5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Alberta heads to polls to decide whether to hold vote on separation from Canada]]></title>
+            <description><![CDATA[Polling suggests most Albertans favour remaining part of the country, although the debate alone has proven divisive.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cxvgd0ymgzgyo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cxvgd0ymgzgyo#4</guid>
+            <pubDate>Mon, 19 Oct 2026 09:24:33 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/975c/live/8ec83c20-cb9c-11f1-93a7-b36f3083f4d3.jpg"/>
         </item>
         <item>
             <title><![CDATA[Israeli police arrest 10 over settler attacks on journalist and diplomats in West Bank]]></title>
@@ -187,18 +195,8 @@
             <description><![CDATA[The UK faces "economic catastrophe" with one million young people not in work or training, the prime minister says.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cq0melgpre23o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cq0melgpre23o#4</guid>
-            <pubDate>Mon, 19 Oct 2026 09:39:21 GMT</pubDate>
+            <pubDate>Mon, 19 Oct 2026 12:11:15 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb1f/live/137139a0-cb47-11f1-95cf-bdf5fa1b56da.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Deadly fire at Canada military base moved a kilometre 'in 30 to 60 seconds']]></title>
-            <description><![CDATA[The blaze that killed four men and injured dozens of others spread with alarming speed, accounts suggest.
-
-]]></description>
-            <link>https://www.bbc.co.uk/news/articles/ckj0ly6qnp1lo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckj0ly6qnp1lo#4</guid>
-            <pubDate>Mon, 19 Oct 2026 09:40:44 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e871/live/9a1e4770-cb94-11f1-93a7-b36f3083f4d3.jpg"/>
         </item>
         <item>
             <title><![CDATA[Selena Gomez says vaping has affected her voice]]></title>
