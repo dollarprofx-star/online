@@ -9,13 +9,13 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 20 Oct 2026 06:52:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Oct 2026 07:31:55 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
-            <title><![CDATA[Chancellor rejects calls to raise Capital Gains Tax in Budget, sources say]]></title>
+            <title><![CDATA[Chancellor rejects calls to raise Capital Gains Tax in Budget]]></title>
             <description><![CDATA[Influential Labour figures had been pushing for equalising CGT and income tax, but critics have said this could drive wealthy people out of Britain.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c50me4w4x1vyo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c50me4w4x1vyo#1</guid>
@@ -36,14 +36,14 @@
             <link>https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo#1</guid>
             <pubDate>Tue, 20 Oct 2026 06:35:57 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15e0/live/458670b0-cc4e-11f1-9b08-37acac6be953.jpg"/>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b1f5/live/422c9320-cc55-11f1-9b08-37acac6be953.jpg"/>
         </item>
         <item>
             <title><![CDATA[Burnham vows end to 'rip-off parking charges' under new rules]]></title>
             <description><![CDATA[Penalties are seen as too harsh on motorists who are penalised for parking on private land.]]></description>
             <link>https://www.bbc.co.uk/news/articles/ck87ze7wl4qno?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ck87ze7wl4qno#1</guid>
-            <pubDate>Tue, 20 Oct 2026 06:28:27 GMT</pubDate>
+            <pubDate>Tue, 20 Oct 2026 07:04:02 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b840/live/85d53a60-cbe1-11f1-9a39-31b474234113.jpg"/>
         </item>
         <item>
@@ -59,7 +59,7 @@
             <description><![CDATA[Small firms cite labour costs as a key factor in scaling back hiring, the Office for National Statistics says.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c6eq327pzr53o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6eq327pzr53o#1</guid>
-            <pubDate>Tue, 20 Oct 2026 06:49:02 GMT</pubDate>
+            <pubDate>Tue, 20 Oct 2026 07:24:39 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c778/live/bb751480-cc48-11f1-9a30-cb277859b43a.jpg"/>
         </item>
         <item>
@@ -67,7 +67,7 @@
             <description><![CDATA[The families of the victims of Nottingham killer Valdo Calocane had been campaigning for the change.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cv62yzddy6dpo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cv62yzddy6dpo#1</guid>
-            <pubDate>Mon, 19 Oct 2026 23:21:38 GMT</pubDate>
+            <pubDate>Tue, 20 Oct 2026 07:23:22 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afb8/live/3a87a300-cbdb-11f1-bc2e-018d645d8d21.jpg"/>
         </item>
         <item>
@@ -151,12 +151,28 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f0e/live/0a4e2af0-cbff-11f1-bc2e-018d645d8d21.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Rantzen felt 'deprived of choice' over her own death]]></title>
+            <description><![CDATA[A note written by Dame Esther Rantzen is released by her family following a private funeral.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cky93njxlwjjo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cky93njxlwjjo#4</guid>
+            <pubDate>Tue, 20 Oct 2026 05:01:51 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06a8/live/c8687080-b181-11ef-97e6-3bd47a1e90d7.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Seventh day of violent clashes between Albanian protesters and police]]></title>
             <description><![CDATA[Almost 300 people have been injured, more than half of them police, as violent anti-government demonstrations show no sign of easing.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cmy4xjlpqgd3o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmy4xjlpqgd3o#4</guid>
             <pubDate>Tue, 20 Oct 2026 02:45:05 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b732/live/2812da60-cc20-11f1-bc2e-018d645d8d21.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NHS trust prosecuted over children's sepsis deaths]]></title>
+            <description><![CDATA[Charges relate to the deaths of a two-year-old and a three-year-old at Broomfield Hospital in Essex.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c6jrw1xx419xo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6jrw1xx419xo#4</guid>
+            <pubDate>Tue, 20 Oct 2026 05:28:13 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3101/live/d141b880-75cf-11ef-a985-29aba0fe5f9c.jpg"/>
         </item>
         <item>
             <title><![CDATA[Kenya cult leader who told parents to starve children guilty of 191 murders]]></title>
@@ -196,7 +212,15 @@
             <link>https://www.bbc.co.uk/sport/rugby-league/articles/cmd6d3gj2znxo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/rugby-league/articles/cmd6d3gj2znxo#8</guid>
             <pubDate>Tue, 20 Oct 2026 06:18:34 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a440/live/6f009710-cc47-11f1-9a39-31b474234113.jpg"/>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/79ae/live/258e9b80-cc57-11f1-bc2e-018d645d8d21.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Will Lindblad and Lawson be retained by Racing Bulls? F1 Q&A]]></title>
+            <description><![CDATA[BBC Sport F1 correspondent Andrew Benson answers your latest questions before the United States Grand Prix.]]></description>
+            <link>https://www.bbc.co.uk/sport/formula1/articles/cx30ez4ge3z7o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/formula1/articles/cx30ez4ge3z7o#8</guid>
+            <pubDate>Tue, 20 Oct 2026 06:59:17 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ae8/live/a1c9a300-cbc8-11f1-aba9-2bb2608f11d9.jpg"/>
         </item>
         <item>
             <title><![CDATA[Race, illness, injury, repeat - REDs and why men are suffering in silence ]]></title>
@@ -205,22 +229,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/articles/ck054n5nqlv5o#8</guid>
             <pubDate>Tue, 20 Oct 2026 05:45:34 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8eee/live/9ed65800-c975-11f1-80fc-ab418b149008.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ronaldo given 30-day suspension and £215 fine by Portuguese FA]]></title>
-            <description><![CDATA[Cristiano Ronaldo is given a 30-day suspension by the Portuguese Football Federation after leaving his country's international camp last month. ]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/ck9qznlywy8no?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ck9qznlywy8no#8</guid>
-            <pubDate>Mon, 19 Oct 2026 21:34:06 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4183/live/fc5daf60-cbea-11f1-ad7b-fd8c269705fe.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[England coach should be English, suggests Fleming]]></title>
-            <description><![CDATA[New Zealander Stephen Fleming, England’s new Test coach, suggests the national team should be led by someone from England.]]></description>
-            <link>https://www.bbc.co.uk/sport/cricket/articles/cq398r1gxw02o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/cricket/articles/cq398r1gxw02o#8</guid>
-            <pubDate>Mon, 19 Oct 2026 23:29:19 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5081/live/e3ae85b0-cc0e-11f1-a22e-1978bafc2e9d.jpg"/>
         </item>
         <item>
             <title><![CDATA[Who has made Troy's Premier League team of the week?]]></title>
