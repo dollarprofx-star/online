@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news/technology</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 20 Oct 2026 08:49:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Oct 2026 09:22:43 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -23,8 +23,8 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4333/live/71103e60-cc61-11f1-b1a3-5bda642ff934.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Ex-OpenAI worker accused of planting device had Saudi support, says court filing]]></title>
-            <description><![CDATA[The Saudi government did not immediately respond to BBC requests for comment.]]></description>
+            <title><![CDATA[Ex-OpenAI worker accused of planting bug had Saudi support, claims prosecutors]]></title>
+            <description><![CDATA[Abdulrahman Alfozan, who is accused of planting a recording device, has been denied bail. ]]></description>
             <link>https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo#0</guid>
             <pubDate>Mon, 19 Oct 2026 21:12:30 GMT</pubDate>
