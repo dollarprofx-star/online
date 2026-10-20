@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/sport/football</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 20 Oct 2026 16:59:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Oct 2026 17:39:52 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -151,20 +151,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0ks0x6f.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Leicester to visit Oxford City in FA Cup first round - full draw]]></title>
+            <description><![CDATA[Leicester City will travel to National League North side Oxford City in the 2026-27 FA Cup first round - five years after winning the competition.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/ckwyqdvedj32o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ckwyqdvedj32o#1</guid>
+            <pubDate>Mon, 19 Oct 2026 18:13:52 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31e6/live/81429510-cbf0-11f1-bd6b-397ab98949f6.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Maddison shines on return - Tottenham v Coventry ratings]]></title>
             <description><![CDATA[How Spurs and Coventry City's players rated following their Premier League match.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/crx23ndd337wo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/crx23ndd337wo#2</guid>
             <pubDate>Mon, 19 Oct 2026 21:05:28 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aad0/live/d480dcf0-cbff-11f1-9a39-31b474234113.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Leicester to visit Oxford City in FA Cup first round - full draw]]></title>
-            <description><![CDATA[Leicester City will travel to National League North side Oxford City in the 2026-27 FA Cup first round - five years after winning the competition.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/ckwyqdvedj32o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ckwyqdvedj32o#2</guid>
-            <pubDate>Mon, 19 Oct 2026 18:13:52 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31e6/live/81429510-cbf0-11f1-bd6b-397ab98949f6.jpg"/>
         </item>
         <item>
             <title><![CDATA[SPFL invites bids for new Scottish Premiership TV deal]]></title>
@@ -197,6 +197,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cm4g17d11zvwo#2</guid>
             <pubDate>Mon, 19 Oct 2026 16:26:44 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/49e8/live/900722f0-cbd7-11f1-b139-f77a8b036d06.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ex-West Brom & Stoke striker Berahino retires at 33]]></title>
+            <description><![CDATA[Saido Berahino, who cost Stoke City £12m when they signed him from West Bromwich Albion in January 2017, retires from football at 33.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cqrkyzgre7neo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqrkyzgre7neo#2</guid>
+            <pubDate>Mon, 19 Oct 2026 12:51:44 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf55/live/9ea947a0-cbb1-11f1-81ef-39e22b578b80.jpg"/>
         </item>
         <item>
             <title><![CDATA[Spurs 'lack confidence' but we are a good team - De Zerbi]]></title>
@@ -250,14 +258,6 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/218e/live/65a2bf40-cbc0-11f1-81ef-39e22b578b80.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Ex-West Brom & Stoke striker Berahino retires at 33]]></title>
-            <description><![CDATA[Saido Berahino, who cost Stoke City £12m when they signed him from West Bromwich Albion in January 2017, retires from football at 33.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cqrkyzgre7neo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqrkyzgre7neo#5</guid>
-            <pubDate>Mon, 19 Oct 2026 12:51:44 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf55/live/9ea947a0-cbb1-11f1-81ef-39e22b578b80.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Guehi among players not to take knee - is it time to 'move campaign along'?]]></title>
             <description><![CDATA[Premier League clubs took the knee for the first time this season, but six players chose to remain standing.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cxyvrndz49v7o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -298,20 +298,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f54/live/4198f880-c7dd-11f1-b712-6f93dfe07e87.png"/>
         </item>
         <item>
+            <title><![CDATA[How to follow the Champions League on the BBC]]></title>
+            <description><![CDATA[The Champions League returns this week and you will be able to listen to commentary and watch highlights of the best of the action on the BBC.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/c5yw79e4zgdo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c5yw79e4zgdo#5</guid>
+            <pubDate>Mon, 19 Oct 2026 15:39:04 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/291a/live/f0a04d80-aac6-11f1-8881-75c1b8a858c8.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Hearts humiliated - but would Vrancken do anything differently? ]]></title>
             <description><![CDATA[Manager Wouter Vrancken focuses on individual errors by his players rather than his tactical approach after Hearts are thrashed by Celtic. ]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/c6ev32zvzv01o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6ev32zvzv01o#6</guid>
             <pubDate>Mon, 19 Oct 2026 08:30:31 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64e1/live/2da05c50-cb12-11f1-a9ef-8b4e735f71f0.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[How to follow the Champions League on the BBC]]></title>
-            <description><![CDATA[The Champions League returns this week and you will be able to listen to commentary and watch highlights of the best of the action on the BBC.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/c5yw79e4zgdo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c5yw79e4zgdo#6</guid>
-            <pubDate>Mon, 19 Oct 2026 15:39:04 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/291a/live/f0a04d80-aac6-11f1-8881-75c1b8a858c8.jpg"/>
         </item>
         <item>
             <title><![CDATA[Jota 'met some demons' during long injury absence]]></title>
@@ -352,6 +352,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c3qjnyw8qe4do#6</guid>
             <pubDate>Sun, 18 Oct 2026 19:55:41 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/30fd/live/9dd03a10-cb1f-11f1-bfba-6f29101eb4a3.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[I'll give Glentoran everything, vows new boss Ferguson]]></title>
+            <description><![CDATA[Duncan Ferguson targets a return to the glory days at the Oval after his appointment as the new Glentoran manager.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/c893zd3rge3po?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c893zd3rge3po#6</guid>
+            <pubDate>Mon, 19 Oct 2026 15:19:49 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ba9/live/706f2530-cbd9-11f1-b139-f77a8b036d06.jpg"/>
         </item>
         <item>
             <title><![CDATA[Man City remain unbeaten as Shaw scores twice against Brighton]]></title>
