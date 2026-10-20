@@ -9,17 +9,17 @@
             <link>https://www.bbc.co.uk/news/technology</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 20 Oct 2026 11:57:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Oct 2026 12:28:12 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
-            <title><![CDATA[Revolut outage hits 'multiple services' as thousands of users report app issues]]></title>
-            <description><![CDATA[Some users of the British neobank reported being unable to make some payments or access funds in its app on Tuesday.]]></description>
+            <title><![CDATA[Google Cloud says 'power event' behind outage hitting UK banks and websites]]></title>
+            <description><![CDATA[It has since been linked to a number of services, most notably British neobank Revolut, going down for customers or suffering problems on Tuesday morning.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo#0</guid>
-            <pubDate>Tue, 20 Oct 2026 08:46:00 GMT</pubDate>
+            <pubDate>Tue, 20 Oct 2026 12:09:25 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4333/live/71103e60-cc61-11f1-b1a3-5bda642ff934.jpg"/>
         </item>
         <item>
