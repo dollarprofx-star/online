@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 20 Oct 2026 22:21:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Oct 2026 22:54:25 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -55,11 +55,11 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4df2/live/1d0fd1d0-ccbc-11f1-a9d7-c180bd1b63e6.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Elon Musk says Tesla-SpaceX merger would be a 'good idea']]></title>
-            <description><![CDATA[Musk says special committees within both companies have been formed to consider a possible mega-merger.]]></description>
+            <title><![CDATA[Elon Musk says Tesla-SpaceX merger being considered]]></title>
+            <description><![CDATA[Musk says special committees within both companies have been formed to look a possible mega-merger.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmlyl09xjke4o#1</guid>
-            <pubDate>Tue, 20 Oct 2026 22:06:48 GMT</pubDate>
+            <pubDate>Tue, 20 Oct 2026 22:43:56 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/819f/live/f7b5d9b0-ccd0-11f1-b06b-25a52a186d15.png"/>
         </item>
         <item>
@@ -245,6 +245,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/iplayer/episode/m003375t?at_mid=3BHJ0bPWP2&amp;at_campaign=Aberfan_The_Village_That_Fought_Back&amp;at_medium=display_ad&amp;at_campaign_type=owned&amp;at_nation=NET&amp;at_audience_id=SS&amp;at_product=iplayer&amp;at_brand=m003375t&amp;at_ptr_name=bbc&amp;at_ptr_type=media&amp;at_format=image&amp;at_objective=consumption&amp;at_link_title=Aberfan_The_Village_That_Fought_Back&amp;at_bbc_team=BBC#7</guid>
             <pubDate>Mon, 19 Oct 2026 05:00:00 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8cb6/live/35fbce00-cb46-11f1-bc2e-018d645d8d21.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[No Haaland, no problem - can Foden be Man City's alternative goalscorer?]]></title>
+            <description><![CDATA[Phil Foden's magnificent man-of-the-match display in Manchester City's Champions League win against AEK Athens serves as a reminder of his talent and ability to influence games.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cqx2vjdnwkyyo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqx2vjdnwkyyo#8</guid>
+            <pubDate>Tue, 20 Oct 2026 22:35:32 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46d5/live/a5eba520-ccca-11f1-951b-8fbc7a9ea030.jpg"/>
         </item>
         <item>
             <title><![CDATA[Sloppy England start winter with Pakistan defeat]]></title>

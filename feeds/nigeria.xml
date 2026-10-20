@@ -5,7 +5,7 @@
         <atom:link href="https://rss.punchng.com" rel="self" type="application/rss+xml" />
         <link> https://rss.punchng.com </link>
         <description> Get the latest News in Nigeria </description>
-        <lastBuildDate> Tue, 20 Oct 2026 22:20:48 +0000</lastBuildDate>
+        <lastBuildDate> Tue, 20 Oct 2026 22:50:55 +0000</lastBuildDate>
         <language> en-US </language>
         <sy:updatePeriod> minutely	</sy:updatePeriod>
         <sy:updateFrequency> 5	</sy:updateFrequency>
@@ -13,6 +13,20 @@
         <generator>https://rss.punchng.com</generator>
 
         <item>
+                        <title>‎Lagos backs sports campaigns against drug abuse, mental health issues </title>
+                        <link>https://punchng.com/lagos-backs-sports-campaigns-against-drug-abuse-mental-health-issues/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
+                        <pubDate>Tue, 20 Oct 2026 23:49:10 +0000</pubDate>
+                        <dc:creator><![CDATA[Punch Newspapers]]></dc:creator>
+                        <category><![CDATA[]]></category>
+                        <guid isPermaLink='true'>https://punchng.com/lagos-backs-sports-campaigns-against-drug-abuse-mental-health-issues/?utm_source=rss.punchng.com&amp;utm_medium=web</guid>
+                        <description><![CDATA[
+
+The Lagos State Government has backed two endurance sports initiatives aimed at raising awareness about mental health and combating drug abuse among youths
+
+Read More: https://punchng.com/lagos-backs-sports-campaigns-against-drug-abuse-mental-health-issues/]]></description>
+                        <enclosure url='https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png' length='342247' type='image/png'/>
+                    </item>
+                    <item>
                         <title>Code Noir: France repeals 341-year-old slavery code, 178 years after abolition</title>
                         <link>https://punchng.com/code-noir-france-repeals-341-year-old-slavery-code-178-years-after-abolition/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
                         <pubDate>Tue, 20 Oct 2026 23:19:33 +0000</pubDate>
@@ -416,20 +430,6 @@ Read More: https://punchng.com/research-shows-fans-now-bet-on-data-not-instinct/
 The Federal Government has disbursed N4.25bn in outstanding pension and severance benefits to 600 additional ex-Nigeria Airways workers, bringing the total
 
 Read More: https://punchng.com/fg-pays-fresh-n4-25bn-to-600-ex-nigeria-airways-workers/]]></description>
-                        <enclosure url='https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png' length='342247' type='image/png'/>
-                    </item>
-                    <item>
-                        <title>Evening recap: FG confirms Ebola case in FCT, Afenifere leader Fasoranti dies at 100, other top stories</title>
-                        <link>https://punchng.com/evening-recap-fg-confirms-ebola-case-in-fct-afenifere-leader-fasoranti-dies-at-100-other-top-stories/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
-                        <pubDate>Tue, 20 Oct 2026 19:35:08 +0000</pubDate>
-                        <dc:creator><![CDATA[Punch Newspapers]]></dc:creator>
-                        <category><![CDATA[]]></category>
-                        <guid isPermaLink='true'>https://punchng.com/evening-recap-fg-confirms-ebola-case-in-fct-afenifere-leader-fasoranti-dies-at-100-other-top-stories/?utm_source=rss.punchng.com&amp;utm_medium=web</guid>
-                        <description><![CDATA[
-
-Read the evening news recap, including the FG&#8217;s confirmation of an Ebola case in the FCT, the death of Afenifere leader Reuben Fasoranti, and more.
-
-Read More: https://punchng.com/evening-recap-fg-confirms-ebola-case-in-fct-afenifere-leader-fasoranti-dies-at-100-other-top-stories/]]></description>
                         <enclosure url='https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png' length='342247' type='image/png'/>
                     </item>
                         </channel>
