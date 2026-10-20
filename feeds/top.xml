@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 20 Oct 2026 09:22:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Oct 2026 09:58:07 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -28,7 +28,7 @@
             <link>https://www.bbc.co.uk/news/videos/cqkglz3ljedyo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cqkglz3ljedyo#1</guid>
             <pubDate>Tue, 20 Oct 2026 06:02:05 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6433/live/019c4cb0-cc4b-11f1-9a39-31b474234113.jpg"/>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a62/live/578b7400-cc6b-11f1-9a39-31b474234113.jpg"/>
         </item>
         <item>
             <title><![CDATA[We asked teens what schools should teach them about work. This is what they said]]></title>
@@ -55,12 +55,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a50c/live/322c6e70-cc62-11f1-9a39-31b474234113.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Three children injured after bus crashes into railway bridge]]></title>
-            <description><![CDATA[Gwent Police received a report of a bus crash on Tregare Street, Newport, on Tuesday morning.]]></description>
+            <title><![CDATA[Three children injured after school bus roof ripped off in crash]]></title>
+            <description><![CDATA[Gwent Police received a report of a school bus crash on Tregare Street, Newport, on Tuesday morning.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c6qxnzzgv8e7o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6qxnzzgv8e7o#1</guid>
-            <pubDate>Tue, 20 Oct 2026 09:15:50 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a2d/live/537ff930-6139-11ee-b101-6f93d6dfbcc2.png"/>
+            <pubDate>Tue, 20 Oct 2026 09:44:27 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/79b5/live/368f92c0-cc68-11f1-bc2e-018d645d8d21.jpg"/>
         </item>
         <item>
             <title><![CDATA[Revolut outage hits 'multiple services' as thousands of users report app issues]]></title>
@@ -183,11 +183,11 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3101/live/d141b880-75cf-11ef-a985-29aba0fe5f9c.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Job vacancies fall as small firms cut back on recruitment]]></title>
+            <title><![CDATA[Jobless rate falls but small firms cut back hiring ]]></title>
             <description><![CDATA[Small firms cite labour costs as a key factor in scaling back hiring, the Office for National Statistics says.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c6eq327pzr53o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6eq327pzr53o#4</guid>
-            <pubDate>Tue, 20 Oct 2026 08:49:49 GMT</pubDate>
+            <pubDate>Tue, 20 Oct 2026 09:31:29 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c778/live/bb751480-cc48-11f1-9a30-cb277859b43a.jpg"/>
         </item>
         <item>
@@ -207,8 +207,8 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/611a/live/fdd65490-cc09-11f1-838e-3908c706e890.jpg"/>
         </item>
         <item>
-            <title><![CDATA[We were not underprepared for World Cup, says England O'Neill]]></title>
-            <description><![CDATA[England's Brad O'Neill has dismissed the suggestion they were underprepared for the start of their Rugby League World Cup campaign as they bid to start salvaging it with an unchanged team against France this Saturday.]]></description>
+            <title><![CDATA[We were not underprepared for World Cup, says England's O'Neill]]></title>
+            <description><![CDATA[England's Brad O'Neill has dismissed the suggestion they were underprepared for their Rugby League World Cup campaign as they bid to start salvaging it with an unchanged team against France.]]></description>
             <link>https://www.bbc.co.uk/sport/rugby-league/articles/cmd6d3gj2znxo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/rugby-league/articles/cmd6d3gj2znxo#8</guid>
             <pubDate>Tue, 20 Oct 2026 09:15:53 GMT</pubDate>
