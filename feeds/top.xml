@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 20 Oct 2026 16:15:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Oct 2026 16:59:18 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -47,6 +47,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f2b/live/cb87ca70-cc75-11f1-baeb-8d65d4bcd7ab.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Two men re-arrested in RAF Fairford investigation]]></title>
+            <description><![CDATA[Counter-terror police say the men have been arrested on suspicion of assisting a foreign intelligence service.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cqm26z110vzko?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqm26z110vzko#1</guid>
+            <pubDate>Tue, 20 Oct 2026 16:53:20 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a2d/live/537ff930-6139-11ee-b101-6f93d6dfbcc2.png"/>
+        </item>
+        <item>
             <title><![CDATA[Harry says he wants to 'reconcile' with his family]]></title>
             <description><![CDATA[Prince Harry says he wants reconciliation with his family, in an interview with a magazine in New York last month.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cry4xj79zxd1o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -71,20 +79,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/854b/live/984048b0-cc91-11f1-94e6-edd4c60b2e1d.jpg"/>
         </item>
         <item>
-            <title><![CDATA[UK to deploy jets to defend Saudi Arabia from Houthi attacks]]></title>
-            <description><![CDATA[The UK announces it will provide additional defensive military support to Saudi Arabia as Houthi attacks escalate in the region. ]]></description>
-            <link>https://www.bbc.co.uk/news/articles/ckr5yqe1r1llo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckr5yqe1r1llo#1</guid>
-            <pubDate>Tue, 20 Oct 2026 13:54:35 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a4e/live/0b27de20-cc78-11f1-baeb-8d65d4bcd7ab.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Woman says she 'couldn't speak or breathe' during alleged rape by Russell Brand]]></title>
             <description><![CDATA[The entertainer denies three counts of rape, three charges of sexual assault and one of indecent assault.]]></description>
             <link>https://www.bbc.co.uk/news/articles/ck240rr10jdqo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ck240rr10jdqo#1</guid>
             <pubDate>Tue, 20 Oct 2026 16:02:03 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c93/live/e0334860-cc60-11f1-b1a3-5bda642ff934.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[UK to deploy jets to defend Saudi Arabia from Houthi attacks]]></title>
+            <description><![CDATA[The UK announces it will provide additional defensive military support to Saudi Arabia as Houthi attacks escalate in the region. ]]></description>
+            <link>https://www.bbc.co.uk/news/articles/ckr5yqe1r1llo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckr5yqe1r1llo#1</guid>
+            <pubDate>Tue, 20 Oct 2026 13:54:35 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a4e/live/0b27de20-cc78-11f1-baeb-8d65d4bcd7ab.jpg"/>
         </item>
         <item>
             <title><![CDATA[Man charged with attack on Australian MP as suspect's father says she is family friend]]></title>
@@ -95,28 +103,12 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/35a8/live/1183bed0-cc76-11f1-a64c-550be9e3c66b.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Zelensky and US envoys holding Oslo talks as Rubio denies withholding intelligence]]></title>
-            <description><![CDATA[The US secretary of state earlier rejected accusations Ukrainians were dying because the US was withholding critical intelligence.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/ck9qzn193lrlo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ck9qzn193lrlo#1</guid>
-            <pubDate>Tue, 20 Oct 2026 16:11:56 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f072/live/051b0900-cc94-11f1-a64c-550be9e3c66b.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Storm Austen to bring severe gales to UK as weather warning issued]]></title>
-            <description><![CDATA[The first named storm of the season - Austen - will bring damaging winds and heavy rain to parts of the UK on Friday.]]></description>
-            <link>https://www.bbc.co.uk/weather/articles/c9rkyjzgp6kdo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/weather/articles/c9rkyjzgp6kdo#1</guid>
-            <pubDate>Tue, 20 Oct 2026 09:42:56 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/58e2/live/9434c270-cc58-11f1-9b08-37acac6be953.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[We asked teens what schools should teach them about work. This is what they said]]></title>
-            <description><![CDATA[Teenagers say they want more work experience at school and opportunities to improve their communication skills.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c6m2dmdxgz2xo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6m2dmdxgz2xo#2</guid>
-            <pubDate>Tue, 20 Oct 2026 11:47:04 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d60/live/95201790-cc7e-11f1-a64c-550be9e3c66b.png"/>
+            <title><![CDATA[Teenagers tell BBC of their hopes and fears as they prepare to start work]]></title>
+            <description><![CDATA[Follow four students from Newcastle as they try out roles for the first time as part of their work experience placements.]]></description>
+            <link>https://www.bbc.co.uk/news/videos/cm93z0w7weeno?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cm93z0w7weeno#2</guid>
+            <pubDate>Tue, 20 Oct 2026 16:28:43 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/542c/live/004d1e80-cc9a-11f1-9a39-31b474234113.jpg"/>
         </item>
         <item>
             <title><![CDATA[No 'protective ring' and visiting rules too strict - key points from Covid report on care homes]]></title>
@@ -151,20 +143,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/483d/live/f2db5f30-cbdd-11f1-9a39-31b474234113.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Why O'Sullivan faces a battle to stay in world's top 16]]></title>
+            <description><![CDATA[Snooker's World Championship without Ronnie O'Sullivan is hard to conceive, after years of him being so often the central figure at the Crucible. But it may not be far away.]]></description>
+            <link>https://www.bbc.co.uk/sport/snooker/articles/c6rey5xxy3vqo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/snooker/articles/c6rey5xxy3vqo#2</guid>
+            <pubDate>Tue, 20 Oct 2026 13:45:51 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61f8/live/fb8c14d0-cc69-11f1-baeb-8d65d4bcd7ab.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[How is the US economy really doing under President Trump?]]></title>
             <description><![CDATA[Ahead of the midterms Trump has boasted about the performance of the US economy. BBC Verify looks at inflation, jobs and economic growth in the country. ]]></description>
             <link>https://www.bbc.co.uk/news/articles/cv98ze40jz18o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cv98ze40jz18o#2</guid>
             <pubDate>Tue, 20 Oct 2026 05:00:45 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/711c/live/8e797e10-cbd7-11f1-a64c-550be9e3c66b.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['I started ketamine at 14 and needed nappies at 22' - the rise of young people going to rehab]]></title>
-            <description><![CDATA[For the last two years Megan has been in agony and unable to stand straight because of her ketamine use.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c6ev30xwy8v2o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6ev30xwy8v2o#2</guid>
-            <pubDate>Tue, 20 Oct 2026 05:13:05 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e22/live/99cf5bb0-cc66-11f1-b1a3-5bda642ff934.jpg"/>
         </item>
         <item>
             <title><![CDATA[Sign up now]]></title>
@@ -180,7 +172,15 @@
             <link>https://www.bbc.co.uk/news/articles/c8040qgryqd3o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c8040qgryqd3o#4</guid>
             <pubDate>Tue, 20 Oct 2026 13:34:11 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/640a/live/8a0899e0-cc9c-11f1-94e6-edd4c60b2e1d.jpg"/>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/555b/live/f35040d0-cc7c-11f1-bed8-c51b95c602ec.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Storm Austen to bring severe gales to UK as weather warning issued]]></title>
+            <description><![CDATA[The first named storm of the season - Austen - will bring damaging winds and heavy rain to parts of the UK on Friday.]]></description>
+            <link>https://www.bbc.co.uk/weather/articles/c9rkyjzgp6kdo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/weather/articles/c9rkyjzgp6kdo#4</guid>
+            <pubDate>Tue, 20 Oct 2026 09:42:56 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/58e2/live/9434c270-cc58-11f1-9b08-37acac6be953.jpg"/>
         </item>
         <item>
             <title><![CDATA[Chancellor rejects calls to raise Capital Gains Tax in Budget]]></title>
@@ -212,15 +212,7 @@
             <link>https://www.bbc.co.uk/news/articles/cqlyel3wnxmxo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqlyel3wnxmxo#4</guid>
             <pubDate>Tue, 20 Oct 2026 15:16:38 GMT</pubDate>
-            <media:thumbnail width="240" height="160" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f691/live/ef964ea0-cc93-11f1-9a39-31b474234113.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Criminals detained in hospital set to lose benefits]]></title>
-            <description><![CDATA[The families of the victims of Nottingham killer Valdo Calocane had been campaigning for the change.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cv62yzddy6dpo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cv62yzddy6dpo#4</guid>
-            <pubDate>Tue, 20 Oct 2026 07:35:38 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d75/live/ae2ab570-cc5f-11f1-a64c-550be9e3c66b.jpg"/>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46a8/live/08677710-cca3-11f1-bc2e-018d645d8d21.jpg"/>
         </item>
         <item>
             <title><![CDATA[Paddy Power cuts 1,400 jobs and blames betting tax rises]]></title>
@@ -263,12 +255,20 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e6d/live/b98ab360-cc79-11f1-bed8-c51b95c602ec.jpg"/>
         </item>
         <item>
-            <title><![CDATA[We were not underprepared for World Cup, says England's O'Neill]]></title>
-            <description><![CDATA[England's Brad O'Neill has dismissed the suggestion they were underprepared for their Rugby League World Cup campaign as they bid to start salvaging it with an unchanged team against France.]]></description>
-            <link>https://www.bbc.co.uk/sport/rugby-league/articles/cmd6d3gj2znxo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/rugby-league/articles/cmd6d3gj2znxo#8</guid>
-            <pubDate>Tue, 20 Oct 2026 11:00:25 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a9c/live/25013ce0-cc89-11f1-bc2e-018d645d8d21.jpg"/>
+            <title><![CDATA[Bavuma epic drags SA back into Test - do they have time to beat Australia?]]></title>
+            <description><![CDATA[Captain Temba Bavuma drags South Africa back into their Test series against Australia but did his side bat on too long on day three?]]></description>
+            <link>https://www.bbc.co.uk/sport/cricket/articles/crx2d3y6gd80o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/cricket/articles/crx2d3y6gd80o#8</guid>
+            <pubDate>Tue, 20 Oct 2026 16:27:39 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/660e/live/84175a80-cca1-11f1-94e6-edd4c60b2e1d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Allen considers retirement after NI Open exit]]></title>
+            <description><![CDATA[Mark Allen says that retiring from snooker is "something I have been contemplating for a while" following his 4-2 loss to Jordan Brown in the Northern Ireland Open.]]></description>
+            <link>https://www.bbc.co.uk/sport/snooker/articles/cmn8w3zl0z4po?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/snooker/articles/cmn8w3zl0z4po#8</guid>
+            <pubDate>Tue, 20 Oct 2026 15:55:57 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b38/live/b9830080-cca0-11f1-94e6-edd4c60b2e1d.jpg"/>
         </item>
         <item>
             <title><![CDATA[Race, illness, injury, repeat - REDs and why men are suffering in silence ]]></title>
@@ -279,20 +279,20 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8eee/live/9ed65800-c975-11f1-80fc-ab418b149008.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Why O'Sullivan faces battle to stay in world's top 16]]></title>
-            <description><![CDATA[Snooker's World Championship without Ronnie O'Sullivan is hard to conceive, after years of him being so often the central figure at the Crucible. But it may not be far away.]]></description>
-            <link>https://www.bbc.co.uk/sport/snooker/articles/c6rey5xxy3vqo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/snooker/articles/c6rey5xxy3vqo#8</guid>
-            <pubDate>Tue, 20 Oct 2026 13:45:51 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61f8/live/fb8c14d0-cc69-11f1-baeb-8d65d4bcd7ab.jpg"/>
+            <title><![CDATA[We were not underprepared for World Cup, says England's O'Neill]]></title>
+            <description><![CDATA[England's Brad O'Neill has dismissed the suggestion they were underprepared for their Rugby League World Cup campaign as they bid to start salvaging it with an unchanged team against France.]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-league/articles/cmd6d3gj2znxo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/rugby-league/articles/cmd6d3gj2znxo#8</guid>
+            <pubDate>Tue, 20 Oct 2026 11:00:25 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a9c/live/25013ce0-cc89-11f1-bc2e-018d645d8d21.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Boulter produces emphatic win at Japan Open]]></title>
-            <description><![CDATA[Britain's Katie Boulter claims a dominant win in her rain-affected first-round match against Himeno Sakatsume in the Japan Open.]]></description>
-            <link>https://www.bbc.co.uk/sport/tennis/articles/c9vgrnnnz014o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/c9vgrnnnz014o#8</guid>
-            <pubDate>Tue, 20 Oct 2026 09:24:43 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc0c/live/397f0e60-cc64-11f1-b1a3-5bda642ff934.jpg"/>
+            <title><![CDATA[Why Swiatek is ending her 'most demanding' season now]]></title>
+            <description><![CDATA[Six-time Grand Slam champion Iga Swiatek ends her 2026 season after failing to qualify for the WTA Finals for the first time since 2019.]]></description>
+            <link>https://www.bbc.co.uk/sport/tennis/articles/c6r7y0jjvvm0o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/c6r7y0jjvvm0o#8</guid>
+            <pubDate>Tue, 20 Oct 2026 16:24:03 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b664/live/4d38f630-cc98-11f1-94e6-edd4c60b2e1d.jpg"/>
         </item>
     </channel>
 </rss>
