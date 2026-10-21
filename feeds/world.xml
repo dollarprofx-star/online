@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news/world</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 21 Oct 2026 00:17:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Oct 2026 01:10:02 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/world/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -217,8 +217,8 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ee0/live/1be7f440-cc67-11f1-b1a3-5bda642ff934.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Borneo is burning - living on the frontline of Asia's toxic haze]]></title>
-            <description><![CDATA[Months of fires in Indonesia have cloaked Southeast Asia in haze and made hundreds of thousands of people sick.]]></description>
+            <title><![CDATA[Borneo burning: Life on the frontline of South East Asia's toxic haze]]></title>
+            <description><![CDATA[A "Super El Niño" has fuelled months-long fires in Indonesia, making hundreds of thousands of people sick.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cqm2dzwdmmywo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqm2dzwdmmywo#2</guid>
             <pubDate>Tue, 20 Oct 2026 23:51:43 GMT</pubDate>

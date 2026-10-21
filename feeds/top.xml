@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 21 Oct 2026 00:17:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Oct 2026 01:10:02 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -135,6 +135,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca83/live/3f595b00-ccba-11f1-a64c-550be9e3c66b.png"/>
         </item>
         <item>
+            <title><![CDATA[The Papers: 'Burnham faces climate revolt' and 'Harry wants to fix feud']]></title>
+            <description><![CDATA[Several papers lead on remarks from the Duke of Sussex yesterday, where he said he hoped to reconcile with his family.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c84g1qyvvkgvo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c84g1qyvvkgvo#2</guid>
+            <pubDate>Wed, 21 Oct 2026 00:21:34 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6939/live/031837b0-cce2-11f1-b759-47986a462148.png"/>
+        </item>
+        <item>
             <title><![CDATA[Watch: Why does Prince Harry want to 'work it out' with his father and brother?]]></title>
             <description><![CDATA[Noor Nanji breaks down Prince Harry's interview with GQ Magazine, after he said he wants to "reconcile" with his family.]]></description>
             <link>https://www.bbc.co.uk/news/videos/cm0e0z7dwrd9o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -149,14 +157,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/crje5dke7vgqo#2</guid>
             <pubDate>Tue, 20 Oct 2026 12:16:38 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82be/live/c47cd320-cc79-11f1-bed8-c51b95c602ec.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[North Korea publishes photos of Kim Jong Un - why do rumours of his death keep coming back?]]></title>
-            <description><![CDATA[North Korean state media has published photos of the dictator with his daughter after the unsubstantiated rumour spread.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cmvg6qv1jdydo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmvg6qv1jdydo#2</guid>
-            <pubDate>Tue, 20 Oct 2026 11:45:49 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f2b/live/cb87ca70-cc75-11f1-baeb-8d65d4bcd7ab.jpg"/>
         </item>
         <item>
             <title><![CDATA[Sign up now]]></title>
