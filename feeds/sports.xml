@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/sport/football</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 21 Oct 2026 05:58:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Oct 2026 06:31:49 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -63,10 +63,18 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd82/live/abbc9190-c8af-11f1-9c75-6ff1271de385.jpg"/>
         </item>
         <item>
+            <title><![CDATA[How England hopeful Acheampong is giving Chelsea a big decision to make]]></title>
+            <description><![CDATA[For the first time, Chelsea's actions match the rhetoric surrounding their desire to keep academy defender Josh Acheampong.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/ck4g10n56jzqo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ck4g10n56jzqo#0</guid>
+            <pubDate>Wed, 21 Oct 2026 06:26:58 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2606/live/96260500-cbb1-11f1-81ef-39e22b578b80.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Carrick wants more Man Utd clean sheets to turn season around]]></title>
             <description><![CDATA[Manchester United boss Michael Carrick needs more clean sheets as he looks to change his team's fortunes, as they take on Como in the Champions League.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cje362v35175o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cje362v35175o#0</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cje362v35175o#1</guid>
             <pubDate>Tue, 20 Oct 2026 21:27:35 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a8ca/live/8a1f7fa0-ccd0-11f1-9a39-31b474234113.jpg"/>
         </item>
@@ -98,7 +106,7 @@
             <title><![CDATA[Man Utd revisit deal for Hall - Wednesday gossip]]></title>
             <description><![CDATA[Manchester United targeting Lewis Hall and Adrien Truffert, Real Madrid remain interested in Riccardo Calafiori, Liverpool and Arsenal both keen on Xavi Espart, plus more. ]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/ck62yq0rd0vvo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ck62yq0rd0vvo#1</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ck62yq0rd0vvo#2</guid>
             <pubDate>Tue, 20 Oct 2026 20:17:15 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd64/live/23f579c0-ccab-11f1-bc2e-018d645d8d21.png"/>
         </item>
@@ -280,14 +288,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6j9kwmkd7gwo#6</guid>
             <pubDate>Tue, 20 Oct 2026 10:54:03 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/795e/live/f507d8c0-cbb4-11f1-81ef-39e22b578b80.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Brentford contact police after rugby ball kicked into stadium during game]]></title>
-            <description><![CDATA[Brentford say they are working with the police following a "dangerous" incident in which a rugby ball was kicked from a height towards the pitch during their Premier League game with Liverpool.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cm4g17d11zvwo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cm4g17d11zvwo#6</guid>
-            <pubDate>Mon, 19 Oct 2026 16:26:44 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/49e8/live/900722f0-cbd7-11f1-b139-f77a8b036d06.jpg"/>
         </item>
         <item>
             <title><![CDATA[Mbappe scores twice as Real Madrid beat Sevilla]]></title>
@@ -509,20 +509,20 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ece/live/a85157f0-cc71-11f1-baeb-8d65d4bcd7ab.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Midfielder ready to consider Ibrox exit - gossip]]></title>
+            <description><![CDATA[Midfielders at both Rangers and Celtic could be on their way out, while a Dundee United striker weighs up his international future in Wednesday's Scottish gossip.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/c3lyl09pr84vo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c3lyl09pr84vo#16</guid>
+            <pubDate>Wed, 21 Oct 2026 06:22:12 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7750/live/94b97500-cd17-11f1-bc2e-018d645d8d21.png"/>
+        </item>
+        <item>
             <title><![CDATA[What does Celtic's demolition of Hearts mean for Hogh?]]></title>
             <description><![CDATA[BBC Scotland examines whether Celtic’s 7-1 win over Hearts proved they are better without their record signing.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cmx23n4qvnzeo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmx23n4qvnzeo#16</guid>
             <pubDate>Tue, 20 Oct 2026 11:23:57 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1240/live/3fcd5880-cc78-11f1-baeb-8d65d4bcd7ab.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Moyes insider doubts potential Celtic move - gossip]]></title>
-            <description><![CDATA[Former striker Louis Saha, who played under David Moyes at Everton, doubts whether Celtic would be able to lure away the Premier League boss in their hunt to land a successor to Martin O'Neill.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cq74p0d8wm4ro?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cq74p0d8wm4ro#16</guid>
-            <pubDate>Tue, 20 Oct 2026 06:52:44 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f557/live/c0c14750-c60e-11f1-bc2e-018d645d8d21.png"/>
         </item>
         <item>
             <title><![CDATA[Jota 'met some demons' during long injury absence]]></title>
