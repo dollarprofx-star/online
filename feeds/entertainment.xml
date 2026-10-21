@@ -12,7 +12,7 @@
 	<atom:link href="https://www.bellanaija.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.bellanaija.com</link>
 	<description>Showcasing Africa to the world. Read today!</description>
-	<lastBuildDate>Wed, 21 Oct 2026 19:29:37 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 21 Oct 2026 20:11:40 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -542,6 +542,7 @@ Photo Credit: <a href="https://www.instagram.com/p/DeuV59XDHpb/?img_index=1" tar
 		<dc:creator><![CDATA[BellaNaija Features]]></dc:creator>
 		<pubDate>Wed, 21 Oct 2026 09:00:45 +0000</pubDate>
 				<category><![CDATA[Features]]></category>
+		<category><![CDATA[Health]]></category>
 		<category><![CDATA[Ebola]]></category>
 		<category><![CDATA[Ebola Virus Disease]]></category>
 		<guid isPermaLink="false">https://www.bellanaija.com/?p=1788270</guid>
