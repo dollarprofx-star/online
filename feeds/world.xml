@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news/world</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 21 Oct 2026 02:42:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Oct 2026 03:13:34 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/world/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -209,6 +209,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ede/live/03f0b480-cbbd-11f1-bc2e-018d645d8d21.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Haitian migrants changed this US town - Trump's deportation drive is reshaping it again]]></title>
+            <description><![CDATA[The president thrust Springfield, Ohio, into the spotlight with a false pet-eating claim - years later, it remains at the heart of the immigration debate.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/crp3gvpek8njo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/crp3gvpek8njo#2</guid>
+            <pubDate>Wed, 21 Oct 2026 02:37:13 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2eec/live/c3a0f8d0-cccb-11f1-951b-8fbc7a9ea030.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Why Israeli Gen Z voters are drawn to the far right]]></title>
             <description><![CDATA[More than half a million young people will cast their ballots in Israel next week - and they could make all the difference.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cmvg632xgndeo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -247,14 +255,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cw203zx1x1rno#2</guid>
             <pubDate>Tue, 20 Oct 2026 23:21:39 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a8ca/live/9dc70340-c7a6-11f1-a624-a3d8608fc192.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Morocco's first female prime minister caught between the king, clerics, and feminists]]></title>
-            <description><![CDATA[Will Fatima El Mansouri advance women’s rights amid religious and political barriers?]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cmqxn4gggdw4o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmqxn4gggdw4o#2</guid>
-            <pubDate>Mon, 19 Oct 2026 23:30:03 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a92/live/3903b230-cbc7-11f1-bc2e-018d645d8d21.jpg"/>
         </item>
         <item>
             <title><![CDATA[Clean up begins after French riots but police remain]]></title>
