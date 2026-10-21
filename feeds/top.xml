@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 21 Oct 2026 03:46:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Oct 2026 04:21:13 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -23,12 +23,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de9d/live/8c042fe0-cca9-11f1-8789-fd6bb060c3f9.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo]]></title>
+            <title><![CDATA[US envoy to meet Putin in Russia as Zelensky says intelligence sharing 'works now']]></title>
             <description><![CDATA[Ukraine had accused the US of withholding key intelligence - a claim rejected as "scandalous" by Washington.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o#1</guid>
-            <pubDate>Tue, 20 Oct 2026 21:27:39 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c49a/live/3ca9cb60-ccba-11f1-9a39-31b474234113.jpg"/>
+            <pubDate>Wed, 21 Oct 2026 03:59:18 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9998/live/a337cac0-cd01-11f1-9999-4d9f447f1e4c.jpg"/>
         </item>
         <item>
             <title><![CDATA[UK government to make Jackdaw gas field announcement]]></title>
@@ -61,6 +61,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmlyl09xjke4o#1</guid>
             <pubDate>Tue, 20 Oct 2026 23:24:47 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/819f/live/f7b5d9b0-ccd0-11f1-b06b-25a52a186d15.png"/>
+        </item>
+        <item>
+            <title><![CDATA[What happened inside court for man charged with Australian MP attack]]></title>
+            <description><![CDATA[BBC's Katy Watson describes what unfolded in Wangaratta as 43-year-old Brendan Nugent appeared before court over the alleged attack of Helen Haines.]]></description>
+            <link>https://www.bbc.co.uk/news/videos/cq398rg0lnd1o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cq398rg0lnd1o#1</guid>
+            <pubDate>Wed, 21 Oct 2026 03:58:16 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1514/live/d90a36f0-cd02-11f1-9a39-31b474234113.jpg"/>
         </item>
         <item>
             <title><![CDATA[France is divided over who to blame for and what to learn from weekend riots]]></title>
