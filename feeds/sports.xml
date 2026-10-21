@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/sport/football</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 21 Oct 2026 08:44:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Oct 2026 09:17:28 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -31,7 +31,7 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46d5/live/a5eba520-ccca-11f1-951b-8fbc7a9ea030.jpg"/>
         </item>
         <item>
-            <title><![CDATA[No jeopardy but loads of fun - Champions League sets new goals record]]></title>
+            <title><![CDATA[No jeopardy but loads of fun - is new Champions League format a success?]]></title>
             <description><![CDATA[It was goals galore again in the Champions League on Tuesday, with the competition setting a new record this season.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/ckg5je34l0q5o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ckg5je34l0q5o#0</guid>
@@ -227,7 +227,7 @@
             <description><![CDATA[Leicester City will travel to National League North side Oxford City in the 2026-27 FA Cup first round - five years after winning the competition.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/ckwyqdvedj32o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ckwyqdvedj32o#5</guid>
-            <pubDate>Mon, 19 Oct 2026 18:13:52 GMT</pubDate>
+            <pubDate>Wed, 21 Oct 2026 09:15:41 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31e6/live/81429510-cbf0-11f1-bd6b-397ab98949f6.jpg"/>
         </item>
         <item>
@@ -491,14 +491,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/bitesize/articles/z8t4b7h#15</guid>
             <pubDate>Mon, 21 Sep 2026 20:12:31 GMT</pubDate>
             <media:thumbnail url="https://ichef.bbci.co.uk/images/ic/480xn/p0pcy5zl.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[McTominay scores twice as Napoli beat Bodo/Glimt]]></title>
-            <description><![CDATA[Scott McTominay scores his first goals since undergoing heart surgery as Napoli claim a thrilling 4-3 victory over Bodo/Glimt.]]></description>
-            <link>https://www.bbc.co.ukundefined/?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.ukundefined/#16</guid>
-            <pubDate>Tue, 20 Oct 2026 19:45:54 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca8b/live/2e434030-cccc-11f1-951b-8fbc7a9ea030.jpg"/>
         </item>
         <item>
             <title><![CDATA[SPFL invites bids for new Scottish Premiership TV deal]]></title>
