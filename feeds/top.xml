@@ -9,19 +9,11 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 21 Oct 2026 09:59:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Oct 2026 10:31:56 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
-        <item>
-            <title><![CDATA[Chris Mason: Jackdaw approved but tricky energy trade-offs remain]]></title>
-            <description><![CDATA[Jackdaw and Rosebank are case studies in the slow motion awkwardness the UK has over energy.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cked35dz47y7o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cked35dz47y7o#1</guid>
-            <pubDate>Wed, 21 Oct 2026 08:49:44 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/74c4/live/9aad62c0-cd2e-11f1-a64c-550be9e3c66b.jpg"/>
-        </item>
         <item>
             <title><![CDATA[Russia frees US citizen Stephen Hubbard, state media reports]]></title>
             <description><![CDATA[Stephen Hubbard has been taken to Pulkovo Airport, Putin said during talks with US envoy Steve Witkoff.]]></description>
@@ -31,11 +23,19 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a22e/live/83914ac0-8497-11ef-bf4c-1f355eb87d3c.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Australian MP loses both legs after alleged car attack, husband says]]></title>
+            <description><![CDATA[Her alleged attacker, 43-year-old Brendan Nugent, faces multiple charges and appeared in court for the first time on Wednesday.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/ckwyqdqxw6d0o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckwyqdqxw6d0o#1</guid>
+            <pubDate>Wed, 21 Oct 2026 07:56:30 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16b5/live/2cbe53a0-cd29-11f1-a64c-550be9e3c66b.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Inflation and government borrowing highest for a year ahead of next week's Budget]]></title>
             <description><![CDATA[Inflation accelerated to 3.5% from 3.1% in the year to September, according to the Office for National Statistics (ONS).]]></description>
             <link>https://www.bbc.co.uk/news/articles/c6gel2xv4493o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6gel2xv4493o#1</guid>
-            <pubDate>Wed, 21 Oct 2026 09:45:31 GMT</pubDate>
+            <pubDate>Wed, 21 Oct 2026 10:16:17 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a99/live/ca0d4520-cc85-11f1-bed8-c51b95c602ec.jpg"/>
         </item>
         <item>
@@ -47,7 +47,7 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f00/live/823692f0-cca9-11f1-bc2e-018d645d8d21.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Watch: Undercover filming shows lawyer advising how to avoid £45,000 illegal-worker fine]]></title>
+            <title><![CDATA[Undercover filming shows lawyer advising how to avoid £45,000 illegal-worker fine]]></title>
             <description><![CDATA[Mohammad Alias Yousaf made his claim to an undercover reporter posing as a mini-mart owner.]]></description>
             <link>https://www.bbc.co.uk/news/videos/cm93z1j33dkpo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cm93z1j33dkpo#1</guid>
@@ -55,15 +55,7 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b3e2/live/213f4910-cd1c-11f1-a64c-550be9e3c66b.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Australian MP loses both legs after alleged car attack, husband says]]></title>
-            <description><![CDATA[Her alleged attacker, 43-year-old Brendan Nugent, faces multiple charges and appeared in court for the first time on Wednesday.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/ckwyqdqxw6d0o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckwyqdqxw6d0o#1</guid>
-            <pubDate>Wed, 21 Oct 2026 07:56:30 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16b5/live/2cbe53a0-cd29-11f1-a64c-550be9e3c66b.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Watch: Huge crowds watch attempt to save shark stranded in South Korean canal]]></title>
+            <title><![CDATA[Huge crowds watch attempt to save shark stranded in South Korean canal]]></title>
             <description><![CDATA[A third attempt has been made to guide the 9ft 10in (3m) shark back to the open sea. ]]></description>
             <link>https://www.bbc.co.uk/news/videos/ckq6n56e5qrqo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/ckq6n56e5qrqo#1</guid>
@@ -91,16 +83,24 @@
             <description><![CDATA[The deep area of low pressure is expected to move close to the south of the UK early on Friday with south-west England set to bear the brunt.]]></description>
             <link>https://www.bbc.co.uk/weather/articles/c6m24ln2j43go?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/weather/articles/c6m24ln2j43go#1</guid>
-            <pubDate>Wed, 21 Oct 2026 09:04:26 GMT</pubDate>
+            <pubDate>Wed, 21 Oct 2026 10:28:13 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee09/live/4eec08b0-cd2d-11f1-bc2e-018d645d8d21.jpg"/>
         </item>
         <item>
             <title><![CDATA[The Aberfan disaster through the eyes of those who survived, 60 years on]]></title>
-            <description><![CDATA[It is 60 years since one of Wales' darkest days, when a mining community changed forever.]]></description>
+            <description><![CDATA[It was one of Wales' darkest days that changed a mining community forever.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cr9dzpx2xl0lo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cr9dzpx2xl0lo#2</guid>
             <pubDate>Wed, 21 Oct 2026 05:22:15 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c88f/live/6b71e290-c948-11f1-bc2e-018d645d8d21.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Chris Mason: Jackdaw approved but tricky energy trade-offs remain]]></title>
+            <description><![CDATA[Jackdaw and Rosebank are case studies in the slow motion awkwardness the UK has over energy.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cked35dz47y7o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cked35dz47y7o#2</guid>
+            <pubDate>Wed, 21 Oct 2026 08:49:44 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/74c4/live/9aad62c0-cd2e-11f1-a64c-550be9e3c66b.jpg"/>
         </item>
         <item>
             <title><![CDATA[I left state secrets on the train - I'm proof you can recover from the biggest mistake of your life]]></title>
@@ -111,12 +111,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ac3/live/e306fad0-ccad-11f1-a64c-550be9e3c66b.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Everything you need to know about Jackdaw, Rosebank, and the debate over UK oil and gas]]></title>
-            <description><![CDATA[The UK government has moved a step closer to making a decision on whether to approve further drilling. ]]></description>
-            <link>https://www.bbc.co.uk/news/articles/ce85ld3y4rlo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ce85ld3y4rlo#2</guid>
-            <pubDate>Wed, 21 Oct 2026 07:55:11 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b95a/live/637d0750-94d1-11f1-b2ab-0dd01740f9f6.jpg"/>
+            <title><![CDATA[Faisal Islam: Inflation and borrowing figures illustrate chancellor's Budget challenge]]></title>
+            <description><![CDATA[The economic figures released on Wednesday show the constraints for John Healey as he puts the finishing touches to his Budget.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cm3wv9pn22e5o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm3wv9pn22e5o#2</guid>
+            <pubDate>Wed, 21 Oct 2026 10:20:15 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d837/live/21441720-cd34-11f1-935f-b9c228680c6f.jpg"/>
         </item>
         <item>
             <title><![CDATA[Ali G is back. But is the character past its sell-by date? ]]></title>
@@ -141,14 +141,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c4gm2dlrxlgo#2</guid>
             <pubDate>Wed, 21 Oct 2026 05:21:31 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42c1/live/30bfd1f0-cd19-11f1-9a39-31b474234113.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Katya Adler: France divided over who to blame for riots and what to learn from them]]></title>
-            <description><![CDATA[In France and beyond there is widespread disagreement over what led to some of the worst unrest seen in French cities in modern history.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cq0me4g9p970o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cq0me4g9p970o#2</guid>
-            <pubDate>Wed, 21 Oct 2026 06:50:40 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8fb/live/9d496cd0-cc9e-11f1-94e6-edd4c60b2e1d.jpg"/>
         </item>
         <item>
             <title><![CDATA[Sign up now]]></title>
@@ -183,28 +175,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed7a/live/a6650520-cd1d-11f1-acea-8755f0f28c17.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Giant tunnel proposed to clean up Windermere's sewage problem]]></title>
-            <description><![CDATA[The plan would eliminate sewage spills into Windermere, blamed for turning the water green. ]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cr5yn4pky527o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cr5yn4pky527o#4</guid>
-            <pubDate>Wed, 21 Oct 2026 04:44:56 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/66fa/live/87e7d560-cc9f-11f1-bc2e-018d645d8d21.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Family of prison officer shot dead by IRA to get state apology]]></title>
             <description><![CDATA[Brian Stack was crossing a street in Dublin in 1983 when he was shot in the back of the neck and died 18 months later.]]></description>
             <link>https://www.bbc.co.uk/news/articles/ck20rver1j31o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ck20rver1j31o#4</guid>
             <pubDate>Wed, 21 Oct 2026 08:28:02 GMT</pubDate>
             <media:thumbnail width="240" height="133" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eddf/live/9ed26bb0-cc7b-11f1-bc2e-018d645d8d21.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Teenager arrested aged 16 jailed after terror conviction]]></title>
-            <description><![CDATA[Yusuf Shah offered advice on cyber-security to terror groups and downloaded terror-related material.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c3dxwqxdv547o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c3dxwqxdv547o#4</guid>
-            <pubDate>Wed, 21 Oct 2026 07:44:41 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1952/live/26570670-cd19-11f1-acea-8755f0f28c17.png"/>
         </item>
         <item>
             <title><![CDATA[Missing German WW2 U-boat found 82 years on]]></title>
@@ -231,12 +207,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8cb6/live/35fbce00-cb46-11f1-bc2e-018d645d8d21.jpg"/>
         </item>
         <item>
-            <title><![CDATA[No jeopardy but loads of fun - is new Champions League format a success?]]></title>
-            <description><![CDATA[It was goals galore again in the Champions League on Tuesday, with the competition setting a new record this season.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/ckg5je34l0q5o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ckg5je34l0q5o#8</guid>
-            <pubDate>Tue, 20 Oct 2026 23:03:11 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9eff/live/5ab77310-cccd-11f1-a64c-550be9e3c66b.jpg"/>
+            <title><![CDATA[PSG's Kvaratskhelia to have surgery on ruptured ACL]]></title>
+            <description><![CDATA[Paris St-Germain winger Khvicha Kvaratskhelia will undergo surgery after suffering a knee injury during his side's 4-2 win over Barcelona on Tuesday. ]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cxnv0ed5pz23o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cxnv0ed5pz23o#8</guid>
+            <pubDate>Wed, 21 Oct 2026 09:49:23 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6778/live/6bc68ff0-cd32-11f1-9be1-0ba032f367ac.jpg"/>
         </item>
         <item>
             <title><![CDATA[Crystal Palace urged to retire bald eagle mascot ]]></title>
@@ -271,12 +247,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e47/live/d109ae80-cd26-11f1-b459-2981bb26ef6d.jpg"/>
         </item>
         <item>
-            <title><![CDATA[PSG's Kvaratskhelia to have surgery on ruptured ACL]]></title>
-            <description><![CDATA[Paris St-Germain winger Khvicha Kvaratskhelia will undergo knee surgery after suffering a knee injury during his side's 4-2 win over Barcelona on Tuesday. ]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cxnv0ed5pz23o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cxnv0ed5pz23o#8</guid>
-            <pubDate>Wed, 21 Oct 2026 09:49:23 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6778/live/6bc68ff0-cd32-11f1-9be1-0ba032f367ac.jpg"/>
+            <title><![CDATA[LeBron James' 76ers beat Knicks on NBA opening night]]></title>
+            <description><![CDATA[LeBron James scores 14 points on debut for the Philadelphia 76ers as they defeat champions the New York Knicks on the opening night of the NBA season.]]></description>
+            <link>https://www.bbc.co.uk/sport/basketball/articles/c6vgj4g913wyo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/basketball/articles/c6vgj4g913wyo#8</guid>
+            <pubDate>Wed, 21 Oct 2026 06:34:15 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b476/live/2a511110-cd11-11f1-92f9-3b44ce9ad221.jpg"/>
         </item>
     </channel>
 </rss>
