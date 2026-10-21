@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/sport/football</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 21 Oct 2026 22:10:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Oct 2026 22:40:41 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -90,6 +90,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa12/live/5e0a71c0-cd95-11f1-9a39-31b474234113.jpg"/>
         </item>
         <item>
+            <title><![CDATA['Simply not good enough - Warnock on Man Utd's Como display ]]></title>
+            <description><![CDATA[Match of the Day pundits Nedum Onuoha and Stephen Warnock analyse  Manchester United's performance after their 4-1 Champions League defeat to Como, and discuss midfielder Bruno Fernandes' criticism of team tactics. ]]></description>
+            <link>https://www.bbc.co.uk/sport/football/videos/c8040gdrdlwwo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/c8040gdrdlwwo#1</guid>
+            <pubDate>Wed, 21 Oct 2026 22:36:23 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2bf5/live/13b976f0-cd9c-11f1-bc2e-018d645d8d21.jpg"/>
+        </item>
+        <item>
             <title><![CDATA['What a goal, what a moment' - Rice snatches late equaliser against Bayern]]></title>
             <description><![CDATA[Declan Rice sends the travelling Arsenal support into raptures with his late equaliser in their heavyweight Champions League clash with Bayern Munich.]]></description>
             <link>https://www.bbc.co.uk/sport/football/videos/cwvgd7nvrgp4o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -101,7 +109,7 @@
             <title><![CDATA[Foden nets hat-trick as Man City beat AEK Athens]]></title>
             <description><![CDATA[Phil Foden scores a sublime hat-trick as he produces a virtuoso display to help Manchester City return to winning ways in the Champions League group phase by easing past Greek side AEK Athens.]]></description>
             <link>https://www.bbc.co.uk/sport/football/videos/cmrly5r1jp41o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cmrly5r1jp41o#1</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cmrly5r1jp41o#3</guid>
             <pubDate>Wed, 21 Oct 2026 21:00:44 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d1b/live/8e830f90-ccca-11f1-9a39-31b474234113.jpg"/>
         </item>
@@ -152,14 +160,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/c6eq325d29dqo#3</guid>
             <pubDate>Wed, 21 Oct 2026 21:13:36 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e430/live/b1ae4860-ccd7-11f1-bc2e-018d645d8d21.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Europe's next great coach? How Fabregas led Como into Champions League]]></title>
-            <description><![CDATA[BBC Sport visits Como to discover the vision and philosophy of the club's coach, Cesc Fabregas, who has overseen the team's remarkable rise to the Champions League.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/videos/c86xjn97ve2o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/c86xjn97ve2o#3</guid>
-            <pubDate>Tue, 08 Sep 2026 07:35:25 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c548/live/985f7d20-a879-11f1-b109-879e35c24276.jpg"/>
         </item>
         <item>
             <title><![CDATA[Barca condemn PSG tifo inciting 'violence and hatred']]></title>

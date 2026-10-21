@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 21 Oct 2026 22:10:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Oct 2026 22:40:36 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -40,7 +40,7 @@
         </item>
         <item>
             <title><![CDATA[Rosenberg: US diplomatic push offers little hope for imminent Ukraine peace]]></title>
-            <description><![CDATA[Russia's President Putin does not feel under pressure right now to end the war.]]></description>
+            <description><![CDATA[President Vladimir Putin does not feel under pressure right now to end the war, the BBC's Russia Editor writes.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cm98zn5j89kdo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm98zn5j89kdo#1</guid>
             <pubDate>Wed, 21 Oct 2026 19:58:06 GMT</pubDate>
