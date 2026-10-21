@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news/world</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 21 Oct 2026 19:08:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Oct 2026 19:40:39 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/world/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -59,7 +59,7 @@
             <description><![CDATA[The fine is the largest to date against Facebook's owner, larger than an $18bn deal with California.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo#0</guid>
-            <pubDate>Wed, 21 Oct 2026 18:40:39 GMT</pubDate>
+            <pubDate>Wed, 21 Oct 2026 19:30:30 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6026/live/1fd68c80-cd78-11f1-bc2e-018d645d8d21.jpg"/>
         </item>
         <item>
@@ -69,6 +69,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckdd8m1z1z3yo#0</guid>
             <pubDate>Wed, 21 Oct 2026 05:46:33 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e26e/live/12c0e130-cd0f-11f1-92f9-3b44ce9ad221.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nigeria's first Ebola patient holidayed in Uganda, officials say]]></title>
+            <description><![CDATA[The wife of a diplomat based in Abuja travelled to Kampala for a vacation.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c62kepvg2x9lo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c62kepvg2x9lo#1</guid>
+            <pubDate>Wed, 21 Oct 2026 19:29:40 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9bc3/live/125ed250-cd83-11f1-9a39-31b474234113.jpg"/>
         </item>
         <item>
             <title><![CDATA[India 'cockroach' leaders who called on election chief to quit are freed from jail]]></title>
@@ -93,14 +101,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmn8wx75l2n8o#1</guid>
             <pubDate>Wed, 21 Oct 2026 08:31:48 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f1a/live/3e1812e0-cd32-11f1-9a39-31b474234113.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nigeria confirms Ebola case linked to East Africa   ]]></title>
-            <description><![CDATA[The female patient, who sources have told the BBC is not Nigerian, is in isolation and in an Abuja hospital.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cm2l4xw7xpjgo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm2l4xw7xpjgo#1</guid>
-            <pubDate>Wed, 21 Oct 2026 12:39:34 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20ac/live/3b3288b0-cd3e-11f1-bc2e-018d645d8d21.png"/>
         </item>
         <item>
             <title><![CDATA[Sudan army drones hit mourners and fuel market killing more than 300 people, sources say]]></title>
