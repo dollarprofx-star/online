@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/sport/football</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 21 Oct 2026 16:14:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Oct 2026 16:48:17 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -95,20 +95,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f90/live/57aa7400-cd37-11f1-935f-b9c228680c6f.jpg"/>
         </item>
         <item>
-            <title><![CDATA[PSG's Kvaratskhelia to have surgery on ruptured ACL]]></title>
-            <description><![CDATA[Paris St-Germain winger Khvicha Kvaratskhelia will undergo surgery after suffering a knee injury during his side's 4-2 win over Barcelona on Tuesday. ]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cxnv0ed5pz23o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cxnv0ed5pz23o#0</guid>
-            <pubDate>Wed, 21 Oct 2026 11:45:03 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6778/live/6bc68ff0-cd32-11f1-9be1-0ba032f367ac.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Who am I? Plus today's other quizzes]]></title>
             <description><![CDATA[Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cqrky2rpkrz2o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqrky2rpkrz2o#1</guid>
             <pubDate>Wed, 21 Oct 2026 05:35:38 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"/>
+        </item>
+        <item>
+            <title><![CDATA[PSG's Kvaratskhelia to have surgery on ruptured ACL]]></title>
+            <description><![CDATA[Paris St-Germain winger Khvicha Kvaratskhelia will undergo surgery after suffering a knee injury during his side's 4-2 win over Barcelona on Tuesday. ]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cxnv0ed5pz23o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cxnv0ed5pz23o#1</guid>
+            <pubDate>Wed, 21 Oct 2026 11:45:03 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6778/live/6bc68ff0-cd32-11f1-9be1-0ba032f367ac.jpg"/>
         </item>
         <item>
             <title><![CDATA[No jeopardy but loads of fun - is new Champions League format a success?]]></title>
@@ -127,6 +127,14 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2606/live/96260500-cbb1-11f1-81ef-39e22b578b80.jpg"/>
         </item>
         <item>
+            <title><![CDATA[The keeper doing 'Premier League' things for EFL's last unbeaten side]]></title>
+            <description><![CDATA[Walsall goalkeeper Jed Ward is producing "Premier League" contributions with his hands and feet, say dazzled team-mates and his manager.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/c98rz0d0l40vo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c98rz0d0l40vo#1</guid>
+            <pubDate>Wed, 21 Oct 2026 12:46:12 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1bcc/live/ab2708f0-cd3c-11f1-8177-0f8bd59b54c4.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Carrick wants more Man Utd clean sheets to turn season around]]></title>
             <description><![CDATA[Manchester United boss Michael Carrick needs more clean sheets as he looks to change his team's fortunes, as they take on Como in the Champions League.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cje362v35175o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -135,28 +143,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a8ca/live/8a1f7fa0-ccd0-11f1-9a39-31b474234113.jpg"/>
         </item>
         <item>
+            <title><![CDATA[72+: The EFL Podcast]]></title>
+            <description><![CDATA[Aaron Paul and Jobi McAnuff are joined by Lyle Taylor to discuss the latest in the EFL.]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/p0phvgy3?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0phvgy3#1</guid>
+            <pubDate>Wed, 21 Oct 2026 16:07:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0p3n9ks.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[What are the EFL rules on homegrown players?]]></title>
             <description><![CDATA[BBC Sport's Ask Me Anything team explains the rules on homegrown players used by the English Football League across the Championship, League One and League Two]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/ck7vp83l215yo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ck7vp83l215yo#1</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ck7vp83l215yo#2</guid>
             <pubDate>Wed, 21 Oct 2026 12:16:11 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7231/live/4f153ff0-cd4b-11f1-8177-0f8bd59b54c4.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Webb backs VAR over Botman challenge on Jackson]]></title>
-            <description><![CDATA[Premier League referees' chief Howard Webb says Sven Botman's challenge on Nicolas Jackson was a "high-end reckless challenge" but backed the video assistant referee's decision not to intervene for a red card.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cm3vqz1de9lro?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cm3vqz1de9lro#2</guid>
-            <pubDate>Tue, 20 Oct 2026 16:56:53 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b0b4/live/e800cc90-cc81-11f1-bed8-c51b95c602ec.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ronaldo let Manchester United down - Ten Hag]]></title>
-            <description><![CDATA[Former Manchester United manager Erik ten Hag says Cristiano Ronaldo "let the team and let me down" during the Dutchman's spell at Old Trafford.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/c8dx32rn297wo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c8dx32rn297wo#2</guid>
-            <pubDate>Tue, 20 Oct 2026 12:12:51 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e6d/live/b98ab360-cc79-11f1-bed8-c51b95c602ec.jpg"/>
         </item>
         <item>
             <title><![CDATA[Man Utd revisit deal for Hall - Wednesday gossip]]></title>
@@ -207,6 +207,22 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec42/live/1b9be3a0-cc05-11f1-9a39-31b474234113.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Ronaldo let Manchester United down - Ten Hag]]></title>
+            <description><![CDATA[Former Manchester United manager Erik ten Hag says Cristiano Ronaldo "let the team and let me down" during the Dutchman's spell at Old Trafford.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/c8dx32rn297wo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c8dx32rn297wo#5</guid>
+            <pubDate>Tue, 20 Oct 2026 12:12:51 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e6d/live/b98ab360-cc79-11f1-bed8-c51b95c602ec.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Webb backs VAR over Botman challenge on Jackson]]></title>
+            <description><![CDATA[Premier League referees' chief Howard Webb says Sven Botman's challenge on Nicolas Jackson was a "high-end reckless challenge" but backed the video assistant referee's decision not to intervene for a red card.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cm3vqz1de9lro?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cm3vqz1de9lro#5</guid>
+            <pubDate>Tue, 20 Oct 2026 16:56:53 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b0b4/live/e800cc90-cc81-11f1-bed8-c51b95c602ec.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Alvechurch and Stafford set up tasty FA Cup ties]]></title>
             <description><![CDATA[Eighth-tier Stafford Rangers will host Grimsby in the FA Cup first round after thumping National League strugglers Gateshead 5-0.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/crq5n0d8g2l4o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -226,7 +242,7 @@
             <title><![CDATA[Arsenal criticism comes from very small minority - Arteta]]></title>
             <description><![CDATA[David Raya says he does not know what to say when people call Arsenal's style of play "boring or irritating", as Mikel Arteta brushes off criticism.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cm8xzrwv5zpko?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cm8xzrwv5zpko#5</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cm8xzrwv5zpko#6</guid>
             <pubDate>Tue, 20 Oct 2026 20:33:27 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d499/live/52b3cc40-ccc3-11f1-951b-8fbc7a9ea030.jpg"/>
         </item>
@@ -234,17 +250,9 @@
             <title><![CDATA[Building Lionesses 2.0 - Wiegman's new challenge awaits]]></title>
             <description><![CDATA[England head coach Sarina Wiegman has changed women's football in the country, so what does she face after signing a contract extension? ]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cvze4w57746yo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cvze4w57746yo#5</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cvze4w57746yo#6</guid>
             <pubDate>Mon, 19 Oct 2026 20:15:48 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07a9/live/73eec850-cbd4-11f1-bc2e-018d645d8d21.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Liverpool, Man City & PSG win on record-breaking night]]></title>
-            <description><![CDATA[Kelly Cates is joined by Stephen Warnock, Ashley Young, Tom Allnutt and Statman Dave.]]></description>
-            <link>https://www.bbc.co.uk/sounds/play/p0phqcz5?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0phqcz5#5</guid>
-            <pubDate>Tue, 20 Oct 2026 22:14:00 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0phqczr.jpg"/>
         </item>
         <item>
             <title><![CDATA[What is the longest a team has gone without winning a league game at home?]]></title>
@@ -277,14 +285,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0phm65x#6</guid>
             <pubDate>Tue, 20 Oct 2026 11:20:00 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0ks0x6f.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[How to follow the Champions League on the BBC]]></title>
-            <description><![CDATA[The Champions League returns this week and you will be able to listen to commentary and watch highlights of the best of the action on the BBC.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/c5yw79e4zgdo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c5yw79e4zgdo#6</guid>
-            <pubDate>Mon, 19 Oct 2026 15:39:04 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/291a/live/f0a04d80-aac6-11f1-8881-75c1b8a858c8.jpg"/>
         </item>
         <item>
             <title><![CDATA[All the goals from the Women's Super League - matchweek six ]]></title>
@@ -357,6 +357,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e66/live/a6aa32c0-cb20-11f1-9a39-31b474234113.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Liverpool, Man City & PSG win on record-breaking night]]></title>
+            <description><![CDATA[Kelly Cates is joined by Stephen Warnock, Ashley Young, Tom Allnutt and Statman Dave.]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/p0phqcz5?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0phqcz5#10</guid>
+            <pubDate>Tue, 20 Oct 2026 22:14:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0phqczr.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Beer & Blackpool beach was how British players bonded - Pulis]]></title>
             <description><![CDATA[BBC Sport columnist Tony Pulis explains what Spurs will get from their team-bonding trip to Spain, and how differently managers built team morale in his day.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cjr4yndrz1kro?at_medium=RSS&amp;at_campaign=rss</link>
@@ -387,14 +395,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmde8l07569no#10</guid>
             <pubDate>Fri, 16 Oct 2026 06:28:10 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0837/live/9bbd98a0-c63b-11f1-b99d-0127a94fa1d0.png"/>
-        </item>
-        <item>
-            <title><![CDATA[Getting to know Man Utd boss Olid]]></title>
-            <description><![CDATA[It has been a whirlwind 10 weeks for Eva Olid since she became manager of Manchester United.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/c6qxneqry885o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6qxneqry885o#10</guid>
-            <pubDate>Fri, 16 Oct 2026 07:47:56 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70ed/live/f2087120-c8a3-11f1-a64c-550be9e3c66b.jpg"/>
         </item>
         <item>
             <title><![CDATA[Manager ins and outs - 2026-27]]></title>
@@ -531,14 +531,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmx23n4qvnzeo#16</guid>
             <pubDate>Tue, 20 Oct 2026 11:23:57 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1240/live/3fcd5880-cc78-11f1-baeb-8d65d4bcd7ab.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ex-Rangers striker Ferguson takes over Irish League club]]></title>
-            <description><![CDATA[Ex-Everton and Rangers striker Duncan Ferguson is named as the new manager of Irish Premiership club Glentoran.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cq62yd157rjeo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cq62yd157rjeo#16</guid>
-            <pubDate>Mon, 19 Oct 2026 10:06:10 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aaac/live/3a3a1250-cba6-11f1-9ee2-f74dfb8e54e5.jpg"/>
         </item>
         <item>
             <title><![CDATA[Building Lionesses 2.0 - Wiegman's new challenge awaits]]></title>
