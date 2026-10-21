@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/sport/football</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 21 Oct 2026 22:40:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Oct 2026 23:06:43 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -28,7 +28,15 @@
             <link>https://www.bbc.co.uk/sport/football/articles/cq74pjn80x4wo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cq74pjn80x4wo#0</guid>
             <pubDate>Wed, 21 Oct 2026 19:59:30 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a7d0/live/bf54ac40-cd93-11f1-9eeb-4dc727f0eced.jpg"/>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b893/live/0c5d23f0-cda3-11f1-a307-df5709f146ff.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Saka injury 'does not look good' - how will Arsenal cope?]]></title>
+            <description><![CDATA[Mikel Arteta says the quadriceps injury Arsenal's Bukayo Saka picked up in the Champions League draw with Bayern Munich "does not look good at all".]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/ckg5j1zdn4m3o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ckg5j1zdn4m3o#0</guid>
+            <pubDate>Wed, 21 Oct 2026 22:51:56 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f158/live/7c215a80-cda3-11f1-a307-df5709f146ff.jpg"/>
         </item>
         <item>
             <title><![CDATA[Rice strikes to earn Arsenal draw at Bayern]]></title>
@@ -130,6 +138,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bea8/live/2847b040-cd84-11f1-bc2e-018d645d8d21.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Is it 'phenomenal' Kane's year to lift the Ballon d'Or?]]></title>
+            <description><![CDATA[Stephen Warnock, Nedum Onuoha and Lars Sivertsen look at whether England captain and Bayern Munich forward Harry Kane should lift the Ballon d'Or following a "phenomenal" season.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/videos/crpdg21y070jo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/crpdg21y070jo#3</guid>
+            <pubDate>Wed, 21 Oct 2026 22:41:53 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab82/live/8fe9ed50-cda0-11f1-a64c-550be9e3c66b.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Isco the difference as Betis continue winning start against Feyenoord]]></title>
             <description><![CDATA[Real Betis secure their third win on the bounce in the Champions League as Isco converts a penalty in the 59th minute against Feyenoord.]]></description>
             <link>https://www.bbc.co.uk/sport/football/videos/ckp8gjl3epr7o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -152,14 +168,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/c5j9kzlrynx1o#3</guid>
             <pubDate>Wed, 21 Oct 2026 21:12:15 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84a2/live/9bdbe630-ccb6-11f1-9a39-31b474234113.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ruthless Roma put four past toothless  Slovan Bratislava]]></title>
-            <description><![CDATA[Ruthless Roma stick four past Yaya Toure's Slovan Bratislava to secure their first Champions League victory of the season.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/videos/c6eq325d29dqo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/c6eq325d29dqo#3</guid>
-            <pubDate>Wed, 21 Oct 2026 21:13:36 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e430/live/b1ae4860-ccd7-11f1-bc2e-018d645d8d21.jpg"/>
         </item>
         <item>
             <title><![CDATA[Barca condemn PSG tifo inciting 'violence and hatred']]></title>
@@ -186,20 +194,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f612/live/0bcfada0-cd7a-11f1-a428-3f9d1bf6cc8b.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Animal rights group asks Crystal Palace to retire eagle mascot]]></title>
-            <description><![CDATA[Animal rights group Peta is urging Crystal Palace to retire their bald eagle mascot, saying a "bright stadium filled with boisterous fans is no place for animals".]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cmx2302r04r4o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmx2302r04r4o#4</guid>
-            <pubDate>Wed, 21 Oct 2026 07:24:35 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed7a/live/a6650520-cd1d-11f1-acea-8755f0f28c17.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[72+: The EFL Podcast]]></title>
             <description><![CDATA[Aaron Paul and Jobi McAnuff are joined by Lyle Taylor to discuss the latest in the EFL.]]></description>
             <link>https://www.bbc.co.uk/sounds/play/p0phvgy3?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0phvgy3#4</guid>
             <pubDate>Wed, 21 Oct 2026 16:07:00 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0p3n9ks.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Animal rights group asks Crystal Palace to retire eagle mascot]]></title>
+            <description><![CDATA[Animal rights group Peta is urging Crystal Palace to retire their bald eagle mascot, saying a "bright stadium filled with boisterous fans is no place for animals".]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cmx2302r04r4o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmx2302r04r4o#6</guid>
+            <pubDate>Wed, 21 Oct 2026 07:24:35 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed7a/live/a6650520-cd1d-11f1-acea-8755f0f28c17.jpg"/>
         </item>
         <item>
             <title><![CDATA[No Haaland, no problem - can Foden be Man City's alternative goalscorer?]]></title>
@@ -245,7 +253,7 @@
             <title><![CDATA[How England hopeful Acheampong is giving Chelsea a big decision to make]]></title>
             <description><![CDATA[For the first time, Chelsea's actions match the rhetoric surrounding their desire to keep academy defender Josh Acheampong.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/ck4g10n56jzqo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ck4g10n56jzqo#6</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ck4g10n56jzqo#7</guid>
             <pubDate>Wed, 21 Oct 2026 06:26:58 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2606/live/96260500-cbb1-11f1-81ef-39e22b578b80.jpg"/>
         </item>
@@ -272,14 +280,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ck7vp83l215yo#7</guid>
             <pubDate>Wed, 21 Oct 2026 12:16:11 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7231/live/4f153ff0-cd4b-11f1-8177-0f8bd59b54c4.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ronaldo let Manchester United down - Ten Hag]]></title>
-            <description><![CDATA[Former Manchester United manager Erik ten Hag says Cristiano Ronaldo "let the team and let me down" during the Dutchman's spell at Old Trafford.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/c8dx32rn297wo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c8dx32rn297wo#7</guid>
-            <pubDate>Tue, 20 Oct 2026 12:12:51 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e6d/live/b98ab360-cc79-11f1-bed8-c51b95c602ec.jpg"/>
         </item>
         <item>
             <title><![CDATA[Crawley Town sack head coach Kazim-Richards]]></title>
