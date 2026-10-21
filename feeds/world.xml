@@ -9,21 +9,21 @@
             <link>https://www.bbc.co.uk/news/world</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 21 Oct 2026 12:58:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Oct 2026 13:36:15 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/world/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
             <title><![CDATA[US citizen Stephen Hubbard freed by Russia as Trump envoy meets Putin]]></title>
-            <description><![CDATA[The 74-year-old former teacher has been released without any "swap" required, Trump says.]]></description>
+            <description><![CDATA[The 74-year-old former teacher, who was captured, has been released without any "swap" required, Trump says.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6m24l9v3745o#0</guid>
             <pubDate>Wed, 21 Oct 2026 12:32:01 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a22e/live/83914ac0-8497-11ef-bf4c-1f355eb87d3c.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Trump and Zelensky appear at loggerheads despite new optimism]]></title>
+            <title><![CDATA[Trump and Zelensky at loggerheads despite new optimism]]></title>
             <description><![CDATA[The Ukrainian leader's hug with Steve Witkoff in the Norwegian capital is unlikely to dispel misgivings about US policy towards his country, writes Paul Adams.]]></description>
             <link>https://www.bbc.co.uk/news/articles/ckrey51jrgnro?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckrey51jrgnro#0</guid>
@@ -265,7 +265,7 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1718/live/05ef3900-cc80-11f1-bed8-c51b95c602ec.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Watch: Third attempt to save 'celebrity' shark stranded in South Korean canal]]></title>
+            <title><![CDATA[Huge crowds watch attempt to rescue shark stranded in South Korean canal]]></title>
             <description><![CDATA[A third attempt has been made to guide the 9ft 10in (3m) shark back to the open sea. ]]></description>
             <link>https://www.bbc.co.uk/news/videos/ckq6n56e5qrqo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/ckq6n56e5qrqo#3</guid>
