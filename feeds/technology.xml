@@ -9,11 +9,19 @@
             <link>https://www.bbc.co.uk/news/technology</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 21 Oct 2026 05:26:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Oct 2026 05:58:34 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Elon Musk considering Tesla-SpaceX merger]]></title>
+            <description><![CDATA[Musk says special committees within both companies have been formed to look at a possible mega-merger.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmlyl09xjke4o#0</guid>
+            <pubDate>Wed, 21 Oct 2026 05:48:46 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/819f/live/f7b5d9b0-ccd0-11f1-b06b-25a52a186d15.png"/>
+        </item>
         <item>
             <title><![CDATA[Why does Elon Musk want to merge Tesla and SpaceX?]]></title>
             <description><![CDATA[Musk, who is CEO of both companies, says there is "a lot to be gained" from the merger, which would be the biggest in history.]]></description>
@@ -21,14 +29,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cr93z1e87e0do#0</guid>
             <pubDate>Wed, 21 Oct 2026 04:13:14 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b71f/live/c95f8940-cce3-11f1-94ca-a129a5a527a6.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Elon Musk says Tesla-SpaceX merger being considered]]></title>
-            <description><![CDATA[Musk says special committees within both companies have been formed to look at a possible mega-merger.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmlyl09xjke4o#0</guid>
-            <pubDate>Tue, 20 Oct 2026 23:24:47 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/819f/live/f7b5d9b0-ccd0-11f1-b06b-25a52a186d15.png"/>
         </item>
         <item>
             <title><![CDATA[The tech helping crack decades-old cold cases]]></title>
