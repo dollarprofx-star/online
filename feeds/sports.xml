@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/sport/football</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 22 Oct 2026 16:48:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Oct 2026 17:20:08 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -39,6 +39,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/13b9/live/9d6ea160-cdf9-11f1-9a39-31b474234113.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Is Leicester boss Martin turning the Foxes' fortunes?]]></title>
+            <description><![CDATA[Leicester are 10th in League One, 10 years after winning the Premier League. After hitting their lowest ebb, are there now grounds for optimism?]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cq073zrgv8vvo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cq073zrgv8vvo#0</guid>
+            <pubDate>Thu, 22 Oct 2026 06:01:48 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a01d/live/93104bb0-cd81-11f1-b1e7-39558e114359.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[What are Real's attacking options during Vinicius Jr ban?]]></title>
             <description><![CDATA[Real Madrid’s attacking options are expanding under Jose Mourinho, with Endrick, Yan Diomande and Carlos Espi offering fresh solutions in the final third.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cq70pj7p0ep6o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -53,14 +61,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ck0541dzqe04o#0</guid>
             <pubDate>Thu, 22 Oct 2026 10:28:21 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7131/live/7cc5c120-ce01-11f1-8991-296181d7e3de.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Is Leicester boss Martin turning the Foxes' fortunes?]]></title>
-            <description><![CDATA[Leicester are 10th in League One, 10 years after winning the Premier League. After hitting their lowest ebb, are there now grounds for optimism?]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cq073zrgv8vvo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cq073zrgv8vvo#0</guid>
-            <pubDate>Thu, 22 Oct 2026 06:01:48 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a01d/live/93104bb0-cd81-11f1-b1e7-39558e114359.jpg"/>
         </item>
         <item>
             <title><![CDATA[Breaking down Man Utd's tactics after Fernandes' criticism]]></title>
@@ -474,14 +474,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqr7ymjr1dyno#16</guid>
             <pubDate>Thu, 22 Oct 2026 06:39:18 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81c6/live/306239d0-cde3-11f1-bc2e-018d645d8d21.png"/>
-        </item>
-        <item>
-            <title><![CDATA[Podcast: Is Celta a must-win for Celtic? And what do fans want from new TV deal?]]></title>
-            <description><![CDATA[Celtic face a Europa League test in Celta Vigo - can they keep the momentum going?]]></description>
-            <link>https://www.bbc.co.uk/sounds/play/p0phyhpt?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0phyhpt#16</guid>
-            <pubDate>Thu, 22 Oct 2026 07:00:00 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0phyhq8.jpg"/>
         </item>
         <item>
             <title><![CDATA[Georgia and Dundee legend Nemsadze dies aged 54 ]]></title>
