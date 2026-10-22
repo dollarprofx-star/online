@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 22 Oct 2026 22:39:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Oct 2026 23:07:36 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -31,12 +31,12 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20cc/live/75f1ced0-ce46-11f1-9b4c-4dd353c15d43.jpg"/>
         </item>
         <item>
-            <title><![CDATA[AI discovered a massive cyber-security flaw - here's what happened]]></title>
-            <description><![CDATA[The BBC's technology correspondent Joe Tidy explains how it happened, and what it means for you.]]></description>
-            <link>https://www.bbc.co.uk/news/videos/cq0ld7e0jg2eo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cq0ld7e0jg2eo#1</guid>
-            <pubDate>Thu, 22 Oct 2026 12:17:44 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1179/live/36410730-ce21-11f1-bc2e-018d645d8d21.png"/>
+            <title><![CDATA[Musk has restored access to Ukraine's Starlink network, Trump says]]></title>
+            <description><![CDATA[Ukraine relies on Starlink for a range of military uses - its owner Elon Musk has repeatedly denied restricting access.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o#1</guid>
+            <pubDate>Thu, 22 Oct 2026 21:42:39 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4438/live/13dc7b20-ce53-11f1-a7e5-1bf3b637cfc1.jpg"/>
         </item>
         <item>
             <title><![CDATA[Raye wins the Mercury Prize with This Music May Contain Hope]]></title>
@@ -47,12 +47,28 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8744/live/0f29cde0-ce66-11f1-ab75-d744dbb6f3f7.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Celebrity Traitors - paranoia deepens as traitor behaviour splits opinion]]></title>
+            <description><![CDATA[The murder in plain sight victim was revealed ahead of another difficult round table.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cmqxn3133rdwo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmqxn3133rdwo#1</guid>
+            <pubDate>Thu, 22 Oct 2026 22:48:44 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e13/live/a9afe5b0-ce62-11f1-9b37-f555b2834a71.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Trump ordered to answer questions under oath in BBC lawsuit ]]></title>
             <description><![CDATA[Trump is suing the BBC over an episode of Panorama that edited together two different sections of a speech he gave in 2021. ]]></description>
             <link>https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmy0ryjx7741o#1</guid>
             <pubDate>Thu, 22 Oct 2026 17:14:04 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6bf5/live/f171dec0-ce3b-11f1-a86f-f78305ec9987.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Russell Brand accuser said alleged rape 'really hurt', court hears]]></title>
+            <description><![CDATA[The friend of a woman claiming to have been raped by Russell Brand says she said he was  "quite aggressive".]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c9e8lz4mrg88o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c9e8lz4mrg88o#1</guid>
+            <pubDate>Thu, 22 Oct 2026 16:45:09 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03c7/live/61652b80-ce03-11f1-8991-296181d7e3de.jpg"/>
         </item>
         <item>
             <title><![CDATA[Prince William makes surprise appearance on Graham Norton Show]]></title>
@@ -69,14 +85,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6m2dwddl3xlo#1</guid>
             <pubDate>Thu, 22 Oct 2026 20:54:02 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/144f/live/6f304600-c88b-11f1-bc2e-018d645d8d21.png"/>
-        </item>
-        <item>
-            <title><![CDATA[Russell Brand accuser said alleged rape 'really hurt', court hears]]></title>
-            <description><![CDATA[The friend of a woman claiming to have been raped by Russell Brand says she said he was  "quite aggressive".]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c9e8lz4mrg88o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c9e8lz4mrg88o#1</guid>
-            <pubDate>Thu, 22 Oct 2026 16:45:09 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03c7/live/61652b80-ce03-11f1-8991-296181d7e3de.jpg"/>
         </item>
         <item>
             <title><![CDATA[Woman charged after police officer injured in shooting]]></title>
@@ -96,14 +104,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d2ef/live/525eab10-cdfa-11f1-97f7-a7674fb562de.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Watch: Ukraine hit by strikes after Russia agrees to new peace talks]]></title>
-            <description><![CDATA[The three waves of Russian missiles were launched at hours after Russia said it was "ready in principle" to resume peace talks with the US and Ukraine. 
-
-]]></description>
-            <link>https://www.bbc.co.uk/news/videos/c9146p1vx888o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/c9146p1vx888o#1</guid>
-            <pubDate>Thu, 22 Oct 2026 17:49:13 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af60/live/691b9580-ce35-11f1-a86f-f78305ec9987.jpg"/>
+            <title><![CDATA[AI discovered a massive cyber-security flaw - here's what happened]]></title>
+            <description><![CDATA[The BBC's technology correspondent Joe Tidy explains how it happened, and what it means for you.]]></description>
+            <link>https://www.bbc.co.uk/news/videos/cq0ld7e0jg2eo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cq0ld7e0jg2eo#2</guid>
+            <pubDate>Thu, 22 Oct 2026 12:17:44 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1179/live/36410730-ce21-11f1-bc2e-018d645d8d21.png"/>
         </item>
         <item>
             <title><![CDATA[Dame Judi Dench: 'I can't do a play, a film or read anymore']]></title>
@@ -112,14 +118,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6ly09v09lnjo#2</guid>
             <pubDate>Thu, 22 Oct 2026 06:41:29 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf0d/live/be73bd80-ce14-11f1-9a39-31b474234113.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The real reasons there are so few young politicians in the US]]></title>
-            <description><![CDATA[No country for young men and women: why do older politicians seem to have such a tight grip on the US political system?]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cmde8rr2d6eno?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmde8rr2d6eno#2</guid>
-            <pubDate>Wed, 21 Oct 2026 23:52:12 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db97/live/14d84c70-cdf4-11f1-9a39-31b474234113.jpg"/>
         </item>
         <item>
             <title><![CDATA[Newborn twins fight for survival as conflict fuels Yemen's hunger crisis]]></title>
@@ -240,6 +238,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqe8rglz8p90o#8</guid>
             <pubDate>Thu, 22 Oct 2026 16:19:30 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc26/live/27082d50-ce32-11f1-9f18-490cec60aa0f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[O'Neill bemoans marginal moments but are Celtic just not good enough?]]></title>
+            <description><![CDATA[Martin O'Neill spoke of refereeing decisions and near misses after the Europa League defeat against Celta Vigo. But is the reality more concerning?]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cqx287ekvvvpo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqx287ekvvvpo#8</guid>
+            <pubDate>Thu, 22 Oct 2026 22:52:52 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/468f/live/8a28a310-ce5f-11f1-a166-e30097724580.jpg"/>
         </item>
         <item>
             <title><![CDATA[Austin track bumps out of control - Verstappen]]></title>
