@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 22 Oct 2026 18:19:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Oct 2026 19:07:41 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -28,7 +28,7 @@
             <link>https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o#1</guid>
             <pubDate>Thu, 22 Oct 2026 17:12:51 GMT</pubDate>
-            <media:thumbnail width="240" height="160" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c4a1/live/7169fdc0-ce3b-11f1-9a39-31b474234113.jpg"/>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20cc/live/75f1ced0-ce46-11f1-9b4c-4dd353c15d43.jpg"/>
         </item>
         <item>
             <title><![CDATA[AI discovered a massive cyber-security flaw - here's what happened]]></title>
@@ -152,6 +152,16 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b70/live/03f9d3e0-ce3c-11f1-a86f-f78305ec9987.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Ukraine hit by strikes after Russia agrees to new peace talks]]></title>
+            <description><![CDATA[The three waves of Russian missiles were launched at hours after Russia said it was "ready in principle" to resume peace talks with the US and Ukraine. 
+
+]]></description>
+            <link>https://www.bbc.co.uk/news/videos/c9146p1vx888o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/c9146p1vx888o#4</guid>
+            <pubDate>Thu, 22 Oct 2026 17:49:13 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af60/live/691b9580-ce35-11f1-a86f-f78305ec9987.jpg"/>
+        </item>
+        <item>
             <title><![CDATA['Looksmaxxing' influencer Clavicular pleads not guilty to rape charge]]></title>
             <description><![CDATA[The influencer, whose real name is Braden Peters, is accused of sexually assaulting a 17-year-old girl in 2025.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cqwy71ldj3w9o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -174,14 +184,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmx23dwp3qzro#4</guid>
             <pubDate>Thu, 22 Oct 2026 15:05:47 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a08/live/66d2ad60-ce29-11f1-9f18-490cec60aa0f.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[UK plans emergency powers to protect undersea cables]]></title>
-            <description><![CDATA[Ministers are set to gain powers over telecoms companies during national security emergencies.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cwe8lz45d820o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwe8lz45d820o#4</guid>
-            <pubDate>Thu, 22 Oct 2026 15:56:03 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61d2/live/eae75550-ce2f-11f1-9f18-490cec60aa0f.jpg"/>
         </item>
         <item>
             <title><![CDATA[Man, 61, charged with murder after 'stabbed' woman dies following crash]]></title>
@@ -208,12 +210,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf6/live/d1e71250-9509-11ee-8df3-1d2983d8814f.png"/>
         </item>
         <item>
-            <title><![CDATA[Sri Lanka make 430 to beat England after Brook's 202]]></title>
-            <description><![CDATA[Harry Brook’s first double century by an England batter in a one-day international is not enough to prevent his team being stunned by Sri Lanka, who pull off a remarkable chase of 430 in Rawalpindi.]]></description>
-            <link>https://www.bbc.co.uk/sport/cricket/articles/cq99z35zpgzmo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/cricket/articles/cq99z35zpgzmo#8</guid>
-            <pubDate>Thu, 22 Oct 2026 17:31:42 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fbc9/live/f1e197e0-ce38-11f1-a64c-550be9e3c66b.jpg"/>
+            <title><![CDATA[Brook underlines status as world's best all-format batter in run-fest]]></title>
+            <description><![CDATA[Once the disappointment of defeat dissipates, Harry Brook can reflect on another starring role with the bat which underlines his status as the world's best all-format batter, says Stephan Shemilt.]]></description>
+            <link>https://www.bbc.co.uk/sport/cricket/articles/cmd93kw9q5v3o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/cricket/articles/cmd93kw9q5v3o#8</guid>
+            <pubDate>Thu, 22 Oct 2026 17:52:45 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f1b/live/aad157e0-ce39-11f1-a86f-f78305ec9987.jpg"/>
         </item>
         <item>
             <title><![CDATA[Fernandes to stay captain as Rooney calls Man Utd players babies]]></title>
@@ -230,22 +232,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/cqe9ldmdpxzzo#8</guid>
             <pubDate>Thu, 22 Oct 2026 16:21:57 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93be/live/7837d090-ce2d-11f1-9f18-490cec60aa0f.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[What next for Australia after chastening defeat by South Africa?]]></title>
-            <description><![CDATA[Problems mounting up for Australia after their humbling against South Africa in second Test.]]></description>
-            <link>https://www.bbc.co.uk/sport/cricket/articles/cmg473p9vz6xo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/cricket/articles/cmg473p9vz6xo#8</guid>
-            <pubDate>Thu, 22 Oct 2026 17:25:22 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/055c/live/5a880f40-ce39-11f1-a64c-550be9e3c66b.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sherrock one of 24 'amateurs' taking on Littler]]></title>
-            <description><![CDATA[Women's world number three Fallon Sherrock is named among the 24 contestants bidding to beat Luke Littler in a new Netflix special. ]]></description>
-            <link>https://www.bbc.co.uk/sport/darts/articles/c95ynp3dp8pvo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/darts/articles/c95ynp3dp8pvo#8</guid>
-            <pubDate>Thu, 22 Oct 2026 16:45:14 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92d9/live/7cdefb60-ce36-11f1-a86f-f78305ec9987.jpg"/>
         </item>
     </channel>
 </rss>
