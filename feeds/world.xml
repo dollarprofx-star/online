@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news/world</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 21 Oct 2026 23:38:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Oct 2026 00:02:52 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/world/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -231,6 +231,22 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3138/live/44562b50-cbd0-11f1-aba9-2bb2608f11d9.jpg"/>
         </item>
         <item>
+            <title><![CDATA[The real reasons US politicians are getting older]]></title>
+            <description><![CDATA[No country for young men and women: why do older politicians seem to have such a tight grip on the US political system?]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cmde8rr2d6eno?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmde8rr2d6eno#2</guid>
+            <pubDate>Wed, 21 Oct 2026 23:52:12 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ea2/live/36f80900-cc9e-11f1-9a39-31b474234113.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump's green card curbs test Indian tech workers' American dream]]></title>
+            <description><![CDATA[With immigration curbs and tech firms cutting foreign hiring, US residency is becoming a distant dream for many Indians.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cqj34j7dk771o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqj34j7dk771o#2</guid>
+            <pubDate>Wed, 21 Oct 2026 23:06:37 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/51e1/live/804b8da0-cc6e-11f1-baeb-8d65d4bcd7ab.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Japan is known for world-class events - but the Asian Games were chaotic]]></title>
             <description><![CDATA[Hotel chaos, transport mishaps and diplomatic blunders cast a spotlight on organisers and the firm hired to deliver the games.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cvze414811jlo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -261,22 +277,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/crp3gvpek8njo#2</guid>
             <pubDate>Wed, 21 Oct 2026 02:37:13 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2eec/live/c3a0f8d0-cccb-11f1-951b-8fbc7a9ea030.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['Trash Island' or DC landmark? How a golf course got Trump in a messy legal dispute]]></title>
-            <description><![CDATA[Trump said he has plans to turn a 106-year-old public golf course in Washington DC into a tournament-capable golf course for pros, but local golfers are not happy.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c6ly3dlm0dr2o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6ly3dlm0dr2o#2</guid>
-            <pubDate>Wed, 21 Oct 2026 03:45:52 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b3de/live/3d6a1550-cc92-11f1-94e6-edd4c60b2e1d.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Borneo burning: Life on the frontline of South East Asia's toxic haze]]></title>
-            <description><![CDATA[A "Super El Niño" has fuelled months-long fires in Indonesia, making hundreds of thousands of people sick.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cqm2dzwdmmywo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqm2dzwdmmywo#2</guid>
-            <pubDate>Tue, 20 Oct 2026 23:51:43 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e48/live/4edd0c70-cc9c-11f1-9a39-31b474234113.jpg"/>
         </item>
         <item>
             <title><![CDATA[Why is a peat fire so bad? BBC is in Indonesia to find out]]></title>
