@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 22 Oct 2026 22:11:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Oct 2026 22:39:02 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -37,6 +37,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cq0ld7e0jg2eo#1</guid>
             <pubDate>Thu, 22 Oct 2026 12:17:44 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1179/live/36410730-ce21-11f1-bc2e-018d645d8d21.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Raye wins the Mercury Prize with This Music May Contain Hope]]></title>
+            <description><![CDATA[The pop star beat artists like Paul McCartney, Suede and Jade Thirlwall to lift the £25,000 prize.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cw073mj02v72o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cw073mj02v72o#1</guid>
+            <pubDate>Thu, 22 Oct 2026 22:33:52 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8744/live/0f29cde0-ce66-11f1-ab75-d744dbb6f3f7.jpg"/>
         </item>
         <item>
             <title><![CDATA[Trump ordered to answer questions under oath in BBC lawsuit ]]></title>
@@ -234,20 +242,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc26/live/27082d50-ce32-11f1-9f18-490cec60aa0f.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Austin track bumps out of control - Verstappen]]></title>
+            <description><![CDATA[Max Verstappen says the bumps on the track that hosts this weekend's United States Grand Prix are "unacceptable" and "out of control".]]></description>
+            <link>https://www.bbc.co.uk/sport/formula1/articles/c8r4y3gpwkl2o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/formula1/articles/c8r4y3gpwkl2o#8</guid>
+            <pubDate>Thu, 22 Oct 2026 22:28:55 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3cea/live/b12772c0-ce64-11f1-80b1-4139e26f5434.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[The rising French star whose dad won Rugby World Cup with England]]></title>
             <description><![CDATA[Felix Balshaw is the son of an English Rugby World Cup winner - but is representing France as he climbs the world tennis rankings.]]></description>
             <link>https://www.bbc.co.uk/sport/tennis/articles/cqe9ldmdpxzzo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/cqe9ldmdpxzzo#8</guid>
             <pubDate>Thu, 22 Oct 2026 16:21:57 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93be/live/7837d090-ce2d-11f1-9f18-490cec60aa0f.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Counties interested in Anderson after Lancashire exit]]></title>
-            <description><![CDATA[James Anderson will have options to extend his legendary playing career after being told he will not be given a new contract by Lancashire.]]></description>
-            <link>https://www.bbc.co.uk/sport/cricket/articles/cm8xz10571lro?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/cricket/articles/cm8xz10571lro#8</guid>
-            <pubDate>Thu, 22 Oct 2026 21:47:51 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e85/live/667f1180-ce5d-11f1-a166-e30097724580.jpg"/>
         </item>
     </channel>
 </rss>
