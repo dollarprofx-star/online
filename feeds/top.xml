@@ -9,18 +9,18 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 22 Oct 2026 12:02:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Oct 2026 12:49:11 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
-            <title><![CDATA[What is PHP and why did it spark an international cyber-security alert?]]></title>
-            <description><![CDATA[AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o#1</guid>
-            <pubDate>Thu, 22 Oct 2026 11:15:58 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f65f/live/a84db480-cddc-11f1-bc2e-018d645d8d21.jpg"/>
+            <title><![CDATA[How did AI discover the internet's massive cyber-security risk?]]></title>
+            <description><![CDATA[The BBC's technology correspondent Joe Tidy explains how it happened, and what it means for you.]]></description>
+            <link>https://www.bbc.co.uk/news/videos/cq0ld7e0jg2eo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cq0ld7e0jg2eo#1</guid>
+            <pubDate>Thu, 22 Oct 2026 12:17:44 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/beb6/live/69fb5c10-ce12-11f1-a64c-550be9e3c66b.jpg"/>
         </item>
         <item>
             <title><![CDATA[Barclays cutting 5,000 jobs as it increases reliance on AI]]></title>
@@ -35,7 +35,7 @@
             <description><![CDATA[The friend of a woman claiming to have been raped by Russell Brand says she said he was  "quite aggressive".]]></description>
             <link>https://www.bbc.co.uk/news/articles/c9e8lz4mrg88o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c9e8lz4mrg88o#1</guid>
-            <pubDate>Thu, 22 Oct 2026 11:00:35 GMT</pubDate>
+            <pubDate>Thu, 22 Oct 2026 12:34:36 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03c7/live/61652b80-ce03-11f1-8991-296181d7e3de.jpg"/>
         </item>
         <item>
@@ -72,20 +72,28 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9938/live/80172d90-cd26-11f1-bc2e-018d645d8d21.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Dame Judi Dench: 'I can't do a play, a film or read any more']]></title>
-            <description><![CDATA[The actress tells BBC Radio 4's Today programme about how her eye condition has affected her life.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c6ly09v09lnjo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6ly09v09lnjo#1</guid>
-            <pubDate>Thu, 22 Oct 2026 06:41:29 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef9c/live/78b8e810-cdd8-11f1-a64c-550be9e3c66b.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Moment man rescued from sinking car by Australian TV reporter]]></title>
             <description><![CDATA[Journalist Will Murray describes how he and a bystander saved an SUV driver from his vehicle.]]></description>
             <link>https://www.bbc.co.uk/news/videos/cwdr8zm3r5gko?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cwdr8zm3r5gko#1</guid>
             <pubDate>Thu, 22 Oct 2026 11:08:33 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15b0/live/d887e180-ce08-11f1-bc2e-018d645d8d21.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Harry Brook's double century breaks record for highest-ever England one-day score]]></title>
+            <description><![CDATA[Captain Harry Brook becomes the first England batter to make a double century in a one-day international with a sensational 202 against Sri Lanka in Rawalpindi.]]></description>
+            <link>https://www.bbc.co.uk/sport/cricket/articles/cq99z35zpgzmo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/cricket/articles/cq99z35zpgzmo#1</guid>
+            <pubDate>Thu, 22 Oct 2026 12:15:29 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b617/live/83a9d1b0-ce0c-11f1-a64c-550be9e3c66b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trial hears Tommy Robinson hired private detectives]]></title>
+            <description><![CDATA[The political activist denies wanting to expose two Daily Mail journalists to threats of violence. ]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c8x23dlqkl01o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c8x23dlqkl01o#1</guid>
+            <pubDate>Thu, 22 Oct 2026 11:49:50 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/674d/live/9aeab270-cdf5-11f1-97f7-a7674fb562de.jpg"/>
         </item>
         <item>
             <title><![CDATA[Retired decorator's Pokémon cards sell for £1.5m after years in attic]]></title>
@@ -160,6 +168,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a71/live/3d86bbd0-c641-11f1-a64c-550be9e3c66b.png"/>
         </item>
         <item>
+            <title><![CDATA[Dame Judi Dench: 'I can't do a play, a film or read anymore']]></title>
+            <description><![CDATA[The actress tells BBC Radio 4's Today programme about how her eye condition has affected her life.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c6ly09v09lnjo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6ly09v09lnjo#4</guid>
+            <pubDate>Thu, 22 Oct 2026 06:41:29 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf0d/live/be73bd80-ce14-11f1-9a39-31b474234113.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[At least four dead after storm brings flooding to southern France]]></title>
             <description><![CDATA[The deaths include two women found drowned in a cellar in the Bouches-du-Rhône region.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cm5ynl4v4wgwo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -168,12 +184,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba84/live/388ad750-cdf9-11f1-9a39-31b474234113.jpg"/>
         </item>
         <item>
-            <title><![CDATA[MI5 spied on NHS founder Nye Bevan for more than 20 years, newly released files show ]]></title>
-            <description><![CDATA[He came to its attention in the 1930s when he was considered a left-wing firebrand.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c3n049jr2ge5o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c3n049jr2ge5o#4</guid>
-            <pubDate>Thu, 22 Oct 2026 09:35:34 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32f2/live/1b3c1830-cdf9-11f1-97f7-a7674fb562de.jpg"/>
+            <title><![CDATA[Tour de France UK stages in detail - where can you watch?]]></title>
+            <description><![CDATA[The full route for the 2027 Tour de France is announced in Paris, with street-by-street details of the six stages in the UK revealed. ]]></description>
+            <link>https://www.bbc.co.uk/sport/cycling/articles/cq1kd0z33r8ro?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/cycling/articles/cq1kd0z33r8ro#4</guid>
+            <pubDate>Thu, 22 Oct 2026 11:14:49 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5789/live/cdc641e0-cdab-11f1-9a46-5754903f827c.jpg"/>
         </item>
         <item>
             <title><![CDATA[Airbnb hosts can no longer make guests strip beds and wash dishes under new rules]]></title>
@@ -188,7 +204,7 @@
             <description><![CDATA[Kieran Hayler had denied rape, sexual assault and sexual activity with a child at his trial.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cw1m4pmvx1xdo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cw1m4pmvx1xdo#4</guid>
-            <pubDate>Thu, 22 Oct 2026 11:53:25 GMT</pubDate>
+            <pubDate>Thu, 22 Oct 2026 12:21:24 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16d8/live/fb3059f0-ce0e-11f1-9a39-31b474234113.jpg"/>
         </item>
         <item>
@@ -198,14 +214,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6reyx1d9ge9o#4</guid>
             <pubDate>Thu, 22 Oct 2026 11:04:14 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f518/live/9a1112f0-ce03-11f1-8991-296181d7e3de.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Only one female scientist named in GCSEs, research finds]]></title>
-            <description><![CDATA[A new study finds Rosalind Franklin is the only woman named in Key Stage 4 science specifications.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c69wzv5pg447o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c69wzv5pg447o#4</guid>
-            <pubDate>Wed, 21 Oct 2026 23:02:45 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ad4/live/a5cab350-ce01-11f1-bc2e-018d645d8d21.jpg"/>
         </item>
         <item>
             <title><![CDATA[Legendary video game studio BioWare closes after 31 years]]></title>
@@ -224,14 +232,6 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf6/live/d1e71250-9509-11ee-8df3-1d2983d8814f.png"/>
         </item>
         <item>
-            <title><![CDATA[Vickery's journey from World Cup winner to bodybuilder at 50]]></title>
-            <description><![CDATA[Why England Rugby World Cup winner Phil Vickery has started entering bodybuilding competitions at the age of 50.]]></description>
-            <link>https://www.bbc.co.uk/sport/rugby-union/articles/ckdd8re793zdo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/rugby-union/articles/ckdd8re793zdo#8</guid>
-            <pubDate>Thu, 22 Oct 2026 05:14:22 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e87/live/8e1311a0-cd78-11f1-9a39-31b474234113.jpg"/>
-        </item>
-        <item>
             <title><![CDATA['Not what a captain should be' - the debate around Fernandes' outburst]]></title>
             <description><![CDATA[Bruno Fernandes' comments after Manchester United's humbling by Como have got fans and pundits talking - but what now for the captain?]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cq5ynp67grjro?at_medium=RSS&amp;at_campaign=rss</link>
@@ -240,28 +240,36 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a15/live/7ce45bc0-cdf8-11f1-97f7-a7674fb562de.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Goal, assist... goal-kick - Kane underlines Ballon d'Or credentials]]></title>
-            <description><![CDATA[Why Declan Rice backs his England team-mate Harry Kane to win the Ballon d'Or after Arsenal's draw with Bayern Munich in the Champions League.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/ck79p7qq1q9ro?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ck79p7qq1q9ro#8</guid>
-            <pubDate>Wed, 21 Oct 2026 23:11:06 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e7e3/live/3ae218f0-cda5-11f1-b680-c76e6b70601a.jpg"/>
+            <title><![CDATA[Vickery's journey from World Cup winner to bodybuilder at 50]]></title>
+            <description><![CDATA[Why England Rugby World Cup winner Phil Vickery has started entering bodybuilding competitions at the age of 50.]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-union/articles/ckdd8re793zdo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/rugby-union/articles/ckdd8re793zdo#8</guid>
+            <pubDate>Thu, 22 Oct 2026 05:14:22 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e87/live/8e1311a0-cd78-11f1-9a39-31b474234113.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Smith & Head out as South Africa close on win over Australia - scorecard]]></title>
+            <title><![CDATA['Ten years of hate and abuse' - Schoeman on viral victory over Brownlees]]></title>
+            <description><![CDATA[Henri Schoeman, who took a viral 2016 Triathlon World Series Grand Final over Jonny Brownlee, reveals the decade of abuse in the race's aftermath.]]></description>
+            <link>https://www.bbc.co.uk/sport/triathlon/articles/cmx23dvewq9po?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/triathlon/articles/cmx23dvewq9po#8</guid>
+            <pubDate>Thu, 22 Oct 2026 11:01:04 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5dc6/live/0f7126d0-ce08-11f1-8991-296181d7e3de.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Brilliant Brook hits England's first 200 in an ODI]]></title>
+            <description><![CDATA[Captain Harry Brook becomes the first England batter to make a double century in a one-day international with a sensational 202 against Sri Lanka in Rawalpindi.]]></description>
+            <link>https://www.bbc.co.uk/sport/cricket/articles/cq99z35zpgzmo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/cricket/articles/cq99z35zpgzmo#8</guid>
+            <pubDate>Thu, 22 Oct 2026 12:15:29 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b617/live/83a9d1b0-ce0c-11f1-a64c-550be9e3c66b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Australia reach tea in bid to deny South Africa on fifth day - scorecard]]></title>
             <description><![CDATA[Latest scorecard from the second Test between South Africa and Australia in Gqeberha.]]></description>
             <link>https://www.bbc.co.uk/sport/cricket/scorecard/e-236998?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/cricket/scorecard/e-236998#8</guid>
             <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3cd0/live/ef07e7a0-ce0f-11f1-a64c-550be9e3c66b.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tour de France UK stages in detail - where can you watch?]]></title>
-            <description><![CDATA[The full route for the 2027 Tour de France is announced in Paris, with street-by-street details of the six stages in the UK revealed. ]]></description>
-            <link>https://www.bbc.co.uk/sport/cycling/articles/cq1kd0z33r8ro?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/cycling/articles/cq1kd0z33r8ro#8</guid>
-            <pubDate>Thu, 22 Oct 2026 11:14:49 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5789/live/cdc641e0-cdab-11f1-9a46-5754903f827c.jpg"/>
         </item>
     </channel>
 </rss>
