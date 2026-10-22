@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 22 Oct 2026 21:41:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Oct 2026 22:11:12 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -47,20 +47,28 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6bf5/live/f171dec0-ce3b-11f1-a86f-f78305ec9987.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Russell Brand accuser said alleged rape 'really hurt', court hears]]></title>
-            <description><![CDATA[The friend of a woman claiming to have been raped by Russell Brand says she said he was  "quite aggressive".]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c9e8lz4mrg88o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c9e8lz4mrg88o#1</guid>
-            <pubDate>Thu, 22 Oct 2026 16:45:09 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03c7/live/61652b80-ce03-11f1-8991-296181d7e3de.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Prince William makes surprise appearance on Graham Norton Show]]></title>
             <description><![CDATA[The Prince of Wales was marking his Earthshot Prize, to which all of Norton's guests were linked.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c30rlpkglkwpo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c30rlpkglkwpo#1</guid>
             <pubDate>Thu, 22 Oct 2026 21:21:22 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fda7/live/20760850-ce5e-11f1-a166-e30097724580.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Items recovered in search for missing fishing boat and crew]]></title>
+            <description><![CDATA[Tam Murray, 40 and Murdo Morrison, 23 remain missing after their vessel disappeared off Lewis and the body of crewmate Douglas Craigie was found at sea.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c6m2dwddl3xlo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6m2dwddl3xlo#1</guid>
+            <pubDate>Thu, 22 Oct 2026 20:54:02 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/144f/live/6f304600-c88b-11f1-bc2e-018d645d8d21.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Russell Brand accuser said alleged rape 'really hurt', court hears]]></title>
+            <description><![CDATA[The friend of a woman claiming to have been raped by Russell Brand says she said he was  "quite aggressive".]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c9e8lz4mrg88o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c9e8lz4mrg88o#1</guid>
+            <pubDate>Thu, 22 Oct 2026 16:45:09 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03c7/live/61652b80-ce03-11f1-8991-296181d7e3de.jpg"/>
         </item>
         <item>
             <title><![CDATA[Woman charged after police officer injured in shooting]]></title>
@@ -88,14 +96,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/c9146p1vx888o#1</guid>
             <pubDate>Thu, 22 Oct 2026 17:49:13 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af60/live/691b9580-ce35-11f1-a86f-f78305ec9987.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Caroline Flack's brother 'never recovered' from her death, inquest hears]]></title>
-            <description><![CDATA[Paul Flack was "everyone's favourite person" but this "took its toll", an inquest hears.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c6jdm095d89yo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6jdm095d89yo#1</guid>
-            <pubDate>Thu, 22 Oct 2026 15:32:27 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9932/live/a9cedac0-748e-11f1-bb8c-7bdd252343cb.jpg"/>
         </item>
         <item>
             <title><![CDATA[Dame Judi Dench: 'I can't do a play, a film or read anymore']]></title>
@@ -146,6 +146,22 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a71/live/3d86bbd0-c641-11f1-a64c-550be9e3c66b.png"/>
         </item>
         <item>
+            <title><![CDATA[UK to draft in military aircraft to fight wildfires, Burnham says]]></title>
+            <description><![CDATA[The prime minister is hosting the UK's first wildfire summit to prepare for future blazes after a record summer 2026.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cwvgd7d4p2vmo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwvgd7d4p2vmo#4</guid>
+            <pubDate>Thu, 22 Oct 2026 21:35:21 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b16/live/5aae07a0-ce56-11f1-a166-e30097724580.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Caroline Flack's brother 'never recovered' from her death, inquest hears]]></title>
+            <description><![CDATA[Paul Flack was "everyone's favourite person" but this "took its toll", an inquest hears.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c6jdm095d89yo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6jdm095d89yo#4</guid>
+            <pubDate>Thu, 22 Oct 2026 15:32:27 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9932/live/a9cedac0-748e-11f1-bb8c-7bdd252343cb.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[See the Pokémon cards that made a retired decorator a millionaire]]></title>
             <description><![CDATA[A man from Surrey is now a millionaire after selling a collection of Pokémon cards at auction.]]></description>
             <link>https://www.bbc.co.uk/news/videos/cmvg9v932z5vo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -162,16 +178,8 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b70/live/03f9d3e0-ce3c-11f1-a86f-f78305ec9987.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Trump says NBA star LeBron James disrespected US anthem and demands apology]]></title>
-            <description><![CDATA[The basketball star recently appeared to be practising a golf swing and basketball shots while the national anthem was performed.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cv8ezy37rgz6o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cv8ezy37rgz6o#4</guid>
-            <pubDate>Thu, 22 Oct 2026 20:04:27 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fadf/live/e1bf1060-ce40-11f1-a86f-f78305ec9987.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[US actor Tom Skerritt, who starred in Picket Fences, Mash and Alien, dies aged 93]]></title>
-            <description><![CDATA[The actor died on Wednesday of natural causes, his family said.]]></description>
+            <title><![CDATA[US actor Tom Skerritt, who starred in Top Gun, Steel Magnolias and Alien, dies aged 93]]></title>
+            <description><![CDATA[The moustachioed star of several 20th century hit films died on Wednesday of natural causes, his family said.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cqrkyly2p54xo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqrkyly2p54xo#4</guid>
             <pubDate>Thu, 22 Oct 2026 21:10:36 GMT</pubDate>
@@ -194,20 +202,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b1f/live/0ab25ae0-ce37-11f1-a86f-f78305ec9987.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Fahnbulleh says she backs home secretary on migration after comments to journalists]]></title>
-            <description><![CDATA[Energy secretary says she "didn't get it right" over comments she made about a TV interview.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c6y93pz494zzo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6y93pz494zzo#4</guid>
-            <pubDate>Thu, 22 Oct 2026 17:54:51 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba6a/live/438dd9a0-ce3e-11f1-9a39-31b474234113.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Download now]]></title>
             <description><![CDATA[Top stories, breaking news, live reporting, and follow news topics that match your interests]]></description>
             <link>https://www.bbc.co.uk/news/10628994?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/10628994#5</guid>
             <pubDate>Wed, 30 Apr 2025 14:04:28 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf6/live/d1e71250-9509-11ee-8df3-1d2983d8814f.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Dream night for Bournemouth - win over Milan a sign of Premier League power]]></title>
+            <description><![CDATA[Bournemouth's 3-0 win against AC Milan further illustrated the dominance of Premier League sides against their European counterparts. ]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/c6z981p24q1eo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6z981p24q1eo#8</guid>
+            <pubDate>Thu, 22 Oct 2026 21:30:31 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/45c2/live/fcc4e790-ce59-11f1-a166-e30097724580.jpg"/>
         </item>
         <item>
             <title><![CDATA[Brook underlines status as world's best all-format batter in remarkable defeat]]></title>
@@ -232,6 +240,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/cqe9ldmdpxzzo#8</guid>
             <pubDate>Thu, 22 Oct 2026 16:21:57 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93be/live/7837d090-ce2d-11f1-9f18-490cec60aa0f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Counties interested in Anderson after Lancashire exit]]></title>
+            <description><![CDATA[James Anderson will have options to extend his legendary playing career after being told he will not be given a new contract by Lancashire.]]></description>
+            <link>https://www.bbc.co.uk/sport/cricket/articles/cm8xz10571lro?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/cricket/articles/cm8xz10571lro#8</guid>
+            <pubDate>Thu, 22 Oct 2026 21:47:51 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e85/live/667f1180-ce5d-11f1-a166-e30097724580.jpg"/>
         </item>
     </channel>
 </rss>
