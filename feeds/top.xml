@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 23 Oct 2026 11:01:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Oct 2026 11:41:39 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -19,7 +19,7 @@
             <description><![CDATA[The Duchess of Sussex issues a statement following reports her father Thomas Markle is being investigated over child sex abuse images in the Philippines.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c6x2wpgejjkjo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6x2wpgejjkjo#1</guid>
-            <pubDate>Fri, 23 Oct 2026 10:26:05 GMT</pubDate>
+            <pubDate>Fri, 23 Oct 2026 11:24:32 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3bc9/live/06fdad80-ceca-11f1-bed9-e3a2c35dfdd6.jpg"/>
         </item>
         <item>
@@ -32,7 +32,7 @@
         </item>
         <item>
             <title><![CDATA[Five Israelis wounded and two suspected Palestinian attackers killed in West Bank shooting]]></title>
-            <description><![CDATA[The attack comes at a time of heightened tensions in the West Bank and four days before Israel's general election. ]]></description>
+            <description><![CDATA[The attack comes at a time of heightened tensions in the occupied West Bank and four days before Israel's general election. ]]></description>
             <link>https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cq4g1p974wxko#1</guid>
             <pubDate>Fri, 23 Oct 2026 10:26:06 GMT</pubDate>
@@ -63,20 +63,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/771b/live/6ba2e430-ce57-11f1-9a39-31b474234113.jpg"/>
         </item>
         <item>
+            <title><![CDATA[At least one dead and four injured in Paris suburb shooting]]></title>
+            <description><![CDATA[The French prime minister says an individual is in police custody after a "serious event" in Trappes.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo#1</guid>
+            <pubDate>Fri, 23 Oct 2026 11:09:36 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a2d/live/537ff930-6139-11ee-b101-6f93d6dfbcc2.png"/>
+        </item>
+        <item>
             <title><![CDATA[Ukraine says Starlink still restricted after Trump says limits lifted]]></title>
             <description><![CDATA[Issues remain with the network used by the Ukrainian military, sources say, after repeated denials of a deliberate slowdown.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o#1</guid>
-            <pubDate>Fri, 23 Oct 2026 09:36:43 GMT</pubDate>
+            <pubDate>Fri, 23 Oct 2026 11:01:08 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/271c/live/d171b6a0-cebc-11f1-a64c-550be9e3c66b.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Personalised skin cancer vaccine cuts risk of disease returning in major trial]]></title>
-            <description><![CDATA[The scientists involved say the results could mark a turning point in cancer treatment, bringing personalised medicine a step closer.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cq0ld9g9e913o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cq0ld9g9e913o#1</guid>
-            <pubDate>Fri, 23 Oct 2026 07:49:02 GMT</pubDate>
-            <media:thumbnail width="240" height="132" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f379/live/0f348400-cead-11f1-bc2e-018d645d8d21.jpg"/>
         </item>
         <item>
             <title><![CDATA[Final James Bond screen tests to take place this weekend, reports say]]></title>
@@ -87,20 +87,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e35e/live/15f1bc90-cec1-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Earnings limit of up to £140K for first-time buyers loan scheme]]></title>
-            <description><![CDATA[The Your First Home scheme will offer government-backed loans for those buying new-builds in England.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c6n8dex0zeg9o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6n8dex0zeg9o#1</guid>
-            <pubDate>Fri, 23 Oct 2026 10:49:36 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1887/live/ab960500-cec9-11f1-bed9-e3a2c35dfdd6.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Hospitals deliberately targeted by Sudan's RSF fighters, BBC finds]]></title>
             <description><![CDATA[The UN human rights chief Volker Türk says the multiple attacks may amount to war crimes.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo#1</guid>
             <pubDate>Fri, 23 Oct 2026 10:23:07 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6eeb/live/c8bb2ad0-cec3-11f1-a701-fddedf244c16.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Earnings limit of up to £140K for first-time buyers loan scheme]]></title>
+            <description><![CDATA[The Your First Home scheme will offer government-backed loans for those buying new-builds in England.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c6n8dex0zeg9o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6n8dex0zeg9o#1</guid>
+            <pubDate>Fri, 23 Oct 2026 10:49:36 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1887/live/ab960500-cec9-11f1-bed9-e3a2c35dfdd6.jpg"/>
         </item>
         <item>
             <title><![CDATA[Hispanic voters helped bring Trump to power - in Texas, the tide may be turning]]></title>
@@ -111,11 +111,11 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d2f6/live/7d318ca0-cd90-11f1-b1e7-39558e114359.jpg"/>
         </item>
         <item>
-            <title><![CDATA[I thought I was dying but it was health anxiety - here's how to recognise the signs]]></title>
+            <title><![CDATA[I sat in A&E for 13 hours - here's how to recognise health anxiety]]></title>
             <description><![CDATA[Hollie Sharman shares her experience of health anxiety and a doctor advises on how to manage symptoms.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cm5yez87qwvdo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm5yez87qwvdo#2</guid>
-            <pubDate>Thu, 22 Oct 2026 23:20:31 GMT</pubDate>
+            <pubDate>Fri, 23 Oct 2026 11:14:58 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7da/live/16aa3610-bc08-11f1-90b9-913e4354ed35.jpg"/>
         </item>
         <item>
@@ -167,6 +167,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a71/live/3d86bbd0-c641-11f1-a64c-550be9e3c66b.png"/>
         </item>
         <item>
+            <title><![CDATA[Raye wins the Mercury Prize with This Music May Contain Hope]]></title>
+            <description><![CDATA[The pop star beat artists like Paul McCartney, Suede and Jade Thirlwall to lift the £25,000 prize.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cw073mj02v72o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cw073mj02v72o#4</guid>
+            <pubDate>Fri, 23 Oct 2026 00:14:08 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8744/live/0f29cde0-ce66-11f1-ab75-d744dbb6f3f7.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Prince William makes surprise appearance on Graham Norton Show]]></title>
             <description><![CDATA[The Prince of Wales was marking his Earthshot Prize, to which all of Norton's guests were linked.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c30rlpkglkwpo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -181,14 +189,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cke8r6543gplo#4</guid>
             <pubDate>Thu, 22 Oct 2026 23:20:05 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/62ea/live/282500d0-cea7-11f1-bc2e-018d645d8d21.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Prepare for supply chain disruption from cyber or climate emergencies, Streeting warns public]]></title>
-            <description><![CDATA[The defence secretary says the UK needs to be ready for scenarios including impact to essential supply chains.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cwd094x57p32o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwd094x57p32o#4</guid>
-            <pubDate>Thu, 22 Oct 2026 21:29:44 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/867f/live/90056bb0-ce3c-11f1-a64c-550be9e3c66b.jpg"/>
         </item>
         <item>
             <title><![CDATA[Give more people weight-loss jabs on the NHS, say MPs]]></title>
@@ -231,12 +231,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf6/live/d1e71250-9509-11ee-8df3-1d2983d8814f.png"/>
         </item>
         <item>
-            <title><![CDATA[Have Man Utd become the unmanageable club?]]></title>
-            <description><![CDATA[The cycle of doom that has engulfed every Manchester United manager since Sir Alex Ferguson now has Michael Carrick in its unforgiving grip, writes Phil McNulty.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/c6y0ek284pdgo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6y0ek284pdgo#8</guid>
-            <pubDate>Fri, 23 Oct 2026 05:56:04 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ebf/live/e0714a50-cea6-11f1-bbfb-357cf921a5e9.jpg"/>
+            <title><![CDATA['No more Mr Nice Guy' - should Carrick drop Fernandes?]]></title>
+            <description><![CDATA[Manchester United head coach Michael Carrick must decide whether to leave skipper Bruno Fernandes out of Sunday's crucial Premier League clash with Bournemouth]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cked3x8452pdo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cked3x8452pdo#8</guid>
+            <pubDate>Fri, 23 Oct 2026 08:28:21 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/624e/live/1179f540-ceaf-11f1-a64c-550be9e3c66b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pride, prestige, profile - the great Ballon d'Or campaign]]></title>
+            <description><![CDATA[The Ballon d'Or is football's greatest individual accolade - and the thirst to win it has grown in recent years.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/c65yng4x302jo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c65yng4x302jo#8</guid>
+            <pubDate>Fri, 23 Oct 2026 06:06:38 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a748/live/9b33db90-cd54-11f1-b962-b7ff822cde72.jpg"/>
         </item>
         <item>
             <title><![CDATA[Infantino re-election hopes boosted by Asia support after u-turn]]></title>
@@ -245,14 +253,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c3x2wpyg18j7o#8</guid>
             <pubDate>Fri, 23 Oct 2026 06:48:46 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f8d/live/dd0325a0-cea6-11f1-bbfb-357cf921a5e9.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dream night for Bournemouth - win over Milan a sign of Premier League power]]></title>
-            <description><![CDATA[Bournemouth's 3-0 win against AC Milan further illustrated the dominance of Premier League sides against their European counterparts. ]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/c6z981p24q1eo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6z981p24q1eo#8</guid>
-            <pubDate>Thu, 22 Oct 2026 21:30:31 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/45c2/live/fcc4e790-ce59-11f1-a166-e30097724580.jpg"/>
         </item>
         <item>
             <title><![CDATA[The World Treadmill Championship - pitching elite runners against amateurs]]></title>
@@ -271,12 +271,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0430/live/34c414d0-cec9-11f1-bed9-e3a2c35dfdd6.jpg"/>
         </item>
         <item>
-            <title><![CDATA[What happens in Vegas, stays in Vegas for England]]></title>
-            <description><![CDATA[England face Australia at the Women's Rugby League World Cup on Saturday determined to show they have moved on from the nightmare of their last meeting in Las Vegas 19 months ago.]]></description>
-            <link>https://www.bbc.co.uk/sport/rugby-league/articles/cv1j3zn9yjn2o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/rugby-league/articles/cv1j3zn9yjn2o#8</guid>
-            <pubDate>Fri, 23 Oct 2026 06:21:59 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d2d1/live/85de3010-cc5a-11f1-9b08-37acac6be953.jpg"/>
+            <title><![CDATA[How world champion Smith can become a mainstream star]]></title>
+            <description><![CDATA[In his BBC Sport column, Tony Bellew explains why Dalton Smith could be British boxing's next superstar - and why he should fight Adam Azim at Hillsborough.]]></description>
+            <link>https://www.bbc.co.uk/sport/boxing/articles/c8y56qlzqq96o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/boxing/articles/c8y56qlzqq96o#8</guid>
+            <pubDate>Fri, 23 Oct 2026 09:20:03 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/366b/live/74aba0d0-cd62-11f1-b962-b7ff822cde72.jpg"/>
         </item>
     </channel>
 </rss>
