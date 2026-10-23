@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news/world</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 23 Oct 2026 20:17:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Oct 2026 20:56:55 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/world/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -31,6 +31,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd9e/live/bb37b200-cee8-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Freed US citizen was tortured in Russian jail, former Ukrainian prisoners say]]></title>
+            <description><![CDATA[Ukrainians held alongside the American say they witnessed beatings and sexual humiliation by Russian guards during his detention.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cx7vpmn6qzmlo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cx7vpmn6qzmlo#0</guid>
+            <pubDate>Fri, 23 Oct 2026 20:18:13 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9844/live/e91cc740-cf1b-11f1-9796-954775b3a434.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead]]></title>
             <description><![CDATA[The soldiers were killed in an attack by two Palestinian gunmen at a checkpoint outside the West Bank city on Friday morning. ]]></description>
             <link>https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&amp;at_campaign=rss</link>
@@ -39,7 +47,7 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bbd8/live/36f17b50-cef9-11f1-accf-3309656ad0bb.jpg"/>
         </item>
         <item>
-            <title><![CDATA[White House says Melania Trump brokers truce for Ukraine city 'on brink of disaster']]></title>
+            <title><![CDATA[White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster']]></title>
             <description><![CDATA[Ukraine and Russia confirm the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo#0</guid>
@@ -66,7 +74,7 @@
             <title><![CDATA[Denmark to ban mink farming in government U-turn]]></title>
             <description><![CDATA[Once the world's largest producer of mink pelts, the nation's industry has declined in recent years.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c59vzjm118j1o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c59vzjm118j1o#0</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c59vzjm118j1o#1</guid>
             <pubDate>Fri, 23 Oct 2026 12:17:45 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f055/live/ed7c2b60-cebb-11f1-ae9c-0303957c36f8.jpg"/>
         </item>

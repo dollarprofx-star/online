@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 23 Oct 2026 20:17:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Oct 2026 20:56:49 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -47,7 +47,7 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c59/live/b8966750-cef5-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
-            <title><![CDATA[White House says Melania Trump brokers truce for Ukraine city 'on brink of disaster']]></title>
+            <title><![CDATA[White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster']]></title>
             <description><![CDATA[Ukraine and Russia confirm the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo#1</guid>
@@ -103,12 +103,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd9e/live/bb37b200-cee8-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Watch: CCTV footage appears to show gunmen at site of Jordan shooting]]></title>
-            <description><![CDATA[Dozens of people had been inside the church for a funeral when the shooting began, local media report.]]></description>
-            <link>https://www.bbc.co.uk/news/videos/c39wz712q0kzo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/c39wz712q0kzo#1</guid>
-            <pubDate>Fri, 23 Oct 2026 15:59:36 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0594/live/4fa5d550-cefa-11f1-93e1-3b657b665bcf.jpg"/>
+            <title><![CDATA[Freed US citizen was tortured in Russian jail, former Ukrainian prisoners say]]></title>
+            <description><![CDATA[Ukrainians held alongside the American say they witnessed beatings and sexual humiliation by Russian guards during his detention.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cx7vpmn6qzmlo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cx7vpmn6qzmlo#1</guid>
+            <pubDate>Fri, 23 Oct 2026 20:18:13 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9844/live/e91cc740-cf1b-11f1-9796-954775b3a434.jpg"/>
         </item>
         <item>
             <title><![CDATA[Why should I stockpile and what will I need?]]></title>
@@ -199,12 +199,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f392/live/b1ca2050-cef1-11f1-accf-3309656ad0bb.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Detective raped by colleague says Met handling of case 'like being raped again']]></title>
-            <description><![CDATA[Linda Williams was attacked by David Carrick, who was jailed in 2023 for sexual offences against 12 women.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/ckdd83dz0153o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckdd83dz0153o#4</guid>
-            <pubDate>Fri, 23 Oct 2026 05:00:05 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3bae/live/f5a32300-ce54-11f1-a166-e30097724580.jpg"/>
+            <title><![CDATA[White House says the US is lifting tariffs on some Canadian goods ]]></title>
+            <description><![CDATA[Susan Collins, a Republican in a tight race to keep her senate seat in next month's elections, said she had been working with the White House on tariff relief.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c60qk573yzz8o#4</guid>
+            <pubDate>Fri, 23 Oct 2026 20:39:39 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1860/live/f6b62750-cf1d-11f1-9796-954775b3a434.jpg"/>
         </item>
         <item>
             <title><![CDATA[Celebrated Irish musician Dónal Lunny dies aged 79]]></title>
@@ -247,20 +247,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73a2/live/6c9e6ab0-cee5-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Leclerc sets Austin practice pace from Verstappen]]></title>
-            <description><![CDATA[Ferrari's Charles Leclerc is fastest from Red Bull's Max Verstappen in first practice at the United States Grand Prix.]]></description>
-            <link>https://www.bbc.co.uk/sport/formula1/articles/cm5ynle2n082o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/formula1/articles/cm5ynle2n082o#8</guid>
-            <pubDate>Fri, 23 Oct 2026 18:41:21 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c89/live/b1f0ca10-cf10-11f1-8de3-9dfec70eb8fa.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Arsenal fear Saka could be out for two months ]]></title>
-            <description><![CDATA[Arsenal forward Bukayo Saka could be sidelined for up to eight weeks with the quadriceps injury he suffered against Bayern Munich. ]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cmwyql6v5q82o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmwyql6v5q82o#8</guid>
-            <pubDate>Fri, 23 Oct 2026 14:09:36 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64fd/live/22c475a0-cee1-11f1-bdca-23c64447299f.jpg"/>
+            <title><![CDATA[Wade equals Prem record as Newcastle beat Sale]]></title>
+            <description><![CDATA[Christian Wade equals Chris Ashton's Prem try-scoring record with a 101st score as Newcastle post their first league win of their season against Sale.]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-union/articles/cqwy7e08jlxpo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/rugby-union/articles/cqwy7e08jlxpo#8</guid>
+            <pubDate>Fri, 23 Oct 2026 20:50:22 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a09/live/a8201ab0-cf22-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
             <title><![CDATA[Poulter & Hatton leave LIV as exodus continues]]></title>
