@@ -9,11 +9,19 @@
             <link>https://www.bbc.co.uk/news/technology</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 23 Oct 2026 11:41:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Oct 2026 12:08:50 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA['It's been relentless' say IT workers on frontline of PHP cyber-security scramble]]></title>
+            <description><![CDATA[IT and cyber experts have told the BBC about their struggles in the last 48 hours to update their systems.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cxnv025d8qpmo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cxnv025d8qpmo#0</guid>
+            <pubDate>Fri, 23 Oct 2026 12:00:25 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61e6/live/e791c7d0-ced6-11f1-8507-45cb00a1c41c.jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Indian workers filming their work to train AI]]></title>
             <description><![CDATA[Indian workers are being paid to film themselves at work and the footage is used to train AI.]]></description>
@@ -109,14 +117,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmlyl09xjke4o#0</guid>
             <pubDate>Wed, 21 Oct 2026 08:42:49 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/819f/live/f7b5d9b0-ccd0-11f1-b06b-25a52a186d15.png"/>
-        </item>
-        <item>
-            <title><![CDATA[The tech helping crack decades-old cold cases]]></title>
-            <description><![CDATA[Investigative genetic genealogy can help hunt down criminals but raises worries over privacy.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c370pzdkw77jo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c370pzdkw77jo#0</guid>
-            <pubDate>Tue, 20 Oct 2026 23:13:24 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d033/live/5b8c8300-c16c-11f1-babe-4199b0e7ccea.jpg"/>
         </item>
         <item>
             <title><![CDATA[Tech Life]]></title>
