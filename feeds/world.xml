@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news/world</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 24 Oct 2026 14:15:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Oct 2026 14:52:35 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/world/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -24,10 +24,10 @@
         </item>
         <item>
             <title><![CDATA[Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat]]></title>
-            <description><![CDATA[Around 200 emergency personnel are deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany. ]]></description>
+            <description><![CDATA[Some 200 emergency personnel were deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany. ]]></description>
             <link>https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo#0</guid>
-            <pubDate>Sat, 24 Oct 2026 11:23:59 GMT</pubDate>
+            <pubDate>Sat, 24 Oct 2026 14:16:05 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b513/live/b8fe52a0-cf7e-11f1-ae2e-3fbb7ae6bffe.jpg"/>
         </item>
         <item>
@@ -61,6 +61,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6x2355448eyo#0</guid>
             <pubDate>Sat, 24 Oct 2026 09:46:53 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d0b/live/15946bd0-cf39-11f1-a003-d5e5a8cb108b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Vanessa Trump says she is cancer-free six months after revealing diagnosis ]]></title>
+            <description><![CDATA[The ex-wife of Donald Trump Jr, with whom she shares five children, announced in May that she had been diagnosed with breast cancer.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cm1dwzvn6227o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm1dwzvn6227o#1</guid>
+            <pubDate>Sat, 24 Oct 2026 14:45:30 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa13/live/eb525690-cfb8-11f1-9012-0172b9f73a72.jpg"/>
         </item>
         <item>
             <title><![CDATA[Three released without charge after fatal arson attack in Ireland]]></title>
