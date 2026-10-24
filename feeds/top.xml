@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 24 Oct 2026 21:36:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Oct 2026 22:03:50 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -31,20 +31,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4f2/live/c78fb360-cfe5-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Met Police says letter with claims about Meghan's father not shared with other law enforcement]]></title>
-            <description><![CDATA[The Met said it passed information to the duchess but did not share it with other law enforcement agencies.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c39wz740e0nyo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c39wz740e0nyo#1</guid>
-            <pubDate>Sat, 24 Oct 2026 12:59:49 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb37/live/1f328a50-cfa7-11f1-aadb-297fd0a130b9.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Storm Boelo amber warnings kick in as parts of UK brace for 80mph gusts]]></title>
             <description><![CDATA[Scotland, parts of northern England and Northern Ireland are forecast to be hit with the strongest winds from the country's second storm in as many days.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cmr4ydglq9r3o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmr4ydglq9r3o#1</guid>
             <pubDate>Sat, 24 Oct 2026 20:30:43 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7559/live/33cbd240-cfb2-11f1-9012-0172b9f73a72.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Met Police says letter with claims about Meghan's father not shared with other law enforcement]]></title>
+            <description><![CDATA[The Met said it passed information to the duchess but did not share it with other law enforcement agencies.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c39wz740e0nyo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c39wz740e0nyo#1</guid>
+            <pubDate>Sat, 24 Oct 2026 12:59:49 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb37/live/1f328a50-cfa7-11f1-aadb-297fd0a130b9.jpg"/>
         </item>
         <item>
             <title><![CDATA[Mum who died trying to save sons swept away in Bahamas was hero, husband says]]></title>
@@ -127,6 +127,14 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a8f/live/392d7fd0-cf81-11f1-aa4c-d1ae926e8a30.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Obama hits campaign trail for Democrats as midterm elections approach]]></title>
+            <description><![CDATA["This election is our last best chance to at least rein in some of the foolishness of this administration," Obama said.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cmj6jwe1j1gjo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmj6jwe1j1gjo#3</guid>
+            <pubDate>Sat, 24 Oct 2026 21:58:08 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f3fa/live/312803d0-cff1-11f1-8e73-e71e7f48fa14.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Infantino tells BBC Sport he is backed by 'vast majority' of world football]]></title>
             <description><![CDATA[Fifa president Gianni Infantino laughs off questions about whether he considered resigning over the World Cup sell-off debacle.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/c6q8nd9g9n72o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -145,12 +153,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfba/live/f1443bc0-cfbf-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
-            <title><![CDATA[The convicted £33m tax fraudster evading justice and living it up in Dubai]]></title>
-            <description><![CDATA[Arif Patel "should not be beyond the reach of the justice system," says the PM’s anti-corruption champion.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cmy83v286571o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmy83v286571o#3</guid>
-            <pubDate>Sat, 24 Oct 2026 06:32:35 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83c8/live/f1a76ee0-84be-11f0-84c8-99de564f0440.jpg"/>
+            <title><![CDATA[The candid meeting that 'changed' Spurs - are they finally on way back?]]></title>
+            <description><![CDATA[Tottenham end Saturday's Premier League action in 12th place, their highest league position since 2 January. Are they finally on their way back?]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cqev38dz34vxo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqev38dz34vxo#3</guid>
+            <pubDate>Sat, 24 Oct 2026 21:14:42 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92f3/live/2deade60-cfea-11f1-930c-2509b9d0398f.jpg"/>
         </item>
         <item>
             <title><![CDATA[How Brazil's changing working class is reshaping the presidential race]]></title>
@@ -233,12 +241,20 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92f3/live/2deade60-cfea-11f1-930c-2509b9d0398f.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Man City's leaky defence highlights Donnarumma & Guehi struggles]]></title>
-            <description><![CDATA[Manchester City's 100% winning start to the Premier League season comes to an abrupt end against Aston Villa - leaving Enzo Maresca with glaring defensive issues to resolve.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/c6kg7z700k7jo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6kg7z700k7jo#9</guid>
-            <pubDate>Sat, 24 Oct 2026 15:05:45 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8225/live/74131b10-cfb7-11f1-9012-0172b9f73a72.jpg"/>
+            <title><![CDATA[Man Utd not an unmanageable club - Carrick]]></title>
+            <description><![CDATA[Michael Carrick says it is possible to manage Manchester United effectively as he clings on to his job with Bournemouth visiting Old Trafford on Sunday.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/c9ly0dxxgp7lo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c9ly0dxxgp7lo#9</guid>
+            <pubDate>Sat, 24 Oct 2026 21:34:19 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/48e4/live/2d7fb690-cf94-11f1-878e-95f884e98e77.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Smith retains title with split-decision win over Puello]]></title>
+            <description><![CDATA[Britain's Dalton Smith defends his WBC light-welterweight world title with a split-decision victory over Alberto Puello in a triumphant homecoming in Sheffield.]]></description>
+            <link>https://www.bbc.co.uk/sport/boxing/articles/cqn73k05xjx6o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/boxing/articles/cqn73k05xjx6o#9</guid>
+            <pubDate>Sat, 24 Oct 2026 21:44:12 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d10c/live/1f906cb0-cff2-11f1-8e73-e71e7f48fa14.jpg"/>
         </item>
         <item>
             <title><![CDATA['A massive storage of images': Arteta has technical area receipts]]></title>
