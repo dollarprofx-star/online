@@ -9,14 +9,14 @@
             <link>https://www.bbc.co.uk/news/technology</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 24 Oct 2026 00:20:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Oct 2026 01:16:15 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
             <title><![CDATA[UK to invest £100m in 'world first' AI Biosecurity Lab]]></title>
-            <description><![CDATA[The Chancellor will unveil AI spending aimed at shoring up the UK's defences in Wednesday's Budget.]]></description>
+            <description><![CDATA[The chancellor will unveil AI spending aimed at shoring up the UK's defences in Wednesday's Budget.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo#0</guid>
             <pubDate>Sat, 24 Oct 2026 00:05:45 GMT</pubDate>
