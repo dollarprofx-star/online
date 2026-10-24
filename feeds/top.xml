@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 24 Oct 2026 09:07:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Oct 2026 09:37:55 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -19,7 +19,7 @@
             <description><![CDATA[Hundreds of thousands are expected to turn out, as more than 70,000 police officers are to be deployed over some may defy restrictions.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cj62yv5k0w4yo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cj62yv5k0w4yo#1</guid>
-            <pubDate>Sat, 24 Oct 2026 06:19:46 GMT</pubDate>
+            <pubDate>Sat, 24 Oct 2026 09:34:32 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f26/live/2a059180-cf74-11f1-aaa0-39a3560003e9.jpg"/>
         </item>
         <item>
@@ -223,12 +223,12 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f3e5/live/203d0e90-cf7d-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Canada inflict back-to-back losses on England]]></title>
-            <description><![CDATA[England suffer back-to-back defeats for the first time in a decade as Canada win 31-22 in Ottawa, including a hat-trick for captain Sophie de Goede.]]></description>
-            <link>https://www.bbc.co.uk/sport/rugby-union/articles/cm79p7x79wl9o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/rugby-union/articles/cm79p7x79wl9o#9</guid>
-            <pubDate>Sat, 24 Oct 2026 06:46:23 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/33fd/live/3b76c3a0-cf6d-11f1-a98a-bb970bd2aa12.jpg"/>
+            <title><![CDATA[No panic for England but Mitchell issues PWR warning]]></title>
+            <description><![CDATA[A 2-0 series defeat for the Red Roses, their record 39-match winning streak and 41-match unbeaten run ended, and consecutive losses for the first time since 2016 - England are not invincible. ]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-union/articles/cv0ld9y3g426o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/rugby-union/articles/cv0ld9y3g426o#9</guid>
+            <pubDate>Sat, 24 Oct 2026 09:22:07 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f770/live/afae5080-cf86-11f1-bef0-7f8eb636c50b.jpg"/>
         </item>
         <item>
             <title><![CDATA[Why Tottenham v Arsenal could define their seasons - live on BBC One]]></title>
@@ -245,14 +245,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/boxing/articles/cwe9ldpmeljyo#9</guid>
             <pubDate>Sat, 24 Oct 2026 06:35:17 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44ca/live/f2a09dc0-ce1a-11f1-906e-e3128518d85d.png"/>
-        </item>
-        <item>
-            <title><![CDATA[Carrick refuses to rule out dropping Fernandes in emotional address]]></title>
-            <description><![CDATA[Michael Carrick speaks for five uninterrupted minutes at media briefing to outline what Manchester United means to him, then refuses to rule out dropping Bruno Fernandes.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cq78pv0073dlo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cq78pv0073dlo#9</guid>
-            <pubDate>Fri, 23 Oct 2026 13:55:37 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73a2/live/6c9e6ab0-cee5-11f1-b441-2b33b063138f.jpg"/>
         </item>
     </channel>
 </rss>
