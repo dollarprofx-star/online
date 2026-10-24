@@ -9,18 +9,18 @@
             <link>https://www.bbc.co.uk/news/world</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 24 Oct 2026 06:19:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Oct 2026 07:09:18 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/world/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
             <title><![CDATA[France prepares for day of protest a week after nationwide riots]]></title>
-            <description><![CDATA[More than 70,000 police officers are to be deployed over fears protesters will defy restrictions on demonstrations.]]></description>
+            <description><![CDATA[Hundreds of thousands are expected to turn out, as more than 70,000 police officers are to be deployed over some may defy restrictions.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cj62yv5k0w4yo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cj62yv5k0w4yo#0</guid>
-            <pubDate>Sat, 24 Oct 2026 04:03:46 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6313/live/f6761da0-cf08-11f1-b95c-310d5f3c558a.jpg"/>
+            <pubDate>Sat, 24 Oct 2026 06:19:46 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f26/live/2a059180-cf74-11f1-aaa0-39a3560003e9.jpg"/>
         </item>
         <item>
             <title><![CDATA[Woman, 65, becomes second patient to die of Ebola in Kenya]]></title>
@@ -31,20 +31,20 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d0b/live/15946bd0-cf39-11f1-a003-d5e5a8cb108b.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Arrest made after fire at Hitler's Eagle's Nest retreat]]></title>
+            <title><![CDATA[Arrest made after fire at Hitler's famed Eagle's Nest retreat]]></title>
             <description><![CDATA[Around 200 emergency personnel are deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany. ]]></description>
             <link>https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo#0</guid>
             <pubDate>Sat, 24 Oct 2026 03:51:25 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/89c2/live/dded51c0-cf5a-11f1-b46b-8fe3882d26eb.jpg"/>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e79e/live/f46e35b0-cf76-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Student movement takes Serbia's Vučić to the wire in neck-and-neck election]]></title>
-            <description><![CDATA[The Student List has emerged from almost two years of anti-corruption protests to form the biggest challenge to Vučić's rule.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cm1dwz311476o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm1dwz311476o#0</guid>
-            <pubDate>Fri, 23 Oct 2026 23:08:23 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7667/live/b6bb68f0-cef9-11f1-b441-2b33b063138f.jpg"/>
+            <title><![CDATA[Minneapolis withdrawal was 'surrender', Trump's ex-border patrol chief tells BBC]]></title>
+            <description><![CDATA[Greg Bovino was the public face of the controversial immigration enforcement operation in the city earlier this year.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/ck20rery78lro?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ck20rery78lro#0</guid>
+            <pubDate>Sat, 24 Oct 2026 05:31:01 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dfb8/live/821f0590-cf15-11f1-a568-e785d17b98ab.jpg"/>
         </item>
         <item>
             <title><![CDATA[Trump administration sues to block certification of upcoming Alaska election]]></title>
@@ -53,6 +53,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c678pv4krx37o#0</guid>
             <pubDate>Fri, 23 Oct 2026 18:49:14 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/056d/live/ef958c50-cef9-11f1-a7ee-733e71112503.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Student movement takes Serbia's Vučić to the wire in neck-and-neck election]]></title>
+            <description><![CDATA[The Student List has emerged from almost two years of anti-corruption protests to form the biggest challenge to Vučić's rule.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cm1dwz311476o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm1dwz311476o#0</guid>
+            <pubDate>Fri, 23 Oct 2026 23:08:23 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7667/live/b6bb68f0-cef9-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
             <title><![CDATA[Seven shot dead by gunmen at church funeral in Jordan, officials say]]></title>
@@ -66,7 +74,7 @@
             <title><![CDATA[Australian MP's condition improves after alleged car attack]]></title>
             <description><![CDATA[The Independent MP is now in a serious but stable condition, according to the Melbourne hospital. ]]></description>
             <link>https://www.bbc.co.uk/news/articles/c670pr1ryxyno?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c670pr1ryxyno#0</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c670pr1ryxyno#1</guid>
             <pubDate>Sat, 24 Oct 2026 01:55:15 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e656/live/f2bfb570-cf41-11f1-81c6-53f66e190efd.jpg"/>
         </item>
@@ -191,7 +199,7 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2145/live/2966bce0-ced9-11f1-8507-45cb00a1c41c.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Are California voters about to impose world's first 'tax on billionaires'?]]></title>
+            <title><![CDATA[Are California voters about to impose 'world's first' tax on billionaires?]]></title>
             <description><![CDATA[Voters are about to decide if the mega-rich among them should hand over billions of dollars to pay for improvements to healthcare.]]></description>
             <link>https://www.bbc.co.uk/news/articles/ck4g1jg4n9dno?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ck4g1jg4n9dno#3</guid>

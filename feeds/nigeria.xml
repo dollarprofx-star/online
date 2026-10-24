@@ -5,7 +5,7 @@
         <atom:link href="https://rss.punchng.com" rel="self" type="application/rss+xml" />
         <link> https://rss.punchng.com </link>
         <description> Get the latest News in Nigeria </description>
-        <lastBuildDate> Sat, 24 Oct 2026 06:15:27 +0000</lastBuildDate>
+        <lastBuildDate> Sat, 24 Oct 2026 07:05:35 +0000</lastBuildDate>
         <language> en-US </language>
         <sy:updatePeriod> minutely	</sy:updatePeriod>
         <sy:updateFrequency> 5	</sy:updateFrequency>
@@ -13,6 +13,20 @@
         <generator>https://rss.punchng.com</generator>
 
         <item>
+                        <title>Morning recap: Ebola updates, looming petrol price hike, Lagos building collapse, other top stories</title>
+                        <link>https://punchng.com/morning-recap-ebola-updates-looming-petrol-price-hike-lagos-building-collapse-other-top-stories/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
+                        <pubDate>Sat, 24 Oct 2026 07:38:11 +0000</pubDate>
+                        <dc:creator><![CDATA[Punch Newspapers]]></dc:creator>
+                        <category><![CDATA[]]></category>
+                        <guid isPermaLink='true'>https://punchng.com/morning-recap-ebola-updates-looming-petrol-price-hike-lagos-building-collapse-other-top-stories/?utm_source=rss.punchng.com&amp;utm_medium=web</guid>
+                        <description><![CDATA[
+
+Read the latest on Nigeria&#8217;s Ebola screening, a looming petrol price hike, the Lagos building collapse, and a WHO vaccine trial in DR Congo.
+
+Read More: https://punchng.com/morning-recap-ebola-updates-looming-petrol-price-hike-lagos-building-collapse-other-top-stories/]]></description>
+                        <enclosure url='https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png' length='342247' type='image/png'/>
+                    </item>
+                    <item>
                         <title>Ebola: Traveller had no symptoms before leaving Uganda — Govt</title>
                         <link>https://punchng.com/ebola-traveller-had-no-symptoms-before-leaving-uganda-govt/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
                         <pubDate>Sat, 24 Oct 2026 07:11:41 +0000</pubDate>
@@ -217,7 +231,7 @@ Read More: https://punchng.com/delta-plans-n4bn-business-grants-for-15000-reside
                         <guid isPermaLink='true'>https://punchng.com/again-petrol-price-hike-looms-after-crude-hits-115/?utm_source=rss.punchng.com&amp;utm_medium=web</guid>
                         <description><![CDATA[
 
-A petrol price hike looms in Nigeria as international Brent crude oil prices climb to $115 per barrel amid fears of military strikes on Iran.
+A potential petrol price hike looms in Nigeria as Brent crude climbs to $115 per barrel amid fears of military strikes on Iran and supply disruptions.
 
 Read More: https://punchng.com/again-petrol-price-hike-looms-after-crude-hits-115/]]></description>
                         <enclosure url='https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png' length='342247' type='image/png'/>
@@ -416,20 +430,6 @@ Read More: https://punchng.com/lagos-blames-developer-as-building-collapse-kills
 The NSCDC has arrested a 22-year-old man, Abdulrahman Ali, for allegedly vandalising an armoured electricity cable supplying the NNPC depot in Gombe State.
 
 Read More: https://punchng.com/nscdc-arrests-22-year-old-over-theft/]]></description>
-                        <enclosure url='https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png' length='342247' type='image/png'/>
-                    </item>
-                    <item>
-                        <title>Army deploys 600 troops to India for training</title>
-                        <link>https://punchng.com/army-deploys-600-troops-to-india-for-training/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
-                        <pubDate>Sat, 24 Oct 2026 00:39:11 +0000</pubDate>
-                        <dc:creator><![CDATA[Punch Newspapers]]></dc:creator>
-                        <category><![CDATA[]]></category>
-                        <guid isPermaLink='true'>https://punchng.com/army-deploys-600-troops-to-india-for-training/?utm_source=rss.punchng.com&amp;utm_medium=web</guid>
-                        <description><![CDATA[
-
-The Nigerian Army has deployed 600 personnel to India for specialised jungle and mountain warfare training to enhance combat proficiency in difficult terra
-
-Read More: https://punchng.com/army-deploys-600-troops-to-india-for-training/]]></description>
                         <enclosure url='https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png' length='342247' type='image/png'/>
                     </item>
                         </channel>
