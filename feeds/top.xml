@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 24 Oct 2026 05:19:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Oct 2026 05:55:11 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -47,28 +47,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4388/live/9cae2750-cf48-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Australian MP's condition improves after alleged car attack]]></title>
-            <description><![CDATA[The Independent MP is now in a serious but stable condition, according to the Melbourne hospital. ]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c670pr1ryxyno?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c670pr1ryxyno#1</guid>
-            <pubDate>Sat, 24 Oct 2026 01:55:15 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e656/live/f2bfb570-cf41-11f1-81c6-53f66e190efd.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Father who killed Oregon school shooter describes anguish over children he couldn't save]]></title>
             <description><![CDATA[Kaylub Giamanco, has been hailed as a hero for killing a teenager who fatally shot three children and a teacher. ]]></description>
             <link>https://www.bbc.co.uk/news/articles/crgj9ndwvj9jo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/crgj9ndwvj9jo#1</guid>
             <pubDate>Fri, 23 Oct 2026 22:47:07 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2348/live/e4a29f10-cf42-11f1-93e1-3b657b665bcf.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Celebrity Traitors left on a knife edge after a trip to the field of screams]]></title>
-            <description><![CDATA[A newly earned special power left one contestant with a big decision to make in Friday's episode.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c6jdmrz00v7lo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6jdmrz00v7lo#1</guid>
-            <pubDate>Fri, 23 Oct 2026 22:52:40 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d961/live/a03e74a0-cf35-11f1-b4af-39e764734ae7.jpg"/>
         </item>
         <item>
             <title><![CDATA[Arrest made after fire at Hitler's Eagle's Nest retreat]]></title>
@@ -79,20 +63,28 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/89c2/live/dded51c0-cf5a-11f1-b46b-8fe3882d26eb.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Celebrity Traitors left on a knife edge after a trip to the field of screams]]></title>
+            <description><![CDATA[A newly earned special power left one contestant with a big decision to make in Friday's episode.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c6jdmrz00v7lo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6jdmrz00v7lo#1</guid>
+            <pubDate>Fri, 23 Oct 2026 22:52:40 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d961/live/a03e74a0-cf35-11f1-b4af-39e764734ae7.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Australian MP's condition improves after alleged car attack]]></title>
+            <description><![CDATA[The Independent MP is now in a serious but stable condition, according to the Melbourne hospital. ]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c670pr1ryxyno?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c670pr1ryxyno#1</guid>
+            <pubDate>Sat, 24 Oct 2026 01:55:15 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e656/live/f2bfb570-cf41-11f1-81c6-53f66e190efd.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Why is John Travolta's old luxury jet in a small Australian town?]]></title>
             <description><![CDATA[The BBC goes on board Travolta’s old Boeing 707 which is being reassembled in a small coastal town.]]></description>
             <link>https://www.bbc.co.uk/news/videos/cmze483zj1zlo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cmze483zj1zlo#1</guid>
             <pubDate>Fri, 23 Oct 2026 21:19:17 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd0a/live/5f7ddcc0-cee6-11f1-b441-2b33b063138f.png"/>
-        </item>
-        <item>
-            <title><![CDATA[Seven shot dead by gunmen at church funeral in Jordan, officials say]]></title>
-            <description><![CDATA[Thirty-four people are also injured in the attack in southern Karak governorate, and a manhunt is now under way.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ck87zlpzny15o#1</guid>
-            <pubDate>Fri, 23 Oct 2026 19:46:30 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd9e/live/bb37b200-cee8-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
             <title><![CDATA[Tory activist in 'contract killing broker' claim had worked for party HQ]]></title>
@@ -109,6 +101,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cr5ynl415j79o#1</guid>
             <pubDate>Fri, 23 Oct 2026 19:23:10 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81f9/live/dbfea4d0-ce20-11f1-906e-e3128518d85d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Prince William on how he once dreamed of becoming 'DJ Xara']]></title>
+            <description><![CDATA[The Prince of Wales made a surprise appearance on the Graham Norton Show as part of a special edition to mark the Earthshot Prize. ]]></description>
+            <link>https://www.bbc.co.uk/news/videos/c6q8nd7n91eyo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/c6q8nd7n91eyo#1</guid>
+            <pubDate>Fri, 23 Oct 2026 18:42:38 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c8d/live/4397eab0-cf0d-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
             <title><![CDATA[Are California voters about to impose world's first 'tax on billionaires'?]]></title>
@@ -191,20 +191,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8fee/live/4cd59e20-ced5-11f1-8507-45cb00a1c41c.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Minneapolis withdrawal was 'surrender', Trump's ex-border patrol chief tells BBC]]></title>
+            <description><![CDATA[Greg Bovino was the public face of the controversial immigration enforcement operation in the city earlier this year.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/ck20rery78lro?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ck20rery78lro#4</guid>
+            <pubDate>Sat, 24 Oct 2026 05:31:01 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dfb8/live/821f0590-cf15-11f1-a568-e785d17b98ab.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[How Brazil's changing working class is reshaping the presidential race]]></title>
             <description><![CDATA[Calls for change present a challenge to President Lula in the second round of the election on Sunday.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cw80zx79nkvno?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cw80zx79nkvno#4</guid>
             <pubDate>Sat, 24 Oct 2026 05:05:44 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d48/live/69127510-cef6-11f1-93e1-3b657b665bcf.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bayern Munich manager Kompany taken to hospital after collapsing at training]]></title>
-            <description><![CDATA[Bayern Munich manager Vincent Kompany is taken to hospital after collapsing as he watched the club's second team train on Friday.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/ck3r5792en7go?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ck3r5792en7go#4</guid>
-            <pubDate>Fri, 23 Oct 2026 16:39:03 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f178/live/0950f610-cefb-11f1-accf-3309656ad0bb.jpg"/>
         </item>
         <item>
             <title><![CDATA[Woman, 65, becomes second patient to die of Ebola in Kenya]]></title>
