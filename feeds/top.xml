@@ -9,11 +9,19 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 24 Oct 2026 19:47:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Oct 2026 20:10:39 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Watch: BBC in Paris as police charge protesters and use tear gas during unrest]]></title>
+            <description><![CDATA[Europe correspondent Nick Beake reports from Paris where mostly peaceful protests turned into unrest after nightfall.]]></description>
+            <link>https://www.bbc.co.uk/news/videos/cm89zqw9lx1do?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cm89zqw9lx1do#1</guid>
+            <pubDate>Sat, 24 Oct 2026 19:37:35 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4f2/live/c78fb360-cfe5-11f1-b441-2b33b063138f.jpg"/>
+        </item>
         <item>
             <title><![CDATA[Met Police says letter with claims about Meghan's father not shared with other law enforcement]]></title>
             <description><![CDATA[The Met said it passed information to the duchess but did not share it with other law enforcement agencies.]]></description>
@@ -23,20 +31,12 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb37/live/1f328a50-cfa7-11f1-aadb-297fd0a130b9.jpg"/>
         </item>
         <item>
-            <title><![CDATA[UK braces for worst of Storm Boelo as amber warnings due to come into force]]></title>
+            <title><![CDATA[Storm Boelo amber warnings kick in as parts of UK brace for 80mph gusts]]></title>
             <description><![CDATA[Scotland, parts of northern England and Northern Ireland are forecast to be hit with the strongest winds from the country's second storm in as many days.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cmr4ydglq9r3o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmr4ydglq9r3o#1</guid>
-            <pubDate>Sat, 24 Oct 2026 18:56:46 GMT</pubDate>
+            <pubDate>Sat, 24 Oct 2026 20:01:23 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7559/live/33cbd240-cfb2-11f1-9012-0172b9f73a72.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Between quick wins and big dreams lies Burnham's biggest test]]></title>
-            <description><![CDATA[The prime minister might be dreaming of gold medals in 2040, but he must first navigate the difficult years in between, writes Laura Kuenssberg.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cwq6n09qpy90o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwq6n09qpy90o#1</guid>
-            <pubDate>Sat, 24 Oct 2026 11:03:57 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f09/live/d22fe040-ceed-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
             <title><![CDATA[Mum who died trying to save sons swept away in Bahamas was hero, husband says]]></title>
@@ -47,20 +47,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b9f/live/09596b60-cfc8-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Between quick wins and big dreams lies Burnham's biggest test]]></title>
+            <description><![CDATA[The prime minister might be dreaming of gold medals in 2040, but he must first navigate the difficult years in between, writes Laura Kuenssberg.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cwq6n09qpy90o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwq6n09qpy90o#1</guid>
+            <pubDate>Sat, 24 Oct 2026 11:03:57 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f09/live/d22fe040-ceed-11f1-b441-2b33b063138f.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Palestinian families displaced as Israeli forces demolish Hebron homes]]></title>
             <description><![CDATA[The crackdown follows the killing of two Israeli soldiers by two Palestinian gunmen on Friday - and comes just days ahead of Israel's election.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqd09k1k7532o#1</guid>
             <pubDate>Sat, 24 Oct 2026 17:21:42 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b86/live/6920a5d0-cfba-11f1-9012-0172b9f73a72.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Infantino tells BBC Sport he is backed by 'vast majority' of world football]]></title>
-            <description><![CDATA[Fifa president Gianni Infantino laughs off questions about whether he considered resigning over the World Cup sell-off debacle.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/c6q8nd9g9n72o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6q8nd9g9n72o#1</guid>
-            <pubDate>Sat, 24 Oct 2026 10:30:08 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cac2/live/51c70760-cf99-11f1-b441-2b33b063138f.png"/>
         </item>
         <item>
             <title><![CDATA[Before you crank up the thermostat, try these tips to keep you and your home warmer for longer]]></title>
@@ -103,14 +103,12 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a29/live/b390e000-ce14-11f1-9f55-cdc56e9c248c.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Watch: Fire engulfs Hitler's mountaintop Eagle's Nest retreat]]></title>
-            <description><![CDATA[Police in the southern German state of Bavaria have detained a 33-year-old German man following the fire.
-
-]]></description>
-            <link>https://www.bbc.co.uk/news/videos/cq98z9xxy2n2o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cq98z9xxy2n2o#3</guid>
-            <pubDate>Sat, 24 Oct 2026 15:56:48 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfba/live/f1443bc0-cfbf-11f1-93e1-3b657b665bcf.jpg"/>
+            <title><![CDATA[Sam Fender calls out ticket prices ahead of tour]]></title>
+            <description><![CDATA[The Geordie singer says on Instagram he is "not happy" with the reported ticket prices.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c6p3g9kle8pgo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6p3g9kle8pgo#3</guid>
+            <pubDate>Sat, 24 Oct 2026 12:15:29 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a8d/live/34839640-cfc2-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
             <title><![CDATA[Plan for Northern Olympics to get £7m in Healey's Budget]]></title>
@@ -121,20 +119,22 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a8f/live/392d7fd0-cf81-11f1-aa4c-d1ae926e8a30.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Sam Fender calls out ticket prices ahead of tour]]></title>
-            <description><![CDATA[The Geordie singer says on Instagram he is "not happy" with the reported ticket prices.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c6p3g9kle8pgo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6p3g9kle8pgo#3</guid>
-            <pubDate>Sat, 24 Oct 2026 12:15:29 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a8d/live/34839640-cfc2-11f1-a701-fddedf244c16.jpg"/>
+            <title><![CDATA[Infantino tells BBC Sport he is backed by 'vast majority' of world football]]></title>
+            <description><![CDATA[Fifa president Gianni Infantino laughs off questions about whether he considered resigning over the World Cup sell-off debacle.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/c6q8nd9g9n72o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6q8nd9g9n72o#3</guid>
+            <pubDate>Sat, 24 Oct 2026 10:30:08 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cac2/live/51c70760-cf99-11f1-b441-2b33b063138f.png"/>
         </item>
         <item>
-            <title><![CDATA[Fireworks and tear gas as protesters and riot police clash in Paris]]></title>
-            <description><![CDATA[Europe correspondent Nick Beake reports from Paris where mostly peaceful protests turned into unrest after nightfall.]]></description>
-            <link>https://www.bbc.co.uk/news/videos/cm89zqw9lx1do?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cm89zqw9lx1do#3</guid>
-            <pubDate>Sat, 24 Oct 2026 19:37:35 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/10f1/live/2a9396b0-cfe2-11f1-93e1-3b657b665bcf.jpg"/>
+            <title><![CDATA[Watch: Fire engulfs Hitler's mountaintop Eagle's Nest retreat]]></title>
+            <description><![CDATA[Police in the southern German state of Bavaria have detained a 33-year-old German man following the fire.
+
+]]></description>
+            <link>https://www.bbc.co.uk/news/videos/cq98z9xxy2n2o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cq98z9xxy2n2o#3</guid>
+            <pubDate>Sat, 24 Oct 2026 15:56:48 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfba/live/f1443bc0-cfbf-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
             <title><![CDATA[The convicted £33m tax fraudster evading justice and living it up in Dubai]]></title>
@@ -241,8 +241,8 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2dbc/live/07a857a0-cfd6-11f1-b951-f904363c9c32.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Spurs pick up rare Stamford Bridge win as Palmer sent off]]></title>
-            <description><![CDATA[Tottenham picked up just their second victory over Chelsea at Stamford Bridge in 36 years with a 2-0 victory, as the host finished with 10-men after a record card for Cole Palmer. ]]></description>
+            <title><![CDATA[Spurs clinch rare Stamford Bridge win as Palmer sent off]]></title>
+            <description><![CDATA[Tottenham claim just their second victory over Chelsea at Stamford Bridge in 36 years, winning 2-0 as the hosts finish with 10 men after a red card for Cole Palmer. ]]></description>
             <link>https://www.bbc.co.uk/sport/football/videos/ckly0dnqz0r7o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/ckly0dnqz0r7o#10</guid>
             <pubDate>Sat, 24 Oct 2026 19:17:06 GMT</pubDate>
