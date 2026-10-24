@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 24 Oct 2026 07:09:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Oct 2026 07:40:45 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -71,7 +71,7 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b0f/live/ff750910-ce7d-11f1-bc2e-018d645d8d21.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Strictly's new presenters - after frosty reviews have they warmed up?]]></title>
+            <title><![CDATA[Strictly's new presenters - after initial stumbles are they finding their feet?]]></title>
             <description><![CDATA[Josh Widdicombe, Emma Willis and Johannes Radebe have split opinion but are getting into the groove, critics say.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c5zjxp1rjne8o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c5zjxp1rjne8o#2</guid>
@@ -111,20 +111,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c8d/live/4397eab0-cf0d-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
-            <title><![CDATA[How Brazil's changing working class is reshaping the presidential race]]></title>
-            <description><![CDATA[Calls for change present a challenge to President Lula in the second round of the election on Sunday.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cw80zx79nkvno?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cw80zx79nkvno#3</guid>
-            <pubDate>Sat, 24 Oct 2026 05:05:44 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d48/live/69127510-cef6-11f1-93e1-3b657b665bcf.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Australian MP's condition improves after alleged car attack]]></title>
-            <description><![CDATA[The Independent MP is now in a serious but stable condition, according to the Melbourne hospital. ]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c670pr1ryxyno?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c670pr1ryxyno#3</guid>
-            <pubDate>Sat, 24 Oct 2026 01:55:15 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e656/live/f2bfb570-cf41-11f1-81c6-53f66e190efd.jpg"/>
+            <title><![CDATA[Why a convicted £33m tax fraudster is living it up in Dubai]]></title>
+            <description><![CDATA[Arif Patel "should not be beyond the reach of the justice system," says the PM’s anti-corruption champion.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cmy83v286571o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmy83v286571o#3</guid>
+            <pubDate>Sat, 24 Oct 2026 06:32:35 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83c8/live/f1a76ee0-84be-11f0-84c8-99de564f0440.jpg"/>
         </item>
         <item>
             <title><![CDATA[Tory activist in 'contract killing broker' claim had worked for party HQ]]></title>
@@ -135,28 +127,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b1ff/live/3a2fbbf0-cf31-11f1-9f96-7f17b236547a.jpg"/>
         </item>
         <item>
+            <title><![CDATA[How Brazil's changing working class is reshaping the presidential race]]></title>
+            <description><![CDATA[Calls for change present a challenge to President Lula in the second round of the election on Sunday.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cw80zx79nkvno?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cw80zx79nkvno#3</guid>
+            <pubDate>Sat, 24 Oct 2026 05:05:44 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d48/live/69127510-cef6-11f1-93e1-3b657b665bcf.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[The Papers: 'Meghan warned over father' and 'Don't risk Truss-style budget']]></title>
             <description><![CDATA[Meghan Markle's responds to allegations over her father and PM warned to not risk 'Truss-style' budget leads Saturday's papers.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c6n8devv08nno?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6n8devv08nno#3</guid>
             <pubDate>Sat, 24 Oct 2026 04:46:05 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/deb7/live/c6c4f620-cf31-11f1-93e1-3b657b665bcf.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[How does the UK state pension compare with other countries?]]></title>
-            <description><![CDATA[Do British pensioners have it better or worse than those in other countries?]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c3gr84w85glyo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c3gr84w85glyo#3</guid>
-            <pubDate>Sat, 24 Oct 2026 00:09:12 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a29/live/b390e000-ce14-11f1-9f55-cdc56e9c248c.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The artist dropping her debut album after a billion streams]]></title>
-            <description><![CDATA[Irish DJ Jazzy came up on the Dublin club scene and has worked with industry heavyweights like Calvin Harris.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cwj0leg7ng67o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwj0leg7ng67o#3</guid>
-            <pubDate>Fri, 23 Oct 2026 23:08:55 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8fee/live/4cd59e20-ced5-11f1-8507-45cb00a1c41c.jpg"/>
         </item>
         <item>
             <title><![CDATA[Minneapolis withdrawal was 'surrender', Trump's ex-border patrol chief tells BBC]]></title>
@@ -167,36 +151,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dfb8/live/821f0590-cf15-11f1-a568-e785d17b98ab.jpg"/>
         </item>
         <item>
-            <title><![CDATA[GP says she was forced out of job after raising concerns about gender treatment]]></title>
-            <description><![CDATA[The doctor says she faced a brutal investigation after she passed on complaints brought to her by other doctors.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cr5ynl415j79o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cr5ynl415j79o#3</guid>
-            <pubDate>Fri, 23 Oct 2026 19:23:10 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81f9/live/dbfea4d0-ce20-11f1-906e-e3128518d85d.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Why should I stockpile and what will I need?]]></title>
-            <description><![CDATA[The UK government has warned households to have three days of essential supplies on hand.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cred3xnj0j0qo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cred3xnj0j0qo#3</guid>
-            <pubDate>Fri, 23 Oct 2026 13:30:32 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d39/live/0a1fb990-cec0-11f1-ae9c-0303957c36f8.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead]]></title>
-            <description><![CDATA[The soldiers were killed in an attack by two Palestinian gunmen at a checkpoint outside the West Bank city on Friday morning. ]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cq4g1p974wxko#3</guid>
-            <pubDate>Fri, 23 Oct 2026 15:37:07 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bbd8/live/36f17b50-cef9-11f1-accf-3309656ad0bb.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Why is John Travolta's old luxury jet in a small Australian town?]]></title>
-            <description><![CDATA[The BBC goes on board Travolta’s old Boeing 707 which is being reassembled in a small coastal town.]]></description>
-            <link>https://www.bbc.co.uk/news/videos/cmze483zj1zlo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cmze483zj1zlo#3</guid>
-            <pubDate>Fri, 23 Oct 2026 21:19:17 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd0a/live/5f7ddcc0-cee6-11f1-b441-2b33b063138f.png"/>
+            <title><![CDATA[How does the UK state pension compare with other countries?]]></title>
+            <description><![CDATA[Do British pensioners have it better or worse than those in other countries?]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c3gr84w85glyo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c3gr84w85glyo#3</guid>
+            <pubDate>Sat, 24 Oct 2026 00:09:12 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a29/live/b390e000-ce14-11f1-9f55-cdc56e9c248c.jpg"/>
         </item>
         <item>
             <title><![CDATA[Ali G is back. But is the character past its sell-by date? ]]></title>
