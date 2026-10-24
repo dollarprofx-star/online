@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 24 Oct 2026 18:13:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Oct 2026 18:46:37 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -209,20 +209,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b71f/live/455010f0-ce1b-11f1-9a39-31b474234113.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Donnarumma & Guehi highlight Man City issues as solid Arsenal move level]]></title>
+            <title><![CDATA[Penders error & Palmer sees red - player ratings for Chelsea v Spurs]]></title>
+            <description><![CDATA[Goalkeeper Mike Penders endures a difficult first Premier League start, scoring an own goal in Spurs' 2-0 win at Chelsea. Here's how we - and you - rated the players.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cqwy7x6e672eo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqwy7x6e672eo#9</guid>
+            <pubDate>Sat, 24 Oct 2026 18:26:29 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/74e0/live/793455e0-cfd6-11f1-b951-f904363c9c32.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Man City's leaky defence highlights Donnarumma & Guehi struggles]]></title>
             <description><![CDATA[Manchester City's 100% winning start to the Premier League season comes to an abrupt end against Aston Villa - leaving Enzo Maresca with glaring defensive issues to resolve.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/c6kg7z700k7jo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6kg7z700k7jo#9</guid>
             <pubDate>Sat, 24 Oct 2026 15:05:45 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8225/live/74131b10-cfb7-11f1-9012-0172b9f73a72.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[From Chelsea reject to Watkins 'upgrade' - Jackson makes fast Villa start]]></title>
-            <description><![CDATA[Nicolas Jackson continues an excellent start to his Aston Villa career with a match-winning double against Manchester City.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/c6p9gkdzzpnro?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6p9gkdzzpnro#9</guid>
-            <pubDate>Sat, 24 Oct 2026 16:58:27 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa12/live/c9b08670-cfb7-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
             <title><![CDATA[Leaving the technical area? Arteta has the receipts]]></title>
@@ -239,14 +239,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cm4gv830j73do#9</guid>
             <pubDate>Sat, 24 Oct 2026 17:52:22 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2dbc/live/07a857a0-cfd6-11f1-b951-f904363c9c32.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Arsenal relieve pressure with Spurs win - can they kick on now?]]></title>
-            <description><![CDATA[Arsenal end their five-match winless run in the Women's Super League with victory at Tottenham - but can they kick on now?]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cm93zw44d33do?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cm93zw44d33do#9</guid>
-            <pubDate>Sat, 24 Oct 2026 15:40:01 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd69/live/e4151260-cfc1-11f1-9ecd-8be45051afbd.jpg"/>
         </item>
     </channel>
 </rss>
