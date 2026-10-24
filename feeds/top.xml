@@ -9,21 +9,21 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 24 Oct 2026 10:37:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Oct 2026 11:05:27 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
-            <title><![CDATA[Infantino says he is backed by 'vast majority' of world football]]></title>
-            <description><![CDATA[Fifa President Gianni Infantino laughs off questions about whether he considered resigning over the World Cup sell-off debacle.]]></description>
+            <title><![CDATA[Infantino tells BBC Sport he is backed by 'vast majority' of world football]]></title>
+            <description><![CDATA[Fifa president Gianni Infantino laughs off questions about whether he considered resigning over the World Cup sell-off debacle.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/c6q8nd9g9n72o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6q8nd9g9n72o#1</guid>
             <pubDate>Sat, 24 Oct 2026 10:30:08 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/038c/live/856e3ab0-cf90-11f1-bef0-7f8eb636c50b.jpg"/>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cac2/live/51c70760-cf99-11f1-b441-2b33b063138f.png"/>
         </item>
         <item>
-            <title><![CDATA[Mum dies after trying to rescue sons swept away at sea ]]></title>
+            <title><![CDATA[Mum dies after trying to rescue sons swept away at sea in Bahamas]]></title>
             <description><![CDATA[The children were subsequently rescued from the water, police say.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o#1</guid>
@@ -208,11 +208,19 @@
         </item>
         <item>
             <title><![CDATA[Infantino says he is backed by 'vast majority']]></title>
-            <description><![CDATA[Fifa President Gianni Infantino laughs off questions about whether he considered resigning over the World Cup sell-off debacle.]]></description>
+            <description><![CDATA[Fifa president Gianni Infantino laughs off questions about whether he considered resigning over the World Cup sell-off debacle.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/c6q8nd9g9n72o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6q8nd9g9n72o#9</guid>
             <pubDate>Sat, 24 Oct 2026 10:30:08 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/038c/live/856e3ab0-cf90-11f1-bef0-7f8eb636c50b.jpg"/>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cac2/live/51c70760-cf99-11f1-b441-2b33b063138f.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Poor England suffer another Australia humiliation]]></title>
+            <description><![CDATA[England are well beaten by defending champions Australia in their second Women's Rugby League World Cup Group A match in Perth.]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-league/articles/c5y43x20y0wjo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/rugby-league/articles/c5y43x20y0wjo#9</guid>
+            <pubDate>Sat, 24 Oct 2026 10:59:41 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dfe7/live/46734700-cf96-11f1-878e-95f884e98e77.jpg"/>
         </item>
         <item>
             <title><![CDATA[England thrash France to keep alive World Cup hopes]]></title>
@@ -229,14 +237,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/rugby-union/articles/cv0ld9y3g426o#9</guid>
             <pubDate>Sat, 24 Oct 2026 09:22:07 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f770/live/afae5080-cf86-11f1-bef0-7f8eb636c50b.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Smith v Puello world title fight predictions]]></title>
-            <description><![CDATA[Figures from the boxing world give their predictions for Saturday's light-welterweight title fight between WBC champion Dalton Smith and Alberto Puello.]]></description>
-            <link>https://www.bbc.co.uk/sport/boxing/articles/cwe9ldpmeljyo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/boxing/articles/cwe9ldpmeljyo#9</guid>
-            <pubDate>Sat, 24 Oct 2026 06:35:17 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44ca/live/f2a09dc0-ce1a-11f1-906e-e3128518d85d.png"/>
         </item>
     </channel>
 </rss>
