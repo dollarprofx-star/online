@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/sport/football</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 24 Oct 2026 20:10:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Oct 2026 20:36:39 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -82,6 +82,14 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/74e0/live/793455e0-cfd6-11f1-b951-f904363c9c32.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Liverpool among clubs keen on Vuskovic - Sunday's gossip]]></title>
+            <description><![CDATA[Brighton defender Luka Vuskovic is being looked at by high-profile clubs, Liverpool do not intend to bring Trent Alexander-Arnold back, AC Milan are targeting Manchester United's Leny Yoro, plus more.  ]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cqvgr87py7zvo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqvgr87py7zvo#1</guid>
+            <pubDate>Sat, 24 Oct 2026 20:20:30 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0bf2/live/e83ed530-cfdd-11f1-a701-fddedf244c16.png"/>
+        </item>
+        <item>
             <title><![CDATA[Hayen sacked by Burnley after just 14 games]]></title>
             <description><![CDATA[Nicky Hayen is sacked after just 14 games in charge at Burnley following a poor start to the season.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cm4gv830j73do?at_medium=RSS&amp;at_campaign=rss</link>
@@ -136,14 +144,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cm2l4vq9k84yo#2</guid>
             <pubDate>Sat, 24 Oct 2026 10:03:59 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb52/live/7a368340-cf8c-11f1-bef0-7f8eb636c50b.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Who am I? Plus today's other quizzes]]></title>
-            <description><![CDATA[Test your football knowledge against today's Who Am I?, Five in Five and Brainteaser.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cknv01g9n27do?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cknv01g9n27do#2</guid>
-            <pubDate>Sat, 24 Oct 2026 05:41:29 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"/>
         </item>
         <item>
             <title><![CDATA[Sutton's predictions v Waffle the Wonder Dog and his owner Simon]]></title>
@@ -205,20 +205,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2307/live/6e2edec0-cfe2-11f1-aa62-a1cf89c34605.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Who am I? Plus today's other quizzes]]></title>
+            <description><![CDATA[Test your football knowledge against today's Who Am I?, Five in Five and Brainteaser.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cknv01g9n27do?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cknv01g9n27do#4</guid>
+            <pubDate>Sat, 24 Oct 2026 05:41:29 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"/>
+        </item>
+        <item>
             <title><![CDATA[Barnet condemn racial abuse of Noel-Williams]]></title>
             <description><![CDATA[Barnet condemn racial abuse targeted at Isiah Noel-Williams after the midfielder was sent off in their 1-1 draw with Oldham.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cqm2dx312d98o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqm2dx312d98o#6</guid>
             <pubDate>Sat, 24 Oct 2026 18:58:25 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0b8/live/a4aaeee0-cfd7-11f1-b951-f904363c9c32.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Carrick refuses to rule out dropping Fernandes in emotional address]]></title>
-            <description><![CDATA[Michael Carrick speaks for five uninterrupted minutes at media briefing to outline what Manchester United means to him, then refuses to rule out dropping Bruno Fernandes.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cq78pv0073dlo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cq78pv0073dlo#6</guid>
-            <pubDate>Fri, 23 Oct 2026 13:55:37 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73a2/live/6c9e6ab0-cee5-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
             <title><![CDATA[Matos rues QPR display as Swansea suffer Yeo blow]]></title>
@@ -229,12 +229,12 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9b5/live/6fff2200-cfce-11f1-9ecd-8be45051afbd.jpg"/>
         </item>
         <item>
-            <title><![CDATA[All you need to know about the 2026 Ballon d'Or]]></title>
-            <description><![CDATA[Our Ask Me Anything team tells you all you need to know about the 70th Ballon d'Or Ceremony.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cw0541g4qzgeo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cw0541g4qzgeo#7</guid>
-            <pubDate>Fri, 23 Oct 2026 11:55:45 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7667/live/95176c50-cd3f-11f1-bc2e-018d645d8d21.png"/>
+            <title><![CDATA[Carrick refuses to rule out dropping Fernandes in emotional address]]></title>
+            <description><![CDATA[Michael Carrick speaks for five uninterrupted minutes at media briefing to outline what Manchester United means to him, then refuses to rule out dropping Bruno Fernandes.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cq78pv0073dlo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cq78pv0073dlo#7</guid>
+            <pubDate>Fri, 23 Oct 2026 13:55:37 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73a2/live/6c9e6ab0-cee5-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
             <title><![CDATA['Best team in the Championship' - Boro lay down marker]]></title>
@@ -243,6 +243,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c65ynq95xdw5o#7</guid>
             <pubDate>Fri, 23 Oct 2026 23:14:00 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8aeb/live/76e767a0-cf31-11f1-9f96-7f17b236547a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[All you need to know about the 2026 Ballon d'Or]]></title>
+            <description><![CDATA[Our Ask Me Anything team tells you all you need to know about the 70th Ballon d'Or Ceremony.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cw0541g4qzgeo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cw0541g4qzgeo#7</guid>
+            <pubDate>Fri, 23 Oct 2026 11:55:45 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7667/live/95176c50-cd3f-11f1-bc2e-018d645d8d21.png"/>
         </item>
         <item>
             <title><![CDATA[Forest left frustrated as winless run goes on after draw at Ipswich]]></title>
