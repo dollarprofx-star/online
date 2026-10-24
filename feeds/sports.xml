@@ -9,11 +9,19 @@
             <link>https://www.bbc.co.uk/sport/football</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 24 Oct 2026 19:17:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Oct 2026 19:47:20 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Spurs pick up rare Stamford Bridge win as Palmer sent off]]></title>
+            <description><![CDATA[Tottenham picked up just their second victory over Chelsea at Stamford Bridge in 36 years with a 2-0 victory, as the host finished with 10-men after a record card for Cole Palmer. ]]></description>
+            <link>https://www.bbc.co.uk/sport/football/videos/ckly0dnqz0r7o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/ckly0dnqz0r7o#0</guid>
+            <pubDate>Sat, 24 Oct 2026 19:17:06 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e38b/live/4a1a96c0-cfdb-11f1-93e1-3b657b665bcf.jpg"/>
+        </item>
         <item>
             <title><![CDATA[Arsenal beat Everton to go level on points with leaders Man City]]></title>
             <description><![CDATA[Goals from Ezri Konsa, his first for the club, and Gabriel Magalhaes helped Arsenal beat Everton 2-0 at the Emirates to move level on points with league leaders Manchester City. ]]></description>
@@ -24,7 +32,7 @@
         </item>
         <item>
             <title><![CDATA[Jackson scores twice as Aston Villa end Man City's perfect start]]></title>
-            <description><![CDATA[Nicolas Jackson scores twice as Aston Villa beat Manchester City 2-1 at Villa Park, to secure a fourth successive win in all competitions whilst also ending City's 100% start to the Premier League season. ]]></description>
+            <description><![CDATA[Nicolas Jackson scores twice as Aston Villa beat Manchester City 2-1 at Villa Park to end their 100% start to the Premier League season. ]]></description>
             <link>https://www.bbc.co.uk/sport/football/videos/c6j47qe970x7o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/c6j47qe970x7o#0</guid>
             <pubDate>Sat, 24 Oct 2026 18:59:27 GMT</pubDate>
@@ -32,7 +40,7 @@
         </item>
         <item>
             <title><![CDATA[Bobb's late strike secures Fulham win at Coventry]]></title>
-            <description><![CDATA[Fulham's Oscar Bobb scores in the 80th minute in their match against Coventry, as the London side earn back-to-back victories in the Premier League.
+            <description><![CDATA[Fulham's Oscar Bobb scores in the 80th minute against Coventry to earn back-to-back victories in the Premier League.
 
 
 ]]></description>
@@ -40,14 +48,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cx7vpmrzr04do#0</guid>
             <pubDate>Sat, 24 Oct 2026 18:59:22 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a280/live/a960f020-cfc7-11f1-b441-2b33b063138f.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Forest left frustrated as winless run goes on after draw at Ipswich]]></title>
-            <description><![CDATA[Nottingham Forest ended a run of three successive league defeats but endured another night of missed chances as they drew 1-1 at Ipswich Town in the Premier League, but the result does move the away side out of the relegation zone on goal difference. ]]></description>
-            <link>https://www.bbc.co.uk/sport/football/videos/c9ly0dgy2r2eo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/c9ly0dgy2r2eo#0</guid>
-            <pubDate>Fri, 23 Oct 2026 21:54:54 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ad5/live/def54220-cf29-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
             <title><![CDATA[From Chelsea reject to Watkins 'upgrade' - Jackson makes fast Villa start]]></title>
@@ -138,12 +138,28 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"/>
         </item>
         <item>
+            <title><![CDATA[Sutton's predictions v Waffle the Wonder Dog and his owner Simon]]></title>
+            <description><![CDATA[BBC Sport football expert Chris Sutton takes on Waffle the Wonder Dog and his owner Simon, plus the BBC readers and AI with his predictions for this weekend's Premier League fixtures.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/c3y0eqkneze4o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c3y0eqkneze4o#2</guid>
+            <pubDate>Thu, 22 Oct 2026 16:30:41 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a31/live/4e4346b0-ce0b-11f1-9a39-31b474234113.png"/>
+        </item>
+        <item>
             <title><![CDATA['Best performance since I arrived' - De Zerbi praises Spurs after win]]></title>
             <description><![CDATA[Tottenham manager Roberto De Zerbi describes his side's 2-0 victory over Chelsea at Stamford Bridge as "the best since he arrived at the club", adding the win was special given it was against their local rivals.  ]]></description>
             <link>https://www.bbc.co.uk/sport/football/videos/cqkg5m3lnr5zo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cqkg5m3lnr5zo#3</guid>
             <pubDate>Sat, 24 Oct 2026 19:12:19 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e45/live/7e1f20c0-cfdc-11f1-93e1-3b657b665bcf.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['We could have played better' - Alonso disappointed after defeat]]></title>
+            <description><![CDATA[Chelsea manager Xabi Alonso admitted he was disappointed by his side's performance, saying they "could have played better" following their 2-0 defeat by Tottenham at Stamford Bridge. ]]></description>
+            <link>https://www.bbc.co.uk/sport/football/videos/ckvg6j1p51xdo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/ckvg6j1p51xdo#3</guid>
+            <pubDate>Sat, 24 Oct 2026 19:25:04 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b4b0/live/61137dc0-cfdf-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
             <title><![CDATA[Arsenal fight back to beat Tottenham and ease pressure on Slegers ]]></title>
@@ -173,22 +189,6 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/74cb/live/65f3a070-cfc8-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Forest left frustrated as winless run goes on after draw at Ipswich]]></title>
-            <description><![CDATA[Nottingham Forest ended a run of three successive league defeats but endured another night of missed chances as they drew 1-1 at Ipswich Town in the Premier League, but the result does move the away side out of the relegation zone on goal difference. ]]></description>
-            <link>https://www.bbc.co.uk/sport/football/videos/c9ly0dgy2r2eo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/c9ly0dgy2r2eo#3</guid>
-            <pubDate>Fri, 23 Oct 2026 21:54:54 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ad5/live/def54220-cf29-11f1-a701-fddedf244c16.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sutton's predictions v Waffle the Wonder Dog and his owner Simon]]></title>
-            <description><![CDATA[BBC Sport football expert Chris Sutton takes on Waffle the Wonder Dog and his owner Simon, plus the BBC readers and AI with his predictions for this weekend's Premier League fixtures.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/c3y0eqkneze4o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c3y0eqkneze4o#4</guid>
-            <pubDate>Thu, 22 Oct 2026 16:30:41 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a31/live/4e4346b0-ce0b-11f1-9a39-31b474234113.png"/>
-        </item>
-        <item>
             <title><![CDATA[Barnet condemn racial abuse of Noel-Williams]]></title>
             <description><![CDATA[Barnet condemn racial abuse targeted at Isiah Noel-Williams after the midfielder was sent off in their 1-1 draw with Oldham.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cqm2dx312d98o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -216,7 +216,7 @@
             <title><![CDATA[Matos rues QPR display as Swansea suffer Yeo blow]]></title>
             <description><![CDATA[Vitor Matos says Swansea City must "listen to this performance" after they slump to the heaviest defeat of his reign at Queens Park Rangers.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/c6g7xvk35p94o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6g7xvk35p94o#7</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6g7xvk35p94o#6</guid>
             <pubDate>Sat, 24 Oct 2026 17:25:18 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9b5/live/6fff2200-cfce-11f1-9ecd-8be45051afbd.jpg"/>
         </item>
@@ -227,6 +227,22 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cw0541g4qzgeo#7</guid>
             <pubDate>Fri, 23 Oct 2026 11:55:45 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7667/live/95176c50-cd3f-11f1-bc2e-018d645d8d21.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Football Daily]]></title>
+            <description><![CDATA[Kelly Somers speaks to Sean Dyche.]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/p0pj7y5v?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0pj7y5v#7</guid>
+            <pubDate>Sat, 24 Oct 2026 00:00:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0pj7y7q.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Forest left frustrated as winless run goes on after draw at Ipswich]]></title>
+            <description><![CDATA[Nottingham Forest ended a run of three successive league defeats but endured another night of missed chances as they drew 1-1 at Ipswich Town in the Premier League, but the result does move the away side out of the relegation zone on goal difference. ]]></description>
+            <link>https://www.bbc.co.uk/sport/football/videos/c9ly0dgy2r2eo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/c9ly0dgy2r2eo#8</guid>
+            <pubDate>Fri, 23 Oct 2026 21:54:54 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ad5/live/def54220-cf29-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
             <title><![CDATA['It doesn't make sense' - Glasner confused after Diop avoids red card]]></title>
@@ -291,17 +307,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/c32l4x1k28ero#8</guid>
             <pubDate>Mon, 19 Oct 2026 21:41:21 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec42/live/1b9be3a0-cc05-11f1-9a39-31b474234113.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[All the goals from the Women's Super League - matchweek six ]]></title>
-            <description><![CDATA[Watch every goal from matchweek six of the Women's Super League 2026-27 season.
-
-
-]]></description>
-            <link>https://www.bbc.co.uk/sport/football/videos/c5y43049v0zzo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/c5y43049v0zzo#8</guid>
-            <pubDate>Mon, 19 Oct 2026 13:36:31 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99e9/live/247c2c40-cbb6-11f1-bc2e-018d645d8d21.jpg"/>
         </item>
         <item>
             <title><![CDATA[Dream night for Bournemouth - win over Milan a sign of Premier League power]]></title>
