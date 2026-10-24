@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 24 Oct 2026 16:16:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Oct 2026 16:54:36 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -55,6 +55,14 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cac2/live/51c70760-cf99-11f1-b441-2b33b063138f.png"/>
         </item>
         <item>
+            <title><![CDATA[Before you crank up the thermostat, try these tips to keep you and your home warmer for longer]]></title>
+            <description><![CDATA[With storms hitting parts of the UK and the clocks going back, here are some practical ways to cope with falling temperatures. ]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cqr7yeed1ed7o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqr7yeed1ed7o#2</guid>
+            <pubDate>Fri, 23 Oct 2026 23:50:45 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef86/live/f04a5c10-cdf6-11f1-bc2e-018d645d8d21.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Strictly's new presenters - after mixed reviews have they found their feet?]]></title>
             <description><![CDATA[Josh Widdicombe, Emma Willis and Johannes Radebe have split opinion but are getting into the groove, critics say.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c5zjxp1rjne8o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -63,20 +71,12 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95c4/live/e591c730-ced8-11f1-8507-45cb00a1c41c.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Are California voters about to impose 'world's first' tax on billionaires?]]></title>
+            <title><![CDATA[California considers imposing 'world's first' tax on billionaires]]></title>
             <description><![CDATA[Voters are about to decide if the mega-rich among them should hand over billions of dollars to pay for improvements to healthcare.]]></description>
             <link>https://www.bbc.co.uk/news/articles/ck4g1jg4n9dno?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ck4g1jg4n9dno#2</guid>
             <pubDate>Fri, 23 Oct 2026 23:11:31 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b0f/live/ff750910-ce7d-11f1-bc2e-018d645d8d21.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Before you crank up the thermostat, try these tips to keep you and your home warmer for longer]]></title>
-            <description><![CDATA[Make draught excluders from socks, leave your oven door open after cooking and opt for lots of thin layers of clothing to stay warm.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cqr7yeed1ed7o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqr7yeed1ed7o#2</guid>
-            <pubDate>Fri, 23 Oct 2026 23:50:45 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef86/live/f04a5c10-cdf6-11f1-bc2e-018d645d8d21.jpg"/>
         </item>
         <item>
             <title><![CDATA[The artist dropping her debut album after a billion streams]]></title>
@@ -87,12 +87,30 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8fee/live/4cd59e20-ced5-11f1-8507-45cb00a1c41c.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Ruins of Limoges city hall a symbol of France divided by national protests]]></title>
-            <description><![CDATA[Younger Limoges residents see the destruction of their town hall as unfortunate collateral damage in a wider movement. For others, the fire was an unacceptable tragedy. ]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cxyvrged14d0o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cxyvrged14d0o#2</guid>
-            <pubDate>Fri, 23 Oct 2026 23:09:16 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2145/live/2966bce0-ced9-11f1-8507-45cb00a1c41c.jpg"/>
+            <title><![CDATA[How the UK state pension compares with other countries]]></title>
+            <description><![CDATA[Do British pensioners have it better or worse than those in other countries?]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c3gr84w85glyo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c3gr84w85glyo#2</guid>
+            <pubDate>Sat, 24 Oct 2026 00:09:12 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a29/live/b390e000-ce14-11f1-9f55-cdc56e9c248c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Fire engulfs Hitler's mountaintop Eagle's Nest retreat]]></title>
+            <description><![CDATA[Police in the southern German state of Bavaria have detained a 33-year-old German man following the fire.
+
+]]></description>
+            <link>https://www.bbc.co.uk/news/videos/cq98z9xxy2n2o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cq98z9xxy2n2o#3</guid>
+            <pubDate>Sat, 24 Oct 2026 15:56:48 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfba/live/f1443bc0-cfbf-11f1-93e1-3b657b665bcf.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sam Fender calls out ticket prices ahead of tour]]></title>
+            <description><![CDATA[The Geordie singer says on Instagram he is "not happy" with the reported ticket prices.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c6p3g9kle8pgo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6p3g9kle8pgo#3</guid>
+            <pubDate>Sat, 24 Oct 2026 12:15:29 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a8d/live/34839640-cfc2-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
             <title><![CDATA[Ukraine says Starlink connection 'now stable' after network limits]]></title>
@@ -111,14 +129,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83c8/live/f1a76ee0-84be-11f0-84c8-99de564f0440.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Watch: Fire engulfs Hitler's mountaintop Eagle's Nest retreat]]></title>
-            <description><![CDATA[Police in the southern German state of Bavaria have detained a 33-year-old German man following the fire.
-
-]]></description>
-            <link>https://www.bbc.co.uk/news/videos/cq98z9xxy2n2o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cq98z9xxy2n2o#3</guid>
-            <pubDate>Sat, 24 Oct 2026 15:56:48 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfba/live/f1443bc0-cfbf-11f1-93e1-3b657b665bcf.jpg"/>
+            <title><![CDATA[How Brazil's changing working class is reshaping the presidential race]]></title>
+            <description><![CDATA[Calls for change present a challenge to President Lula in the second round of the election on Sunday.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cw80zx79nkvno?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cw80zx79nkvno#3</guid>
+            <pubDate>Sat, 24 Oct 2026 05:05:44 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d48/live/69127510-cef6-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
             <title><![CDATA[Bayern Munich coach Vincent Kompany's recovery will take 'weeks' after collapse]]></title>
@@ -127,30 +143,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cm2l4vq9k84yo#3</guid>
             <pubDate>Sat, 24 Oct 2026 10:03:59 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb52/live/7a368340-cf8c-11f1-bef0-7f8eb636c50b.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sam Fender calls out ticket prices ahead of tour]]></title>
-            <description><![CDATA[The Geordie singer says on Instagram he is "not happy" with the reported ticket prices.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c6p3g9kle8pgo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6p3g9kle8pgo#3</guid>
-            <pubDate>Sat, 24 Oct 2026 12:15:29 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a8d/live/34839640-cfc2-11f1-a701-fddedf244c16.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Watch: The rise of AI election ads in US midterms campaign]]></title>
-            <description><![CDATA[BBC Verify has tracked dozens of AI ads to assess how they are being used by campaigns in the midterms.]]></description>
-            <link>https://www.bbc.co.uk/news/videos/cm62y59zw8zko?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cm62y59zw8zko#3</guid>
-            <pubDate>Sat, 24 Oct 2026 05:03:44 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df8a/live/f3eb3240-ce32-11f1-bc2e-018d645d8d21.png"/>
-        </item>
-        <item>
-            <title><![CDATA[How Brazil's changing working class is reshaping the presidential race]]></title>
-            <description><![CDATA[Calls for change present a challenge to President Lula in the second round of the election on Sunday.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cw80zx79nkvno?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cw80zx79nkvno#3</guid>
-            <pubDate>Sat, 24 Oct 2026 05:05:44 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d48/live/69127510-cef6-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
             <title><![CDATA[Don't fall for this - how to protect yourself from AI scams]]></title>
@@ -209,7 +201,7 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b71f/live/455010f0-ce1b-11f1-9a39-31b474234113.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Man City's leaky defence highlights Donnarumma & Guehi struggles]]></title>
+            <title><![CDATA[Donnarumma & Guehi highlight Man City issues as solid Arsenal move level]]></title>
             <description><![CDATA[Manchester City's 100% winning start to the Premier League season comes to an abrupt end against Aston Villa - leaving Enzo Maresca with glaring defensive issues to resolve.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/c6kg7z700k7jo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6kg7z700k7jo#9</guid>
