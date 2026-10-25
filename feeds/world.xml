@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news/world</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 25 Oct 2026 14:36:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Oct 2026 15:05:34 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/world/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -71,6 +71,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa13/live/eb525690-cfb8-11f1-9012-0172b9f73a72.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Gabon says access to social media restored after eight-month ban]]></title>
+            <description><![CDATA[The authorities had justified the ban by saying online content was fuelling conflict, while the opposition had condemned it as an abuse of power.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c6x2w0ngejneo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6x2w0ngejneo#1</guid>
+            <pubDate>Sun, 25 Oct 2026 14:39:47 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e014/live/283eea50-d07c-11f1-a701-fddedf244c16.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[El Salvador president says bodies found in Haiti are not those of hostages ]]></title>
             <description><![CDATA[Nayib Bukele says bodies delivered to soldiers are "not our men" amid search for Salvadorans abducted last week.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c8ly097zw1xwo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -93,6 +101,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o#1</guid>
             <pubDate>Sat, 24 Oct 2026 17:11:56 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b9f/live/09596b60-cfc8-11f1-b441-2b33b063138f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Russia to host first Olympic federation world event since Ukraine invasion]]></title>
+            <description><![CDATA[The International Weightlifting Federation becomes the first Olympic federation to choose Russia to host a world championships since its invasion of Ukraine.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/articles/cmq5ny00gzy0o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/olympics/articles/cmq5ny00gzy0o#1</guid>
+            <pubDate>Sun, 25 Oct 2026 14:34:33 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da4e/live/27561b80-d07d-11f1-a4ba-351760cfea6a.jpg"/>
         </item>
         <item>
             <title><![CDATA[Woman, 65, becomes second patient to die of Ebola in Kenya]]></title>
@@ -255,22 +271,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmz98plpjzplo#3</guid>
             <pubDate>Sun, 25 Oct 2026 08:36:47 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f02e/live/5ba1ae30-c0a7-11f1-b72b-c3e328aa18ed.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The rise of AI election ads in US midterms campaign]]></title>
-            <description><![CDATA[BBC Verify has tracked dozens of AI ads to assess how they are being used by campaigns in the midterms.]]></description>
-            <link>https://www.bbc.co.uk/news/videos/cm62y59zw8zko?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cm62y59zw8zko#3</guid>
-            <pubDate>Sat, 24 Oct 2026 05:03:44 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df8a/live/f3eb3240-ce32-11f1-bc2e-018d645d8d21.png"/>
-        </item>
-        <item>
-            <title><![CDATA[How Brazil's changing working class is reshaping the presidential race]]></title>
-            <description><![CDATA[Calls for change present a challenge to President Lula in the second round of the election on Sunday.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cw80zx79nkvno?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cw80zx79nkvno#3</guid>
-            <pubDate>Sat, 24 Oct 2026 05:05:44 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d48/live/69127510-cef6-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
     </channel>
 </rss>
