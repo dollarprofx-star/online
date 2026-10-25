@@ -9,19 +9,11 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 25 Oct 2026 13:04:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Oct 2026 13:37:55 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
-        <item>
-            <title><![CDATA[Meghan broke contact with father in letter citing abuse claims]]></title>
-            <description><![CDATA[Sources close to the duchess said she warned her father last year that he would never meet his grandchildren.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cqzjxg7l19yxo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqzjxg7l19yxo#1</guid>
-            <pubDate>Sun, 25 Oct 2026 08:05:31 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e831/live/b27def00-cff9-11f1-b0ff-614e4f91e969.jpg"/>
-        </item>
         <item>
             <title><![CDATA[Musk says SpaceX restricted Ukraine's Starlink connection as service restored]]></title>
             <description><![CDATA[The tech billionaire accuses Ukraine of violating its terms of service by using the network for military activity.]]></description>
@@ -39,12 +31,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae77/live/377c49c0-cff7-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
-            <title><![CDATA[More than 1,300 arrested as clashes follow another day of mass protests across France]]></title>
-            <description><![CDATA[Hundreds of thousands took part in demonstrations in France, with protests also taking place in other European countries.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c95ynd587ynzo#1</guid>
-            <pubDate>Sun, 25 Oct 2026 10:38:15 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d00/live/edf93830-cffb-11f1-b444-6fb1f13f8d87.jpg"/>
+            <title><![CDATA[Couple were celebrating anniversary before Bahamas tragedy]]></title>
+            <description><![CDATA[Leanne Gregory, from Stapleford in Nottinghamshire, died trying to save her sons swept out to sea.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c623drpx31xzo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c623drpx31xzo#1</guid>
+            <pubDate>Sun, 25 Oct 2026 13:22:31 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7903/live/3762a6d0-d071-11f1-afcb-6b9b9432d8fc.jpg"/>
         </item>
         <item>
             <title><![CDATA[Voters in Brazil head to polls as Lula goes up against Bolsonaro's son]]></title>
@@ -53,6 +45,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cxp8g21j4648o#1</guid>
             <pubDate>Sun, 25 Oct 2026 11:54:16 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a07/live/abd8a9d0-d06a-11f1-b441-2b33b063138f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[More than 1,300 arrested as clashes follow another day of mass protests across France]]></title>
+            <description><![CDATA[Hundreds of thousands took part in demonstrations in France, with protests also taking place in other European countries.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c95ynd587ynzo#1</guid>
+            <pubDate>Sun, 25 Oct 2026 10:38:15 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d00/live/edf93830-cffb-11f1-b444-6fb1f13f8d87.jpg"/>
         </item>
         <item>
             <title><![CDATA[Why the King's Caribbean tour could be 'biggest risk of his reign']]></title>
@@ -111,12 +111,12 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7151/live/1593e210-cfa6-11f1-aadb-297fd0a130b9.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Students like new tenancy freedoms - but landlords warn of higher rents]]></title>
-            <description><![CDATA[The Renters' Rights Act gives greater flexibility to leave a tenancy but the changes have posed challenges for student landlords.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cqx29lnzr48po?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqx29lnzr48po#3</guid>
-            <pubDate>Sun, 25 Oct 2026 01:35:40 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d88c/live/95ab8c80-cee0-11f1-a701-fddedf244c16.jpg"/>
+            <title><![CDATA[Meghan broke contact with father in letter citing abuse claims]]></title>
+            <description><![CDATA[Sources close to the duchess said she warned her father last year that he would never meet his grandchildren.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cqzjxg7l19yxo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqzjxg7l19yxo#3</guid>
+            <pubDate>Sun, 25 Oct 2026 08:05:31 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e831/live/b27def00-cff9-11f1-b0ff-614e4f91e969.jpg"/>
         </item>
         <item>
             <title><![CDATA[The penguins are noisy, the people fantastic - what it takes to be an Antarctic postmaster]]></title>
@@ -127,12 +127,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/978b/live/e520cd80-c8a4-11f1-929c-0b57deb4f9df.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Israel to close West Bank crossings on election day as crackdown escalates]]></title>
-            <description><![CDATA[The Israeli Defense Forces announces restrictions on the movement of Palestinian workers in the run-up to Tuesday's election.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o#3</guid>
-            <pubDate>Sun, 25 Oct 2026 05:15:52 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5815/live/ca832c30-d019-11f1-b441-2b33b063138f.jpg"/>
+            <title><![CDATA[Students like new tenancy freedoms - but landlords warn of higher rents]]></title>
+            <description><![CDATA[The Renters' Rights Act gives greater flexibility to leave a tenancy but the changes have posed challenges for student landlords.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cqx29lnzr48po?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqx29lnzr48po#3</guid>
+            <pubDate>Sun, 25 Oct 2026 01:35:40 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d88c/live/95ab8c80-cee0-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
             <title><![CDATA[Budget to include £1bn for social and affordable housing]]></title>
@@ -143,12 +143,12 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ec8/live/67f00de0-cfe2-11f1-aa62-a1cf89c34605.jpg"/>
         </item>
         <item>
-            <title><![CDATA[From Russian cages to Irish sanctuary: The five-year rescue journey of Bu and Tyapa]]></title>
-            <description><![CDATA[For Bu and Tyapa, the five-year journey from Russia to the Irish countryside was anything but straightforward.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cx62y9j1zyjvo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cx62y9j1zyjvo#3</guid>
-            <pubDate>Sat, 24 Oct 2026 23:02:51 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d401/live/1df179f0-ce56-11f1-a166-e30097724580.png"/>
+            <title><![CDATA[Police using AI risks making discrimination worse, researchers warn]]></title>
+            <description><![CDATA[AI tools learn from biased records and may deepen discrimination against minorities without oversight, researchers say.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/ckpdg4pl7pgvo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckpdg4pl7pgvo#3</guid>
+            <pubDate>Sun, 25 Oct 2026 12:18:56 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/560f/live/b29654d0-c8ad-11f1-9c75-6ff1271de385.jpg"/>
         </item>
         <item>
             <title><![CDATA['I entered foster care at 14 and it saved my life']]></title>
@@ -215,6 +215,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b71f/live/455010f0-ce1b-11f1-9a39-31b474234113.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Fernandes dropped to Man Utd bench - was Carrick right?]]></title>
+            <description><![CDATA[Manchester United skipper Bruno Fernandes is dropped from the starting XI for Sunday's game against Bournemouth following his criticism of manager Michael Carrick.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cmrlye5w3p79o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmrlye5w3p79o#9</guid>
+            <pubDate>Sun, 25 Oct 2026 13:26:13 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e57/live/89f97e60-d070-11f1-b441-2b33b063138f.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Anderson stops short of retiring after Lancashire exit]]></title>
             <description><![CDATA[James Anderson expresses sadness at being released by Lancashire, but stopped short of confirming the end of his legendary playing career.]]></description>
             <link>https://www.bbc.co.uk/sport/cricket/articles/c3qjng48exxwo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -229,14 +237,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/crgqwzqz8zgwo#9</guid>
             <pubDate>Sun, 25 Oct 2026 07:55:05 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/022c/live/b0517610-cfcd-11f1-b441-2b33b063138f.png"/>
-        </item>
-        <item>
-            <title><![CDATA[Antonelli stands on brink of history in Austin]]></title>
-            <description><![CDATA[Kimi Antonelli can become the youngest F1 world champion on Sunday, but far from feeling the pressure he says he is enjoying himself more than usual.]]></description>
-            <link>https://www.bbc.co.uk/sport/formula1/articles/cvlyd5k776yyo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/formula1/articles/cvlyd5k776yyo#9</guid>
-            <pubDate>Sun, 25 Oct 2026 00:40:56 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8cb/live/dda7a2b0-d009-11f1-b441-2b33b063138f.jpg"/>
         </item>
     </channel>
 </rss>
