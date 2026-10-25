@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 25 Oct 2026 10:16:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Oct 2026 10:54:03 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -47,20 +47,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4709/live/59ef3fb0-ceff-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Who are the candidates in Brazil's presidential election?]]></title>
+            <title><![CDATA[More than 1,300 arrested as clashes follow another day of mass protests across France]]></title>
+            <description><![CDATA[Hundreds of thousands took part in demonstrations in France, with protests also taking place in other European countries.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c95ynd587ynzo#1</guid>
+            <pubDate>Sun, 25 Oct 2026 10:38:15 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d00/live/edf93830-cffb-11f1-b444-6fb1f13f8d87.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Who are the candidates in Brazil's presidential election?]]></title>
             <description><![CDATA[Voters in Sunday's election are choosing between two very different candidates, as Americas correspondent Ione Wells reports from Rio de Janeiro.]]></description>
             <link>https://www.bbc.co.uk/news/videos/cm0e0del4jewo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cm0e0del4jewo#1</guid>
             <pubDate>Sat, 24 Oct 2026 22:08:47 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42ee/live/36a0f0a0-cfc5-11f1-93e1-3b657b665bcf.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Almost 1,000 arrested as clashes follow another day of mass protests across France]]></title>
-            <description><![CDATA[Hundreds of thousands took part in demonstrations in France, with protests also taking place in other European countries.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c95ynd587ynzo#1</guid>
-            <pubDate>Sun, 25 Oct 2026 09:32:59 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d00/live/edf93830-cffb-11f1-b444-6fb1f13f8d87.jpg"/>
         </item>
         <item>
             <title><![CDATA[Rosebank: Life on the oil field at the centre of a political storm]]></title>
@@ -71,20 +71,20 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60a5/live/584f1ed0-cfb0-11f1-9012-0172b9f73a72.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Why the charts are full of old songs - and so are your playlists]]></title>
-            <description><![CDATA[The chart is full is full of old music and classic songs are dominating streaming services. But why?]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c6kg50nnj0x4o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6kg50nnj0x4o#2</guid>
-            <pubDate>Sat, 24 Oct 2026 23:05:41 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f863/live/cc5e7710-ce04-11f1-bc2e-018d645d8d21.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Moment of jeopardy as King embarks on Caribbean tour]]></title>
             <description><![CDATA[The meticulously-planned visit takes in three countries in nine days - but is not without jeopardy.]]></description>
             <link>https://www.bbc.co.uk/news/articles/ckzd6gvg1r2jo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckzd6gvg1r2jo#2</guid>
             <pubDate>Sat, 24 Oct 2026 23:03:09 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf6c/live/d973bcb0-cefb-11f1-accf-3309656ad0bb.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why the charts are full of old songs - and so are your playlists]]></title>
+            <description><![CDATA[The chart is full of old music and classic songs are dominating streaming services. But why?]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c6kg50nnj0x4o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6kg50nnj0x4o#2</guid>
+            <pubDate>Sat, 24 Oct 2026 23:05:41 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f863/live/cc5e7710-ce04-11f1-bc2e-018d645d8d21.jpg"/>
         </item>
         <item>
             <title><![CDATA[The bitter row over military service that could shape Israel's future]]></title>
@@ -111,12 +111,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc2d/live/5e5c94f0-cffc-11f1-b444-6fb1f13f8d87.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Ukraine depends on Starlink - can Europe plug the gap?]]></title>
+            <title><![CDATA[Why is Ukraine so reliant on Starlink and can Europe plug the gap?]]></title>
             <description><![CDATA[Ukraine needs another satellite internet service, but a decent alternative to Elon Musk's network doesn't exist - yet.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c65yn97xe7ypo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c65yn97xe7ypo#3</guid>
             <pubDate>Sun, 25 Oct 2026 05:45:31 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7151/live/1593e210-cfa6-11f1-aadb-297fd0a130b9.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The penguins are noisy, the people fantastic - what it takes to be an Antarctic postmaster]]></title>
+            <description><![CDATA[George Clarke from Bristol will run the post office at Port Lockroy in Antarctica from October to March.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c6dxwklr409eo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6dxwklr409eo#3</guid>
+            <pubDate>Sun, 25 Oct 2026 09:59:50 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/978b/live/e520cd80-c8a4-11f1-929c-0b57deb4f9df.jpg"/>
         </item>
         <item>
             <title><![CDATA[Students like new tenancy freedoms - but landlords warn of higher rents]]></title>
@@ -133,14 +141,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o#3</guid>
             <pubDate>Sun, 25 Oct 2026 05:15:52 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5815/live/ca832c30-d019-11f1-b441-2b33b063138f.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Papers: 'Cops didn't share letter' and Burnham 'open' to EU free movement]]></title>
-            <description><![CDATA[The latest on claims agianst the father of the Duchess of Sussex and comments from the PM on EU free movement feature on Sunday's front pages.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cmqln4vq1dn1o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmqln4vq1dn1o#3</guid>
-            <pubDate>Sun, 25 Oct 2026 05:53:34 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/13ad/live/ce63d6b0-cff6-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
             <title><![CDATA[Budget to include £1bn for social and affordable housing]]></title>
@@ -239,12 +239,12 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22de/live/486f0aa0-cd5f-11f1-b962-b7ff822cde72.jpg"/>
         </item>
         <item>
-            <title><![CDATA[The candid meeting that 'changed' Spurs - are they finally on way back?]]></title>
-            <description><![CDATA[Tottenham end Saturday's Premier League action in 12th place, their highest league position since 2 January. Are they finally on their way back?]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cqev38dz34vxo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqev38dz34vxo#9</guid>
-            <pubDate>Sat, 24 Oct 2026 21:14:42 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dbe8/live/84b1c910-cfff-11f1-93e1-3b657b665bcf.jpg"/>
+            <title><![CDATA['This is the only Clasico' - Mourinho's Real trying to stop Barca's shot at history]]></title>
+            <description><![CDATA[Barcelona aim to make La Liga history against Real Madrid, with Jose Mourinho looking to end their winning run.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/crgqwzqz8zgwo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/crgqwzqz8zgwo#9</guid>
+            <pubDate>Sun, 25 Oct 2026 07:55:05 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/022c/live/b0517610-cfcd-11f1-b441-2b33b063138f.png"/>
         </item>
         <item>
             <title><![CDATA[What Man Utd need now is stability, not more changes - Pulis]]></title>
@@ -255,12 +255,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c068/live/df157960-541c-11f1-8b8c-6d33e1d5abb6.jpg"/>
         </item>
         <item>
-            <title><![CDATA['This is the only Clasico' - Mourinho's Real trying to stop Barca's shot at history]]></title>
-            <description><![CDATA[Barcelona aim to make La Liga history against Real Madrid, with Jose Mourinho looking to end their winning run.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/crgqwzqz8zgwo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/crgqwzqz8zgwo#9</guid>
-            <pubDate>Sun, 25 Oct 2026 07:55:05 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/022c/live/b0517610-cfcd-11f1-b441-2b33b063138f.png"/>
+            <title><![CDATA[The candid meeting that 'changed' Spurs - are they finally on way back?]]></title>
+            <description><![CDATA[Tottenham end Saturday's Premier League action in 12th place, their highest league position since 2 January. Are they finally on their way back?]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cqev38dz34vxo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqev38dz34vxo#9</guid>
+            <pubDate>Sat, 24 Oct 2026 21:14:42 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dbe8/live/84b1c910-cfff-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
             <title><![CDATA[Spurs clinch rare Stamford Bridge win as Palmer sent off]]></title>
