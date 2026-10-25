@@ -5,7 +5,7 @@
         <atom:link href="https://rss.punchng.com" rel="self" type="application/rss+xml" />
         <link> https://rss.punchng.com </link>
         <description> Get the latest News in Nigeria </description>
-        <lastBuildDate> Sun, 25 Oct 2026 11:49:51 +0000</lastBuildDate>
+        <lastBuildDate> Sun, 25 Oct 2026 12:14:56 +0000</lastBuildDate>
         <language> en-US </language>
         <sy:updatePeriod> minutely	</sy:updatePeriod>
         <sy:updateFrequency> 5	</sy:updateFrequency>
@@ -13,6 +13,20 @@
         <generator>https://rss.punchng.com</generator>
 
         <item>
+                        <title>JUST IN: Madrid&#8217;s Courtois ruled out of El Clásico with illness</title>
+                        <link>https://punchng.com/just-in-madrids-courtois-ruled-out-of-el-clasico-with-illness/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
+                        <pubDate>Sun, 25 Oct 2026 12:53:02 +0000</pubDate>
+                        <dc:creator><![CDATA[Punch Newspapers]]></dc:creator>
+                        <category><![CDATA[]]></category>
+                        <guid isPermaLink='true'>https://punchng.com/just-in-madrids-courtois-ruled-out-of-el-clasico-with-illness/?utm_source=rss.punchng.com&amp;utm_medium=web</guid>
+                        <description><![CDATA[
+
+Real Madrid goalkeeper Thibaut Courtois has been ruled out of the El Clásico match against Barcelona after contracting a flu-like illness, the club said.
+
+Read More: https://punchng.com/just-in-madrids-courtois-ruled-out-of-el-clasico-with-illness/]]></description>
+                        <enclosure url='https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png' length='342247' type='image/png'/>
+                    </item>
+                    <item>
                         <title>Tinubu needs support, not criticism, to fix economy — Ex-lawmaker</title>
                         <link>https://punchng.com/tinubu-needs-support-not-criticism-to-fix-economy-ex-lawmaker/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
                         <pubDate>Sun, 25 Oct 2026 12:48:35 +0000</pubDate>
@@ -416,20 +430,6 @@ Read More: https://punchng.com/2027-group-rallies-support-for-tinubus-re-electio
 The House of Representatives is considering a bill to establish a National Public Assets Management Commission to oversee the sale of federal assets.
 
 Read More: https://punchng.com/reps-move-to-tighten-rules-on-sale-of-federal-assets/]]></description>
-                        <enclosure url='https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png' length='342247' type='image/png'/>
-                    </item>
-                    <item>
-                        <title>Foundation equips Bauchi youths with digital skills</title>
-                        <link>https://punchng.com/foundation-equips-bauchi-youths-with-digital-skills/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
-                        <pubDate>Sun, 25 Oct 2026 05:09:56 +0000</pubDate>
-                        <dc:creator><![CDATA[Punch Newspapers]]></dc:creator>
-                        <category><![CDATA[]]></category>
-                        <guid isPermaLink='true'>https://punchng.com/foundation-equips-bauchi-youths-with-digital-skills/?utm_source=rss.punchng.com&amp;utm_medium=web</guid>
-                        <description><![CDATA[
-
-A Bauchi-based foundation, Wunti Al-Khair Foundation, has trained 30 youths in digital skills to promote employment and entrepreneurship in the state.
-
-Read More: https://punchng.com/foundation-equips-bauchi-youths-with-digital-skills/]]></description>
                         <enclosure url='https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png' length='342247' type='image/png'/>
                     </item>
                         </channel>
