@@ -5,7 +5,7 @@
         <atom:link href="https://rss.punchng.com" rel="self" type="application/rss+xml" />
         <link> https://rss.punchng.com </link>
         <description> Get the latest News in Nigeria </description>
-        <lastBuildDate> Sun, 25 Oct 2026 07:59:10 +0000</lastBuildDate>
+        <lastBuildDate> Sun, 25 Oct 2026 08:24:15 +0000</lastBuildDate>
         <language> en-US </language>
         <sy:updatePeriod> minutely	</sy:updatePeriod>
         <sy:updateFrequency> 5	</sy:updateFrequency>
@@ -13,6 +13,20 @@
         <generator>https://rss.punchng.com</generator>
 
         <item>
+                        <title>Musk accuses Ukraine of violating Starlink&#8217;s terms of service</title>
+                        <link>https://punchng.com/musk-accuses-ukraine-of-violating-starlinks-terms-of-service/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
+                        <pubDate>Sun, 25 Oct 2026 09:22:18 +0000</pubDate>
+                        <dc:creator><![CDATA[Punch Newspapers]]></dc:creator>
+                        <category><![CDATA[]]></category>
+                        <guid isPermaLink='true'>https://punchng.com/musk-accuses-ukraine-of-violating-starlinks-terms-of-service/?utm_source=rss.punchng.com&amp;utm_medium=web</guid>
+                        <description><![CDATA[
+
+Tech tycoon Elon Musk has accused Ukraine of violating Starlink&#8217;s terms of service by using the satellite network for offensive drone strikes to kill peopl
+
+Read More: https://punchng.com/musk-accuses-ukraine-of-violating-starlinks-terms-of-service/]]></description>
+                        <enclosure url='https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png' length='342247' type='image/png'/>
+                    </item>
+                    <item>
                         <title>Don urges graduates to shun corruption, uphold integrity</title>
                         <link>https://punchng.com/don-urges-graduates-to-shun-corruption-uphold-integrity/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
                         <pubDate>Sun, 25 Oct 2026 08:49:12 +0000</pubDate>
@@ -416,20 +430,6 @@ Read More: https://punchng.com/pastors-heavenly-tales-spark-earthly-row/]]></des
 The Nigeria Police Force has warned members of the public against paying money to secure bail for themselves or their relatives, saying both the giver and receiver of such payments risk arrest and prosecution. The Head of the Complaint Response Unit of the Nigeria Police Force, Force Headquarters, Abuja, Awuf Jonah, stated this on Friday
 
 Read More: https://punchng.com/police-warn-against-paying-for-bail/]]></description>
-                        <enclosure url='https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png' length='342247' type='image/png'/>
-                    </item>
-                    <item>
-                        <title>Lagos assures entrepreneurs of support</title>
-                        <link>https://punchng.com/lagos-assures-entrepreneurs-of-support/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
-                        <pubDate>Sun, 25 Oct 2026 00:07:40 +0000</pubDate>
-                        <dc:creator><![CDATA[Punch Newspapers]]></dc:creator>
-                        <category><![CDATA[]]></category>
-                        <guid isPermaLink='true'>https://punchng.com/lagos-assures-entrepreneurs-of-support/?utm_source=rss.punchng.com&amp;utm_medium=web</guid>
-                        <description><![CDATA[
-
-The Lagos State Government has assured Micro, Small, and Medium Enterprises of financial support through grants and export development opportunities.
-
-Read More: https://punchng.com/lagos-assures-entrepreneurs-of-support/]]></description>
                         <enclosure url='https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png' length='342247' type='image/png'/>
                     </item>
                         </channel>
