@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/sport/football</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 25 Oct 2026 19:11:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Oct 2026 19:35:11 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -48,6 +48,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e52/live/e9d3fd70-d088-11f1-92f6-357f3b0f345f.jpg"/>
         </item>
         <item>
+            <title><![CDATA[The Football Hub: Reaction to Sunday's action]]></title>
+            <description><![CDATA[All of this weekend's talking points from the Premier League.]]></description>
+            <link>https://www.bbc.co.uk/iplayer/episode/l00590b3?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/iplayer/episode/l00590b3#0</guid>
+            <pubDate>Sun, 25 Oct 2026 18:46:19 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0pjl2s7.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Isak, Barcola and Wirtz turn up - player ratings for Liverpool v Brighton]]></title>
             <description><![CDATA[How Liverpool and Brighton's players rated following their Premier League match.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/crwyd857p00yo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -62,14 +70,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/crgqwzqz8zgwo#0</guid>
             <pubDate>Sun, 25 Oct 2026 07:55:05 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/022c/live/b0517610-cfcd-11f1-b441-2b33b063138f.png"/>
-        </item>
-        <item>
-            <title><![CDATA[Fernandes left out - Man Utd hammered, Bournemouth brilliant - how they rated]]></title>
-            <description><![CDATA[Another catastrophic day for Manchester United and a glorious one for Bournemouth - how did the players rate?]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/c9ly0mz745dno?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c9ly0mz745dno#0</guid>
-            <pubDate>Sun, 25 Oct 2026 16:04:13 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/85d8/live/8211af10-d089-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
             <title><![CDATA[Spurs clinch rare Stamford Bridge win as Palmer sent off]]></title>
@@ -115,20 +115,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0pj99mq.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Fernandes left out - Man Utd hammered, Bournemouth brilliant - how they rated]]></title>
+            <description><![CDATA[Another catastrophic day for Manchester United and a glorious one for Bournemouth - how did the players rate?]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/c9ly0mz745dno?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c9ly0mz745dno#2</guid>
+            <pubDate>Sun, 25 Oct 2026 16:04:13 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/85d8/live/8211af10-d089-11f1-a701-fddedf244c16.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[When is Premier League 'sacking season' - and who should be worried?]]></title>
             <description><![CDATA[As pressure builds on Manchester United manager Michael Carrick, BBC Sport looks at when the Premier League 'sacking season' begins.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cmy83vg66zngo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmy83vg66zngo#2</guid>
             <pubDate>Sun, 25 Oct 2026 06:17:46 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa99/live/4f6d2680-cda4-11f1-8dd1-5318c7608ec0.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sheffield Wednesday sack Pedersen after 15 months]]></title>
-            <description><![CDATA[Sheffield Wednesday sack head coach Henrik Pedersen after less than 15 months in charge following consecutive defeats.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cq4g15392p4ro?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cq4g15392p4ro#2</guid>
-            <pubDate>Sun, 25 Oct 2026 14:00:15 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/811a/live/4a0abb30-d07e-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
             <title><![CDATA[Carrick 'saddened' by Man Utd situation after Bournemouth loss]]></title>
@@ -171,20 +171,28 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e45/live/7e1f20c0-cfdc-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Sheffield Wednesday sack Pedersen after 15 months]]></title>
+            <description><![CDATA[Sheffield Wednesday sack head coach Henrik Pedersen after less than 15 months in charge following consecutive defeats.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cq4g15392p4ro?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cq4g15392p4ro#4</guid>
+            <pubDate>Sun, 25 Oct 2026 14:00:15 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/811a/live/4a0abb30-d07e-11f1-93e1-3b657b665bcf.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dunfermline meet Queen of the South in Scottish Cup]]></title>
+            <description><![CDATA[Last season's finalists Dunfermline Athletic will visit Queen of the South in the third round of the Scottish Cup.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cr5ynv4pyw95o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cr5ynv4pyw95o#4</guid>
+            <pubDate>Sun, 25 Oct 2026 19:24:20 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aeae/live/79e59c10-d0a8-11f1-adbe-cd0eaeb0fff9.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Chaos or concern - Hanley's striker cameo poses questions for Hibs]]></title>
             <description><![CDATA[Grant Hanley was called upon to be a makeshift striker for Hibs against Celtic, but what does it signal for the Scottish Premiership's bottom side?]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/c6d93eeq27gqo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6d93eeq27gqo#4</guid>
             <pubDate>Sun, 25 Oct 2026 18:14:53 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/51fe/live/50daf4a0-d094-11f1-92f6-357f3b0f345f.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[What have Man Utd changed to turn around WSL form?]]></title>
-            <description><![CDATA[It's a different picture at Manchester United now than it was last month - so what have they changed to turn around their WSL form?]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cm5ynpjx170zo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cm5ynpjx170zo#4</guid>
-            <pubDate>Sun, 25 Oct 2026 07:58:04 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8601/live/3d8c4970-cd39-11f1-935f-b9c228680c6f.jpg"/>
         </item>
         <item>
             <title><![CDATA[What Man Utd need now is stability, not more changes - Pulis]]></title>
@@ -205,20 +213,20 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e550/live/c2f266a0-d06b-11f1-afcb-6b9b9432d8fc.png"/>
         </item>
         <item>
-            <title><![CDATA[Hayen sacked by Burnley after just 14 games]]></title>
-            <description><![CDATA[Nicky Hayen is sacked after just 14 games in charge at Burnley following a poor start to the season.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cm4gv830j73do?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cm4gv830j73do#4</guid>
-            <pubDate>Sat, 24 Oct 2026 19:01:03 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2dbc/live/07a857a0-cfd6-11f1-b951-f904363c9c32.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[All you need to know about the 2026 Ballon d'Or]]></title>
             <description><![CDATA[Our Ask Me Anything team tells you all you need to know about the 70th Ballon d'Or Ceremony.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cw0541g4qzgeo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cw0541g4qzgeo#6</guid>
             <pubDate>Fri, 23 Oct 2026 11:55:45 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7667/live/95176c50-cd3f-11f1-bc2e-018d645d8d21.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Hayen sacked by Burnley after just 14 games]]></title>
+            <description><![CDATA[Nicky Hayen is sacked after just 14 games in charge at Burnley following a poor start to the season.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cm4gv830j73do?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cm4gv830j73do#6</guid>
+            <pubDate>Sat, 24 Oct 2026 19:01:03 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2dbc/live/07a857a0-cfd6-11f1-b951-f904363c9c32.jpg"/>
         </item>
         <item>
             <title><![CDATA[Who am I? Plus today's other quizzes]]></title>
@@ -261,20 +269,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa17/live/e2ff59a0-cfe2-11f1-aa62-a1cf89c34605.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Arsenal relieve pressure with Spurs win - can they kick on now?]]></title>
-            <description><![CDATA[Arsenal end their five-match winless run in the Women's Super League with victory at Tottenham - but can they kick on now?]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cm93zw44d33do?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cm93zw44d33do#6</guid>
-            <pubDate>Sat, 24 Oct 2026 15:40:01 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd69/live/e4151260-cfc1-11f1-9ecd-8be45051afbd.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Huddersfield on top, but difficult days for Derby - Sam Parkin's EFL takeaways ]]></title>
             <description><![CDATA[BBC Final Score pundit Sam Parkin looks at the weekend's talking points in the EFL, including Huddersfield's fine form and QPR's big win over Swansea.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cmglw82kz4njo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmglw82kz4njo#7</guid>
             <pubDate>Sat, 24 Oct 2026 19:35:19 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2307/live/6e2edec0-cfe2-11f1-aa62-a1cf89c34605.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arsenal relieve pressure with Spurs win - can they kick on now?]]></title>
+            <description><![CDATA[Arsenal end their five-match winless run in the Women's Super League with victory at Tottenham - but can they kick on now?]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cm93zw44d33do?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cm93zw44d33do#7</guid>
+            <pubDate>Sat, 24 Oct 2026 15:40:01 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd69/live/e4151260-cfc1-11f1-9ecd-8be45051afbd.jpg"/>
         </item>
         <item>
             <title><![CDATA[Infantino says he is backed by 'vast majority']]></title>
@@ -528,6 +536,14 @@
             <media:thumbnail url="https://ichef.bbci.co.uk/images/ic/480xn/p0pcy5zl.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Watch: Sportscene - Sunday's Scottish Premiership highlights]]></title>
+            <description><![CDATA[Extended highlights of Hibernian v Celtic and Motherwell v Hearts.]]></description>
+            <link>https://www.bbc.co.uk/iplayer/live/bbcscotland?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/iplayer/live/bbcscotland#17</guid>
+            <pubDate>Sun, 25 Oct 2026 20:00:04 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0pjkj0b.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Johnston felt something again, says O'Neill]]></title>
             <description><![CDATA[Celtic manager Martin O'Neill explained Alistair Johnston "felt something again" after his substitute appearance in the win over Hibernian was cut short.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/c6je51k8qpw8o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -544,20 +560,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/51fe/live/50daf4a0-d094-11f1-92f6-357f3b0f345f.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Podcast: Big Premiership wins for Celtic & Hearts]]></title>
-            <description><![CDATA[Big wins for Celtic and Hearts in the Premiership with all the reaction on Sportsound.]]></description>
-            <link>https://www.bbc.co.uk/sounds/play/p0pjkrpq?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0pjkrpq#17</guid>
-            <pubDate>Sun, 25 Oct 2026 17:12:00 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0gf9mfx.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Strikers finding form as Rangers bounce back]]></title>
-            <description><![CDATA[Derek McInnes demanded a response from his Rangers team after the disappointment of two dropped points at Dundee - and they delivered in emphatic style against St Johnstone.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/c6g7xy80e7m7o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6g7xy80e7m7o#17</guid>
-            <pubDate>Sat, 24 Oct 2026 19:54:48 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa17/live/e2ff59a0-cfe2-11f1-aa62-a1cf89c34605.jpg"/>
+            <title><![CDATA[Dunfermline meet Queen of the South in Scottish Cup]]></title>
+            <description><![CDATA[Last season's finalists Dunfermline Athletic will visit Queen of the South in the third round of the Scottish Cup.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cr5ynv4pyw95o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cr5ynv4pyw95o#17</guid>
+            <pubDate>Sun, 25 Oct 2026 19:24:20 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aeae/live/79e59c10-d0a8-11f1-adbe-cd0eaeb0fff9.jpg"/>
         </item>
         <item>
             <title><![CDATA[What have Man Utd changed to turn around WSL form?]]></title>

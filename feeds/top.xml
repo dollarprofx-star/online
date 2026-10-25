@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 25 Oct 2026 19:10:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Oct 2026 19:35:10 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -71,20 +71,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fffb/live/26f0ac80-d089-11f1-92f6-357f3b0f345f.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Suspect in deadly Paris suburb shooting sent for psychiatric observation]]></title>
-            <description><![CDATA[He will be observed to evaluate whether his "psychiatric health is compatible with pursuing his interrogation", authorities said.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c6e3xek2457wo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6e3xek2457wo#1</guid>
-            <pubDate>Sun, 25 Oct 2026 15:32:51 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2825/live/a8b0e250-d07d-11f1-a4ba-351760cfea6a.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Why the charts are full of old songs - and so are your playlists]]></title>
-            <description><![CDATA[The chart is full of old music and classic songs are dominating streaming services. But why?]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c6kg50nnj0x4o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6kg50nnj0x4o#1</guid>
-            <pubDate>Sat, 24 Oct 2026 23:05:41 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f863/live/cc5e7710-ce04-11f1-bc2e-018d645d8d21.jpg"/>
+            <title><![CDATA[Long queues after power surge at Stansted Airport]]></title>
+            <description><![CDATA[A passenger says she was trapped in a corridor at the airport for 90 minutes.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c64g14481n7qo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c64g14481n7qo#1</guid>
+            <pubDate>Sun, 25 Oct 2026 18:35:57 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/23ad/live/af4a9e40-d09a-11f1-aeb2-977af36708cb.jpg"/>
         </item>
         <item>
             <title><![CDATA[Russia to host first Olympic federation world event since Ukraine invasion]]></title>
@@ -111,12 +103,12 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60a5/live/584f1ed0-cfb0-11f1-9012-0172b9f73a72.jpg"/>
         </item>
         <item>
-            <title><![CDATA[The bitter row over military service that could shape Israel's future]]></title>
-            <description><![CDATA[The ultra-Orthodox community is resisting being drafted into the Israeli army. But will they now bring down the Netanyahu government?]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cmvg7w0x742do?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmvg7w0x742do#2</guid>
-            <pubDate>Sat, 24 Oct 2026 23:03:21 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8e2/live/495ec3b0-ced1-11f1-b441-2b33b063138f.jpg"/>
+            <title><![CDATA[Why the charts are full of old songs - and so are your playlists]]></title>
+            <description><![CDATA[The chart is full of old music and classic songs are dominating streaming services. But why?]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c6kg50nnj0x4o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6kg50nnj0x4o#2</guid>
+            <pubDate>Sat, 24 Oct 2026 23:05:41 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f863/live/cc5e7710-ce04-11f1-bc2e-018d645d8d21.jpg"/>
         </item>
         <item>
             <title><![CDATA[Why is Ukraine so reliant on Starlink and can Europe plug the gap?]]></title>
@@ -151,6 +143,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/58a8/live/4afd15d0-d04f-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Death toll in Nigeria village raided by gunmen rises to 48, police say]]></title>
+            <description><![CDATA[Unidentified gunmen on motorcycles swooped on a remote village on Friday, looting shops and setting houses ablaze.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do#4</guid>
+            <pubDate>Sun, 25 Oct 2026 19:14:27 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db2e/live/b3593830-d017-11f1-b0c1-71a61e4adacb.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[The penguins are noisy, the people fantastic - what it takes to be an Antarctic postmaster]]></title>
             <description><![CDATA[George Clarke from Bristol will run the post office at Port Lockroy in Antarctica from October to March.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c6dxwklr409eo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -159,12 +159,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/978b/live/e520cd80-c8a4-11f1-929c-0b57deb4f9df.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Murder probe after man dies in 'targeted' attack]]></title>
-            <description><![CDATA[Police say the 38-year-old man was attacked by a group of people armed with weapons in Leeds.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cmly09kzpe5xo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmly09kzpe5xo#4</guid>
-            <pubDate>Sun, 25 Oct 2026 14:18:28 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/516a/live/9fff31b0-c732-11f1-b881-4391ac746e04.jpg"/>
+            <title><![CDATA[England lose to Pakistan after stunning Shadab ton]]></title>
+            <description><![CDATA[England somehow lose another one-day international from a seemingly unbeatable position thanks to an improbable last-wicket stand by Pakistan in Lahore.]]></description>
+            <link>https://www.bbc.co.uk/sport/cricket/articles/cq0mek4de4xno?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/cricket/articles/cq0mek4de4xno#4</guid>
+            <pubDate>Sun, 25 Oct 2026 16:34:17 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53cb/live/6e2ee0b0-d090-11f1-92f6-357f3b0f345f.jpg"/>
         </item>
         <item>
             <title><![CDATA[Four-year-old girl dies after fall from tower block]]></title>
@@ -175,12 +175,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d84/live/68e6d870-d07b-11f1-afcb-6b9b9432d8fc.png"/>
         </item>
         <item>
-            <title><![CDATA[From Russian cages to Irish sanctuary: The five-year rescue journey of Bu and Tyapa]]></title>
-            <description><![CDATA[For Bu and Tyapa, the five-year journey from Russia to the Irish countryside was anything but straightforward.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cx62y9j1zyjvo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cx62y9j1zyjvo#4</guid>
-            <pubDate>Sat, 24 Oct 2026 23:02:51 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d401/live/1df179f0-ce56-11f1-a166-e30097724580.png"/>
+            <title><![CDATA[Suspect in deadly Paris suburb shooting sent for psychiatric observation]]></title>
+            <description><![CDATA[He will be observed to evaluate whether his "psychiatric health is compatible with pursuing his interrogation", authorities said.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c6e3xek2457wo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6e3xek2457wo#4</guid>
+            <pubDate>Sun, 25 Oct 2026 15:32:51 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2825/live/a8b0e250-d07d-11f1-a4ba-351760cfea6a.jpg"/>
         </item>
         <item>
             <title><![CDATA[Download now]]></title>
