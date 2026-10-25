@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news/world</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 25 Oct 2026 08:25:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Oct 2026 08:56:35 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/world/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -87,14 +87,6 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b9f/live/09596b60-cfc8-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Three released without charge after fatal arson attack in Ireland]]></title>
-            <description><![CDATA[Three people - two women and one man - have been released, and one person remains in custody, gardaí say.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cv0ld9571511o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cv0ld9571511o#1</guid>
-            <pubDate>Sat, 24 Oct 2026 09:38:28 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b0c/live/63ec3980-cf8d-11f1-bef0-7f8eb636c50b.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Woman, 65, becomes second patient to die of Ebola in Kenya]]></title>
             <description><![CDATA[She was a close family member of the first victim, a man who had travelled from the Democratic Republic of Congo.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -109,6 +101,22 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c670pr1ryxyno#1</guid>
             <pubDate>Sat, 24 Oct 2026 01:55:15 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e656/live/f2bfb570-cf41-11f1-81c6-53f66e190efd.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[From Russian cages to Irish sanctuary: The five-year rescue journey of Bu and Tyapa]]></title>
+            <description><![CDATA[For Bu and Tyapa, the five-year journey from Russia to the Irish countryside was anything but straightforward.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cx62y9j1zyjvo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cx62y9j1zyjvo#1</guid>
+            <pubDate>Sat, 24 Oct 2026 23:02:51 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d401/live/1df179f0-ce56-11f1-a166-e30097724580.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Three released without charge after fatal arson attack in Ireland]]></title>
+            <description><![CDATA[Three people - two women and one man - have been released, and one person remains in custody, gardaí say.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cv0ld9571511o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cv0ld9571511o#1</guid>
+            <pubDate>Sat, 24 Oct 2026 09:38:28 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b0c/live/63ec3980-cf8d-11f1-bef0-7f8eb636c50b.jpg"/>
         </item>
         <item>
             <title><![CDATA[Father who killed Oregon school gunman describes anguish over children he couldn't save]]></title>
@@ -265,14 +273,6 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7151/live/1593e210-cfa6-11f1-aadb-297fd0a130b9.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Why the King's Caribbean tour could be 'biggest risk of his reign']]></title>
-            <description><![CDATA[The meticulously-planned visit takes in three countries in nine days - but is not without jeopardy.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/ckzd6gvg1r2jo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckzd6gvg1r2jo#3</guid>
-            <pubDate>Sat, 24 Oct 2026 23:03:09 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf6c/live/d973bcb0-cefb-11f1-accf-3309656ad0bb.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[A shark went astray and captured Korea's heart - will she finally make it back to sea?]]></title>
             <description><![CDATA[More than a million people flocked to Busan to catch a glimpse of the female dusky shark they called Bukangi.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c9zrdknlmpdlo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -281,12 +281,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82c2/live/fb2fe4e0-cef7-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
-            <title><![CDATA[From Russian cages to Irish sanctuary: The five-year rescue journey of Bu and Tyapa]]></title>
-            <description><![CDATA[For Bu and Tyapa, the five-year journey from Russia to the Irish countryside was anything but straightforward.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cx62y9j1zyjvo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cx62y9j1zyjvo#3</guid>
-            <pubDate>Sat, 24 Oct 2026 23:02:51 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d401/live/1df179f0-ce56-11f1-a166-e30097724580.png"/>
+            <title><![CDATA[Why the King's Caribbean tour could be 'biggest risk of his reign']]></title>
+            <description><![CDATA[The meticulously-planned visit takes in three countries in nine days - but is not without jeopardy.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/ckzd6gvg1r2jo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckzd6gvg1r2jo#3</guid>
+            <pubDate>Sat, 24 Oct 2026 23:03:09 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf6c/live/d973bcb0-cefb-11f1-accf-3309656ad0bb.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['I cannot teach you integrity': How employee theft is hurting small businesses in Africa]]></title>
+            <description><![CDATA[That Girl Boina's post about why she had closed her beauty parlour struck a nerve with other small business owners.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cmz98plpjzplo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmz98plpjzplo#3</guid>
+            <pubDate>Sun, 25 Oct 2026 08:36:47 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f02e/live/5ba1ae30-c0a7-11f1-b72b-c3e328aa18ed.jpg"/>
         </item>
         <item>
             <title><![CDATA[The rise of AI election ads in US midterms campaign]]></title>
