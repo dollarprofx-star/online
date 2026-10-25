@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 25 Oct 2026 16:06:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Oct 2026 16:38:51 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -31,12 +31,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7903/live/3762a6d0-d071-11f1-afcb-6b9b9432d8fc.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Musk says SpaceX restricted Ukraine's Starlink connection as service restored]]></title>
-            <description><![CDATA[The tech billionaire accuses Ukraine of violating its terms of service by using the network for military activity.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo#1</guid>
-            <pubDate>Sun, 25 Oct 2026 09:00:00 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/58a8/live/4afd15d0-d04f-11f1-93e1-3b657b665bcf.jpg"/>
+            <title><![CDATA[Venezuelan opposition leader María Machado returns after months in exile]]></title>
+            <description><![CDATA[Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro. ]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cq8ez592pp0eo#1</guid>
+            <pubDate>Sun, 25 Oct 2026 16:21:40 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a2d/live/537ff930-6139-11ee-b101-6f93d6dfbcc2.png"/>
         </item>
         <item>
             <title><![CDATA[Why the charts are full of old songs - and so are your playlists]]></title>
@@ -95,6 +95,14 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7151/live/1593e210-cfa6-11f1-aadb-297fd0a130b9.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Musk says SpaceX restricted Ukraine's Starlink connection as service restored]]></title>
+            <description><![CDATA[The tech billionaire accuses Ukraine of violating its terms of service by using the network for military activity.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo#3</guid>
+            <pubDate>Sun, 25 Oct 2026 09:00:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/58a8/live/4afd15d0-d04f-11f1-93e1-3b657b665bcf.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Early reports suggest record high turnout in Serbia elections]]></title>
             <description><![CDATA[Serbia is heading to the polls as a student movement attempts to oust longtime populist leader Aleksandar Vučić.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c6jdmj1ej715o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -133,14 +141,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/olympics/articles/cmq5ny00gzy0o#3</guid>
             <pubDate>Sun, 25 Oct 2026 14:34:33 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da4e/live/27561b80-d07d-11f1-a4ba-351760cfea6a.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Budget to include £1bn for social and affordable housing]]></title>
-            <description><![CDATA[The move will take funding for the 10-year programme to more than £40bn.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cqm24j9y9zn7o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqm24j9y9zn7o#3</guid>
-            <pubDate>Sun, 25 Oct 2026 10:03:17 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ec8/live/67f00de0-cfe2-11f1-aa62-a1cf89c34605.jpg"/>
         </item>
         <item>
             <title><![CDATA['It gives me the ick': Can you cheat on someone with a video game?]]></title>
@@ -208,7 +208,7 @@
         </item>
         <item>
             <title><![CDATA[Fernandes left out - Man Utd hammered, Bournemouth brilliant - how they rated]]></title>
-            <description><![CDATA[Another catastrophic day for Manchester United and a glorious one for Bournemouth - how did the players rate]]></description>
+            <description><![CDATA[Another catastrophic day for Manchester United and a glorious one for Bournemouth - how did the players rate?]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/c9ly0mz745dno?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c9ly0mz745dno#9</guid>
             <pubDate>Sun, 25 Oct 2026 16:04:13 GMT</pubDate>

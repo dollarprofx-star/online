@@ -9,11 +9,27 @@
             <link>https://www.bbc.co.uk/sport/football</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 25 Oct 2026 16:07:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Oct 2026 16:38:51 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Fernandes left out - Man Utd hammered, Bournemouth brilliant - how they rated]]></title>
+            <description><![CDATA[Another catastrophic day for Manchester United and a glorious one for Bournemouth - how did the players rate?]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/c9ly0mz745dno?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c9ly0mz745dno#0</guid>
+            <pubDate>Sun, 25 Oct 2026 16:04:13 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/85d8/live/8211af10-d089-11f1-a701-fddedf244c16.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Isak, Barcola and Wirtz turn up - player ratings for Liverpool v Brighton]]></title>
+            <description><![CDATA[How Liverpool and Brighton's players rated following their Premier League match.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/crwyd857p00yo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/crwyd857p00yo#0</guid>
+            <pubDate>Sun, 25 Oct 2026 15:58:26 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb5a/live/d8608cf0-d085-11f1-a4ba-351760cfea6a.jpg"/>
+        </item>
         <item>
             <title><![CDATA[Fernandes left on bench for Man Utd defeat - a failed gamble?]]></title>
             <description><![CDATA[Manchester United skipper Bruno Fernandes is left on the bench for Sunday's 3-0 loss to Bournemouth, following his criticism of manager Michael Carrick.]]></description>
@@ -21,30 +37,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmrlye5w3p79o#0</guid>
             <pubDate>Sun, 25 Oct 2026 13:26:13 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e52/live/e9d3fd70-d088-11f1-92f6-357f3b0f345f.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[When is Premier League 'sacking season' - and who should be worried?]]></title>
-            <description><![CDATA[As pressure builds on Manchester United manager Michael Carrick, BBC Sport looks at when the Premier League 'sacking season' begins.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cmy83vg66zngo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmy83vg66zngo#0</guid>
-            <pubDate>Sun, 25 Oct 2026 06:17:46 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa99/live/4f6d2680-cda4-11f1-8dd1-5318c7608ec0.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[What Man Utd need now is stability, not more changes - Pulis]]></title>
-            <description><![CDATA[BBC Sport columnist Tony Pulis explains why Bruno Fernandes' comments after Manchester United's defeat by Como showed how hard it must be to run the club at the moment.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/ck78p37y5508o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ck78p37y5508o#0</guid>
-            <pubDate>Sun, 25 Oct 2026 06:34:07 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c068/live/df157960-541c-11f1-8b8c-6d33e1d5abb6.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['This is the only Clasico' - Mourinho's Real trying to stop Barca's shot at history]]></title>
-            <description><![CDATA[Barcelona aim to make La Liga history against Real Madrid, with Jose Mourinho looking to end their winning run.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/crgqwzqz8zgwo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/crgqwzqz8zgwo#0</guid>
-            <pubDate>Sun, 25 Oct 2026 07:55:05 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/022c/live/b0517610-cfcd-11f1-b441-2b33b063138f.png"/>
         </item>
         <item>
             <title><![CDATA[Spurs clinch rare Stamford Bridge win as Palmer sent off]]></title>
@@ -90,6 +82,30 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0pj99mq.jpg"/>
         </item>
         <item>
+            <title><![CDATA['This is the only Clasico' - Mourinho's Real trying to stop Barca's shot at history]]></title>
+            <description><![CDATA[Barcelona aim to make La Liga history against Real Madrid, with Jose Mourinho looking to end their winning run.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/crgqwzqz8zgwo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/crgqwzqz8zgwo#2</guid>
+            <pubDate>Sun, 25 Oct 2026 07:55:05 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/022c/live/b0517610-cfcd-11f1-b441-2b33b063138f.png"/>
+        </item>
+        <item>
+            <title><![CDATA[When is Premier League 'sacking season' - and who should be worried?]]></title>
+            <description><![CDATA[As pressure builds on Manchester United manager Michael Carrick, BBC Sport looks at when the Premier League 'sacking season' begins.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cmy83vg66zngo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmy83vg66zngo#2</guid>
+            <pubDate>Sun, 25 Oct 2026 06:17:46 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa99/live/4f6d2680-cda4-11f1-8dd1-5318c7608ec0.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[What Man Utd need now is stability, not more changes - Pulis]]></title>
+            <description><![CDATA[BBC Sport columnist Tony Pulis explains why Bruno Fernandes' comments after Manchester United's defeat by Como showed how hard it must be to run the club at the moment.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/ck78p37y5508o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ck78p37y5508o#2</guid>
+            <pubDate>Sun, 25 Oct 2026 06:34:07 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c068/live/df157960-541c-11f1-8b8c-6d33e1d5abb6.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Sheffield Wednesday sack Pedersen after 15 months]]></title>
             <description><![CDATA[Sheffield Wednesday sack head coach Henrik Pedersen after less than 15 months in charge following consecutive defeats.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cq4g15392p4ro?at_medium=RSS&amp;at_campaign=rss</link>
@@ -104,56 +120,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cm5ynpjx170zo#2</guid>
             <pubDate>Sun, 25 Oct 2026 07:58:04 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8601/live/3d8c4970-cd39-11f1-935f-b9c228680c6f.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The candid meeting that 'changed' Spurs - are they finally on way back?]]></title>
-            <description><![CDATA[Tottenham end Saturday's Premier League action in 12th place, their highest league position since 2 January. Are they finally on their way back?]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cqev38dz34vxo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqev38dz34vxo#2</guid>
-            <pubDate>Sat, 24 Oct 2026 21:14:42 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dbe8/live/84b1c910-cfff-11f1-93e1-3b657b665bcf.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[England win cerebral palsy World Cup for first time]]></title>
-            <description><![CDATA[Sam Dewhirst and David Porcher score the goals as England beat the United States in the final of the Cerebral Palsy World Cup in Atlanta.
-
-]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cm5yn2e0wpq9o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cm5yn2e0wpq9o#2</guid>
-            <pubDate>Sun, 25 Oct 2026 12:13:40 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e550/live/c2f266a0-d06b-11f1-afcb-6b9b9432d8fc.png"/>
-        </item>
-        <item>
-            <title><![CDATA[Who am I? Plus today's other quizzes]]></title>
-            <description><![CDATA[Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/c933x18044epo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c933x18044epo#2</guid>
-            <pubDate>Sun, 25 Oct 2026 07:21:42 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"/>
-        </item>
-        <item>
-            <title><![CDATA[Liverpool among clubs keen on Vuskovic - Sunday's gossip]]></title>
-            <description><![CDATA[Brighton defender Luka Vuskovic is being looked at by high-profile clubs, Liverpool do not intend to bring Trent Alexander-Arnold back, AC Milan are targeting Manchester United's Leny Yoro, plus more.  ]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cqvgr87py7zvo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqvgr87py7zvo#2</guid>
-            <pubDate>Sat, 24 Oct 2026 20:20:30 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0bf2/live/e83ed530-cfdd-11f1-a701-fddedf244c16.png"/>
-        </item>
-        <item>
-            <title><![CDATA['A massive storage of images' - Arteta has technical area receipts]]></title>
-            <description><![CDATA[Wandering Premier League managers beware, Arsenal's Mikel Arteta has compiled a dossier of bosses leaving their technical area.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cwgkv8yx4dg8o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cwgkv8yx4dg8o#2</guid>
-            <pubDate>Sat, 24 Oct 2026 17:59:48 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bcd0/live/ebb58560-cfdd-11f1-b441-2b33b063138f.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[From Chelsea reject to Watkins 'upgrade' - Jackson makes fast Villa start]]></title>
-            <description><![CDATA[Nicolas Jackson continues an excellent start to his Aston Villa career with a match-winning double against Manchester City.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/c6p9gkdzzpnro?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6p9gkdzzpnro#2</guid>
-            <pubDate>Sat, 24 Oct 2026 16:58:27 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa12/live/c9b08670-cfb7-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
             <title><![CDATA[Should Palmer have been sent off earlier than he was?]]></title>
@@ -196,12 +162,38 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b4b0/live/61137dc0-cfdf-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
+            <title><![CDATA[England win cerebral palsy World Cup for first time]]></title>
+            <description><![CDATA[Sam Dewhirst and David Porcher score the goals as England beat the United States in the final of the Cerebral Palsy World Cup in Atlanta.
+
+]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cm5yn2e0wpq9o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cm5yn2e0wpq9o#4</guid>
+            <pubDate>Sun, 25 Oct 2026 12:13:40 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e550/live/c2f266a0-d06b-11f1-afcb-6b9b9432d8fc.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Who am I? Plus today's other quizzes]]></title>
+            <description><![CDATA[Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/c933x18044epo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c933x18044epo#4</guid>
+            <pubDate>Sun, 25 Oct 2026 07:21:42 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"/>
+        </item>
+        <item>
             <title><![CDATA[Hayen sacked by Burnley after just 14 games]]></title>
             <description><![CDATA[Nicky Hayen is sacked after just 14 games in charge at Burnley following a poor start to the season.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cm4gv830j73do?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cm4gv830j73do#4</guid>
             <pubDate>Sat, 24 Oct 2026 19:01:03 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2dbc/live/07a857a0-cfd6-11f1-b951-f904363c9c32.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Liverpool among clubs keen on Vuskovic - Sunday's gossip]]></title>
+            <description><![CDATA[Brighton defender Luka Vuskovic is being looked at by high-profile clubs, Liverpool do not intend to bring Trent Alexander-Arnold back, AC Milan are targeting Manchester United's Leny Yoro, plus more.  ]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cqvgr87py7zvo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqvgr87py7zvo#4</guid>
+            <pubDate>Sat, 24 Oct 2026 20:20:30 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0bf2/live/e83ed530-cfdd-11f1-a701-fddedf244c16.png"/>
         </item>
         <item>
             <title><![CDATA[The non-football fan who snapped the game beautifully]]></title>
@@ -236,20 +228,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd69/live/e4151260-cfc1-11f1-9ecd-8be45051afbd.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Huddersfield on top, but difficult days for Derby - Sam Parkin's EFL takeaways ]]></title>
-            <description><![CDATA[BBC Final Score pundit Sam Parkin looks at the weekend's talking points in the EFL, including Huddersfield's fine form and QPR's big win over Swansea.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cmglw82kz4njo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmglw82kz4njo#4</guid>
-            <pubDate>Sat, 24 Oct 2026 19:35:19 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2307/live/6e2edec0-cfe2-11f1-aa62-a1cf89c34605.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Sutton's predictions v Waffle the Wonder Dog and his owner Simon]]></title>
             <description><![CDATA[BBC Sport football expert Chris Sutton takes on Waffle the Wonder Dog and his owner Simon, plus the BBC readers and AI with his predictions for this weekend's Premier League fixtures.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/c3y0eqkneze4o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c3y0eqkneze4o#6</guid>
             <pubDate>Thu, 22 Oct 2026 16:30:41 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a31/live/4e4346b0-ce0b-11f1-9a39-31b474234113.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Huddersfield on top, but difficult days for Derby - Sam Parkin's EFL takeaways ]]></title>
+            <description><![CDATA[BBC Final Score pundit Sam Parkin looks at the weekend's talking points in the EFL, including Huddersfield's fine form and QPR's big win over Swansea.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cmglw82kz4njo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmglw82kz4njo#6</guid>
+            <pubDate>Sat, 24 Oct 2026 19:35:19 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2307/live/6e2edec0-cfe2-11f1-aa62-a1cf89c34605.jpg"/>
         </item>
         <item>
             <title><![CDATA[Infantino says he is backed by 'vast majority']]></title>
