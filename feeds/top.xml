@@ -9,19 +9,11 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 25 Oct 2026 15:05:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Oct 2026 15:38:07 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
-        <item>
-            <title><![CDATA[Musk says SpaceX restricted Ukraine's Starlink connection as service restored]]></title>
-            <description><![CDATA[The tech billionaire accuses Ukraine of violating its terms of service by using the network for military activity.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo#1</guid>
-            <pubDate>Sun, 25 Oct 2026 09:00:00 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/58a8/live/4afd15d0-d04f-11f1-93e1-3b657b665bcf.jpg"/>
-        </item>
         <item>
             <title><![CDATA[Burnham open to 'honest discussion' on EU free movement]]></title>
             <description><![CDATA[The PM says he wants a "factual" and "evidence-based debate" about returning to free movement between Britain and Europe.]]></description>
@@ -39,20 +31,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7903/live/3762a6d0-d071-11f1-afcb-6b9b9432d8fc.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Voters in Brazil head to polls as Lula goes up against Bolsonaro's son]]></title>
-            <description><![CDATA[Flávio Bolsonaro, the son of Brazil's imprisoned ex-president, is challenging Lula, who is seeking a fourth term in office.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cxp8g21j4648o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cxp8g21j4648o#1</guid>
-            <pubDate>Sun, 25 Oct 2026 11:54:16 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a1af/live/aa5e3cd0-d080-11f1-93e1-3b657b665bcf.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Meghan broke contact with father in letter citing abuse claims]]></title>
-            <description><![CDATA[Sources close to the duchess said she warned her father last year that he would never meet his grandchildren.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cqzjxg7l19yxo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqzjxg7l19yxo#1</guid>
-            <pubDate>Sun, 25 Oct 2026 08:05:31 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e831/live/b27def00-cff9-11f1-b0ff-614e4f91e969.jpg"/>
+            <title><![CDATA[Musk says SpaceX restricted Ukraine's Starlink connection as service restored]]></title>
+            <description><![CDATA[The tech billionaire accuses Ukraine of violating its terms of service by using the network for military activity.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo#1</guid>
+            <pubDate>Sun, 25 Oct 2026 09:00:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/58a8/live/4afd15d0-d04f-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
             <title><![CDATA[Why the charts are full of old songs - and so are your playlists]]></title>
@@ -111,12 +95,36 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7151/live/1593e210-cfa6-11f1-aadb-297fd0a130b9.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Early reports suggest record high turnout in Serbia elections]]></title>
+            <description><![CDATA[Serbia is heading to the polls as a student movement attempts to oust longtime populist leader Aleksandar Vučić.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c6jdmj1ej715o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6jdmj1ej715o#3</guid>
+            <pubDate>Sun, 25 Oct 2026 15:07:00 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d7d/live/b4e2d610-d072-11f1-afcb-6b9b9432d8fc.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Suspect in deadly Paris suburb shooting sent for psychiatric observation]]></title>
+            <description><![CDATA[He will be observed to evaluate whether his "psychiatric health is compatible with pursuing his interrogation", authorities said.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c6e3xek2457wo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6e3xek2457wo#3</guid>
+            <pubDate>Sun, 25 Oct 2026 15:32:51 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2825/live/a8b0e250-d07d-11f1-a4ba-351760cfea6a.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Four-year-old girl dies after fall from tower block]]></title>
             <description><![CDATA[Paramedics gave first aid at the scene on Saturday morningb ut the child later died, police say.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cwj34vzrj865o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwj34vzrj865o#3</guid>
             <pubDate>Sun, 25 Oct 2026 14:00:37 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d84/live/68e6d870-d07b-11f1-afcb-6b9b9432d8fc.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Meghan broke contact with father in letter citing abuse claims]]></title>
+            <description><![CDATA[Sources close to the duchess said she warned her father last year that he would never meet his grandchildren.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cqzjxg7l19yxo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqzjxg7l19yxo#3</guid>
+            <pubDate>Sun, 25 Oct 2026 08:05:31 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e831/live/b27def00-cff9-11f1-b0ff-614e4f91e969.jpg"/>
         </item>
         <item>
             <title><![CDATA[Russia to host first Olympic federation world event since Ukraine invasion]]></title>
@@ -127,28 +135,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da4e/live/27561b80-d07d-11f1-a4ba-351760cfea6a.jpg"/>
         </item>
         <item>
-            <title><![CDATA[More than 1,300 arrested as clashes follow another day of mass protests across France]]></title>
-            <description><![CDATA[Hundreds of thousands took part in demonstrations in France, with protests also taking place in other European countries.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c95ynd587ynzo#3</guid>
-            <pubDate>Sun, 25 Oct 2026 10:38:15 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d00/live/edf93830-cffb-11f1-b444-6fb1f13f8d87.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Budget to include £1bn for social and affordable housing]]></title>
             <description><![CDATA[The move will take funding for the 10-year programme to more than £40bn.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cqm24j9y9zn7o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqm24j9y9zn7o#3</guid>
             <pubDate>Sun, 25 Oct 2026 10:03:17 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ec8/live/67f00de0-cfe2-11f1-aa62-a1cf89c34605.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Police using AI risks making discrimination worse, researchers warn]]></title>
-            <description><![CDATA[AI tools learn from biased records and may deepen discrimination against minorities without oversight, researchers say.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/ckpdg4pl7pgvo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckpdg4pl7pgvo#3</guid>
-            <pubDate>Sun, 25 Oct 2026 12:18:56 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/560f/live/b29654d0-c8ad-11f1-9c75-6ff1271de385.jpg"/>
         </item>
         <item>
             <title><![CDATA['It gives me the ick': Can you cheat on someone with a video game?]]></title>
