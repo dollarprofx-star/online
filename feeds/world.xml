@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news/world</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 25 Oct 2026 15:38:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Oct 2026 16:06:55 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/world/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -21,6 +21,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o#0</guid>
             <pubDate>Sun, 25 Oct 2026 05:15:52 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5815/live/ca832c30-d019-11f1-b441-2b33b063138f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Early reports suggest record high turnout in Serbia elections]]></title>
+            <description><![CDATA[Serbia is heading to the polls as a student movement attempts to oust longtime populist leader Aleksandar Vučić.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c6jdmj1ej715o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6jdmj1ej715o#0</guid>
+            <pubDate>Sun, 25 Oct 2026 16:05:15 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fffb/live/26f0ac80-d089-11f1-92f6-357f3b0f345f.jpg"/>
         </item>
         <item>
             <title><![CDATA[Musk says SpaceX restricted Ukraine's Starlink connection as service restored]]></title>
@@ -39,14 +47,6 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2825/live/a8b0e250-d07d-11f1-a4ba-351760cfea6a.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Gunmen kill at least 10 villagers and loot shops in north-east Nigeria]]></title>
-            <description><![CDATA[Police are searching for other casualties, with officials warning the actual death toll could rise further.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do#0</guid>
-            <pubDate>Sun, 25 Oct 2026 03:20:16 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db2e/live/b3593830-d017-11f1-b0c1-71a61e4adacb.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[El Salvador president says bodies found in Haiti are not those of hostages ]]></title>
             <description><![CDATA[Nayib Bukele says bodies delivered to soldiers are "not our men" amid search for Salvadorans abducted last week.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c8ly097zw1xwo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -61,6 +61,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6x2w0ngejneo#0</guid>
             <pubDate>Sun, 25 Oct 2026 14:39:47 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e014/live/283eea50-d07c-11f1-a701-fddedf244c16.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gunmen kill at least 10 villagers and loot shops in north-east Nigeria]]></title>
+            <description><![CDATA[Police are searching for other casualties, with officials warning the actual death toll could rise further.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do#1</guid>
+            <pubDate>Sun, 25 Oct 2026 03:20:16 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db2e/live/b3593830-d017-11f1-b0c1-71a61e4adacb.jpg"/>
         </item>
         <item>
             <title><![CDATA[Obama attacks Trump as he campaigns for Democrats ahead of midterm elections]]></title>
