@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 25 Oct 2026 17:08:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Oct 2026 17:35:58 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -36,7 +36,7 @@
             <link>https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cq8ez592pp0eo#1</guid>
             <pubDate>Sun, 25 Oct 2026 16:21:40 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d5e1/live/ce515fe0-d095-11f1-a701-fddedf244c16.jpg"/>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/116f/live/8cce05e0-d096-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
             <title><![CDATA[Why the charts are full of old songs - and so are your playlists]]></title>
@@ -199,12 +199,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e80/live/e11e5170-d08e-11f1-92f6-357f3b0f345f.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Fernandes left out - Man Utd hammered, Bournemouth brilliant - how they rated]]></title>
-            <description><![CDATA[Another catastrophic day for Manchester United and a glorious one for Bournemouth - how did the players rate?]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/c9ly0mz745dno?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c9ly0mz745dno#8</guid>
-            <pubDate>Sun, 25 Oct 2026 16:04:13 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/85d8/live/8211af10-d089-11f1-a701-fddedf244c16.jpg"/>
+            <title><![CDATA[Fernandes left on bench for Man Utd defeat - a failed gamble?]]></title>
+            <description><![CDATA[Manchester United skipper Bruno Fernandes is left on the bench for Sunday's 3-0 loss to Bournemouth, following his criticism of manager Michael Carrick.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cmrlye5w3p79o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmrlye5w3p79o#8</guid>
+            <pubDate>Sun, 25 Oct 2026 13:26:13 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e52/live/e9d3fd70-d088-11f1-92f6-357f3b0f345f.jpg"/>
         </item>
         <item>
             <title><![CDATA[England lose to Pakistan after improbable last-wicket stand]]></title>
