@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/sport/football</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 25 Oct 2026 23:01:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Oct 2026 23:32:56 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -95,6 +95,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b3e/live/b4b3c870-d0c2-11f1-a701-fddedf244c16.png"/>
         </item>
         <item>
+            <title><![CDATA[What have Man Utd changed to turn around WSL form?]]></title>
+            <description><![CDATA[It is a different picture at Manchester United now than it was last month - and they proved it to fight back and earn a point against rivals Manchester City.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cm5ynpjx170zo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cm5ynpjx170zo#1</guid>
+            <pubDate>Sun, 25 Oct 2026 21:38:59 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/54f9/live/6c41bd40-d0bd-11f1-8fea-7b0d9193acdd.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Pressure grows on Sage as fans turn on Palace boss]]></title>
             <description><![CDATA[Crystal Palace boss Pierre Sage had a tough act to follow in Oliver Glasner - and four months into the job the Frenchman is already under big pressure.
 ]]></description>
@@ -102,14 +110,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6kg5jmrzd2jo#1</guid>
             <pubDate>Sun, 25 Oct 2026 18:36:12 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d9f2/live/4020a9e0-d0b0-11f1-93e1-3b657b665bcf.png"/>
-        </item>
-        <item>
-            <title><![CDATA[What have Man Utd changed to turn around WSL form?]]></title>
-            <description><![CDATA[It is a different picture at Manchester United now than it was last month - and they proved it to fight back and earn a point against rivals Manchester City.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cm5ynpjx170zo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cm5ynpjx170zo#1</guid>
-            <pubDate>Sun, 25 Oct 2026 21:38:59 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/54f9/live/6c41bd40-d0bd-11f1-8fea-7b0d9193acdd.jpg"/>
         </item>
         <item>
             <title><![CDATA[Fernandes left on bench for Man Utd defeat - a failed gamble?]]></title>
