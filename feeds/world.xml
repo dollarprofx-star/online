@@ -9,18 +9,18 @@
             <link>https://www.bbc.co.uk/news/world</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 25 Oct 2026 14:04:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Oct 2026 14:36:57 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/world/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
-            <title><![CDATA[More than 1,300 arrested as clashes follow another day of mass protests across France]]></title>
-            <description><![CDATA[Hundreds of thousands took part in demonstrations in France, with protests also taking place in other European countries.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c95ynd587ynzo#0</guid>
-            <pubDate>Sun, 25 Oct 2026 10:38:15 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d00/live/edf93830-cffb-11f1-b444-6fb1f13f8d87.jpg"/>
+            <title><![CDATA[Voters in Brazil head to polls as Lula goes up against Bolsonaro's son]]></title>
+            <description><![CDATA[Flávio Bolsonaro, the son of Brazil's imprisoned ex-president, is challenging Lula, who is seeking a fourth term in office.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cxp8g21j4648o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cxp8g21j4648o#0</guid>
+            <pubDate>Sun, 25 Oct 2026 11:54:16 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c93/live/6c2dbd80-d064-11f1-bbf5-99ed69f0d81f.jpg"/>
         </item>
         <item>
             <title><![CDATA[Israel to close West Bank crossings on election day as crackdown escalates]]></title>
@@ -29,14 +29,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o#0</guid>
             <pubDate>Sun, 25 Oct 2026 05:15:52 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5815/live/ca832c30-d019-11f1-b441-2b33b063138f.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Voters in Brazil head to polls as Lula goes up against Bolsonaro's son]]></title>
-            <description><![CDATA[Flávio Bolsonaro, the son of Brazil's imprisoned ex-president, is challenging Lula, who is seeking a fourth term in office.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cxp8g21j4648o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cxp8g21j4648o#0</guid>
-            <pubDate>Sun, 25 Oct 2026 11:54:16 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c93/live/6c2dbd80-d064-11f1-bbf5-99ed69f0d81f.jpg"/>
         </item>
         <item>
             <title><![CDATA[Musk says SpaceX restricted Ukraine's Starlink connection as service restored]]></title>
@@ -53,6 +45,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do#0</guid>
             <pubDate>Sun, 25 Oct 2026 03:20:16 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db2e/live/b3593830-d017-11f1-b0c1-71a61e4adacb.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[More than 1,300 arrested as clashes follow another day of mass protests across France]]></title>
+            <description><![CDATA[Hundreds of thousands took part in demonstrations in France, with protests also taking place in other European countries.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c95ynd587ynzo#0</guid>
+            <pubDate>Sun, 25 Oct 2026 10:38:15 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d00/live/edf93830-cffb-11f1-b444-6fb1f13f8d87.jpg"/>
         </item>
         <item>
             <title><![CDATA[Man arrested after fire at Hitler's mountaintop Eagle's Nest retreat]]></title>

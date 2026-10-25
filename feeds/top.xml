@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 25 Oct 2026 14:04:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Oct 2026 14:36:58 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -44,15 +44,15 @@
             <link>https://www.bbc.co.uk/news/articles/cxp8g21j4648o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cxp8g21j4648o#1</guid>
             <pubDate>Sun, 25 Oct 2026 11:54:16 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a07/live/abd8a9d0-d06a-11f1-b441-2b33b063138f.jpg"/>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a1af/live/aa5e3cd0-d080-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
-            <title><![CDATA[More than 1,300 arrested as clashes follow another day of mass protests across France]]></title>
-            <description><![CDATA[Hundreds of thousands took part in demonstrations in France, with protests also taking place in other European countries.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c95ynd587ynzo#1</guid>
-            <pubDate>Sun, 25 Oct 2026 10:38:15 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d00/live/edf93830-cffb-11f1-b444-6fb1f13f8d87.jpg"/>
+            <title><![CDATA[Meghan broke contact with father in letter citing abuse claims]]></title>
+            <description><![CDATA[Sources close to the duchess said she warned her father last year that he would never meet his grandchildren.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cqzjxg7l19yxo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqzjxg7l19yxo#1</guid>
+            <pubDate>Sun, 25 Oct 2026 08:05:31 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e831/live/b27def00-cff9-11f1-b0ff-614e4f91e969.jpg"/>
         </item>
         <item>
             <title><![CDATA[Why the charts are full of old songs - and so are your playlists]]></title>
@@ -111,12 +111,20 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7151/live/1593e210-cfa6-11f1-aadb-297fd0a130b9.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Meghan broke contact with father in letter citing abuse claims]]></title>
-            <description><![CDATA[Sources close to the duchess said she warned her father last year that he would never meet his grandchildren.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cqzjxg7l19yxo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqzjxg7l19yxo#3</guid>
-            <pubDate>Sun, 25 Oct 2026 08:05:31 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e831/live/b27def00-cff9-11f1-b0ff-614e4f91e969.jpg"/>
+            <title><![CDATA[Four-year-old girl dies after fall from tower block]]></title>
+            <description><![CDATA[Paramedics gave first aid at the scene on Saturday morningb ut the child later died, police say.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cwj34vzrj865o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwj34vzrj865o#3</guid>
+            <pubDate>Sun, 25 Oct 2026 14:00:37 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d84/live/68e6d870-d07b-11f1-afcb-6b9b9432d8fc.png"/>
+        </item>
+        <item>
+            <title><![CDATA[More than 1,300 arrested as clashes follow another day of mass protests across France]]></title>
+            <description><![CDATA[Hundreds of thousands took part in demonstrations in France, with protests also taking place in other European countries.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c95ynd587ynzo#3</guid>
+            <pubDate>Sun, 25 Oct 2026 10:38:15 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d00/live/edf93830-cffb-11f1-b444-6fb1f13f8d87.jpg"/>
         </item>
         <item>
             <title><![CDATA[The penguins are noisy, the people fantastic - what it takes to be an Antarctic postmaster]]></title>
@@ -125,14 +133,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6dxwklr409eo#3</guid>
             <pubDate>Sun, 25 Oct 2026 09:59:50 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/978b/live/e520cd80-c8a4-11f1-929c-0b57deb4f9df.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Students like new tenancy freedoms - but landlords warn of higher rents]]></title>
-            <description><![CDATA[The Renters' Rights Act gives greater flexibility to leave a tenancy but the changes have posed challenges for student landlords.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cqx29lnzr48po?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqx29lnzr48po#3</guid>
-            <pubDate>Sun, 25 Oct 2026 01:35:40 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d88c/live/95ab8c80-cee0-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
             <title><![CDATA[Budget to include £1bn for social and affordable housing]]></title>
@@ -220,7 +220,7 @@
             <link>https://www.bbc.co.uk/sport/football/articles/cmrlye5w3p79o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmrlye5w3p79o#9</guid>
             <pubDate>Sun, 25 Oct 2026 13:26:13 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e57/live/89f97e60-d070-11f1-b441-2b33b063138f.jpg"/>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46eb/live/8346ca20-d07d-11f1-a4ba-351760cfea6a.jpg"/>
         </item>
         <item>
             <title><![CDATA[Anderson stops short of retiring after Lancashire exit]]></title>
@@ -229,14 +229,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/cricket/articles/c3qjng48exxwo#9</guid>
             <pubDate>Sun, 25 Oct 2026 12:03:17 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2dbf/live/48819e90-cedb-11f1-8507-45cb00a1c41c.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['This is the only Clasico' - Mourinho's Real trying to stop Barca's shot at history]]></title>
-            <description><![CDATA[Barcelona aim to make La Liga history against Real Madrid, with Jose Mourinho looking to end their winning run.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/crgqwzqz8zgwo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/crgqwzqz8zgwo#9</guid>
-            <pubDate>Sun, 25 Oct 2026 07:55:05 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/022c/live/b0517610-cfcd-11f1-b441-2b33b063138f.png"/>
         </item>
     </channel>
 </rss>
