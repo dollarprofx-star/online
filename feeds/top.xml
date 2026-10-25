@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 25 Oct 2026 12:17:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Oct 2026 13:04:38 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -223,14 +223,6 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2dbf/live/48819e90-cedb-11f1-8507-45cb00a1c41c.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Antonelli stands on brink of history in Austin]]></title>
-            <description><![CDATA[Kimi Antonelli can become the youngest F1 world champion on Sunday, but far from feeling the pressure he says he is enjoying himself more than usual.]]></description>
-            <link>https://www.bbc.co.uk/sport/formula1/articles/cvlyd5k776yyo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/formula1/articles/cvlyd5k776yyo#9</guid>
-            <pubDate>Sun, 25 Oct 2026 00:40:56 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8cb/live/dda7a2b0-d009-11f1-b441-2b33b063138f.jpg"/>
-        </item>
-        <item>
             <title><![CDATA['This is the only Clasico' - Mourinho's Real trying to stop Barca's shot at history]]></title>
             <description><![CDATA[Barcelona aim to make La Liga history against Real Madrid, with Jose Mourinho looking to end their winning run.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/crgqwzqz8zgwo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -239,12 +231,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/022c/live/b0517610-cfcd-11f1-b441-2b33b063138f.png"/>
         </item>
         <item>
-            <title><![CDATA[Australia reach World Cup semis & New Zealand get back on track]]></title>
-            <description><![CDATA[Australia edge to a 36-22 victory in a pulsating Group A match against Fiji to book their place in the Rugby League World Cup semi-finals. ]]></description>
-            <link>https://www.bbc.co.uk/sport/rugby-league/articles/c60mekrgx4zvo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/rugby-league/articles/c60mekrgx4zvo#9</guid>
-            <pubDate>Sun, 25 Oct 2026 11:21:50 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09ac/live/f5794060-d063-11f1-bbf5-99ed69f0d81f.jpg"/>
+            <title><![CDATA[Antonelli stands on brink of history in Austin]]></title>
+            <description><![CDATA[Kimi Antonelli can become the youngest F1 world champion on Sunday, but far from feeling the pressure he says he is enjoying himself more than usual.]]></description>
+            <link>https://www.bbc.co.uk/sport/formula1/articles/cvlyd5k776yyo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/formula1/articles/cvlyd5k776yyo#9</guid>
+            <pubDate>Sun, 25 Oct 2026 00:40:56 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8cb/live/dda7a2b0-d009-11f1-b441-2b33b063138f.jpg"/>
         </item>
     </channel>
 </rss>
