@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 25 Oct 2026 10:54:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Oct 2026 11:15:55 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -55,12 +55,12 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d00/live/edf93830-cffb-11f1-b444-6fb1f13f8d87.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Watch: Who are the candidates in Brazil's presidential election?]]></title>
-            <description><![CDATA[Voters in Sunday's election are choosing between two very different candidates, as Americas correspondent Ione Wells reports from Rio de Janeiro.]]></description>
-            <link>https://www.bbc.co.uk/news/videos/cm0e0del4jewo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cm0e0del4jewo#1</guid>
-            <pubDate>Sat, 24 Oct 2026 22:08:47 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42ee/live/36a0f0a0-cfc5-11f1-93e1-3b657b665bcf.jpg"/>
+            <title><![CDATA[Voters in Brazil head to polls as Lula goes up against Bolsonaro's son]]></title>
+            <description><![CDATA[Flávio Bolsonaro, the son of Brazil's imprisoned ex-president, is challenging Lula, who is seeking a fourth term in office.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cxp8g21j4648o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cxp8g21j4648o#1</guid>
+            <pubDate>Sun, 25 Oct 2026 11:00:26 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c93/live/6c2dbd80-d064-11f1-bbf5-99ed69f0d81f.jpg"/>
         </item>
         <item>
             <title><![CDATA[Rosebank: Life on the oil field at the centre of a political storm]]></title>
@@ -103,12 +103,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82c2/live/fb2fe4e0-cef7-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Voters in Brazil to choose between Lula and Bolsonaro's son]]></title>
-            <description><![CDATA[Flávio Bolsonaro, the son of Brazil's imprisoned former president, is presenting a strong challenge to Lula, 80, who is seeking a fourth term in office.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cxp8g21j4648o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cxp8g21j4648o#3</guid>
-            <pubDate>Sat, 24 Oct 2026 23:50:02 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc2d/live/5e5c94f0-cffc-11f1-b444-6fb1f13f8d87.jpg"/>
+            <title><![CDATA[Watch: Who are the candidates in Brazil's presidential election?]]></title>
+            <description><![CDATA[Voters in Sunday's election are choosing between two very different candidates, as Americas correspondent Ione Wells reports from Rio de Janeiro.]]></description>
+            <link>https://www.bbc.co.uk/news/videos/cm0e0del4jewo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cm0e0del4jewo#3</guid>
+            <pubDate>Sat, 24 Oct 2026 22:08:47 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42ee/live/36a0f0a0-cfc5-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
             <title><![CDATA[Why is Ukraine so reliant on Starlink and can Europe plug the gap?]]></title>
