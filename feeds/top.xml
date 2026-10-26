@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 26 Oct 2026 07:42:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Oct 2026 08:26:44 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -68,7 +68,7 @@
             <link>https://www.bbc.co.uk/news/articles/c3n04yxn2yqro?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c3n04yxn2yqro#1</guid>
             <pubDate>Sun, 25 Oct 2026 22:37:36 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b131/live/cedc9340-d071-11f1-afcb-6b9b9432d8fc.png"/>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed19/live/cec0c640-d113-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
             <title><![CDATA[Deeply divided Israel braces for pivotal election]]></title>
@@ -79,14 +79,6 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c38d/live/19e08ff0-d0a3-11f1-adbe-cd0eaeb0fff9.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Venezuelan opposition leader María Machado returns after months in exile]]></title>
-            <description><![CDATA[Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro. ]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cq8ez592pp0eo#1</guid>
-            <pubDate>Mon, 26 Oct 2026 05:20:19 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a26f/live/3f12cea0-d0f8-11f1-b5b1-192f0fa11760.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Letter making claims about Meghan's father written by his first wife, BBC understands]]></title>
             <description><![CDATA[Roslyn Loveless, who has since died, divorced Meghan's father in 1975. Meghan said she had been informed about the "disturbing allegations" in 2018.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c60qk44w9wglo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -95,7 +87,7 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec0f/live/9f405020-d096-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Rapper Nicki Minaj joins Trump onstage at Michigan rally]]></title>
+            <title><![CDATA[Nicki Minaj joins Trump onstage at Michigan rally]]></title>
             <description><![CDATA[The Super Bass singer is the latest big name to campaign in Michigan, where a tight Senate race is playing out ahead of the 3 November midterms.  ]]></description>
             <link>https://www.bbc.co.uk/news/articles/cqrmyl1mljppo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqrmyl1mljppo#1</guid>
@@ -141,11 +133,11 @@
             <description><![CDATA[In just under two years the students have succeeded in tearing up 14 years of political dominance under Aleksandar Vučić.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c574pvy82k0mo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c574pvy82k0mo#2</guid>
-            <pubDate>Mon, 26 Oct 2026 00:31:51 GMT</pubDate>
+            <pubDate>Mon, 26 Oct 2026 07:49:53 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec54/live/9d3eb1f0-d0d1-11f1-a058-dfc7f6e2951c.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Data centre debate heats up ahead of US midterms - here's what you need to know]]></title>
+            <title><![CDATA[Big, noisy and coming to a town near you - why the data centre backlash is growing]]></title>
             <description><![CDATA[Data centres are the lifeblood of our digital world, but there are growing concerns about their environmental impact. The BBC explores their rise in charts.  ]]></description>
             <link>https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo#2</guid>
@@ -177,12 +169,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ba1/live/0257f500-d100-11f1-9d25-c3fafb2ab4de.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Venezuelan opposition leader María Machado returns after months in exile]]></title>
+            <description><![CDATA[Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro. ]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cq8ez592pp0eo#4</guid>
+            <pubDate>Mon, 26 Oct 2026 05:20:19 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a26f/live/3f12cea0-d0f8-11f1-b5b1-192f0fa11760.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Spotify uploads lyrics for Dolly Parton's Welsh version of Jolene in Irish]]></title>
             <description><![CDATA[The single is the second posthumous release from Parton - who was of Welsh descent.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cw33xpl5xl8mo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cw33xpl5xl8mo#4</guid>
             <pubDate>Mon, 26 Oct 2026 06:15:09 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/434d/live/ce9d10e0-ce0e-11f1-9f55-cdc56e9c248c.jpg"/>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/27e8/live/7cdbd990-d114-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
             <title><![CDATA[Australian murderer loses bid to eat Vegemite in prison]]></title>
@@ -209,12 +209,12 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e509/live/27badc80-d098-11f1-b7fd-31adcdf71225.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Couple were celebrating anniversary before Bahamas tragedy]]></title>
-            <description><![CDATA[Leanne Gregory, from Stapleford in Nottinghamshire, died trying to save her sons swept out to sea.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c623drpx31xzo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c623drpx31xzo#4</guid>
-            <pubDate>Sun, 25 Oct 2026 14:38:51 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7903/live/3762a6d0-d071-11f1-afcb-6b9b9432d8fc.jpg"/>
+            <title><![CDATA[China's big political meeting could see Xi 'tighten discipline' in Party]]></title>
+            <description><![CDATA[The highly secretive four-day Plenum starts Monday in Beijing.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c6n8djd1078ro?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6n8djd1078ro#4</guid>
+            <pubDate>Mon, 26 Oct 2026 07:40:57 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5db8/live/b9600940-d100-11f1-9d25-c3fafb2ab4de.jpg"/>
         </item>
         <item>
             <title><![CDATA[Download now]]></title>
@@ -265,14 +265,6 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06ee/live/7c1a34e0-d0e0-11f1-ad70-07daa2562508.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Isak finally living up to price tag as Liverpool patience rewarded]]></title>
-            <description><![CDATA[Alexander Isak scores his sixth Premier League goal of the season as Liverpool make it four wins out of their last four under Andoni Iraola.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cmj47lq7e5e7o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmj47lq7e5e7o#8</guid>
-            <pubDate>Sun, 25 Oct 2026 18:13:55 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d79/live/b17fc130-d0af-11f1-b441-2b33b063138f.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Who should win the men's Ballon d'Or? BBC Sport pundits have their say]]></title>
             <description><![CDATA[The Ballon d'Or winner will be announced in London on Monday - but who is going to claim the showpiece award?
 
@@ -291,52 +283,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43d3/live/49565450-d0f7-11f1-a701-fddedf244c16.png"/>
         </item>
         <item>
-            <title><![CDATA[Howe open to Man Utd talks - Monday's gossip]]></title>
-            <description><![CDATA[Eddie Howe is open to holding talks with Manchester United if they part ways with manager Michael Carrick, three Premier League clubs are monitoring Bayern Munich's Lennart Karl, plus more. ]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cq1j3e889rg8o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cq1j3e889rg8o#8</guid>
-            <pubDate>Sun, 25 Oct 2026 21:09:37 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/17b5/live/5102a540-d0b2-11f1-93e1-3b657b665bcf.png"/>
-        </item>
-        <item>
-            <title><![CDATA[Pressure intensifies on Carrick as Man Utd lose to Bournemouth]]></title>
-            <description><![CDATA[Manchester United's winless run stretches to eight matches in all competitions as they are beaten 3-0 by Bournemouth at Old Trafford - a defeat that leaves United's manager Michael Carrick under severe pressure. ]]></description>
-            <link>https://www.bbc.co.uk/sport/football/videos/cq0mepm1d774o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cq0mepm1d774o#9</guid>
-            <pubDate>Sun, 25 Oct 2026 20:00:19 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff84/live/5c216630-d0a5-11f1-93e1-3b657b665bcf.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Liverpool earn first league win at Anfield with victory over Brighton]]></title>
-            <description><![CDATA[An own goal from Brighton's Pascal Gross swiftly followed by a goal from Alexander Isak, sees Liverpool beat the Seagulls 2-0 at Anfield to move into the Premier League top four. ]]></description>
-            <link>https://www.bbc.co.uk/sport/football/videos/cm3vq1vpv6zno?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cm3vq1vpv6zno#9</guid>
-            <pubDate>Sun, 25 Oct 2026 20:00:09 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1edf/live/33674a90-d0a3-11f1-93e1-3b657b665bcf.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sage continues to struggle as Palace lose at home to Newcastle]]></title>
-            <description><![CDATA[Crystal Palace's winless run stretches to four matches as they are beaten 2-0 at home by Newcastle, leaving the club just a point outside the relegation zone with the pressure mounting on manager Pierre Sage.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/videos/c9gkvellmxg1o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/c9gkvellmxg1o#9</guid>
-            <pubDate>Sun, 25 Oct 2026 19:59:46 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f3f/live/3612c610-d0a4-11f1-a701-fddedf244c16.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hull draw third consecutive home game after being held by Brentford]]></title>
-            <description><![CDATA[Hull draw a third consecutive home game after Dango Ouattara's equaliser helps Brentford grab a point in a 1-1 draw at the MKM Stadium in the Premier League. ]]></description>
-            <link>https://www.bbc.co.uk/sport/football/videos/cmlylkydwl78o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cmlylkydwl78o#9</guid>
-            <pubDate>Sun, 25 Oct 2026 19:59:29 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e48a/live/34826970-d0a1-11f1-93e1-3b657b665bcf.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sunderland stay bottom after goalless draw with Leeds]]></title>
-            <description><![CDATA[Sunderland remain bottom of the Premier League after a goalless draw with Leeds in difficult conditions at the Stadium of Light. ]]></description>
-            <link>https://www.bbc.co.uk/sport/football/videos/cj75pv5zp95po?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cj75pv5zp95po#9</guid>
-            <pubDate>Sun, 25 Oct 2026 19:59:07 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e8b8/live/bc7228b0-d0a7-11f1-b441-2b33b063138f.jpg"/>
+            <title><![CDATA[Ex-Liverpool winger Pennant has more than 50 stitches after dog attack]]></title>
+            <description><![CDATA[Former Premier League footballer Jermaine Pennant says he needed more than 50 stitches after being mauled by a dog.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cqdr8e81xjy7o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqdr8e81xjy7o#8</guid>
+            <pubDate>Mon, 26 Oct 2026 07:36:20 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7dec/live/7db62da0-d10c-11f1-ac54-9f7716f7b702.jpg"/>
         </item>
     </channel>
 </rss>
