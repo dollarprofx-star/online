@@ -9,27 +9,11 @@
             <link>https://www.bbc.co.uk/sport/football</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 26 Oct 2026 13:44:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Oct 2026 15:21:21 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
-        <item>
-            <title><![CDATA[End approaching for Carrick but Man Utd fans make clear who they blame]]></title>
-            <description><![CDATA[Manchester United's fans sang their support for Michael Carrick during the 3-0 home defeat by Bournemouth, but voiced their opposition to virtually everything else.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cwm24jk9743yo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cwm24jk9743yo#0</guid>
-            <pubDate>Sun, 25 Oct 2026 21:24:21 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a6b1/live/b4ad99d0-d0b5-11f1-960c-a30ffadcd9ea.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mourinho keeps Clasico midas touch 13 years on as La Liga heats up]]></title>
-            <description><![CDATA[Kylian Mbappe's two goals at Barcelona have opened up La Liga, as Jose Mourinho's Real Madrid leave Camp Nou with a victory.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cr3wvz20pglqo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cr3wvz20pglqo#0</guid>
-            <pubDate>Mon, 26 Oct 2026 00:07:16 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9581/live/b729bb60-d0cb-11f1-b86a-c167c5eb76b4.jpg"/>
-        </item>
         <item>
             <title><![CDATA[Who should win the men's Ballon d'Or? BBC Sport pundits have their say]]></title>
             <description><![CDATA[The Ballon d'Or winner will be announced in London on Monday - but who is going to claim the showpiece award?
@@ -41,12 +25,28 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6cc7/live/9ef6d620-cbd7-11f1-b139-f77a8b036d06.png"/>
         </item>
         <item>
+            <title><![CDATA[End approaching for Carrick but Man Utd fans make clear who they blame]]></title>
+            <description><![CDATA[Manchester United's fans sang their support for Michael Carrick during the 3-0 home defeat by Bournemouth, but voiced their opposition to virtually everything else.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cwm24jk9743yo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cwm24jk9743yo#0</guid>
+            <pubDate>Sun, 25 Oct 2026 21:24:21 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a6b1/live/b4ad99d0-d0b5-11f1-960c-a30ffadcd9ea.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Will anyone end Spain's domination of women's Ballon d'Or?]]></title>
             <description><![CDATA[Spanish players have dominated the Women's Ballon d'Or for the past five years, so will they be celebrating again on Monday?]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cq5ynp680jm1o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cq5ynp680jm1o#0</guid>
             <pubDate>Mon, 26 Oct 2026 09:21:17 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a03/live/71b01b30-cdfe-11f1-a64c-550be9e3c66b.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Mourinho keeps Clasico midas touch 13 years on as La Liga heats up]]></title>
+            <description><![CDATA[Kylian Mbappe's two goals at Barcelona have opened up La Liga, as Jose Mourinho's Real Madrid leave Camp Nou with a victory.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cr3wvz20pglqo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cr3wvz20pglqo#0</guid>
+            <pubDate>Mon, 26 Oct 2026 00:07:16 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9581/live/b729bb60-d0cb-11f1-b86a-c167c5eb76b4.jpg"/>
         </item>
         <item>
             <title><![CDATA[Who has made Troy's Premier League team of the week?]]></title>
@@ -101,7 +101,7 @@
             <description><![CDATA[Crystal Palace boss Pierre Sage had a tough act to follow in Oliver Glasner - and four months into the job the Frenchman is already under big pressure.
 ]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/c6kg5jmrzd2jo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6kg5jmrzd2jo#1</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6kg5jmrzd2jo#0</guid>
             <pubDate>Sun, 25 Oct 2026 18:36:12 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d9f2/live/4020a9e0-d0b0-11f1-93e1-3b657b665bcf.png"/>
         </item>
@@ -412,6 +412,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aec0/live/fd14b290-e25e-11ef-a819-277e390a7a08.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Which game will Chelsea's Palmer miss after red card?]]></title>
+            <description><![CDATA[BBC Sport's Ask Me Anything team explains why Cole Palmer's red card suspension will not rule him out of Chelsea's Premier League match against Manchester United.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cm4g1q54pj20o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cm4g1q54pj20o#13</guid>
+            <pubDate>Mon, 26 Oct 2026 14:12:43 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d21/live/aaf3d7f0-d142-11f1-8d4e-ef1672a07d66.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Who is close to a yellow card suspension in Champions League?]]></title>
             <description><![CDATA[BBC Sport's Ask Me Anything team explains what the rules are regarding yellow card suspensions in this season's Champions League]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/c54g1vpypgw3o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -434,14 +442,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c8d75jn2057o#13</guid>
             <pubDate>Tue, 13 Oct 2026 12:04:02 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/407c/live/98826b20-066a-11f1-b5e2-dd58fc65f0f6.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[How much money do clubs get for Nations League players?]]></title>
-            <description><![CDATA[Our Ask Me Anything team look at what clubs are paid for releasing players for Nations League appearances.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cvj64l3xyzlyo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cvj64l3xyzlyo#13</guid>
-            <pubDate>Wed, 30 Sep 2026 13:47:34 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c134/live/91bb34a0-bcba-11f1-bc2e-018d645d8d21.png"/>
         </item>
         <item>
             <title><![CDATA[Who has scored against the most Premier League teams?]]></title>
@@ -500,6 +500,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b24d/live/d6fa1bf0-d081-11f1-a4ba-351760cfea6a.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Olid, Cuthbert and Weir on Scottish awards shortlist]]></title>
+            <description><![CDATA[Manchester United head coach Eva Olid, Chelsea midfielder Erin Cuthbert and Ballon d'Or nominee Caroline Weir are among those on the shortlist for the Scottish Women's Football Awards 2026.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/ckd6dzv7w85go?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ckd6dzv7w85go#16</guid>
+            <pubDate>Mon, 26 Oct 2026 15:09:42 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7107/live/c99908e0-d14e-11f1-93e1-3b657b665bcf.png"/>
+        </item>
+        <item>
             <title><![CDATA[Listen: Celtic grind it out, Hearts bounce back - weekend review]]></title>
             <description><![CDATA[Celtic stay four clear, Hearts respond after a hard week and Motherwell's slide continues.]]></description>
             <link>https://www.bbc.co.uk/sounds/play/p0pjl78b?at_medium=RSS&amp;at_campaign=rss</link>
@@ -508,20 +516,28 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0pjl78q.jpg"/>
         </item>
         <item>
-            <title><![CDATA['SFA forced to rethink youth football plans' - gossip]]></title>
-            <description><![CDATA[Scottish FA chief executive Craig Mulholland is reportedly forced to rethink his youth football plans, while Dundee's Ethan Hamilton is not swayed by Aberdeen interest.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/c674pv290rrno?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c674pv290rrno#16</guid>
-            <pubDate>Mon, 26 Oct 2026 08:30:49 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8648/live/64133770-d117-11f1-93e1-3b657b665bcf.png"/>
-        </item>
-        <item>
             <title><![CDATA[Chaos or concern - Hanley's striker cameo poses questions for Hibs]]></title>
             <description><![CDATA[Grant Hanley was called upon to be a makeshift striker for Hibs against Celtic, but what does it signal for the Scottish Premiership's bottom side?]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/c6d93eeq27gqo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6d93eeq27gqo#16</guid>
             <pubDate>Sun, 25 Oct 2026 18:14:53 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/51fe/live/50daf4a0-d094-11f1-92f6-357f3b0f345f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fans assist Penicuik clear-up for Clyde cup tie]]></title>
+            <description><![CDATA[Penicuik Athletic are sure Tuesday's Scottish Cup tie with Clyde will go ahead in as the community rallies to clear storm debris from the pitch at Montgomery Park.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/crq8ngxp5e88o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/crq8ngxp5e88o#16</guid>
+            <pubDate>Mon, 26 Oct 2026 14:09:24 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0c4/live/c9bad7d0-d145-11f1-9eb5-811878e0f07d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['SFA forced to rethink youth football plans' - gossip]]></title>
+            <description><![CDATA[Scottish FA chief executive Craig Mulholland is reportedly forced to rethink his youth football plans, while Dundee's Ethan Hamilton is not swayed by Aberdeen interest.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/c674pv290rrno?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c674pv290rrno#16</guid>
+            <pubDate>Mon, 26 Oct 2026 08:30:49 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8648/live/64133770-d117-11f1-93e1-3b657b665bcf.png"/>
         </item>
         <item>
             <title><![CDATA[Weir would swap Ballon d'Or nods for World Cup]]></title>
