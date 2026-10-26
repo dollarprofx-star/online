@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 26 Oct 2026 01:27:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Oct 2026 02:08:22 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -23,11 +23,11 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2408/live/9533f020-d0d0-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Two men killed by falling trees as Storm Boelo leaves 160,000 properties without power]]></title>
+            <title><![CDATA[Two men killed by falling trees as Storm Boelo leaves 90,000 properties without power]]></title>
             <description><![CDATA[An amber wind warning has now expired after severe weather sweeps across the UK.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cxdd8gr1vje0o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cxdd8gr1vje0o#1</guid>
-            <pubDate>Sun, 25 Oct 2026 22:24:16 GMT</pubDate>
+            <pubDate>Mon, 26 Oct 2026 02:01:29 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3454/live/c15b5b00-d0af-11f1-84bc-f3a33719a550.jpg"/>
         </item>
         <item>
@@ -103,12 +103,28 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a6b1/live/b4ad99d0-d0b5-11f1-960c-a30ffadcd9ea.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Sharon Osbourne: 'I visit Ozzy's grave every day']]></title>
+            <description><![CDATA[The TV presenter says she can see Ozzy's burial site from her window, and regularly talks to him.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c6g7xn8p2n0ro?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6g7xn8p2n0ro#2</guid>
+            <pubDate>Mon, 26 Oct 2026 01:40:39 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c16e/live/016ed620-cde2-11f1-8443-776dd2459391.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[How a movement of students brought down Serbia's Vučić]]></title>
             <description><![CDATA[In just under two years the students have succeeded in tearing up 14 years of political dominance under Aleksandar Vučić.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c574pvy82k0mo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c574pvy82k0mo#2</guid>
             <pubDate>Mon, 26 Oct 2026 00:31:51 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec54/live/9d3eb1f0-d0d1-11f1-a058-dfc7f6e2951c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Is 'ferritin face' a real thing - and can you really spot low iron from looks?]]></title>
+            <description><![CDATA[Videos in which people claim to spot the signs of low iron have attracted millions of views online.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cmlykvpdx4x0o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmlykvpdx4x0o#2</guid>
+            <pubDate>Mon, 26 Oct 2026 01:43:55 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c425/live/edea3700-cedd-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
             <title><![CDATA[The Papers: 'Budget tax reprieve for pensioners' and 'Meghan dad net to widen']]></title>
@@ -125,22 +141,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo#2</guid>
             <pubDate>Sun, 25 Oct 2026 23:44:34 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/68b2/live/52453c80-cc82-11f1-bc2e-018d645d8d21.png"/>
-        </item>
-        <item>
-            <title><![CDATA[Rosebank: Life on the oil field at the centre of a political storm]]></title>
-            <description><![CDATA[Scotland editor James Cook finds out what life is like on board a ship in an untapped oil field awaiting its fate.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqy8ljkle97ro#2</guid>
-            <pubDate>Sun, 25 Oct 2026 07:15:38 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60a5/live/584f1ed0-cfb0-11f1-9012-0172b9f73a72.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Why is Ukraine so reliant on Starlink and can Europe plug the gap?]]></title>
-            <description><![CDATA[Ukraine needs another satellite internet service, but a decent alternative to Elon Musk's network doesn't exist - yet.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c65yn97xe7ypo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c65yn97xe7ypo#2</guid>
-            <pubDate>Sun, 25 Oct 2026 05:45:31 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7151/live/1593e210-cfa6-11f1-aadb-297fd0a130b9.jpg"/>
         </item>
         <item>
             <title><![CDATA[Sign up now]]></title>
