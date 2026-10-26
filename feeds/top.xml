@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 26 Oct 2026 20:20:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Oct 2026 21:00:10 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -79,14 +79,6 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d71/live/21ebf010-c606-11f1-a64c-550be9e3c66b.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Russell Brand asked assistant for female fan phone numbers, court hears]]></title>
-            <description><![CDATA[Helen Berger said she left her job working for Brand after she became "sick of him."]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cwly02l45ny3o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwly02l45ny3o#1</guid>
-            <pubDate>Mon, 26 Oct 2026 14:57:11 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e091/live/29c876d0-d148-11f1-9eb5-811878e0f07d.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[No 10 appears to backtrack on PM's freedom of movement referendum suggestion]]></title>
             <description><![CDATA[The PM says he wants to start a conversation about potential options for the UK's future relationship with the EU.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cx240dpzv009o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -95,12 +87,28 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc4a/live/267093e0-d135-11f1-be77-d1864d279cb0.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Daughter wins £127k claim for caring for mum at home]]></title>
-            <description><![CDATA[Bern Rogers says the row with her siblings since her elderly mother died was "harrowing and deeply sad".]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cr93zp78g580o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cr93zp78g580o#1</guid>
-            <pubDate>Mon, 26 Oct 2026 06:23:01 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14da/live/4ea1dd00-d122-11f1-93e1-3b657b665bcf.jpg"/>
+            <title><![CDATA[Oscar-winning producer says BBC gave her £400,000 payout after she raised antisemitism concerns]]></title>
+            <description><![CDATA[The BBC says it did not uphold any of the allegations of antisemitism but accepted there were "shortcomings" in how it treated Lucie Kon. ]]></description>
+            <link>https://www.bbc.co.uk/news/articles/crwydxw0we8yo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/crwydxw0we8yo#1</guid>
+            <pubDate>Mon, 26 Oct 2026 20:16:45 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0461/live/62fc5a80-d16a-11f1-87df-afb7a168a1f2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Macklemore begins Free Palestine tour after Ed Sheeran fallout]]></title>
+            <description><![CDATA[Proceeds from the tour, which begins in Dublin next month, will go to organisations supporting Palestinians, he says.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cqkgl82nm43po?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqkgl82nm43po#1</guid>
+            <pubDate>Mon, 26 Oct 2026 19:53:31 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d91/live/05144a80-d12f-11f1-a94e-6dd2aca774ac.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Will the public change its mind about Meghan?]]></title>
+            <description><![CDATA[This complicated - and developing - story could prove to be a turning point for Meghan. ]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c6qjn29lg2vzo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6qjn29lg2vzo#2</guid>
+            <pubDate>Mon, 26 Oct 2026 20:03:05 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1055/live/5e7ece70-d0b6-11f1-960c-a30ffadcd9ea.jpg"/>
         </item>
         <item>
             <title><![CDATA[Surprising things we have learnt from Anthropic's blockbuster share listing]]></title>
@@ -151,14 +159,6 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f993/live/5a4ff260-d125-11f1-9a61-7b8d75492b97.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Big, noisy and coming to a town near you - why the data centre backlash is growing]]></title>
-            <description><![CDATA[Data centres are the lifeblood of our digital world, but there are growing concerns about their environmental impact. The BBC explores their rise in charts.  ]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo#2</guid>
-            <pubDate>Sun, 25 Oct 2026 23:44:34 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/68b2/live/52453c80-cc82-11f1-bc2e-018d645d8d21.png"/>
-        </item>
-        <item>
             <title><![CDATA[Sign up now]]></title>
             <description><![CDATA[From news and politics to technology and the royals, get the best BBC journalism to your inbox.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c2lkky9zngvo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -175,36 +175,36 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a656/live/fdb75c70-d14f-11f1-9eb5-811878e0f07d.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Daughter wins £127k claim for caring for mum at home]]></title>
+            <description><![CDATA[Bern Rogers says the row with her siblings since her elderly mother died was "harrowing and deeply sad".]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cr93zp78g580o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cr93zp78g580o#4</guid>
+            <pubDate>Mon, 26 Oct 2026 06:23:01 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14da/live/4ea1dd00-d122-11f1-93e1-3b657b665bcf.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Trump faces backlash after invoking 9/11 in verbal assault on Michigan's Senate candidate]]></title>
             <description><![CDATA[The Democrat himself has hit back, as has Senator Bernie Sanders and a key Trump supporter from 2024.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c3rryxlkq5qro?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c3rryxlkq5qro#4</guid>
-            <pubDate>Mon, 26 Oct 2026 19:53:14 GMT</pubDate>
+            <pubDate>Mon, 26 Oct 2026 20:41:43 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da38/live/66526de0-d16b-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Pope's South American trip to go ahead as planned after lung cancer surgery]]></title>
-            <description><![CDATA[The Pope underwent surgery in to remove a tumour on the lower part of his right lung and is gradually resuming his duties.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cjr4y5rq46p2o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cjr4y5rq46p2o#4</guid>
-            <pubDate>Mon, 26 Oct 2026 18:46:19 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/180c/live/6ade9ad0-d16d-11f1-93e1-3b657b665bcf.jpg"/>
+            <title><![CDATA['Maxxing' selected as Dictionary.com word of the year]]></title>
+            <description><![CDATA["Whatever we're doing, we want to push it further," said an expert on why Americans are embracing the term, which is short for maximising.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cmy4xwp22xyqo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmy4xwp22xyqo#4</guid>
+            <pubDate>Mon, 26 Oct 2026 19:16:28 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f03d/live/90fce170-d165-11f1-87df-afb7a168a1f2.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Chris Brown given suspended eight-month prison sentence over nightclub attack]]></title>
-            <description><![CDATA[The R&B star previously pleaded guilty to affray, after attacking a music producer with a glass bottle.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cq3dje4g4d5jo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cq3dje4g4d5jo#4</guid>
-            <pubDate>Mon, 26 Oct 2026 14:16:09 GMT</pubDate>
-            <media:thumbnail width="240" height="159" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5fd6/live/13ac2140-d151-11f1-9eb5-811878e0f07d.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lula wins fourth term in dramatic Brazil election comeback]]></title>
-            <description><![CDATA[The left-wing incumbent president had lost the first round to right-wing challenger Flávio Bolsonaro.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo#4</guid>
-            <pubDate>Mon, 26 Oct 2026 20:00:30 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eab1/live/a6b767f0-d15c-11f1-a701-fddedf244c16.jpg"/>
+            <title><![CDATA[Russell Brand asked assistant for female fan phone numbers, court hears]]></title>
+            <description><![CDATA[Helen Berger said she left her job working for Brand after she became "sick of him."]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cwly02l45ny3o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwly02l45ny3o#4</guid>
+            <pubDate>Mon, 26 Oct 2026 14:57:11 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e091/live/29c876d0-d148-11f1-9eb5-811878e0f07d.jpg"/>
         </item>
         <item>
             <title><![CDATA[Keir Starmer's government discussed moving out of 10 Downing Street]]></title>
