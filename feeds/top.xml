@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 26 Oct 2026 05:17:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Oct 2026 06:00:13 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -31,7 +31,7 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3454/live/c15b5b00-d0af-11f1-84bc-f3a33719a550.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Elation across Serbia after veteran ruler Vučić concedes to student-led protest movement]]></title>
+            <title><![CDATA[Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement]]></title>
             <description><![CDATA[The populist right-wing leader of 12 years says it is "clear" his party has lost the vote billed as a referendum on the country's future.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo#1</guid>
@@ -39,7 +39,7 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a400/live/789d12b0-d0f9-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Healey's Budget needs to sustain the stronger economy through gathering clouds]]></title>
+            <title><![CDATA[Faisal Islam: Healey's Budget needs to sustain the stronger economy through gathering clouds]]></title>
             <description><![CDATA[The economic is positive now but come January things could become trickier for the Labour government]]></description>
             <link>https://www.bbc.co.uk/news/articles/ck87z4ng2l03o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ck87z4ng2l03o#1</guid>
@@ -75,7 +75,7 @@
             <description><![CDATA[Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro. ]]></description>
             <link>https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cq8ez592pp0eo#1</guid>
-            <pubDate>Mon, 26 Oct 2026 03:05:22 GMT</pubDate>
+            <pubDate>Mon, 26 Oct 2026 05:20:19 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a26f/live/3f12cea0-d0f8-11f1-b5b1-192f0fa11760.jpg"/>
         </item>
         <item>
@@ -92,7 +92,7 @@
             <link>https://www.bbc.co.uk/news/articles/cqrmyl1mljppo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqrmyl1mljppo#1</guid>
             <pubDate>Sun, 25 Oct 2026 23:33:19 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb60/live/cb62caa0-d0c5-11f1-8ef5-7b2c8bc9de85.jpg"/>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8395/live/f35a8d90-d0fc-11f1-9d25-c3fafb2ab4de.jpg"/>
         </item>
         <item>
             <title><![CDATA[End approaching for Carrick but Man Utd fans make clear who they blame]]></title>
@@ -111,14 +111,6 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c425/live/edea3700-cedd-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
-            <title><![CDATA[How a movement of students brought down Serbia's Vučić]]></title>
-            <description><![CDATA[In just under two years the students have succeeded in tearing up 14 years of political dominance under Aleksandar Vučić.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c574pvy82k0mo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c574pvy82k0mo#2</guid>
-            <pubDate>Mon, 26 Oct 2026 00:31:51 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec54/live/9d3eb1f0-d0d1-11f1-a058-dfc7f6e2951c.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Lula wins in Brazil but faces hostile Congress and divided country]]></title>
             <description><![CDATA[President Lula has pulled of a surprise win, but he will face a hostile Congress and a polarised country.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cmvg7p001qj9o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -127,12 +119,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/08ab/live/79df0560-d0f5-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
-            <title><![CDATA[The Papers: 'Budget tax reprieve for pensioners' and 'Meghan dad net to widen']]></title>
-            <description><![CDATA[Stories about the Budget and the investigation into the father of the Duchess of Sussex  feature on Monday's front pages.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c65yn28nd58no?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c65yn28nd58no#2</guid>
-            <pubDate>Mon, 26 Oct 2026 00:50:51 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/23af/live/48e74600-d0cf-11f1-a701-fddedf244c16.jpg"/>
+            <title><![CDATA[How a movement of students brought down Serbia's Vučić]]></title>
+            <description><![CDATA[In just under two years the students have succeeded in tearing up 14 years of political dominance under Aleksandar Vučić.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c574pvy82k0mo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c574pvy82k0mo#2</guid>
+            <pubDate>Mon, 26 Oct 2026 00:31:51 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec54/live/9d3eb1f0-d0d1-11f1-a058-dfc7f6e2951c.jpg"/>
         </item>
         <item>
             <title><![CDATA[Data centre debate heats up ahead of US midterms - here's what you need to know]]></title>
@@ -141,6 +133,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo#2</guid>
             <pubDate>Sun, 25 Oct 2026 23:44:34 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/68b2/live/52453c80-cc82-11f1-bc2e-018d645d8d21.png"/>
+        </item>
+        <item>
+            <title><![CDATA[The Papers: 'Budget tax reprieve for pensioners' and 'Meghan dad net to widen']]></title>
+            <description><![CDATA[Stories about the Budget and the investigation into the father of the Duchess of Sussex  feature on Monday's front pages.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c65yn28nd58no?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c65yn28nd58no#2</guid>
+            <pubDate>Mon, 26 Oct 2026 05:32:56 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/23af/live/48e74600-d0cf-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
             <title><![CDATA[Sign up now]]></title>
