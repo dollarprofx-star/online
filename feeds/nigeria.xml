@@ -5,7 +5,7 @@
         <atom:link href="https://rss.punchng.com" rel="self" type="application/rss+xml" />
         <link> https://rss.punchng.com </link>
         <description> Get the latest News in Nigeria </description>
-        <lastBuildDate> Mon, 26 Oct 2026 04:37:30 +0000</lastBuildDate>
+        <lastBuildDate> Mon, 26 Oct 2026 05:12:34 +0000</lastBuildDate>
         <language> en-US </language>
         <sy:updatePeriod> minutely	</sy:updatePeriod>
         <sy:updateFrequency> 5	</sy:updateFrequency>
@@ -13,6 +13,20 @@
         <generator>https://rss.punchng.com</generator>
 
         <item>
+                        <title>Ebola: SDP presidential candidate warns against shifting 2027 elections</title>
+                        <link>https://punchng.com/ebola-sdp-presidential-candidate-warns-against-shifting-2027-elections/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
+                        <pubDate>Mon, 26 Oct 2026 05:46:54 +0000</pubDate>
+                        <dc:creator><![CDATA[Punch Newspapers]]></dc:creator>
+                        <category><![CDATA[]]></category>
+                        <guid isPermaLink='true'>https://punchng.com/ebola-sdp-presidential-candidate-warns-against-shifting-2027-elections/?utm_source=rss.punchng.com&amp;utm_medium=web</guid>
+                        <description><![CDATA[
+
+SDP presidential candidate, Adewole Adebayo, has warned against any attempt to cancel campaigns or shift the 2027 general election over the Ebola outbreak.
+
+Read More: https://punchng.com/ebola-sdp-presidential-candidate-warns-against-shifting-2027-elections/]]></description>
+                        <enclosure url='https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png' length='342247' type='image/png'/>
+                    </item>
+                    <item>
                         <title>Police arrest school driver for kidnapping, raping Delta student</title>
                         <link>https://punchng.com/police-arrest-school-driver-for-kidnapping-raping-delta-student/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
                         <pubDate>Mon, 26 Oct 2026 05:13:39 +0000</pubDate>
@@ -416,20 +430,6 @@ Read More: https://punchng.com/osun-mans-death-sparks-arson-police-nab-10/]]></d
 The Nigeria Democratic Congress in Borno has dismissed its state House of Assembly candidate, Mohammed Bunu, for allegedly campaigning for Atiku Abubakar.
 
 Read More: https://punchng.com/ndc-sacks-borno-candidate-over-alleged-pro-atiku-campaign/]]></description>
-                        <enclosure url='https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png' length='342247' type='image/png'/>
-                    </item>
-                    <item>
-                        <title>Probe begins after Kogi policeman kills female colleague, self</title>
-                        <link>https://punchng.com/probe-begins-after-kogi-policeman-kills-female-colleague-self/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
-                        <pubDate>Mon, 26 Oct 2026 00:20:06 +0000</pubDate>
-                        <dc:creator><![CDATA[Punch Newspapers]]></dc:creator>
-                        <category><![CDATA[]]></category>
-                        <guid isPermaLink='true'>https://punchng.com/probe-begins-after-kogi-policeman-kills-female-colleague-self/?utm_source=rss.punchng.com&amp;utm_medium=web</guid>
-                        <description><![CDATA[
-
-The Kogi State Police Command has begun an investigation after a corporal allegedly shot dead his female colleague before shooting himself in Ajaokuta.
-
-Read More: https://punchng.com/probe-begins-after-kogi-policeman-kills-female-colleague-self/]]></description>
                         <enclosure url='https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png' length='342247' type='image/png'/>
                     </item>
                         </channel>
