@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news/world</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 27 Oct 2026 22:58:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Oct 2026 23:26:16 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/world/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -159,6 +159,15 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0cb2/live/07dc3780-d208-11f1-b3b6-c1e79e957e40.jpg"/>
         </item>
         <item>
+            <title><![CDATA[What we know about Ukraine-Russia truce in Oleshky, brokered by Melania Trump]]></title>
+            <description><![CDATA[The Russian-occupied city of Oleshky has had no electricity, gas or water for three years, as residents reported having to eat weeds to survive.
+]]></description>
+            <link>https://www.bbc.co.uk/news/videos/c687z5ne1w4ro?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/c687z5ne1w4ro#2</guid>
+            <pubDate>Tue, 27 Oct 2026 20:42:38 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8774/live/b2b005e0-d246-11f1-b441-2b33b063138f.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Watch: The Mbappé-Chairman Mao controversy explained]]></title>
             <description><![CDATA[Kylian Mbappé has apologised for "ill-judged" comments he made about late Chinese leader Mao Zedong.]]></description>
             <link>https://www.bbc.co.uk/news/videos/cqy43w2wpy3vo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -181,22 +190,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/c574p31l1l2no#2</guid>
             <pubDate>Tue, 27 Oct 2026 08:37:30 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1cfd/live/7eff31e0-d1dc-11f1-a701-fddedf244c16.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['A dream come true' - Harry Kane on his Ballon d'Or win]]></title>
-            <description><![CDATA[It's the first time an English player has lifted the trophy since Michael Owen in 2001.]]></description>
-            <link>https://www.bbc.co.uk/news/videos/cm9wznvx1l17o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cm9wznvx1l17o#2</guid>
-            <pubDate>Tue, 27 Oct 2026 07:22:41 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f5cf/live/45485530-d1ff-11f1-b30f-21253679b290.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sydney's new $5bn airport has one big problem: Getting there is tough]]></title>
-            <description><![CDATA[The airport won’t have direct public transportation for a year. How do locals feel about getting there?]]></description>
-            <link>https://www.bbc.co.uk/news/videos/c64g1wy4mdwmo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/c64g1wy4mdwmo#2</guid>
-            <pubDate>Mon, 26 Oct 2026 18:00:10 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9df4/live/5c4cd8f0-d1d7-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
             <title><![CDATA[Trump vs Obama - which president has the star power to get out the vote?]]></title>

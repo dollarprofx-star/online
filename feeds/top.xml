@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 27 Oct 2026 22:58:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Oct 2026 23:26:11 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -87,20 +87,20 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d5f/live/cfa3dd20-d22d-11f1-b8e4-17c9744a7f8e.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Trump says US voter fraud is 'rampant' - evidence suggests it is extremely rare]]></title>
+            <description><![CDATA[As the US president casts doubt on the security of the midterm elections, BBC Verify examines his claims.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/ckeq3vezxlx1o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckeq3vezxlx1o#2</guid>
+            <pubDate>Tue, 27 Oct 2026 21:46:43 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d705/live/81506150-d23e-11f1-93e1-3b657b665bcf.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Trump vs Obama - which president has the star power to get out the vote?]]></title>
             <description><![CDATA[The BBC's Sarah Smith followed Trump and Obama as both parties hope their biggest names can drive midterm turnout.]]></description>
             <link>https://www.bbc.co.uk/news/videos/cv0ldjez8z32o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cv0ldjez8z32o#2</guid>
             <pubDate>Tue, 27 Oct 2026 13:59:22 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d111/live/2bd85810-d219-11f1-a701-fddedf244c16.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[I'm a single mum and limit my weekly shop to £40 - here's what I want from the Budget]]></title>
-            <description><![CDATA[People earning from £380 a month to £150,000 a year tell the BBC what they want to see in this year's Budget.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmx235r9wr3yo#2</guid>
-            <pubDate>Tue, 27 Oct 2026 13:08:26 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2823/live/2221ede0-d16f-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
             <title><![CDATA[My husband's death was hard enough - then came the admin ]]></title>
@@ -222,6 +222,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6y8lgg21l89o#8</guid>
             <pubDate>Tue, 27 Oct 2026 19:06:02 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/047c/live/b205ec60-d208-11f1-b3b6-c1e79e957e40.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Simpler, cheaper hybrid V8s proposed for next F1 rules]]></title>
+            <description><![CDATA[Formula 1's next engine regulations are set to introduce V8 turbo hybrid engines that are simplified and less expensive compared to the existing rules.]]></description>
+            <link>https://www.bbc.co.uk/sport/formula1/articles/cw4g186011rdo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/formula1/articles/cw4g186011rdo#8</guid>
+            <pubDate>Tue, 27 Oct 2026 15:17:53 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a75/live/e4414e20-d214-11f1-a275-c5df85f1853c.jpg"/>
         </item>
         <item>
             <title><![CDATA[Williams loses again - to opponent 28 years younger]]></title>
