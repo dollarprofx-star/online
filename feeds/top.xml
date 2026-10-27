@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 27 Oct 2026 06:26:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Oct 2026 07:18:52 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -27,7 +27,7 @@
             <description><![CDATA[The chancellor will axe tariffs on some staples as part of plans to give households "breathing space".]]></description>
             <link>https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6d93gq1xdgno#1</guid>
-            <pubDate>Tue, 27 Oct 2026 01:57:48 GMT</pubDate>
+            <pubDate>Tue, 27 Oct 2026 06:49:19 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c2c/live/35815a70-d173-11f1-9d71-6d5ae0660afe.jpg"/>
         </item>
         <item>
@@ -39,6 +39,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b391/live/343ff340-d193-11f1-8c41-0bbbeafdc6d4.jpg"/>
         </item>
         <item>
+            <title><![CDATA['Anything is possible' - Kane wins Ballon d'Or]]></title>
+            <description><![CDATA[England captain Harry Kane says "I wasn't the kid who went straight to the top" as he becomes the first English Ballon d'Or winner since 2001.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/videos/cm8ezg6x7e9eo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cm8ezg6x7e9eo#1</guid>
+            <pubDate>Mon, 26 Oct 2026 23:53:10 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/652a/live/e9c495d0-d1d5-11f1-93e1-3b657b665bcf.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Ex-FBI chief James Comey faces federal charges for third time]]></title>
             <description><![CDATA[Comey's lawyers say the case stems from alleged disclosure of classified information to the New York Times in 2016.]]></description>
             <link>https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -47,20 +55,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/21c9/live/16bb9ba0-d187-11f1-8d7e-c9ff4ede405b.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Sharp rise in sales of some essential goods after government call to stock up]]></title>
-            <description><![CDATA[Figures obtained by BBC Newsnight show large spikes in sales of torches, radios and power banks.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c5rmy84np001o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c5rmy84np001o#1</guid>
-            <pubDate>Tue, 27 Oct 2026 04:29:52 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4b0/live/8d5e0a00-d1cc-11f1-837e-832a94a7445c.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Jay-Z to perform at Super Bowl half-time show]]></title>
             <description><![CDATA[The rapper has been involved with the show for years but has never before performed at the NFL championship game.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cq8ezg4364epo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cq8ezg4364epo#1</guid>
             <pubDate>Tue, 27 Oct 2026 05:05:15 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b519/live/be6327c0-d1ae-11f1-84dd-e9bba185a575.jpg"/>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d63/live/e4feb0b0-d1d2-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
             <title><![CDATA[Storm Boelo leaves thousands without power as Met Office issues new wind warning]]></title>
@@ -68,7 +68,15 @@
             <link>https://www.bbc.co.uk/news/articles/cqm264jxxnxzo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqm264jxxnxzo#1</guid>
             <pubDate>Tue, 27 Oct 2026 04:13:56 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/45fe/live/d45701d0-d165-11f1-93e1-3b657b665bcf.jpg"/>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6fd9/live/430c9a00-d1d3-11f1-93e1-3b657b665bcf.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rise in sales of radios and tinned foods, say retailers, after call to stock up]]></title>
+            <description><![CDATA[Figures obtained by BBC Newsnight show large spikes in sales of torches, radios and power banks.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c5rmy84np001o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c5rmy84np001o#1</guid>
+            <pubDate>Tue, 27 Oct 2026 06:33:11 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4b0/live/8d5e0a00-d1cc-11f1-837e-832a94a7445c.jpg"/>
         </item>
         <item>
             <title><![CDATA[Truce begins in wartorn Ukraine city after it was announced by Melania Trump]]></title>
@@ -103,19 +111,11 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/309b/live/f7a08cb0-d1a1-11f1-9ca8-7ff2fe25f975.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Busted's James Bourne says 'hero' brother saved his life with kidney donation]]></title>
-            <description><![CDATA[The guitarist says doctors had given him "a few years left to live", but is now recovering well.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cm0rljq0dzvxo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm0rljq0dzvxo#1</guid>
-            <pubDate>Mon, 26 Oct 2026 22:07:26 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8a8/live/698b5f80-d170-11f1-9d71-6d5ae0660afe.jpg"/>
-        </item>
-        <item>
             <title><![CDATA['I'm a single mum on £41,000 and limit my weekly shop to £40.' What do you want from the Budget?]]></title>
             <description><![CDATA[People earning from £380 a month to £150,000 a year tell the BBC what they want to see in this year's Budget.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmx235r9wr3yo#2</guid>
-            <pubDate>Tue, 27 Oct 2026 00:01:00 GMT</pubDate>
+            <pubDate>Tue, 27 Oct 2026 06:48:50 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2823/live/2221ede0-d16f-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
@@ -183,6 +183,14 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a43b/live/79bb9a20-603f-11f1-89a3-d1f559421220.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Busted's James Bourne says 'hero' brother saved his life with kidney donation]]></title>
+            <description><![CDATA[The guitarist says doctors had given him "a few years left to live", but is now recovering well.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cm0rljq0dzvxo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm0rljq0dzvxo#4</guid>
+            <pubDate>Mon, 26 Oct 2026 22:07:26 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8a8/live/698b5f80-d170-11f1-9d71-6d5ae0660afe.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Tributes paid to man killed by falling tree in Storm Boelo]]></title>
             <description><![CDATA[Richard Baines was the long-serving curator of Logan Botanic Garden near Stranraer. ]]></description>
             <link>https://www.bbc.co.uk/news/articles/cqkgl8rlmvn2o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -221,14 +229,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/crgqwg3ll1v1o#4</guid>
             <pubDate>Tue, 27 Oct 2026 04:43:56 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd14/live/1cb54f90-d1bb-11f1-8746-37a49ff44886.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['Maxxing' selected as Dictionary.com word of the year]]></title>
-            <description><![CDATA["Whatever we're doing, we want to push it further," said an expert on why Americans are embracing the term, which is short for maximising.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cmy4xwp22xyqo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmy4xwp22xyqo#4</guid>
-            <pubDate>Mon, 26 Oct 2026 21:31:53 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f03d/live/90fce170-d165-11f1-87df-afb7a168a1f2.jpg"/>
         </item>
         <item>
             <title><![CDATA[Download now]]></title>
@@ -279,6 +279,14 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/410e/live/ed2848e0-c882-11f1-a2e8-f71844f8002e.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Ranking England's Ballon d'Or winners - how does Kane compare?]]></title>
+            <description><![CDATA[From Stanley Matthews to Harry Kane, how do England's Ballon d'Or winners rank?]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/ckx2qdxgzzz7o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ckx2qdxgzzz7o#8</guid>
+            <pubDate>Tue, 27 Oct 2026 06:20:58 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8687/live/9761da30-d0b0-11f1-a701-fddedf244c16.png"/>
+        </item>
+        <item>
             <title><![CDATA[Howe and Nagelsmann high on Man Utd's list if Carrick sacked]]></title>
             <description><![CDATA[BBC Sport looks at who could replace Michael Carrick at Manchester United if the head coach is sacked.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cqdr8zv5dg42o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -287,19 +295,11 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e221/live/8c896ba0-d16e-11f1-87df-afb7a168a1f2.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Ballon d'Or winner Kane's best Bundesliga goals]]></title>
-            <description><![CDATA[Watch Harry Kane's best goals from the 2025/26 Bundesliga season with Bayern, as the England striker is crowned the men's 2026 Ballon d'Or winner.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/videos/cmd93gqn8119o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cmd93gqn8119o#8</guid>
-            <pubDate>Mon, 26 Oct 2026 19:29:35 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ef7/live/513170a0-d166-11f1-93e1-3b657b665bcf.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Litten and Knowles in for England as O'Neill drops out]]></title>
             <description><![CDATA[Jez Litten and Morgan Knowles are brought into the starting line-up for England's must-win Rugby League World Cup match against Papua New Guinea - with Brad O'Neill dropping out.]]></description>
             <link>https://www.bbc.co.uk/sport/rugby-league/articles/crz65e9dng0wo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/rugby-league/articles/crz65e9dng0wo#8</guid>
-            <pubDate>Tue, 27 Oct 2026 05:59:08 GMT</pubDate>
+            <pubDate>Tue, 27 Oct 2026 06:31:14 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b3f/live/958ba800-d1cb-11f1-b441-2b33b063138f.jpg"/>
         </item>
     </channel>
