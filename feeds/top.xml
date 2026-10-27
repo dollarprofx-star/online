@@ -9,11 +9,19 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 27 Oct 2026 22:16:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Oct 2026 22:58:14 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Chris Mason: Budget needs to go some way towards delivering PM's promises]]></title>
+            <description><![CDATA[Support on the cost of living, and in particular energy bills, as well as announcments on devolution will be central to John Healey's first Budget.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c6y43wkln1k2o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6y43wkln1k2o#1</guid>
+            <pubDate>Tue, 27 Oct 2026 22:30:09 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7041/live/3d52f8e0-d23a-11f1-a701-fddedf244c16.jpg"/>
+        </item>
         <item>
             <title><![CDATA[Minimum wage set to rise but 18-20 year-olds will not get bigger increase]]></title>
             <description><![CDATA[Chancellor John Healey will reveal the new pay rates in the Budget, and has also announced measures to help households with the cost of living.]]></description>
@@ -21,14 +29,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6d93gq1xdgno#1</guid>
             <pubDate>Tue, 27 Oct 2026 15:01:27 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4419/live/b4233800-d211-11f1-93e1-3b657b665bcf.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Chris Mason: Budget needs to go some way towards delivering PM's promises]]></title>
-            <description><![CDATA[Support on the cost of living, and in particular energy bills, as well as announcments on devolution will be central to John Healey's first Budget.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c6y43wkln1k2o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6y43wkln1k2o#1</guid>
-            <pubDate>Tue, 27 Oct 2026 19:41:05 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7041/live/3d52f8e0-d23a-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
             <title><![CDATA[Two in court over alleged Iran-linked plot at RAF Fairford]]></title>
@@ -39,11 +39,11 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/518d/live/4f6be1e0-d221-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
-            <title><![CDATA[King to acknowledge 'suffering of the past' as Caribbean tour begins]]></title>
+            <title><![CDATA[King acknowledges 'suffering of the past' as Caribbean tour begins]]></title>
             <description><![CDATA[The King is on a nine-day tour that will take him to three countries, including the Bahamas, Guyana and Antigua and Barbuda.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cmwyv8ld22z1o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmwyv8ld22z1o#1</guid>
-            <pubDate>Tue, 27 Oct 2026 22:13:37 GMT</pubDate>
+            <pubDate>Tue, 27 Oct 2026 22:34:02 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f0e4/live/7d77ba00-d249-11f1-8ba3-9fd3e261415f.jpg"/>
         </item>
         <item>
@@ -205,14 +205,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/cricket/articles/c51kdggvmy7mo#8</guid>
             <pubDate>Tue, 27 Oct 2026 17:10:04 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f724/live/00ef62a0-d224-11f1-93e1-3b657b665bcf.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Fleetwood-Arsenal halted for eight minutes because of drone]]></title>
-            <description><![CDATA[Arsenal's match with Fleetwood Town in the last-16 of the Carabao Cup is delayed for more than eight minutes after a drone is spotted above the stadium during the match.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cmqlngxw6lv3o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmqlngxw6lv3o#8</guid>
-            <pubDate>Tue, 27 Oct 2026 20:26:31 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/35c3/live/38ec2910-d24a-11f1-8ba3-9fd3e261415f.jpg"/>
         </item>
         <item>
             <title><![CDATA[Barcelona fined £503 over approach for Alvarez]]></title>
