@@ -9,19 +9,11 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 27 Oct 2026 19:49:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Oct 2026 20:26:12 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
-        <item>
-            <title><![CDATA[What does Israel's election mean for Gaza and the wider world?]]></title>
-            <description><![CDATA[The BBC's diplomatic correspondent James Landale reports from Jerusalem as ballots are cast. ]]></description>
-            <link>https://www.bbc.co.uk/news/videos/ck240dg5n4gjo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/ck240dg5n4gjo#1</guid>
-            <pubDate>Tue, 27 Oct 2026 10:17:36 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/054f/live/2e8109b0-d1f4-11f1-a701-fddedf244c16.jpg"/>
-        </item>
         <item>
             <title><![CDATA[Minimum wage set to rise but 18-20 year-olds will not get bigger increase]]></title>
             <description><![CDATA[Chancellor John Healey will reveal the new pay rates in the Budget, and has also announced measures to help households with the cost of living.]]></description>
@@ -31,12 +23,28 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4419/live/b4233800-d211-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Chris Mason: Budget needs to go some way towards delivering PM's promises]]></title>
+            <description><![CDATA[Support on the cost of living, and in particular energy bills, as well as announcments on devolution will be central to John Healey's first Budget.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c6y43wkln1k2o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6y43wkln1k2o#1</guid>
+            <pubDate>Tue, 27 Oct 2026 19:41:05 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7041/live/3d52f8e0-d23a-11f1-a701-fddedf244c16.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Two in court over alleged Iran-linked plot at RAF Fairford]]></title>
             <description><![CDATA[Mohmed Abdulkarim and Nouman Essghir, both 24, appear at Westminster Magistrates' Court on Tuesday.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cqly3v5vz4kko?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqly3v5vz4kko#1</guid>
             <pubDate>Tue, 27 Oct 2026 18:32:54 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/518d/live/4f6be1e0-d221-11f1-b441-2b33b063138f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[King acknowledges 'suffering of the past' as Caribbean tour begins]]></title>
+            <description><![CDATA[The King is on a nine-day tour that will take him to three countries, including the Bahamas, Guyana and Antigua and Barbuda.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cmwyv8ld22z1o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmwyv8ld22z1o#1</guid>
+            <pubDate>Tue, 27 Oct 2026 20:14:59 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b032/live/ea87be20-d22a-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
             <title><![CDATA[Men abused woman after her husband drugged and advertised her online, court told]]></title>
@@ -55,14 +63,6 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2823/live/2221ede0-d16f-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Russell Brand told police he never had non-consensual sex]]></title>
-            <description><![CDATA[His trial hears statements he gave to police between 2023 and 2025, denying allegations against him.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cm74p7w4dwpko?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm74p7w4dwpko#1</guid>
-            <pubDate>Tue, 27 Oct 2026 16:46:03 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/49a8/live/f3006fb0-d1f9-11f1-8c9f-8d21fef6ffad.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Landline switchover could cut people off in emergency, minister warned]]></title>
             <description><![CDATA[Plans to switch to digital landlines by January could leave remote areas of the UK vulnerable, MPs say.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c6x29g1nlr51o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -71,20 +71,20 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1cce/live/f32ec320-d22f-11f1-a1ed-ffd83ae54f7c.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Russell Brand told police he never had non-consensual sex]]></title>
+            <description><![CDATA[His trial hears statements he gave to police between 2023 and 2025, denying allegations against him.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cm74p7w4dwpko?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm74p7w4dwpko#1</guid>
+            <pubDate>Tue, 27 Oct 2026 16:46:03 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/49a8/live/f3006fb0-d1f9-11f1-8c9f-8d21fef6ffad.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Norway and Finland leaders hold rare call with Putin]]></title>
             <description><![CDATA[An end to the conflict in Ukraine "will not be achieved through silence," Finland's President Alexander Stubb said.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6vgj813mlelo#1</guid>
             <pubDate>Tue, 27 Oct 2026 18:28:23 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/62a7/live/0a738c90-d1fa-11f1-8c9f-8d21fef6ffad.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Worker at US embassy in London investigated over abuse images is senior Air Force member]]></title>
-            <description><![CDATA[The BBC has been told Lt Col Michael Morris, who was flown out of the UK before being questioned by police, is under investigation.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cm2ke82w44nxo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm2ke82w44nxo#1</guid>
-            <pubDate>Tue, 27 Oct 2026 19:27:25 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c87e/live/41e4a2e0-d222-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
             <title><![CDATA[Dutch zookeeper dies after being mauled in leopard enclosure]]></title>
@@ -103,28 +103,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f02d/live/2e2bf1e0-ce30-11f1-9d62-4d2ac1a847c3.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Watch: The Mbappé-Chairman Mao controversy explained]]></title>
-            <description><![CDATA[Kylian Mbappé has apologised for "ill-judged" comments he made about late Chinese leader Mao Zedong.]]></description>
-            <link>https://www.bbc.co.uk/news/videos/cqy43w2wpy3vo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cqy43w2wpy3vo#2</guid>
-            <pubDate>Tue, 27 Oct 2026 17:11:27 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2306/live/4e8e4460-d227-11f1-93e1-3b657b665bcf.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Man Utd stick with Carrick: Inside a turbulent 48 hours at Old Trafford]]></title>
             <description><![CDATA[BBC Sport looks at the 48 hours that led to Manchester United deciding to keep under-pressure Michael Carrick as their head coach for Saturday's trip to Chelsea.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cwz0vgj35k7mo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cwz0vgj35k7mo#2</guid>
             <pubDate>Tue, 27 Oct 2026 18:56:36 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0191/live/aa944b90-d22e-11f1-a701-fddedf244c16.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Donald Trump's biggest economic problem looks strangely familiar]]></title>
-            <description><![CDATA[Donald Trump heads into the US midterm elections with an issue similar to his political foe Joe Biden.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cwvg0ddz1z77o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwvg0ddz1z77o#2</guid>
-            <pubDate>Tue, 27 Oct 2026 06:01:11 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8781/live/0baf72c0-cc7a-11f1-a64c-550be9e3c66b.png"/>
         </item>
         <item>
             <title><![CDATA[I'm one of a growing number of Gen Z birdwatchers - it helps my mental health]]></title>
@@ -135,12 +119,28 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f56e/live/3f393d60-d12f-11f1-a94e-6dd2aca774ac.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Boy who stabbed girl at school was radicalised online, says father]]></title>
-            <description><![CDATA[A father calls for tighter controls on extreme material after his son's attempted murder conviction.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cmj6j950ywp1o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmj6j950ywp1o#4</guid>
-            <pubDate>Tue, 27 Oct 2026 05:33:25 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f508/live/319e6af0-1d79-11f1-a77a-39b849d4606b.jpg"/>
+            <title><![CDATA[Watch: The Mbappé-Chairman Mao controversy explained]]></title>
+            <description><![CDATA[Kylian Mbappé has apologised for "ill-judged" comments he made about late Chinese leader Mao Zedong.]]></description>
+            <link>https://www.bbc.co.uk/news/videos/cqy43w2wpy3vo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cqy43w2wpy3vo#2</guid>
+            <pubDate>Tue, 27 Oct 2026 17:11:27 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2306/live/4e8e4460-d227-11f1-93e1-3b657b665bcf.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Donald Trump's biggest economic problem looks strangely familiar]]></title>
+            <description><![CDATA[Donald Trump heads into the US midterm elections with an issue similar to his political foe Joe Biden.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cwvg0ddz1z77o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwvg0ddz1z77o#2</guid>
+            <pubDate>Tue, 27 Oct 2026 06:01:11 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8781/live/0baf72c0-cc7a-11f1-a64c-550be9e3c66b.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Healey to promise £15m to tackle misogyny in Budget]]></title>
+            <description><![CDATA[The Conservatives doubt whether women and girls will feel safer as a result of the funding.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cme36gez2d3qo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cme36gez2d3qo#4</guid>
+            <pubDate>Tue, 27 Oct 2026 18:23:09 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d316/live/00dde230-d23f-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
             <title><![CDATA[Truce begins in Ukraine city where residents ate weeds to survive]]></title>
@@ -151,6 +151,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af90/live/ca109650-d1b0-11f1-93f3-e3ba7480d857.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Worker at US embassy in London investigated over abuse images is senior Air Force member]]></title>
+            <description><![CDATA[The BBC has been told Lt Col Michael Morris, who was flown out of the UK before being questioned by police, is under investigation.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cm2ke82w44nxo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm2ke82w44nxo#4</guid>
+            <pubDate>Tue, 27 Oct 2026 19:27:25 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c87e/live/41e4a2e0-d222-11f1-b441-2b33b063138f.jpg"/>
+        </item>
+        <item>
             <title><![CDATA['Living next door to anti-social behaviour has been hell']]></title>
             <description><![CDATA[Man calls for better support after seven years of anti-social behaviour from neighbours.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cewr4j0qqwpo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -159,12 +167,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f326/live/a768bfb0-d1e2-11f1-8e07-c79267b33d55.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Egyptian journalist Lina Attalah detained after court orders news site's closure]]></title>
-            <description><![CDATA[Amnesty International said the verdict against Attalah and independent outlet Mada Masr represented "a crushing blow to press freedom".]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cw8rz14k1jvxo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cw8rz14k1jvxo#4</guid>
-            <pubDate>Tue, 27 Oct 2026 16:11:35 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b1e/live/f0d3b6c0-d21c-11f1-b8e4-17c9744a7f8e.jpg"/>
+            <title><![CDATA[Unnamed celebrity accused of 'inappropriate sexual activities', court hears]]></title>
+            <description><![CDATA[The man is asking the High Court to prevent two news organisations from publishing the allegations.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c6j47z0g4nwpo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6j47z0g4nwpo#4</guid>
+            <pubDate>Tue, 27 Oct 2026 16:59:23 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2690/live/a1d46200-d216-11f1-8f84-ebd3099fed63.jpg"/>
         </item>
         <item>
             <title><![CDATA[UK and EU officials to discuss freedom of movement]]></title>
@@ -181,14 +189,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmvgxjjxwl1yo#4</guid>
             <pubDate>Tue, 27 Oct 2026 13:24:40 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0aa1/live/e0f2d250-d207-11f1-b3b6-c1e79e957e40.png"/>
-        </item>
-        <item>
-            <title><![CDATA[Unnamed celebrity accused of 'inappropriate sexual activities', court hears]]></title>
-            <description><![CDATA[The man is asking the High Court to prevent two news organisations from publishing the allegations.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c6j47z0g4nwpo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6j47z0g4nwpo#4</guid>
-            <pubDate>Tue, 27 Oct 2026 16:59:23 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2690/live/a1d46200-d216-11f1-8f84-ebd3099fed63.jpg"/>
         </item>
         <item>
             <title><![CDATA[Download now]]></title>
