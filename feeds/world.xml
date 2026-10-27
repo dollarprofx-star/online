@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news/world</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 27 Oct 2026 04:39:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Oct 2026 05:14:11 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/world/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -31,14 +31,6 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/21c9/live/16bb9ba0-d187-11f1-8d7e-c9ff4ede405b.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Jay-Z to perform at Super Bowl half-time show]]></title>
-            <description><![CDATA[Jay-Z has been involved with the show for years but has never before performed at the NFL championship game.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cq8ezg4364epo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cq8ezg4364epo#0</guid>
-            <pubDate>Tue, 27 Oct 2026 03:10:55 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b519/live/be6327c0-d1ae-11f1-84dd-e9bba185a575.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Jordan carries out deadly strike in Syria in retaliation for church attack]]></title>
             <description><![CDATA[The attack on a village in Syria killed five people, including women and children, Syrian health officials said.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -47,12 +39,20 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/309b/live/f7a08cb0-d1a1-11f1-9ca8-7ff2fe25f975.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Trump administration illegally fired James Comey's daughter, judge rules]]></title>
-            <description><![CDATA[Maurene Comey believes she was let go from her job as a federal prosecutor because her father is the former FBI director. ]]></description>
-            <link>https://www.bbc.co.uk/news/articles/ck78px6glw3lo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ck78px6glw3lo#0</guid>
-            <pubDate>Mon, 26 Oct 2026 19:27:21 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad39/live/ee5424f0-d165-11f1-87df-afb7a168a1f2.jpg"/>
+            <title><![CDATA[Meghan to co-host Junior MasterChef Australia]]></title>
+            <description><![CDATA[The Duchess of Sussex says she "can't wait" to take part in the programme, which will air next year.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/crgqwg3ll1v1o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/crgqwg3ll1v1o#0</guid>
+            <pubDate>Tue, 27 Oct 2026 04:43:56 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd14/live/1cb54f90-d1bb-11f1-8746-37a49ff44886.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jay-Z to perform at Super Bowl half-time show]]></title>
+            <description><![CDATA[The rapper has been involved with the show for years but has never before performed at the NFL championship game.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cq8ezg4364epo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cq8ezg4364epo#0</guid>
+            <pubDate>Tue, 27 Oct 2026 05:05:15 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b519/live/be6327c0-d1ae-11f1-84dd-e9bba185a575.jpg"/>
         </item>
         <item>
             <title><![CDATA[Opposition leader María Machado returns from exile to a Venezuela reshaped by Trump]]></title>
@@ -69,6 +69,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo#0</guid>
             <pubDate>Mon, 26 Oct 2026 14:34:52 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f0c7/live/712973e0-d110-11f1-b441-2b33b063138f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump administration illegally fired James Comey's daughter, judge rules]]></title>
+            <description><![CDATA[Maurene Comey believes she was let go from her job as a federal prosecutor because her father is the former FBI director. ]]></description>
+            <link>https://www.bbc.co.uk/news/articles/ck78px6glw3lo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ck78px6glw3lo#1</guid>
+            <pubDate>Mon, 26 Oct 2026 19:27:21 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad39/live/ee5424f0-d165-11f1-87df-afb7a168a1f2.jpg"/>
         </item>
         <item>
             <title><![CDATA[Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing]]></title>
