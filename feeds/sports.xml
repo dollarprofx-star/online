@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/sport/football</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 27 Oct 2026 16:07:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Oct 2026 16:53:40 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -96,12 +96,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/047c/live/b205ec60-d208-11f1-b3b6-c1e79e957e40.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Quiz: Kane and who else? Name every men's Ballon d'Or winner]]></title>
-            <description><![CDATA[Do you know every winner since the very first recipient of the Ballon d'Or, way back in 1956?]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cn5q170dnwlo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cn5q170dnwlo#0</guid>
-            <pubDate>Tue, 27 Oct 2026 09:31:58 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ae9/live/edcc8450-d1e7-11f1-93e1-3b657b665bcf.png"/>
+            <title><![CDATA[Milan derby to be shown live on BBC Two]]></title>
+            <description><![CDATA[The first Milan derby of the season takes place on Saturday, 31 October and it will be live on BBC Two.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/crvg93zvgjzzo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/crvg93zvgjzzo#0</guid>
+            <pubDate>Tue, 27 Oct 2026 16:38:17 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6919/live/98f7c8e0-d223-11f1-b8e4-17c9744a7f8e.png"/>
         </item>
         <item>
             <title><![CDATA[Why is Wilcox in line of fire from Man Utd fans?]]></title>
@@ -136,6 +136,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f13e/live/ed827240-d203-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Quiz: Kane and who else? Name every men's Ballon d'Or winner]]></title>
+            <description><![CDATA[Do you know every winner since the very first recipient of the Ballon d'Or, way back in 1956?]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cn5q170dnwlo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cn5q170dnwlo#1</guid>
+            <pubDate>Tue, 27 Oct 2026 09:31:58 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ae9/live/edcc8450-d1e7-11f1-93e1-3b657b665bcf.png"/>
+        </item>
+        <item>
             <title><![CDATA[Man City players can block out 'noise' of away fans - Maresca]]></title>
             <description><![CDATA[Manchester City suffered a first Premier League defeat of the season at a boisterous Aston Villa, amid persistent reminders of their financial charges.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/c6jrwqd7jl3yo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -144,20 +152,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53a9/live/82fc3610-d14d-11f1-9eb5-811878e0f07d.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Arsenal eye Monza striker Varela - Tuesday's gossip]]></title>
-            <description><![CDATA[Portuguese striker Gustavo Varela is on Arsenal's radar, Crystal Palace want to keep winger Ismaila Sarr, Brighton defender Luka Vuskovic receives admiring glances from some of Europe's biggest clubs, plus more.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cj3vq7l22yk9o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cj3vq7l22yk9o#1</guid>
-            <pubDate>Mon, 26 Oct 2026 21:38:42 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c907/live/d1790900-d182-11f1-8d7e-c9ff4ede405b.png"/>
-        </item>
-        <item>
             <title><![CDATA[Kane's rise from childhood keeper to the best in the world]]></title>
             <description><![CDATA[Harry Kane has been named as the world's best player at the Ballon d'Or awards. BBC Sport charts his remarkable career.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cx2ln5n7yqdo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cx2ln5n7yqdo#2</guid>
             <pubDate>Tue, 27 Oct 2026 09:31:37 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff25/live/e4590260-d1f4-11f1-b360-61fb5d34dc08.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arsenal eye Monza striker Varela - Tuesday's gossip]]></title>
+            <description><![CDATA[Portuguese striker Gustavo Varela is on Arsenal's radar, Crystal Palace want to keep winger Ismaila Sarr, Brighton defender Luka Vuskovic receives admiring glances from some of Europe's biggest clubs, plus more.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cj3vq7l22yk9o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cj3vq7l22yk9o#2</guid>
+            <pubDate>Mon, 26 Oct 2026 21:38:42 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c907/live/d1790900-d182-11f1-8d7e-c9ff4ede405b.png"/>
         </item>
         <item>
             <title><![CDATA[England-Republic of Ireland U15 World Cup game ends over alleged racism]]></title>
@@ -280,14 +288,6 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d79/live/b17fc130-d0af-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
-            <title><![CDATA[What have Man Utd changed to turn around WSL form?]]></title>
-            <description><![CDATA[It is a different picture at Manchester United now than it was last month - and they proved it to fight back and earn a point against rivals Manchester City.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cm5ynpjx170zo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cm5ynpjx170zo#5</guid>
-            <pubDate>Sun, 25 Oct 2026 21:38:59 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/685a/live/32d096c0-d0cd-11f1-b441-2b33b063138f.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[End approaching for Carrick but Man Utd fans make clear who they blame]]></title>
             <description><![CDATA[Manchester United's fans sang their support for Michael Carrick during the 3-0 home defeat by Bournemouth, but voiced their opposition to virtually everything else.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cwm24jk9743yo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -302,6 +302,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmy83vg66zngo#6</guid>
             <pubDate>Sun, 25 Oct 2026 06:17:46 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa99/live/4f6d2680-cda4-11f1-8dd1-5318c7608ec0.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[What have Man Utd changed to turn around WSL form?]]></title>
+            <description><![CDATA[It is a different picture at Manchester United now than it was last month - and they proved it to fight back and earn a point against rivals Manchester City.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cm5ynpjx170zo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cm5ynpjx170zo#6</guid>
+            <pubDate>Sun, 25 Oct 2026 21:38:59 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/685a/live/32d096c0-d0cd-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
             <title><![CDATA[Fernandes left out - Man Utd hammered, Bournemouth brilliant - how they rated]]></title>

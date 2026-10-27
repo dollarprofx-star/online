@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news/world</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 27 Oct 2026 16:07:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Oct 2026 16:53:37 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/world/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -20,7 +20,7 @@
             <link>https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c3j47l4kdez4o#0</guid>
             <pubDate>Tue, 27 Oct 2026 11:11:33 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9543/live/7b21c3e0-d1cc-11f1-837e-832a94a7445c.png"/>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/24e8/live/8fbba870-d221-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
             <title><![CDATA[Norway and Finland leaders hold rare call with Putin]]></title>
@@ -71,11 +71,27 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/309b/live/f7a08cb0-d1a1-11f1-9ca8-7ff2fe25f975.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Nanotyrannus skeleton goes to auction in New York with £4.5m price tag]]></title>
+            <title><![CDATA[Egyptian journalist Lina Attalah detained after court orders news site's closure]]></title>
+            <description><![CDATA[Amnesty International said the verdict against Attalah and independent outlet Mada Masr represented "a crushing blow to press freedom".]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cw8rz14k1jvxo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cw8rz14k1jvxo#1</guid>
+            <pubDate>Tue, 27 Oct 2026 16:11:35 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b1e/live/f0d3b6c0-d21c-11f1-b8e4-17c9744a7f8e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[West warns of famine risk in Sudan as civil war grinds on]]></title>
+            <description><![CDATA[Millions face acute hunger in Sudan as conflict, drought and funding cuts aggravate the humanitarian crisis.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cj5ynkk6v3pzo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cj5ynkk6v3pzo#1</guid>
+            <pubDate>Tue, 27 Oct 2026 15:41:46 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/609e/live/8fffe6c0-d208-11f1-b3b6-c1e79e957e40.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nanotyrannus skeleton auctioned for $47.3m in New York]]></title>
             <description><![CDATA[The auction of the rare skeleton comes amid debate in the scientific community about whether dinosaur remains should end up in private hands or public view.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cmx28de233r2o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmx28de233r2o#1</guid>
-            <pubDate>Tue, 27 Oct 2026 13:23:32 GMT</pubDate>
+            <pubDate>Tue, 27 Oct 2026 16:11:27 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a77/live/3552a3b0-d1ff-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
@@ -115,7 +131,7 @@
             <description><![CDATA[The California Democrat has faced multiple sexual misconduct allegations which he has denied.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cwvgrk0zx641o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwvgrk0zx641o#1</guid>
-            <pubDate>Tue, 27 Oct 2026 15:31:07 GMT</pubDate>
+            <pubDate>Tue, 27 Oct 2026 16:20:22 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/91fc/live/4c19ed30-d220-11f1-b8e4-17c9744a7f8e.jpg"/>
         </item>
         <item>
