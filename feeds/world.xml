@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news/world</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 27 Oct 2026 23:26:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Oct 2026 23:55:27 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/world/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -63,11 +63,11 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46a2/live/fff967e0-d239-11f1-904a-5b90e72e87ff.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Alexander brothers each sentenced to 30 years in prison for sex trafficking case]]></title>
-            <description><![CDATA[The three brothers were found guilty of drugging and raping several women over the course of decades. ]]></description>
+            <title><![CDATA[Alexander brothers each sentenced to 30 years in prison in sex trafficking case]]></title>
+            <description><![CDATA[The trio - two of whom were high-profile US real estate moguls - were found guilty using their social status to lure women to parties and then raping them.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cqn498mng08ro?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqn498mng08ro#1</guid>
-            <pubDate>Tue, 27 Oct 2026 21:12:39 GMT</pubDate>
+            <pubDate>Tue, 27 Oct 2026 23:41:23 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c228/live/e6371090-d249-11f1-8ba3-9fd3e261415f.jpg"/>
         </item>
         <item>
@@ -159,6 +159,15 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0cb2/live/07dc3780-d208-11f1-b3b6-c1e79e957e40.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Watch: 'No clear winner' in Israel election - what happens now?]]></title>
+            <description><![CDATA[Polls have closed in the Israeli election, but there is no clear winner.
+]]></description>
+            <link>https://www.bbc.co.uk/news/videos/cm79p5pxqey2o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cm79p5pxqey2o#2</guid>
+            <pubDate>Tue, 27 Oct 2026 23:27:13 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/08f4/live/15b45500-d25c-11f1-93e1-3b657b665bcf.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[What we know about Ukraine-Russia truce in Oleshky, brokered by Melania Trump]]></title>
             <description><![CDATA[The Russian-occupied city of Oleshky has had no electricity, gas or water for three years, as residents reported having to eat weeds to survive.
 ]]></description>
@@ -182,14 +191,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/ck240dg5n4gjo#2</guid>
             <pubDate>Tue, 27 Oct 2026 10:17:36 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/054f/live/2e8109b0-d1f4-11f1-a701-fddedf244c16.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Why it could take time for a new Israeli government to form]]></title>
-            <description><![CDATA[Israel faces what many view as one of the most pivotal elections in the country's history.]]></description>
-            <link>https://www.bbc.co.uk/news/videos/c574p31l1l2no?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/c574p31l1l2no#2</guid>
-            <pubDate>Tue, 27 Oct 2026 08:37:30 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1cfd/live/7eff31e0-d1dc-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
             <title><![CDATA[Trump vs Obama - which president has the star power to get out the vote?]]></title>
