@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/sport/football</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 27 Oct 2026 14:29:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Oct 2026 15:17:06 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -520,6 +520,14 @@
             <media:thumbnail url="https://ichef.bbci.co.uk/images/ic/480xn/p0pcy5zl.jpg"/>
         </item>
         <item>
+            <title><![CDATA[How have 'best team north or south of the border' last season lost six in a row?]]></title>
+            <description><![CDATA[BBC Scotland analyses Motherwell's plight to find out what's not clicking at Fir Park.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/c6lylnkzp772o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6lylnkzp772o#16</guid>
+            <pubDate>Tue, 27 Oct 2026 15:12:57 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47b6/live/de684720-d218-11f1-8f84-ebd3099fed63.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Milne out for season as Hearts' injury woes continue]]></title>
             <description><![CDATA[Heart of Midlothian defender Harry Milne's season is over after he sustains an anterior cruciate ligament (ACL) injury, head coach Wouter Vrancken confirms.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/c6gr8zzewz5ko?at_medium=RSS&amp;at_campaign=rss</link>
@@ -558,14 +566,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ckd6dzv7w85go#16</guid>
             <pubDate>Mon, 26 Oct 2026 16:59:33 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7107/live/c99908e0-d14e-11f1-93e1-3b657b665bcf.png"/>
-        </item>
-        <item>
-            <title><![CDATA[Hearts chairman calls for greater transparency on key decisions]]></title>
-            <description><![CDATA[Reflecting on last season's final-day title disappointment, Hearts chairman Calum Paterson calls for "greater transparency and consistency around key decisions in Scottish football".]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cr15jxvll00yo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cr15jxvll00yo#16</guid>
-            <pubDate>Mon, 26 Oct 2026 23:11:28 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f3c/live/26352930-d190-11f1-8c41-0bbbeafdc6d4.jpg"/>
         </item>
         <item>
             <title><![CDATA[Donovan backed for big future on signing new Celtic deal]]></title>
