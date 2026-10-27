@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news/world</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 27 Oct 2026 20:26:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Oct 2026 21:00:10 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/world/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -55,6 +55,22 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d5f/live/cfa3dd20-d22d-11f1-b8e4-17c9744a7f8e.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Alexander brothers each sentenced to 30 years in prison for sex trafficking case]]></title>
+            <description><![CDATA[The three brothers were found guilty of drugging and raping several women over the course of decades. ]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cqn498mng08ro?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqn498mng08ro#1</guid>
+            <pubDate>Tue, 27 Oct 2026 20:45:25 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b1e/live/91a6d4b0-d173-11f1-9d71-6d5ae0660afe.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Egypt court fines journalist Lina Attalah and orders news site's closure]]></title>
+            <description><![CDATA[Amnesty International said the verdict against Attalah and independent outlet Mada Masr represented "a crushing blow to press freedom".]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cw8rz14k1jvxo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cw8rz14k1jvxo#1</guid>
+            <pubDate>Tue, 27 Oct 2026 20:44:40 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b1e/live/f0d3b6c0-d21c-11f1-b8e4-17c9744a7f8e.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Ghanaian twin brothers and US woman plead guilty to $9m romance scam]]></title>
             <description><![CDATA[The group targeted elderly people across US and Europe, luring them into romantic relationship before persuading them to transfer large sums of money.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cwz0vg2j442lo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -93,14 +109,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo#1</guid>
             <pubDate>Tue, 27 Oct 2026 02:40:17 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/309b/live/f7a08cb0-d1a1-11f1-9ca8-7ff2fe25f975.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Egyptian journalist Lina Attalah detained after court orders news site's closure]]></title>
-            <description><![CDATA[Amnesty International said the verdict against Attalah and independent outlet Mada Masr represented "a crushing blow to press freedom".]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cw8rz14k1jvxo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cw8rz14k1jvxo#1</guid>
-            <pubDate>Tue, 27 Oct 2026 16:11:35 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b1e/live/f0d3b6c0-d21c-11f1-b8e4-17c9744a7f8e.jpg"/>
         </item>
         <item>
             <title><![CDATA[West warns of famine risk in Sudan as civil war grinds on]]></title>
