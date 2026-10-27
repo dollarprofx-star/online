@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 27 Oct 2026 17:38:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Oct 2026 18:19:03 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -27,24 +27,16 @@
             <description><![CDATA[Mohmed Abdulkarim and Nouman Essghir, both 24, appear at Westminster Magistrates' Court on Tuesday.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cqly3v5vz4kko?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqly3v5vz4kko#1</guid>
-            <pubDate>Tue, 27 Oct 2026 17:00:31 GMT</pubDate>
+            <pubDate>Tue, 27 Oct 2026 18:17:34 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/518d/live/4f6be1e0-d221-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Men abused woman after her husband drugged and advertised her online, court told]]></title>
-            <description><![CDATA[Four men stand trial after the woman's ex-husband has pleaded guilty to drugging and raping her.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c5m2d83kmkkyo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c5m2d83kmkkyo#1</guid>
-            <pubDate>Tue, 27 Oct 2026 17:34:27 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8deb/live/a6d56510-d1fd-11f1-93e1-3b657b665bcf.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Turnout so far highest on record as Israelis vote in pivotal election]]></title>
-            <description><![CDATA[The elections - the first since the Hamas-led attacks on Israel and the wars which followed - are widely seen as a referendum on Benjamin Netanyahu.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c3j47l4kdez4o#1</guid>
-            <pubDate>Tue, 27 Oct 2026 17:00:51 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/24e8/live/8fbba870-d221-11f1-b441-2b33b063138f.jpg"/>
+            <title><![CDATA[Flávio Bolsonaro's passports cancelled after he fails to surrender them]]></title>
+            <description><![CDATA[The defeated presidential candidate is under investigation for alleged money laundering and barred from leaving Brazil.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/ckly0xpxp243o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckly0xpxp243o#1</guid>
+            <pubDate>Tue, 27 Oct 2026 17:08:24 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c0d/live/6e225510-d226-11f1-b8e4-17c9744a7f8e.jpg"/>
         </item>
         <item>
             <title><![CDATA[What does Israel's election mean for Gaza and the wider world?]]></title>
@@ -55,12 +47,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/054f/live/2e8109b0-d1f4-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Flávio Bolsonaro's passports cancelled after he fails to surrender them]]></title>
-            <description><![CDATA[The defeated presidential candidate is under investigation for alleged money laundering and barred from leaving Brazil.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/ckly0xpxp243o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckly0xpxp243o#1</guid>
-            <pubDate>Tue, 27 Oct 2026 17:08:24 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c0d/live/6e225510-d226-11f1-b8e4-17c9744a7f8e.jpg"/>
+            <title><![CDATA[Men abused woman after her husband drugged and advertised her online, court told]]></title>
+            <description><![CDATA[Four men stand trial after the woman's ex-husband has pleaded guilty to drugging and raping her.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c5m2d83kmkkyo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c5m2d83kmkkyo#1</guid>
+            <pubDate>Tue, 27 Oct 2026 17:34:27 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8deb/live/a6d56510-d1fd-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
             <title><![CDATA[I'm a single mum and limit my weekly shop to £40 - here's what I want from the Budget]]></title>
@@ -95,20 +87,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/62a7/live/0a738c90-d1fa-11f1-8c9f-8d21fef6ffad.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Worker at US embassy in London investigated over abuse images is senior Air Force member]]></title>
+            <description><![CDATA[The BBC has been told Lt Col Michael Morris, who was flown out of the UK before being questioned by police, is under investigation.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cm2ke82w44nxo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm2ke82w44nxo#1</guid>
+            <pubDate>Tue, 27 Oct 2026 17:45:45 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c87e/live/41e4a2e0-d222-11f1-b441-2b33b063138f.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Truce begins in Ukraine city where residents ate weeds to survive]]></title>
             <description><![CDATA[The Oleshky ceasefire, which the White House said was secured by US First Lady Melania Trump, is meant to allow aid to get in and civilians to get out.]]></description>
             <link>https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo#1</guid>
             <pubDate>Tue, 27 Oct 2026 15:13:24 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af90/live/ca109650-d1b0-11f1-93f3-e3ba7480d857.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[UK and EU officials to discuss freedom of movement]]></title>
-            <description><![CDATA[Officials are expected to begin discussions on a range of options for the future UK-EU relationship before a summit next month.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cmqlngkz0elxo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmqlngkz0elxo#1</guid>
-            <pubDate>Tue, 27 Oct 2026 17:20:40 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9def/live/df52aa20-d1f7-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
             <title><![CDATA[My husband's death was hard enough - then came the admin ]]></title>
@@ -175,6 +167,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f326/live/a768bfb0-d1e2-11f1-8e07-c79267b33d55.jpg"/>
         </item>
         <item>
+            <title><![CDATA[UK and EU officials to discuss freedom of movement]]></title>
+            <description><![CDATA[Officials are expected to begin discussions on a range of options for the future UK-EU relationship before a summit next month.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cmqlngkz0elxo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmqlngkz0elxo#4</guid>
+            <pubDate>Tue, 27 Oct 2026 17:20:40 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9def/live/df52aa20-d1f7-11f1-93e1-3b657b665bcf.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Carrick to stay in charge of Man Utd for Chelsea game]]></title>
             <description><![CDATA[Michael Carrick will remain in charge of Manchester United for their trip to Chelsea this weekend.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/crlykgeqzypyo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -189,14 +189,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmvgxjjxwl1yo#4</guid>
             <pubDate>Tue, 27 Oct 2026 13:24:40 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0aa1/live/e0f2d250-d207-11f1-b3b6-c1e79e957e40.png"/>
-        </item>
-        <item>
-            <title><![CDATA[Rare dinosaur skeleton auctioned for $47.3m in New York]]></title>
-            <description><![CDATA[The auction of the rare skeleton comes amid debate in the scientific community about whether dinosaur remains should end up in private hands or public view.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cmx28de233r2o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmx28de233r2o#4</guid>
-            <pubDate>Tue, 27 Oct 2026 17:10:15 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a42/live/20bef180-d22a-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
             <title><![CDATA[Unnamed celebrity accused of 'inappropriate sexual activities', court hears]]></title>
@@ -240,6 +232,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/047c/live/b205ec60-d208-11f1-b3b6-c1e79e957e40.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Lancashire treatment of Anderson disrespectful - Broad]]></title>
+            <description><![CDATA[Lancashire have been "pretty disrespectful" in their treatment of legendary bowler James Anderson, says his long-time England bowler partner Stuart Broad.]]></description>
+            <link>https://www.bbc.co.uk/sport/cricket/articles/ck5ynrz680q4o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/cricket/articles/ck5ynrz680q4o#8</guid>
+            <pubDate>Tue, 27 Oct 2026 17:47:58 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99ff/live/3bd4a930-d22d-11f1-b8e4-17c9744a7f8e.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Lawrie, 15, eyes £501,000 live TV win over Littler]]></title>
             <description><![CDATA[Mitchell Lawrie, 15, one of 24 amateur players taking part in live TV special Beat Luke Littler, has his sights on a £501,000 bullseye should he beat the world darts champion.]]></description>
             <link>https://www.bbc.co.uk/sport/darts/articles/cq33xj8yyd5do?at_medium=RSS&amp;at_campaign=rss</link>
@@ -254,14 +254,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/formula1/articles/cw4g186011rdo#8</guid>
             <pubDate>Tue, 27 Oct 2026 15:17:53 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a75/live/e4414e20-d214-11f1-a275-c5df85f1853c.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[McInnes admits feeling 'guilt' over leaving Hearts for Rangers]]></title>
-            <description><![CDATA[Rangers manager Derek McInnes admits feeling "guilt" about leaving Hearts for Ibrox in the summer and accepts the rough reception that could come his way when he returns to Tynecastle on Wednesday.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cjr4y51g6zvvo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cjr4y51g6zvvo#8</guid>
-            <pubDate>Tue, 27 Oct 2026 15:31:48 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46b3/live/64abaf90-d217-11f1-8f84-ebd3099fed63.jpg"/>
         </item>
         <item>
             <title><![CDATA[Williams loses again - to opponent 28 years younger]]></title>
