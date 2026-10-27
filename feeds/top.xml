@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 27 Oct 2026 11:20:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Oct 2026 11:59:50 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -63,6 +63,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e10e/live/f7b26730-d1c6-11f1-9381-5f06d29fdf11.jpg"/>
         </item>
         <item>
+            <title><![CDATA[I'm a single mum and limit my weekly shop to £40 - here's what I want from the Budget]]></title>
+            <description><![CDATA[People earning from £380 a month to £150,000 a year tell the BBC what they want to see in this year's Budget.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmx235r9wr3yo#1</guid>
+            <pubDate>Tue, 27 Oct 2026 06:48:50 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2823/live/2221ede0-d16f-11f1-93e1-3b657b665bcf.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Rise in sales of radios and tinned foods, say retailers, after call to stock up]]></title>
             <description><![CDATA[Figures obtained by BBC Newsnight show large spikes in sales of torches, radios and power banks.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c5rmy84np001o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -75,7 +83,7 @@
             <description><![CDATA[The Oleshky ceasefire, which the White House said was secured by US First Lady Melania Trump, is meant to allow aid to get in and civilians to get out.]]></description>
             <link>https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo#1</guid>
-            <pubDate>Tue, 27 Oct 2026 11:17:27 GMT</pubDate>
+            <pubDate>Tue, 27 Oct 2026 11:53:57 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af90/live/ca109650-d1b0-11f1-93f3-e3ba7480d857.jpg"/>
         </item>
         <item>
@@ -83,7 +91,7 @@
             <description><![CDATA[Officials are expected to begin discussions on a range of options for the future UK-EU relationship before a summit next month.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cmqlngkz0elxo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmqlngkz0elxo#1</guid>
-            <pubDate>Tue, 27 Oct 2026 11:02:53 GMT</pubDate>
+            <pubDate>Tue, 27 Oct 2026 11:29:23 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9def/live/df52aa20-d1f7-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
@@ -99,24 +107,16 @@
             <description><![CDATA[Comey's lawyers say the case stems from alleged disclosure of classified information to the New York Times in 2016.]]></description>
             <link>https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo#1</guid>
-            <pubDate>Tue, 27 Oct 2026 02:01:27 GMT</pubDate>
+            <pubDate>Tue, 27 Oct 2026 11:44:54 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/21c9/live/16bb9ba0-d187-11f1-8d7e-c9ff4ede405b.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Will the public change its mind about Meghan?]]></title>
-            <description><![CDATA[This complicated - and developing - story could prove to be a turning point for Meghan. ]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c6qjn29lg2vzo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6qjn29lg2vzo#1</guid>
-            <pubDate>Mon, 26 Oct 2026 20:03:05 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1055/live/5e7ece70-d0b6-11f1-960c-a30ffadcd9ea.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[I'm a single mum on £41,000 and limit my weekly shop to £40 - it's hard]]></title>
-            <description><![CDATA[People earning from £380 a month to £150,000 a year tell the BBC what they want to see in this year's Budget.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmx235r9wr3yo#2</guid>
-            <pubDate>Tue, 27 Oct 2026 06:48:50 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2823/live/2221ede0-d16f-11f1-93e1-3b657b665bcf.jpg"/>
+            <title><![CDATA[My husband's death was hard enough - then came the admin ]]></title>
+            <description><![CDATA[Louisa says her experience of dealing with household bills after her husband John died left her feeling "frustrated and angry". ]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cw4g19vvmp59o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cw4g19vvmp59o#2</guid>
+            <pubDate>Tue, 27 Oct 2026 01:26:18 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f02d/live/2e2bf1e0-ce30-11f1-9d62-4d2ac1a847c3.jpg"/>
         </item>
         <item>
             <title><![CDATA[Ranking England's Ballon d'Or winners - how does Kane compare?]]></title>
@@ -159,12 +159,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/060c/live/03a51100-d159-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
-            <title><![CDATA[My husband's death was hard enough - then came the admin ]]></title>
-            <description><![CDATA[Louisa says her experience of dealing with household bills after her husband John died left her feeling "frustrated and angry". ]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cw4g19vvmp59o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cw4g19vvmp59o#2</guid>
-            <pubDate>Tue, 27 Oct 2026 01:26:18 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f02d/live/2e2bf1e0-ce30-11f1-9d62-4d2ac1a847c3.jpg"/>
+            <title><![CDATA[Will the public change its mind about Meghan?]]></title>
+            <description><![CDATA[This complicated - and developing - story could prove to be a turning point for Meghan. ]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c6qjn29lg2vzo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6qjn29lg2vzo#2</guid>
+            <pubDate>Mon, 26 Oct 2026 20:03:05 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1055/live/5e7ece70-d0b6-11f1-960c-a30ffadcd9ea.jpg"/>
         </item>
         <item>
             <title><![CDATA[Sign up now]]></title>
@@ -255,20 +255,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8687/live/9761da30-d0b0-11f1-a701-fddedf244c16.png"/>
         </item>
         <item>
+            <title><![CDATA[Abhishek hits 35-ball ton as India hammer New Zealand]]></title>
+            <description><![CDATA[Abhishek Sharma's 113 from 38 balls helps India chase a target of 199 in just 13.2 overs against New Zealand.]]></description>
+            <link>https://www.bbc.co.uk/sport/cricket/articles/cvlyd05g6wypo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/cricket/articles/cvlyd05g6wypo#8</guid>
+            <pubDate>Tue, 27 Oct 2026 11:26:17 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3054/live/f5efc110-d1f1-11f1-b360-61fb5d34dc08.jpg"/>
+        </item>
+        <item>
             <title><![CDATA['I would do it again' - Kaepernick reflects on price of protest, 10 years on]]></title>
             <description><![CDATA[In his first interview with BBC Sport since taking the knee for the first time, Colin Kaepernick reflects on his journey.]]></description>
             <link>https://www.bbc.co.uk/sport/american-football/articles/cm3el5dnpxp2o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/american-football/articles/cm3el5dnpxp2o#8</guid>
             <pubDate>Tue, 27 Oct 2026 06:15:24 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/410e/live/ed2848e0-c882-11f1-a2e8-f71844f8002e.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lancashire consider Anderson farewell amid fan unrest]]></title>
-            <description><![CDATA[Lancashire will look into organising a farewell for bowler James Anderson amid fan unrest over his departure from the club.]]></description>
-            <link>https://www.bbc.co.uk/sport/cricket/articles/cme8rw2gkd9go?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/cricket/articles/cme8rw2gkd9go#8</guid>
-            <pubDate>Mon, 26 Oct 2026 22:58:14 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ef2/live/1df62d70-d18e-11f1-826a-d3f8b2f29c2a.jpg"/>
         </item>
         <item>
             <title><![CDATA[How much of Antonelli's success is down to his ability? - F1 Q&A]]></title>
