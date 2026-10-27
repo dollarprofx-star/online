@@ -9,11 +9,27 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 27 Oct 2026 08:48:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Oct 2026 09:27:48 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Two men charged under National Security Act after RAF Fairford incident]]></title>
+            <description><![CDATA[Two men have been charged with national security offences after an incident near RAF Fairford last month, the Crown Prosecution Service has said.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cqly3v5vz4kko?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqly3v5vz4kko#1</guid>
+            <pubDate>Tue, 27 Oct 2026 09:26:08 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5184/live/6d9bf030-d1e8-11f1-8e07-c79267b33d55.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Chancellor to cut tariffs on some staple goods to offer cost of living help]]></title>
+            <description><![CDATA[The BBC understands the government will also freeze fuel duty again in the Budget.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6d93gq1xdgno#1</guid>
+            <pubDate>Tue, 27 Oct 2026 09:17:39 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c2c/live/35815a70-d173-11f1-9d71-6d5ae0660afe.jpg"/>
+        </item>
         <item>
             <title><![CDATA[Israel heads to polls for pivotal election defined by security and democracy]]></title>
             <description><![CDATA[Many fear neither of the leading political blocs will win enough seats for a majority - meaning weeks or months of political wrangling may lie ahead.]]></description>
@@ -21,14 +37,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c3j47l4kdez4o#1</guid>
             <pubDate>Tue, 27 Oct 2026 05:45:08 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9543/live/7b21c3e0-d1cc-11f1-837e-832a94a7445c.png"/>
-        </item>
-        <item>
-            <title><![CDATA[Chancellor to cut tariffs on some staple goods to offer cost of living help]]></title>
-            <description><![CDATA[The BBC understands the government will also freeze fuel duty again in the Budget.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6d93gq1xdgno#1</guid>
-            <pubDate>Tue, 27 Oct 2026 08:23:48 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c2c/live/35815a70-d173-11f1-9d71-6d5ae0660afe.jpg"/>
         </item>
         <item>
             <title><![CDATA[Kane ends England’s 25-year wait to win men’s Ballon d’Or award]]></title>
@@ -88,10 +96,10 @@
         </item>
         <item>
             <title><![CDATA[Truce begins in Ukraine city where residents ate weeds to survive]]></title>
-            <description><![CDATA[The ceasefire in Oleshky, announced by US First Lady Melania Trump, is meant to allow aid deliveries and the evacuation of civilians. ]]></description>
+            <description><![CDATA[The ceasefire in Oleshky, secured by US First Lady Melania Trump, is meant to allow aid deliveries and the evacuation of civilians. ]]></description>
             <link>https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo#1</guid>
-            <pubDate>Tue, 27 Oct 2026 08:01:22 GMT</pubDate>
+            <pubDate>Tue, 27 Oct 2026 09:18:44 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af90/live/ca109650-d1b0-11f1-93f3-e3ba7480d857.jpg"/>
         </item>
         <item>
@@ -101,14 +109,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6qjn29lg2vzo#1</guid>
             <pubDate>Mon, 26 Oct 2026 20:03:05 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1055/live/5e7ece70-d0b6-11f1-960c-a30ffadcd9ea.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Apple says it will replace iPhone Duo handsets with screen problems]]></title>
-            <description><![CDATA[Photos shared online showed faults appearing on the screens of Apple's first foldable device.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c893zwlev2xpo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c893zwlev2xpo#1</guid>
-            <pubDate>Tue, 27 Oct 2026 01:48:04 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/896f/live/1944e2f0-d1a5-11f1-a611-7ff246f4f9f3.jpg"/>
         </item>
         <item>
             <title><![CDATA['I'm a single mum on £41,000 and limit my weekly shop to £40.' What do you want from the Budget?]]></title>
@@ -143,7 +143,7 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/410e/live/ed2848e0-c882-11f1-a2e8-f71844f8002e.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Chris Mason: Burnham faces crunch decisions and tricky trade-offs in his next 100 days]]></title>
+            <title><![CDATA[Chris Mason: Burnham faces crunch decisions in his next 100 days]]></title>
             <description><![CDATA[From Brexit debates to North Sea oil, there is plenty getting the cabinet, the Labour Party and the country talking.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c317k85r5lglo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c317k85r5lglo#2</guid>
@@ -199,20 +199,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a656/live/fdb75c70-d14f-11f1-9eb5-811878e0f07d.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Sir Tom Jones 'truly sorry' as he cancels two shows due to illness]]></title>
+            <description><![CDATA[Sir Tom has pushed back two concerts in the US on doctor's advice, due to "a bad case of the flu". ]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c699zj38k9ero?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c699zj38k9ero#4</guid>
+            <pubDate>Tue, 27 Oct 2026 08:37:39 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/21d1/live/cc458f30-d1e6-11f1-93e1-3b657b665bcf.jpg"/>
+        </item>
+        <item>
             <title><![CDATA['Living next door to anti-social behaviour has been hell']]></title>
             <description><![CDATA[Man calls for better support after seven years of anti-social behaviour from neighbours.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cewr4j0qqwpo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cewr4j0qqwpo#4</guid>
             <pubDate>Tue, 27 Oct 2026 06:58:40 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f326/live/a768bfb0-d1e2-11f1-8e07-c79267b33d55.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Oscar-winning producer says BBC gave her £400,000 payout after she raised antisemitism concerns]]></title>
-            <description><![CDATA[The BBC says it did not uphold any of the allegations of antisemitism but accepted there were "shortcomings" in how it treated Lucie Kon. ]]></description>
-            <link>https://www.bbc.co.uk/news/articles/crwydxw0we8yo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/crwydxw0we8yo#4</guid>
-            <pubDate>Mon, 26 Oct 2026 20:16:45 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0461/live/62fc5a80-d16a-11f1-87df-afb7a168a1f2.jpg"/>
         </item>
         <item>
             <title><![CDATA[London City's Putellas wins record-equalling third Ballon d'Or]]></title>
@@ -223,12 +223,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f75b/live/cfdebc20-d191-11f1-8c41-0bbbeafdc6d4.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Meghan to co-host Junior MasterChef Australia]]></title>
-            <description><![CDATA[The Duchess of Sussex says she "can't wait" to take part in the programme, which will air next year.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/crgqwg3ll1v1o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/crgqwg3ll1v1o#4</guid>
-            <pubDate>Tue, 27 Oct 2026 04:43:56 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd14/live/1cb54f90-d1bb-11f1-8746-37a49ff44886.jpg"/>
+            <title><![CDATA[Apple says it will replace iPhone Duo handsets with screen problems]]></title>
+            <description><![CDATA[Photos shared online showed faults appearing on the screens of Apple's first foldable device.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c893zwlev2xpo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c893zwlev2xpo#4</guid>
+            <pubDate>Tue, 27 Oct 2026 01:48:04 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/896f/live/1944e2f0-d1a5-11f1-a611-7ff246f4f9f3.jpg"/>
         </item>
         <item>
             <title><![CDATA[Download now]]></title>
@@ -247,12 +247,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0l7jnbt.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Kane ends England's 25-year Ballon d'Or wait - how he bucked the trend]]></title>
-            <description><![CDATA[Harry Kane becomes the first English player to win the Ballon d'Or since Michael Owen in 2001 after being crowned the world's best player at a ceremony in London.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cqlye4jpzzxyo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqlye4jpzzxyo#8</guid>
-            <pubDate>Mon, 26 Oct 2026 23:10:59 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b391/live/343ff340-d193-11f1-8c41-0bbbeafdc6d4.jpg"/>
+            <title><![CDATA[Ranking England's Ballon d'Or winners - how does Kane compare?]]></title>
+            <description><![CDATA[From Stanley Matthews to Harry Kane, how do England's Ballon d'Or winners rank?]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/ckx2qdxgzzz7o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ckx2qdxgzzz7o#8</guid>
+            <pubDate>Tue, 27 Oct 2026 06:20:58 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8687/live/9761da30-d0b0-11f1-a701-fddedf244c16.png"/>
         </item>
         <item>
             <title><![CDATA['I would do it again' - Kaepernick reflects on price of protest, 10 years on]]></title>
