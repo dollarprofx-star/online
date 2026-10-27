@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 27 Oct 2026 00:06:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Oct 2026 00:52:30 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -23,7 +23,7 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b391/live/343ff340-d193-11f1-8c41-0bbbeafdc6d4.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Chris Mason: The Budget is imminent as tricky things pile up for Burnham]]></title>
+            <title><![CDATA[Chris Mason: Budget is imminent as tricky issues pile up for Burnham]]></title>
             <description><![CDATA[From Brexit debates to North Sea oil, there is plenty getting the cabinet, the Labour Party and the country talking.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c317k85r5lglo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c317k85r5lglo#1</guid>
@@ -79,12 +79,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e394/live/7affbe60-d147-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
-            <title><![CDATA[No 10 appears to backtrack on PM's freedom of movement referendum suggestion]]></title>
-            <description><![CDATA[The PM says he wants to start a conversation about potential options for the UK's future relationship with the EU.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cx240dpzv009o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cx240dpzv009o#1</guid>
-            <pubDate>Mon, 26 Oct 2026 17:50:00 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc4a/live/267093e0-d135-11f1-be77-d1864d279cb0.jpg"/>
+            <title><![CDATA[Ex-FBI chief James Comey faces federal charges for third time]]></title>
+            <description><![CDATA[Comey's lawyers say the case stems from alleged disclosure of classified information to the New York Times in 2016.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo#1</guid>
+            <pubDate>Tue, 27 Oct 2026 00:07:28 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/21c9/live/16bb9ba0-d187-11f1-8d7e-c9ff4ede405b.jpg"/>
         </item>
         <item>
             <title><![CDATA[Oscar-winning producer says BBC gave her £400,000 payout after she raised antisemitism concerns]]></title>
@@ -107,8 +107,16 @@
             <description><![CDATA[Proceeds from the tour, which begins in Dublin next month, will go to organisations supporting Palestinians, he says.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cqkgl82nm43po?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqkgl82nm43po#1</guid>
-            <pubDate>Mon, 26 Oct 2026 21:53:05 GMT</pubDate>
+            <pubDate>Tue, 27 Oct 2026 00:11:27 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d91/live/05144a80-d12f-11f1-a94e-6dd2aca774ac.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['I'm a single mum on £41,000 and limit my weekly shop to £40.' What do you want from the Budget?]]></title>
+            <description><![CDATA[People earning from £380 a month to £150,000 a year tell the BBC what they want to see in this year's Budget.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmx235r9wr3yo#2</guid>
+            <pubDate>Tue, 27 Oct 2026 00:01:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2823/live/2221ede0-d16f-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
             <title><![CDATA[Will the public change its mind about Meghan?]]></title>
@@ -159,14 +167,6 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe66/live/b5f63180-d0d8-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
-            <title><![CDATA[The movement of students that brought down Serbia's Vučić]]></title>
-            <description><![CDATA[In just under two years the students have succeeded in tearing up 14 years of political dominance under Aleksandar Vučić.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c574pvy82k0mo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c574pvy82k0mo#2</guid>
-            <pubDate>Mon, 26 Oct 2026 14:29:31 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec54/live/9d3eb1f0-d0d1-11f1-a058-dfc7f6e2951c.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Sign up now]]></title>
             <description><![CDATA[From news and politics to technology and the royals, get the best BBC journalism to your inbox.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c2lkky9zngvo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -191,6 +191,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a656/live/fdb75c70-d14f-11f1-9eb5-811878e0f07d.jpg"/>
         </item>
         <item>
+            <title><![CDATA[No 10 appears to backtrack on PM's freedom of movement referendum suggestion]]></title>
+            <description><![CDATA[The PM says he wants to start a conversation about potential options for the UK's future relationship with the EU.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cx240dpzv009o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cx240dpzv009o#4</guid>
+            <pubDate>Mon, 26 Oct 2026 17:50:00 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc4a/live/267093e0-d135-11f1-be77-d1864d279cb0.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Daughter wins £127k claim for caring for mum at home]]></title>
             <description><![CDATA[Bern Rogers says the row with her siblings since her elderly mother died was "harrowing and deeply sad".]]></description>
             <link>https://www.bbc.co.uk/news/articles/cr93zp78g580o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -199,12 +207,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14da/live/4ea1dd00-d122-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Trump faces backlash after invoking 9/11 in verbal assault on Michigan's Senate candidate]]></title>
-            <description><![CDATA[The Democrat himself has hit back, as has Senator Bernie Sanders and a key Trump supporter from 2024.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c3rryxlkq5qro?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c3rryxlkq5qro#4</guid>
-            <pubDate>Mon, 26 Oct 2026 20:41:43 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da38/live/66526de0-d16b-11f1-a701-fddedf244c16.jpg"/>
+            <title><![CDATA[DUP MLA joins Lockhart's call for O'Neill's removal as first minister]]></title>
+            <description><![CDATA[Diane Forsythe backs Carla Lockhart and says there must be "profound consequences" for Sinn Féin.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cq8jzxgewrvpo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cq8jzxgewrvpo#4</guid>
+            <pubDate>Tue, 27 Oct 2026 00:00:05 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/88b2/live/793852f0-d196-11f1-a4c9-c32f50801dc8.jpg"/>
         </item>
         <item>
             <title><![CDATA['Maxxing' selected as Dictionary.com word of the year]]></title>
@@ -213,14 +221,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmy4xwp22xyqo#4</guid>
             <pubDate>Mon, 26 Oct 2026 21:31:53 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f03d/live/90fce170-d165-11f1-87df-afb7a168a1f2.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Russell Brand asked assistant for female fan phone numbers, court hears]]></title>
-            <description><![CDATA[Helen Berger said she left her job working for Brand after she became "sick of him."]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cwly02l45ny3o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwly02l45ny3o#4</guid>
-            <pubDate>Mon, 26 Oct 2026 14:57:11 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e091/live/29c876d0-d148-11f1-9eb5-811878e0f07d.jpg"/>
         </item>
         <item>
             <title><![CDATA[Star Trek actor Walter Koenig, who played Pavel Chekov, dies aged 90]]></title>
