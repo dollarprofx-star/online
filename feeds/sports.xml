@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/sport/football</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 28 Oct 2026 15:29:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Oct 2026 16:23:46 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -32,7 +32,7 @@
         </item>
         <item>
             <title><![CDATA[All Spanish cup matches suspended after Madrid train collision ]]></title>
-            <description><![CDATA[All 24 matches in the Spanish Copa del Rey due to take place on Wednesday are suspended as a mark of respect after more than 30 people were killed in a train crash near Madrid.]]></description>
+            <description><![CDATA[All 24 matches in the Spanish Copa del Rey due to take place on Wednesday are suspended as a mark of respect after at least 68 people were killed in a train crash near Madrid.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/crgj902p68gno?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/crgj902p68gno#0</guid>
             <pubDate>Wed, 28 Oct 2026 13:25:48 GMT</pubDate>
@@ -45,6 +45,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c3dxwdnjqj17o#0</guid>
             <pubDate>Wed, 28 Oct 2026 11:55:21 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5147/live/a2fe6400-d2cf-11f1-b677-b762d2f83f6e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Johnstone Burgh to play two cup ties simultaneously after schedule clash]]></title>
+            <description><![CDATA[Scottish fifth-tier club Johnstone Burgh are forced to play two cup ties on the same day, with the kick-offs only half an hour apart.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cky831qxdzydo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cky831qxdzydo#0</guid>
+            <pubDate>Wed, 28 Oct 2026 15:34:02 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bee4/live/be91e3f0-d2e2-11f1-8af5-e1db7ad65222.jpg"/>
         </item>
         <item>
             <title><![CDATA[Liverpool gambled on Jacquet and it is paying off]]></title>
@@ -103,20 +111,20 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ecf7/live/1059be70-d2b0-11f1-8cf0-c5d120932f9f.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Barcelona fined £503 over approach for Alvarez]]></title>
-            <description><![CDATA[Barcelona are fined 602 euros (£503) following a complaint by Atletico Madrid over contact the club made with striker Julian Alvarez.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cmpwg0lqxkd4o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmpwg0lqxkd4o#0</guid>
-            <pubDate>Tue, 27 Oct 2026 21:38:20 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6160/live/40cf7ad0-d24d-11f1-8ba3-9fd3e261415f.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Where does Fleetwood beating Arsenal rank in biggest cup upsets?]]></title>
             <description><![CDATA[BBC Sport looks at the history of the biggest FA Cup and League Cup upsets after Fleetwood Town's shock win against Arsenal.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cq62y7yzjdmzo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cq62y7yzjdmzo#1</guid>
             <pubDate>Tue, 27 Oct 2026 23:35:11 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3415/live/1c1ff480-d257-11f1-aea4-e9d772bed98c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Barcelona fined £503 over approach for Alvarez]]></title>
+            <description><![CDATA[Barcelona are fined 602 euros (£503) following a complaint by Atletico Madrid over contact the club made with striker Julian Alvarez.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cmpwg0lqxkd4o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmpwg0lqxkd4o#1</guid>
+            <pubDate>Tue, 27 Oct 2026 21:38:20 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6160/live/40cf7ad0-d24d-11f1-8ba3-9fd3e261415f.jpg"/>
         </item>
         <item>
             <title><![CDATA[Blackpool beat Aston Villa and Port Vale thrash Man City in Trophy]]></title>
@@ -162,7 +170,7 @@
             <title><![CDATA[McInnes set for frosty Tynecastle return - and will Goodwin's entertainers shock Celtic?]]></title>
             <description><![CDATA[BBC Scotland picks out three things to watch in an intriguing midweek Scottish Premiership card.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cm9qz52e32v8o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cm9qz52e32v8o#1</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cm9qz52e32v8o#2</guid>
             <pubDate>Wed, 28 Oct 2026 07:10:28 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d5f4/live/011c84c0-d232-11f1-a701-fddedf244c16.png"/>
         </item>
@@ -215,14 +223,6 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47b6/live/de684720-d218-11f1-8f84-ebd3099fed63.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Why did Fleetwood have to lose player for Arsenal penalty shootout?]]></title>
-            <description><![CDATA[Fleetwood Town had to remove a player for their penalty shootout against Arsenal - BBC Sport's Ask Me Anything team explains why.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/c8040xn769xgo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c8040xn769xgo#2</guid>
-            <pubDate>Wed, 28 Oct 2026 11:23:20 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b26/live/b3920100-d2c0-11f1-8e79-5381b0a9d682.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Lawlor delighted after beating 'best team in the country']]></title>
             <description><![CDATA[Fleetwood Town manager Matt Lawlor could not hide his delight after seeing his team knock Premier League champions Arsenal out of the EFL Cup on penalties.]]></description>
             <link>https://www.bbc.co.uk/sport/football/videos/cr93z7p02743o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -261,6 +261,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/c6073jevmk3go#3</guid>
             <pubDate>Mon, 26 Oct 2026 12:02:22 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac37/live/d7641860-d131-11f1-a701-fddedf244c16.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why did Fleetwood have to lose player for Arsenal penalty shootout?]]></title>
+            <description><![CDATA[Fleetwood Town had to remove a player for their penalty shootout against Arsenal - BBC Sport's Ask Me Anything team explains why.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/c8040xn769xgo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c8040xn769xgo#5</guid>
+            <pubDate>Wed, 28 Oct 2026 11:23:20 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b26/live/b3920100-d2c0-11f1-8e79-5381b0a9d682.jpg"/>
         </item>
         <item>
             <title><![CDATA[Chinese brands drop Mbappe as backlash grows over Mao joke]]></title>
@@ -314,7 +322,7 @@
             <title><![CDATA[Putellas wins record-equalling third Ballon d'Or to extend Spanish dominance]]></title>
             <description><![CDATA[Barcelona and Spain midfielder Alexia Putellas wins the Ballon d'Or Feminin for a record-equalling third time.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cqp9gky38lj3o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqp9gky38lj3o#5</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqp9gky38lj3o#6</guid>
             <pubDate>Mon, 26 Oct 2026 23:14:39 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f75b/live/cfdebc20-d191-11f1-8c41-0bbbeafdc6d4.jpg"/>
         </item>
@@ -357,14 +365,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cjr4y51g6zvvo#6</guid>
             <pubDate>Tue, 27 Oct 2026 15:31:48 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46b3/live/64abaf90-d217-11f1-8f84-ebd3099fed63.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Unattached Coleman 'edging towards' retirement]]></title>
-            <description><![CDATA[Former Everton defender Seamus Coleman says he is contemplating retiring from football but does not "want to completely draw a line in the sand" on his career.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cmy83lyz32yjo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmy83lyz32yjo#6</guid>
-            <pubDate>Tue, 27 Oct 2026 12:05:10 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fcc1/live/add63fb0-d1f8-11f1-8c9f-8d21fef6ffad.jpg"/>
         </item>
         <item>
             <title><![CDATA[Man Utd lacked intensity & fight - Alderweireld]]></title>
@@ -583,6 +583,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d5f4/live/011c84c0-d232-11f1-a701-fddedf244c16.png"/>
         </item>
         <item>
+            <title><![CDATA[Two cup ties half an hour apart for Johnstone Burgh]]></title>
+            <description><![CDATA[Scottish fifth-tier club Johnstone Burgh are forced to play two cup ties on the same day, with the kick-offs only half an hour apart.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cky831qxdzydo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cky831qxdzydo#16</guid>
+            <pubDate>Wed, 28 Oct 2026 15:34:02 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bee4/live/be91e3f0-d2e2-11f1-8af5-e1db7ad65222.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Rangers' Shankland set for December return - gossip]]></title>
             <description><![CDATA[Rangers captain set for December return as former Celtic defender predicts January exit from Parkhead.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/c65yn8wnr902o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -621,14 +629,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6lylnkzp772o#16</guid>
             <pubDate>Tue, 27 Oct 2026 15:12:57 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47b6/live/de684720-d218-11f1-8f84-ebd3099fed63.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Milne out for season as Hearts' injury woes continue]]></title>
-            <description><![CDATA[Heart of Midlothian defender Harry Milne's season is over after he sustains an anterior cruciate ligament (ACL) injury, head coach Wouter Vrancken confirms.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/c6gr8zzewz5ko?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6gr8zzewz5ko#16</guid>
-            <pubDate>Tue, 27 Oct 2026 13:58:04 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/920e/live/451e6890-d20b-11f1-b3b6-c1e79e957e40.jpg"/>
         </item>
         <item>
             <title><![CDATA[Putellas wins record-equalling third Ballon d'Or]]></title>
