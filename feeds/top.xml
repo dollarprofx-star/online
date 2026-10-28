@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 28 Oct 2026 20:19:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Oct 2026 21:08:05 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -83,7 +83,7 @@
             <description><![CDATA[Bolsonaro's arrival in the US ends speculation about his whereabouts after he failed to comply with an order to surrender his passports.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo#2</guid>
-            <pubDate>Wed, 28 Oct 2026 20:19:10 GMT</pubDate>
+            <pubDate>Wed, 28 Oct 2026 21:07:06 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c2c/live/4c19c1e0-d2eb-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
@@ -91,7 +91,7 @@
             <description><![CDATA[With 85% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmdx3knq1xexo#2</guid>
-            <pubDate>Wed, 28 Oct 2026 16:59:47 GMT</pubDate>
+            <pubDate>Wed, 28 Oct 2026 20:24:39 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3381/live/719a4410-d2f2-11f1-8d86-83eebc838351.jpg"/>
         </item>
         <item>
@@ -151,6 +151,14 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a7f5/live/ac2b2f40-d2de-11f1-b677-b762d2f83f6e.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Israel's election deadlock is a sign of the country's deep divisions]]></title>
+            <description><![CDATA[The election was a celebration of democracy in some ways - but it has left Israel with no clear path to a new government, writes James Landale.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cqz0ve94ygpjo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqz0ve94ygpjo#4</guid>
+            <pubDate>Wed, 28 Oct 2026 20:53:02 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a31/live/8148c250-d311-11f1-a701-fddedf244c16.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Watch: How did Flávio Bolsonaro end up in Miami?]]></title>
             <description><![CDATA[BBC Verify has pieced together defeated presidential candidate Flávio Bolsonaro's journey through Brazil, Argentina and Ecuador to reach Miami.]]></description>
             <link>https://www.bbc.co.uk/news/videos/ck4g1xe5xny4o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -173,14 +181,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm9qzd47ng98o#4</guid>
             <pubDate>Wed, 28 Oct 2026 17:16:03 GMT</pubDate>
             <media:thumbnail width="240" height="139" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/178d/live/98c35e40-d2da-11f1-93e1-3b657b665bcf.png"/>
-        </item>
-        <item>
-            <title><![CDATA[How could Israel break election deadlock? Here are four scenarios]]></title>
-            <description><![CDATA[With 85% of votes counted, all signs point to an impasse. The most likely outcome may be new elections. ]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm62y46d97wwo#4</guid>
-            <pubDate>Wed, 28 Oct 2026 14:30:31 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c6a/live/eef90440-d2d5-11f1-b677-b762d2f83f6e.jpg"/>
         </item>
         <item>
             <title><![CDATA[A bust-up between mathematicians is fuelling fears that AI could undermine science]]></title>
@@ -207,20 +207,12 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/11f9/live/81a98dc0-d252-11f1-b6ed-51fc9a3ab608.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Burnham rules out early general election in next 12 months]]></title>
-            <description><![CDATA[The prime minister has denied speculation from some opposition parties that he will go to the country in spring 2027.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cqx29dj3vv50o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqx29dj3vv50o#6</guid>
-            <pubDate>Wed, 28 Oct 2026 18:41:42 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d0be/live/2ecff280-d2f0-11f1-8d86-83eebc838351.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Elon Musk is a 'real genius', Putin says after satellite talks with SpaceX boss]]></title>
             <description><![CDATA[The Russian President praised Musk and said they are in "close" contact.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c63djl148n3eo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c63djl148n3eo#6</guid>
             <pubDate>Wed, 28 Oct 2026 19:15:58 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a4e/live/248d87d0-d2fd-11f1-8091-57f2713cabe8.jpg"/>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc05/live/74e16f10-d30e-11f1-b441-2b33b063138f.png"/>
         </item>
         <item>
             <title><![CDATA[Train attacker asked man 'do you want to die?', trial hears]]></title>
@@ -237,6 +229,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmvgxl5kdgrzo#6</guid>
             <pubDate>Wed, 28 Oct 2026 17:42:10 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9955/live/07fc5180-d2eb-11f1-93e1-3b657b665bcf.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: King dances in the streets of the Bahamas capital]]></title>
+            <description><![CDATA[The monarch is in the Bahamas as part of a tour of the Caribbean during which he addressed the "great suffering of the past".]]></description>
+            <link>https://www.bbc.co.uk/news/videos/cm87zwe3ydp1o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cm87zwe3ydp1o#6</guid>
+            <pubDate>Wed, 28 Oct 2026 20:44:10 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15f2/live/2647c7b0-d30d-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
             <title><![CDATA[Blindfolded wife 'felt stranger's hand' during sex with husband, court told]]></title>
@@ -285,6 +285,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/cricket/articles/cxyvr1my94m4o#10</guid>
             <pubDate>Wed, 28 Oct 2026 17:33:41 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f819/live/38658c50-d2ec-11f1-93e1-3b657b665bcf.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Chelsea continue unbeaten start with win over Roma]]></title>
+            <description><![CDATA[Chelsea's strong start to the season continues with victory over Roma in the Women's Champions League.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/videos/cm17k8x994edo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cm17k8x994edo#10</guid>
+            <pubDate>Wed, 28 Oct 2026 20:36:25 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e016/live/6ae1e220-d30d-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
             <title><![CDATA[Red Roses make six changes but Kildunne on bench again]]></title>

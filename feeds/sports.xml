@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/sport/football</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 28 Oct 2026 20:20:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Oct 2026 21:08:08 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -183,6 +183,14 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c631/live/f00ea910-d2cc-11f1-8e79-5381b0a9d682.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Chelsea continue unbeaten start with win over Roma]]></title>
+            <description><![CDATA[Chelsea's strong start to the season continues with victory over Roma in the Women's Champions League.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/videos/cm17k8x994edo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cm17k8x994edo#3</guid>
+            <pubDate>Wed, 28 Oct 2026 20:36:25 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e016/live/6ae1e220-d30d-11f1-b441-2b33b063138f.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Lawlor delighted after beating 'best team in the country']]></title>
             <description><![CDATA[Fleetwood Town manager Matt Lawlor could not hide his delight after seeing his team knock Premier League champions Arsenal out of the EFL Cup on penalties.]]></description>
             <link>https://www.bbc.co.uk/sport/football/videos/cr93z7p02743o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -213,14 +221,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/crje5zewk52no#3</guid>
             <pubDate>Mon, 26 Oct 2026 09:41:25 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ee9/live/d80f1580-d11d-11f1-a701-fddedf244c16.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[All the goals from the Women's Super League - matchweek seven ]]></title>
-            <description><![CDATA[Watch every goal from matchweek seven of the Women's Super League 2026-27 season.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/videos/c6073jevmk3go?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/c6073jevmk3go#3</guid>
-            <pubDate>Mon, 26 Oct 2026 12:02:22 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac37/live/d7641860-d131-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
             <title><![CDATA['Biggest night in club's history' for fearless Fleetwood]]></title>
@@ -335,6 +335,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f75b/live/cfdebc20-d191-11f1-8c41-0bbbeafdc6d4.jpg"/>
         </item>
         <item>
+            <title><![CDATA[All the goals from the Women's Super League - matchweek seven ]]></title>
+            <description><![CDATA[Watch every goal from matchweek seven of the Women's Super League 2026-27 season.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/videos/c6073jevmk3go?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/c6073jevmk3go#7</guid>
+            <pubDate>Mon, 26 Oct 2026 12:02:22 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac37/live/d7641860-d131-11f1-a701-fddedf244c16.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Man Utd lacked intensity & fight - Alderweireld]]></title>
             <description><![CDATA[Match of the Day pundits Toby Alderweireld and Ashley Williams analyse Manchester United's 3-0 defeat by Bournemouth, with Alderweireld suggesting there is no "togetherness" amongst the United squad.   ]]></description>
             <link>https://www.bbc.co.uk/sport/football/videos/c6wyrg2vwjmgo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -397,14 +405,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/ckvgd122njp0o#7</guid>
             <pubDate>Sun, 25 Oct 2026 19:54:10 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/586c/live/083f6870-d08f-11f1-a701-fddedf244c16.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Malard stars as Chelsea beat Palace to extend unbeaten start]]></title>
-            <description><![CDATA[Melvine Malard scores twice and wins a penalty as she helps Chelsea come from behind to beat Crystal Palace 3-1 in the Women's Super League, as the away side extend their unbeaten start to the season to seven matches. ]]></description>
-            <link>https://www.bbc.co.uk/sport/football/videos/c699zk701n2yo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/c699zk701n2yo#7</guid>
-            <pubDate>Sun, 25 Oct 2026 17:56:35 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f3d/live/43c747b0-d084-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
             <title><![CDATA[Ranking England's Ballon d'Or winners - how does Kane compare?]]></title>
