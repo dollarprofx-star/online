@@ -9,11 +9,19 @@
             <link>https://www.bbc.co.uk/news/world</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 28 Oct 2026 17:16:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Oct 2026 18:08:05 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/world/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Netanyahu's bloc leading Israel election but short of majority, partial results show]]></title>
+            <description><![CDATA[With 85% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmdx3knq1xexo#0</guid>
+            <pubDate>Wed, 28 Oct 2026 16:59:47 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3381/live/719a4410-d2f2-11f1-8d86-83eebc838351.jpg"/>
+        </item>
         <item>
             <title><![CDATA[How could Israel break election deadlock? Here are four scenarios]]></title>
             <description><![CDATA[With 85% of votes counted, all signs point to an impasse. The most likely outcome may be new elections. ]]></description>

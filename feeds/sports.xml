@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/sport/football</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 28 Oct 2026 17:16:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Oct 2026 18:08:09 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -47,6 +47,14 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5147/live/a2fe6400-d2cf-11f1-b677-b762d2f83f6e.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Hero Haughey's 'surreal moment' after Arsenal shock]]></title>
+            <description><![CDATA[Fleetwood Town defender Conor Haughey tells BBC Sport NI's Thomas Kane about his winning penalty in the Carabao Cup shootout win against Arsenal, the reaction from those back home in Belfast and who he wants next in the draw.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/c6m2dr41x9vko?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6m2dr41x9vko#0</guid>
+            <pubDate>Wed, 28 Oct 2026 16:50:58 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d448/live/1b4f5870-d2e3-11f1-8af5-e1db7ad65222.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Johnstone Burgh to play two cup ties simultaneously after schedule clash]]></title>
             <description><![CDATA[Scottish fifth-tier club Johnstone Burgh are forced to play two cup ties on the same day, with the kick-offs only half an hour apart.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cky831qxdzydo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -68,7 +76,7 @@
             <link>https://www.bbc.co.uk/sport/football/articles/cmx2w477qwjpo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmx2w477qwjpo#0</guid>
             <pubDate>Wed, 28 Oct 2026 16:35:19 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c268/live/91758930-d2ec-11f1-8d86-83eebc838351.jpg"/>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40ce/live/c6513520-d2f4-11f1-8d86-83eebc838351.jpg"/>
         </item>
         <item>
             <title><![CDATA[McClean leaves Derry City after contract dispute]]></title>
@@ -87,10 +95,18 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/713a/live/466d7cb0-d12d-11f1-9a61-7b8d75492b97.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Play the 100th edition of Who am I? Plus today's other quizzes]]></title>
+            <description><![CDATA[Test your football knowledge with today's Who Am I?, Five in Five and Brainteaser quizzes.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cm8xzywpqydko?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cm8xzywpqydko#0</guid>
+            <pubDate>Wed, 28 Oct 2026 06:33:14 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32a8/live/665f3680-d218-11f1-93e1-3b657b665bcf.png"/>
+        </item>
+        <item>
             <title><![CDATA[Are Celtic any nearer Ferrari form a year after Rodgers exit?]]></title>
             <description><![CDATA[How should Martin O'Neill and Celtic be assessed a year since his arrival in place of Brendan Rodgers as manager?]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cmj47zzy4778o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmj47zzy4778o#0</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmj47zzy4778o#1</guid>
             <pubDate>Tue, 27 Oct 2026 17:15:11 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e696/live/75b23390-d2c1-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
@@ -98,17 +114,9 @@
             <title><![CDATA[Dowman sees red as Arsenal dumped out, but did Arteta go too far?]]></title>
             <description><![CDATA[A shocking defeat, a red card card, a penalty-shootout and a drone tell the story of Arsenal's dramatic loss to League Two Fleetwood Town in the last-16 of the Carabao Cup.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cmg47g7dngxlo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmg47g7dngxlo#0</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmg47g7dngxlo#1</guid>
             <pubDate>Wed, 28 Oct 2026 00:34:31 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70a4/live/09aca6f0-d2a6-11f1-b441-2b33b063138f.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Play the 100th edition of Who am I? Plus today's other quizzes]]></title>
-            <description><![CDATA[Test your football knowledge with today's Who Am I?, Five in Five and Brainteaser quizzes.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cm8xzywpqydko?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cm8xzywpqydko#0</guid>
-            <pubDate>Wed, 28 Oct 2026 06:33:14 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32a8/live/665f3680-d218-11f1-93e1-3b657b665bcf.png"/>
         </item>
         <item>
             <title><![CDATA[Where does Fleetwood beating Arsenal rank in biggest cup upsets?]]></title>
@@ -151,20 +159,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eea1/live/d8017ad0-d2e7-11f1-8d86-83eebc838351.jpg"/>
         </item>
         <item>
-            <title><![CDATA['Biggest night in club's history' for fearless Fleetwood]]></title>
-            <description><![CDATA[A whopping 83 league places separated Fleetwood from Arsenal, yet the hosts booked their place in the Carabao Cup quarter-final thanks to their penalty shootout win over the Gunners.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cqgkv2vxeengo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqgkv2vxeengo#1</guid>
-            <pubDate>Wed, 28 Oct 2026 00:39:30 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5033/live/74cba6c0-d256-11f1-aea4-e9d772bed98c.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[MacAnthony promises to sell if Peterborough not in top 10]]></title>
             <description><![CDATA[Peterborough United chairman and majority owner Darragh MacAnthony "promises" to sell the club if they are not in the League One top 10 by February.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/c539830n0wj3o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c539830n0wj3o#1</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c539830n0wj3o#2</guid>
             <pubDate>Wed, 28 Oct 2026 13:14:22 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c631/live/f00ea910-d2cc-11f1-8e79-5381b0a9d682.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Biggest night in club's history' for fearless Fleetwood]]></title>
+            <description><![CDATA[A whopping 83 league places separated Fleetwood from Arsenal, yet the hosts booked their place in the Carabao Cup quarter-final thanks to their penalty shootout win over the Gunners.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cqgkv2vxeengo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqgkv2vxeengo#2</guid>
+            <pubDate>Wed, 28 Oct 2026 00:39:30 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5033/live/74cba6c0-d256-11f1-aea4-e9d772bed98c.jpg"/>
         </item>
         <item>
             <title><![CDATA[Man Utd stick with Carrick - inside a turbulent 48 hours at Old Trafford]]></title>
@@ -207,22 +215,6 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32e2/live/95dbb170-d247-11f1-a701-fddedf244c16.png"/>
         </item>
         <item>
-            <title><![CDATA[How 'anti-superstar' Kane defied doubters to become world's best]]></title>
-            <description><![CDATA[Harry Kane is the humble 'anti-superstar' who defied doubters to achieve Ballon d'Or greatness, says chief football writer Phil McNulty.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cqvg01jyy84xo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqvg01jyy84xo#2</guid>
-            <pubDate>Tue, 27 Oct 2026 12:46:39 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b11d/live/15b94dc0-d1fe-11f1-b30f-21253679b290.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Blackpool beat Aston Villa and Port Vale thrash Man City in Trophy]]></title>
-            <description><![CDATA[Blackpool beat Aston Villa and Port Vale put five past Manchester City's youngsters, plus Tuesday's EFL Trophy round-up.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cmly0zyd15jqo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmly0zyd15jqo#2</guid>
-            <pubDate>Tue, 27 Oct 2026 22:31:57 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ef1/live/b72507b0-d250-11f1-8ba3-9fd3e261415f.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Lawlor delighted after beating 'best team in the country']]></title>
             <description><![CDATA[Fleetwood Town manager Matt Lawlor could not hide his delight after seeing his team knock Premier League champions Arsenal out of the EFL Cup on penalties.]]></description>
             <link>https://www.bbc.co.uk/sport/football/videos/cr93z7p02743o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -263,6 +255,22 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac37/live/d7641860-d131-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
+            <title><![CDATA[How 'anti-superstar' Kane defied doubters to become world's best]]></title>
+            <description><![CDATA[Harry Kane is the humble 'anti-superstar' who defied doubters to achieve Ballon d'Or greatness, says chief football writer Phil McNulty.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cqvg01jyy84xo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqvg01jyy84xo#5</guid>
+            <pubDate>Tue, 27 Oct 2026 12:46:39 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b11d/live/15b94dc0-d1fe-11f1-b30f-21253679b290.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Blackpool beat Aston Villa and Port Vale thrash Man City in Trophy]]></title>
+            <description><![CDATA[Blackpool beat Aston Villa and Port Vale put five past Manchester City's youngsters, plus Tuesday's EFL Trophy round-up.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cmly0zyd15jqo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmly0zyd15jqo#5</guid>
+            <pubDate>Tue, 27 Oct 2026 22:31:57 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ef1/live/b72507b0-d250-11f1-8ba3-9fd3e261415f.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[How have 'best team north or south of border' last season lost six in a row?]]></title>
             <description><![CDATA[BBC Scotland analyses Motherwell's plight to find out what's not clicking at Fir Park.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/c6lylnkzp772o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -287,28 +295,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e10e/live/f7b26730-d1c6-11f1-9381-5f06d29fdf11.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Fleetwood-Arsenal halted for eight minutes because of drone]]></title>
-            <description><![CDATA[Arsenal's match with Fleetwood Town in the last-16 of the Carabao Cup is delayed for more than eight minutes after a drone is spotted above the stadium during the match.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cmqlngxw6lv3o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmqlngxw6lv3o#5</guid>
-            <pubDate>Tue, 27 Oct 2026 23:54:14 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/35c3/live/38ec2910-d24a-11f1-8ba3-9fd3e261415f.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Wenger's 'daylight' offside trial unlikely to be extended]]></title>
             <description><![CDATA[Arsene Wenger's "daylight" offside trial is unlikely to be extended after receiving a lack of support at the Ifab assessment panels.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cwj342p373vzo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cwj342p373vzo#5</guid>
             <pubDate>Tue, 27 Oct 2026 17:21:26 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52ed/live/dd369c90-d226-11f1-93e1-3b657b665bcf.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Carrick stays at Man Utd & Kane wins Ballon d’Or]]></title>
-            <description><![CDATA[Carrick stays at United. Kane wins Ballon d’Or, Putellas claims third Women’s award.]]></description>
-            <link>https://www.bbc.co.uk/sounds/play/p0pjy46g?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0pjy46g#5</guid>
-            <pubDate>Tue, 27 Oct 2026 20:46:00 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0m6ztjd.jpg"/>
         </item>
         <item>
             <title><![CDATA[FAW boss renews call for Infantino to step down]]></title>
@@ -327,20 +319,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cedb/live/3c7b5a40-d14d-11f1-9eb5-811878e0f07d.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Fleetwood-Arsenal halted for eight minutes because of drone]]></title>
+            <description><![CDATA[Arsenal's match with Fleetwood Town in the last-16 of the Carabao Cup is delayed for more than eight minutes after a drone is spotted above the stadium during the match.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cmqlngxw6lv3o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmqlngxw6lv3o#6</guid>
+            <pubDate>Tue, 27 Oct 2026 23:54:14 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/35c3/live/38ec2910-d24a-11f1-8ba3-9fd3e261415f.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Putellas wins record-equalling third Ballon d'Or to extend Spanish dominance]]></title>
             <description><![CDATA[Barcelona and Spain midfielder Alexia Putellas wins the Ballon d'Or Feminin for a record-equalling third time.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cqp9gky38lj3o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqp9gky38lj3o#6</guid>
             <pubDate>Mon, 26 Oct 2026 23:14:39 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f75b/live/cfdebc20-d191-11f1-8c41-0bbbeafdc6d4.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Who has made Troy's Premier League team of the week?]]></title>
-            <description><![CDATA[After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/c804013klnn0o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c804013klnn0o#6</guid>
-            <pubDate>Sun, 25 Oct 2026 22:16:14 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b3e/live/b4b3c870-d0c2-11f1-a701-fddedf244c16.png"/>
         </item>
         <item>
             <title><![CDATA[Milan derby to be shown live on BBC Two]]></title>
