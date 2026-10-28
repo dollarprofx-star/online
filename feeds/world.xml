@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news/world</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 28 Oct 2026 18:08:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Oct 2026 18:55:05 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/world/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -111,6 +111,14 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46a2/live/fff967e0-d239-11f1-904a-5b90e72e87ff.jpg"/>
         </item>
         <item>
+            <title><![CDATA[What we know as Flávio Bolsonaro lands in US after Brazil election loss]]></title>
+            <description><![CDATA[The BBC's Ione Wells unpacks Bolsonaro's journey to Miami after losing Brazil's presidential election and facing a passport surrender order.]]></description>
+            <link>https://www.bbc.co.uk/news/videos/c6x29djyx7g9o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/c6x29djyx7g9o#2</guid>
+            <pubDate>Wed, 28 Oct 2026 16:30:29 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2708/live/9df1e7e0-d2eb-11f1-b441-2b33b063138f.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Watch: At the scene of Spain's deadly train crash]]></title>
             <description><![CDATA[People have been killed after a Spanish high-speed train collided with another train south of the capital Madrid, making this the country's worst disaster since 2013.]]></description>
             <link>https://www.bbc.co.uk/news/videos/cw5ynjgy3vvgo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -125,6 +133,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/c893zeknlvnno#2</guid>
             <pubDate>Wed, 28 Oct 2026 14:26:24 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8924/live/3d448ba0-d2d7-11f1-93e1-3b657b665bcf.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Myanmar diplomat breaks down as he urges world to 'end our suffering']]></title>
+            <description><![CDATA[Kyaw Moe Tun - Myanmar's representative to the UN - makes an emotional appeal after saying the international community had failed the country's people.]]></description>
+            <link>https://www.bbc.co.uk/news/videos/cqz0ve10jxn2o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cqz0ve10jxn2o#2</guid>
+            <pubDate>Wed, 28 Oct 2026 17:34:41 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de84/live/96c3b450-d2f3-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
             <title><![CDATA[What we know about Ukraine-Russia truce in Oleshky, brokered by Melania Trump]]></title>

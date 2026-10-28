@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/sport/football</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 28 Oct 2026 18:08:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Oct 2026 18:55:05 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -31,6 +31,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afc8/live/796bbb50-d2d0-11f1-b677-b762d2f83f6e.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Burnley appoint ex-Basel boss Celestini as head coach]]></title>
+            <description><![CDATA[Burnley appoint Fabio Celestini as their head coach, four days after the departure of Nicky Hayen.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/ckzd67v45523o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ckzd67v45523o#0</guid>
+            <pubDate>Wed, 28 Oct 2026 18:16:58 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea39/live/d7a8fff0-d2fa-11f1-8091-57f2713cabe8.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[All Spanish cup matches suspended after Madrid train collision ]]></title>
             <description><![CDATA[All 24 matches in the Spanish Copa del Rey due to take place on Wednesday are suspended as a mark of respect after at least 68 people were killed in a train crash near Madrid.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/crgj902p68gno?at_medium=RSS&amp;at_campaign=rss</link>
@@ -45,14 +53,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c3dxwdnjqj17o#0</guid>
             <pubDate>Wed, 28 Oct 2026 11:55:21 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5147/live/a2fe6400-d2cf-11f1-b677-b762d2f83f6e.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hero Haughey's 'surreal moment' after Arsenal shock]]></title>
-            <description><![CDATA[Fleetwood Town defender Conor Haughey tells BBC Sport NI's Thomas Kane about his winning penalty in the Carabao Cup shootout win against Arsenal, the reaction from those back home in Belfast and who he wants next in the draw.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/c6m2dr41x9vko?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6m2dr41x9vko#0</guid>
-            <pubDate>Wed, 28 Oct 2026 16:50:58 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d448/live/1b4f5870-d2e3-11f1-8af5-e1db7ad65222.jpg"/>
         </item>
         <item>
             <title><![CDATA[Johnstone Burgh to play two cup ties simultaneously after schedule clash]]></title>
@@ -87,10 +87,18 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cfe9/live/31e75ff0-d2d5-11f1-b677-b762d2f83f6e.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Wrexham fined for fielding ineligible players]]></title>
+            <description><![CDATA[The English Football League fines Wrexham £75k for two instances of fielding ineligible players.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cr89z5pj5n2zo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cr89z5pj5n2zo#0</guid>
+            <pubDate>Wed, 28 Oct 2026 18:22:42 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6edc/live/22cfb9f0-d2f7-11f1-93e1-3b657b665bcf.png"/>
+        </item>
+        <item>
             <title><![CDATA[Can clubs stop team news leaking out through FPL picks?]]></title>
             <description><![CDATA[Chelsea striker Joao Pedro's injury was leaked through the Fantasy Premier League game, but is there anything clubs can do?]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cwly0myd08reo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cwly0myd08reo#0</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cwly0myd08reo#1</guid>
             <pubDate>Wed, 28 Oct 2026 08:36:46 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/713a/live/466d7cb0-d12d-11f1-9a61-7b8d75492b97.jpg"/>
         </item>
@@ -98,7 +106,7 @@
             <title><![CDATA[Play the 100th edition of Who am I? Plus today's other quizzes]]></title>
             <description><![CDATA[Test your football knowledge with today's Who Am I?, Five in Five and Brainteaser quizzes.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cm8xzywpqydko?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cm8xzywpqydko#0</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cm8xzywpqydko#1</guid>
             <pubDate>Wed, 28 Oct 2026 06:33:14 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32a8/live/665f3680-d218-11f1-93e1-3b657b665bcf.png"/>
         </item>
@@ -143,10 +151,18 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ecf7/live/1059be70-d2b0-11f1-8cf0-c5d120932f9f.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Liverpool keen on Stuttgart defender Jeltsch - Wednesday's gossip]]></title>
+            <description><![CDATA[Liverpool are keen on Stuttgart's promising defender Finn Jeltsch, Chelsea still want to sign Bournemouth's Alex Scott; Arsenal, Tottenham and Newcastle are among the clubs keeping tabs on Germany striker Nicolo Tresoldi, plus more.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/ck7vpjqyd4pmo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ck7vpjqyd4pmo#2</guid>
+            <pubDate>Tue, 27 Oct 2026 21:10:47 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32e2/live/95dbb170-d247-11f1-a701-fddedf244c16.png"/>
+        </item>
+        <item>
             <title><![CDATA[Barcelona fined £503 over approach for Alvarez]]></title>
             <description><![CDATA[Barcelona are fined 602 euros (£503) following a complaint by Atletico Madrid over contact the club made with striker Julian Alvarez.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cmpwg0lqxkd4o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmpwg0lqxkd4o#1</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmpwg0lqxkd4o#2</guid>
             <pubDate>Tue, 27 Oct 2026 21:38:20 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6160/live/40cf7ad0-d24d-11f1-8ba3-9fd3e261415f.jpg"/>
         </item>
@@ -154,7 +170,7 @@
             <title><![CDATA[Ousmane Dembele, Winchester City and the Ballon d'Or]]></title>
             <description><![CDATA[France and PSG star Ousmane Dembele's unique connection to non-league side Winchester City resurfaces at Monday's Ballon d'Or ceremony.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/c50mejwmry3vo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c50mejwmry3vo#1</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c50mejwmry3vo#2</guid>
             <pubDate>Wed, 28 Oct 2026 16:01:47 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eea1/live/d8017ad0-d2e7-11f1-8d86-83eebc838351.jpg"/>
         </item>
@@ -189,30 +205,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ck3wvl2ygd77o#2</guid>
             <pubDate>Tue, 27 Oct 2026 17:00:58 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3161/live/109258e0-d227-11f1-b8e4-17c9744a7f8e.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[McInnes set for frosty Tynecastle return - and will Goodwin's entertainers shock Celtic?]]></title>
-            <description><![CDATA[BBC Scotland picks out three things to watch in an intriguing midweek Scottish Premiership card.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cm9qz52e32v8o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cm9qz52e32v8o#2</guid>
-            <pubDate>Wed, 28 Oct 2026 07:10:28 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d5f4/live/011c84c0-d232-11f1-a701-fddedf244c16.png"/>
-        </item>
-        <item>
-            <title><![CDATA[Unlucky seven? Wrexham aim to buck bizarre trend]]></title>
-            <description><![CDATA[Phil Parkinson hopes his Wrexham side can buck the trend of Championship teams struggling in seasons after finishing in seventh in the second tier.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cq3djl59gdz2o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cq3djl59gdz2o#2</guid>
-            <pubDate>Wed, 28 Oct 2026 13:56:28 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f3e/live/0b1c2690-d2d4-11f1-b677-b762d2f83f6e.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Liverpool keen on Stuttgart defender Jeltsch - Wednesday's gossip]]></title>
-            <description><![CDATA[Liverpool are keen on Stuttgart's promising defender Finn Jeltsch, Chelsea still want to sign Bournemouth's Alex Scott; Arsenal, Tottenham and Newcastle are among the clubs keeping tabs on Germany striker Nicolo Tresoldi, plus more.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/ck7vpjqyd4pmo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ck7vpjqyd4pmo#2</guid>
-            <pubDate>Tue, 27 Oct 2026 21:10:47 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32e2/live/95dbb170-d247-11f1-a701-fddedf244c16.png"/>
         </item>
         <item>
             <title><![CDATA[Lawlor delighted after beating 'best team in the country']]></title>
@@ -255,12 +247,28 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac37/live/d7641860-d131-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
+            <title><![CDATA[McInnes set for frosty Tynecastle return - and will Goodwin's entertainers shock Celtic?]]></title>
+            <description><![CDATA[BBC Scotland picks out three things to watch in an intriguing midweek Scottish Premiership card.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cm9qz52e32v8o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cm9qz52e32v8o#5</guid>
+            <pubDate>Wed, 28 Oct 2026 07:10:28 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d5f4/live/011c84c0-d232-11f1-a701-fddedf244c16.png"/>
+        </item>
+        <item>
             <title><![CDATA[How 'anti-superstar' Kane defied doubters to become world's best]]></title>
             <description><![CDATA[Harry Kane is the humble 'anti-superstar' who defied doubters to achieve Ballon d'Or greatness, says chief football writer Phil McNulty.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cqvg01jyy84xo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqvg01jyy84xo#5</guid>
             <pubDate>Tue, 27 Oct 2026 12:46:39 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b11d/live/15b94dc0-d1fe-11f1-b30f-21253679b290.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Unlucky seven? Wrexham aim to buck bizarre trend]]></title>
+            <description><![CDATA[Phil Parkinson hopes his Wrexham side can buck the trend of Championship teams struggling in seasons after finishing in seventh in the second tier.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cq3djl59gdz2o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cq3djl59gdz2o#5</guid>
+            <pubDate>Wed, 28 Oct 2026 13:56:28 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f3e/live/0b1c2690-d2d4-11f1-b677-b762d2f83f6e.jpg"/>
         </item>
         <item>
             <title><![CDATA[Blackpool beat Aston Villa and Port Vale thrash Man City in Trophy]]></title>
@@ -298,17 +306,9 @@
             <title><![CDATA[Wenger's 'daylight' offside trial unlikely to be extended]]></title>
             <description><![CDATA[Arsene Wenger's "daylight" offside trial is unlikely to be extended after receiving a lack of support at the Ifab assessment panels.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cwj342p373vzo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cwj342p373vzo#5</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cwj342p373vzo#6</guid>
             <pubDate>Tue, 27 Oct 2026 17:21:26 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52ed/live/dd369c90-d226-11f1-93e1-3b657b665bcf.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[FAW boss renews call for Infantino to step down]]></title>
-            <description><![CDATA[Chief executive Noel Mooney says the Football Association of Wales retains the view that Fifa president Gianni Infantino should step down.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cw054vdz9g7mo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cw054vdz9g7mo#5</guid>
-            <pubDate>Tue, 27 Oct 2026 15:20:51 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4ca/live/a3f71af0-d216-11f1-8f84-ebd3099fed63.jpg"/>
         </item>
         <item>
             <title><![CDATA[Why is Wilcox in line of fire from Man Utd fans?]]></title>
@@ -317,6 +317,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ck5yn5j37en0o#6</guid>
             <pubDate>Mon, 26 Oct 2026 15:24:12 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cedb/live/3c7b5a40-d14d-11f1-9eb5-811878e0f07d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[FAW boss renews call for Infantino to step down]]></title>
+            <description><![CDATA[Chief executive Noel Mooney says the Football Association of Wales retains the view that Fifa president Gianni Infantino should step down.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cw054vdz9g7mo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cw054vdz9g7mo#6</guid>
+            <pubDate>Tue, 27 Oct 2026 15:20:51 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4ca/live/a3f71af0-d216-11f1-8f84-ebd3099fed63.jpg"/>
         </item>
         <item>
             <title><![CDATA[Fleetwood-Arsenal halted for eight minutes because of drone]]></title>
@@ -341,22 +349,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/crvg93zvgjzzo#6</guid>
             <pubDate>Tue, 27 Oct 2026 16:38:17 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6919/live/98f7c8e0-d223-11f1-b8e4-17c9744a7f8e.png"/>
-        </item>
-        <item>
-            <title><![CDATA[Ranking England's Ballon d'Or winners - how does Kane compare?]]></title>
-            <description><![CDATA[From Stanley Matthews to Harry Kane, how do England's Ballon d'Or winners rank?]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/ckx2qdxgzzz7o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ckx2qdxgzzz7o#6</guid>
-            <pubDate>Tue, 27 Oct 2026 06:20:58 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8687/live/9761da30-d0b0-11f1-a701-fddedf244c16.png"/>
-        </item>
-        <item>
-            <title><![CDATA[How Kane's Ballon d'Or win could boost the Bundesliga ]]></title>
-            <description><![CDATA[Harry Kane's Ballon d'Or win not only ended a 25-year wait for an English winner of the award but also saw a Bundesliga player win it for the first time since 1996.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/crgqwge88z84o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/crgqwge88z84o#6</guid>
-            <pubDate>Tue, 27 Oct 2026 14:24:23 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b57/live/ae4df5d0-d1fa-11f1-8c9f-8d21fef6ffad.jpg"/>
         </item>
         <item>
             <title><![CDATA[Man Utd lacked intensity & fight - Alderweireld]]></title>
@@ -431,6 +423,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f3d/live/43c747b0-d084-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Ranking England's Ballon d'Or winners - how does Kane compare?]]></title>
+            <description><![CDATA[From Stanley Matthews to Harry Kane, how do England's Ballon d'Or winners rank?]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/ckx2qdxgzzz7o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ckx2qdxgzzz7o#10</guid>
+            <pubDate>Tue, 27 Oct 2026 06:20:58 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8687/live/9761da30-d0b0-11f1-a701-fddedf244c16.png"/>
+        </item>
+        <item>
             <title><![CDATA[Kane's rise from childhood keeper to the best in the world]]></title>
             <description><![CDATA[Harry Kane has been named as the world's best player at the Ballon d'Or awards. BBC Sport charts his remarkable career.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cx2ln5n7yqdo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -453,14 +453,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqlye4jpzzxyo#10</guid>
             <pubDate>Mon, 26 Oct 2026 23:10:59 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f13e/live/ed827240-d203-11f1-b441-2b33b063138f.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beer & Blackpool beach was how British players bonded - Pulis]]></title>
-            <description><![CDATA[BBC Sport columnist Tony Pulis explains what Spurs will get from their team-bonding trip to Spain, and how differently managers built team morale in his day.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cjr4yndrz1kro?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cjr4yndrz1kro#10</guid>
-            <pubDate>Mon, 19 Oct 2026 06:23:48 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c068/live/df157960-541c-11f1-8b8c-6d33e1d5abb6.jpg"/>
         </item>
         <item>
             <title><![CDATA[Do Manchester City have any grounds to win their appeal?]]></title>
