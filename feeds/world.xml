@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news/world</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 28 Oct 2026 18:55:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Oct 2026 19:35:45 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/world/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -111,12 +111,12 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46a2/live/fff967e0-d239-11f1-904a-5b90e72e87ff.jpg"/>
         </item>
         <item>
-            <title><![CDATA[What we know as Flávio Bolsonaro lands in US after Brazil election loss]]></title>
-            <description><![CDATA[The BBC's Ione Wells unpacks Bolsonaro's journey to Miami after losing Brazil's presidential election and facing a passport surrender order.]]></description>
-            <link>https://www.bbc.co.uk/news/videos/c6x29djyx7g9o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/c6x29djyx7g9o#2</guid>
-            <pubDate>Wed, 28 Oct 2026 16:30:29 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2708/live/9df1e7e0-d2eb-11f1-b441-2b33b063138f.jpg"/>
+            <title><![CDATA[How did Flávio Bolsonaro end up in Miami?]]></title>
+            <description><![CDATA[BBC Verify has pieced together defeated presidential candidate Flávio Bolsonaro's journey through Brazil, Argentina and Ecuador to reach Miami.]]></description>
+            <link>https://www.bbc.co.uk/news/videos/ck4g1xe5xny4o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/ck4g1xe5xny4o#2</guid>
+            <pubDate>Wed, 28 Oct 2026 18:51:05 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c9c9/live/0a0506e0-d2f8-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
             <title><![CDATA[Watch: At the scene of Spain's deadly train crash]]></title>
@@ -165,7 +165,7 @@
             <link>https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo#3</guid>
             <pubDate>Wed, 28 Oct 2026 15:36:11 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc1d/live/c4d7e6f0-d2c5-11f1-a701-fddedf244c16.jpg"/>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81f7/live/e4acc800-d302-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
             <title><![CDATA[China's families are now supporting more old people than kids]]></title>

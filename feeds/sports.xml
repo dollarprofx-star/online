@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/sport/football</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 28 Oct 2026 18:55:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Oct 2026 19:35:46 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -71,14 +71,6 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c417/live/551b7890-d2c5-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Davies crossing divide between pitch and boardroom]]></title>
-            <description><![CDATA[Ben Davies hopes to bridge the gap between those who execute the strategy on the pitch and those who draft it in the boardroom.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cmx2w477qwjpo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmx2w477qwjpo#0</guid>
-            <pubDate>Wed, 28 Oct 2026 16:35:19 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40ce/live/c6513520-d2f4-11f1-8d86-83eebc838351.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[McClean leaves Derry City after contract dispute]]></title>
             <description><![CDATA[James McClean says Derry City "will always hold a special place in my heart" after mutually agreeing to terminate his contract with immediate effect. ]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cqn738v634xxo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -93,6 +85,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cr89z5pj5n2zo#0</guid>
             <pubDate>Wed, 28 Oct 2026 18:22:42 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6edc/live/22cfb9f0-d2f7-11f1-93e1-3b657b665bcf.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Davies crossing divide between pitch and boardroom]]></title>
+            <description><![CDATA[Ben Davies hopes to bridge the gap between those who execute the strategy on the pitch and those who draft it in the boardroom.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cmx2w477qwjpo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmx2w477qwjpo#1</guid>
+            <pubDate>Wed, 28 Oct 2026 16:35:19 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40ce/live/c6513520-d2f4-11f1-8d86-83eebc838351.jpg"/>
         </item>
         <item>
             <title><![CDATA[Can clubs stop team news leaking out through FPL picks?]]></title>
@@ -135,22 +135,6 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3415/live/1c1ff480-d257-11f1-aea4-e9d772bed98c.jpg"/>
         </item>
         <item>
-            <title><![CDATA[When is the EFL Cup quarter-final draw?]]></title>
-            <description><![CDATA[The quarter-final draw of the EFL Cup takes place on Wednesday, 28 October.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/clyegmmvr4vo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/clyegmmvr4vo#1</guid>
-            <pubDate>Wed, 28 Oct 2026 17:09:05 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52db/live/6caf75b0-9260-11f1-a7ab-8b30adf0800a.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kuyt named Fenerbahce interim boss before Liverpool tie]]></title>
-            <description><![CDATA[Former Netherlands forward Dirk Kuyt is appointed Fenerbahce’s interim coach a week before they face his former club Liverpool in the Champions League.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/c5398300x0nyo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c5398300x0nyo#1</guid>
-            <pubDate>Wed, 28 Oct 2026 09:41:34 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ecf7/live/1059be70-d2b0-11f1-8cf0-c5d120932f9f.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Liverpool keen on Stuttgart defender Jeltsch - Wednesday's gossip]]></title>
             <description><![CDATA[Liverpool are keen on Stuttgart's promising defender Finn Jeltsch, Chelsea still want to sign Bournemouth's Alex Scott; Arsenal, Tottenham and Newcastle are among the clubs keeping tabs on Germany striker Nicolo Tresoldi, plus more.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/ck7vpjqyd4pmo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -159,12 +143,28 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32e2/live/95dbb170-d247-11f1-a701-fddedf244c16.png"/>
         </item>
         <item>
+            <title><![CDATA[Kuyt named Fenerbahce interim boss before Liverpool tie]]></title>
+            <description><![CDATA[Former Netherlands forward Dirk Kuyt is appointed Fenerbahce’s interim coach a week before they face his former club Liverpool in the Champions League.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/c5398300x0nyo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c5398300x0nyo#2</guid>
+            <pubDate>Wed, 28 Oct 2026 09:41:34 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ecf7/live/1059be70-d2b0-11f1-8cf0-c5d120932f9f.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Barcelona fined £503 over approach for Alvarez]]></title>
             <description><![CDATA[Barcelona are fined 602 euros (£503) following a complaint by Atletico Madrid over contact the club made with striker Julian Alvarez.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cmpwg0lqxkd4o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmpwg0lqxkd4o#2</guid>
             <pubDate>Tue, 27 Oct 2026 21:38:20 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6160/live/40cf7ad0-d24d-11f1-8ba3-9fd3e261415f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[When is the EFL Cup quarter-final draw?]]></title>
+            <description><![CDATA[The quarter-final draw of the EFL Cup takes place on Wednesday, 28 October.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/clyegmmvr4vo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/clyegmmvr4vo#2</guid>
+            <pubDate>Wed, 28 Oct 2026 17:09:05 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52db/live/6caf75b0-9260-11f1-a7ab-8b30adf0800a.jpg"/>
         </item>
         <item>
             <title><![CDATA[Ousmane Dembele, Winchester City and the Ballon d'Or]]></title>
@@ -189,22 +189,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqgkv2vxeengo#2</guid>
             <pubDate>Wed, 28 Oct 2026 00:39:30 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5033/live/74cba6c0-d256-11f1-aea4-e9d772bed98c.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Man Utd stick with Carrick - inside a turbulent 48 hours at Old Trafford]]></title>
-            <description><![CDATA[BBC Sport looks at the 48 hours that led to Manchester United deciding to keep under-pressure Michael Carrick as their head coach for Saturday's trip to Chelsea.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cwz0vgj35k7mo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cwz0vgj35k7mo#2</guid>
-            <pubDate>Tue, 27 Oct 2026 18:56:36 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0191/live/aa944b90-d22e-11f1-a701-fddedf244c16.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Captain Xhaka allowed to play for Switzerland again]]></title>
-            <description><![CDATA[Granit Xhaka and Breel Embolo will be allowed to return to action for Switzerland next month following an investigation into forged Covid-19 vaccination certificates.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/ck3wvl2ygd77o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ck3wvl2ygd77o#2</guid>
-            <pubDate>Tue, 27 Oct 2026 17:00:58 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3161/live/109258e0-d227-11f1-b8e4-17c9744a7f8e.jpg"/>
         </item>
         <item>
             <title><![CDATA[Lawlor delighted after beating 'best team in the country']]></title>
@@ -255,6 +239,22 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d5f4/live/011c84c0-d232-11f1-a701-fddedf244c16.png"/>
         </item>
         <item>
+            <title><![CDATA[Captain Xhaka allowed to play for Switzerland again]]></title>
+            <description><![CDATA[Granit Xhaka and Breel Embolo will be allowed to return to action for Switzerland next month following an investigation into forged Covid-19 vaccination certificates.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/ck3wvl2ygd77o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ck3wvl2ygd77o#5</guid>
+            <pubDate>Tue, 27 Oct 2026 17:00:58 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3161/live/109258e0-d227-11f1-b8e4-17c9744a7f8e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Man Utd stick with Carrick - inside a turbulent 48 hours at Old Trafford]]></title>
+            <description><![CDATA[BBC Sport looks at the 48 hours that led to Manchester United deciding to keep under-pressure Michael Carrick as their head coach for Saturday's trip to Chelsea.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cwz0vgj35k7mo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cwz0vgj35k7mo#5</guid>
+            <pubDate>Tue, 27 Oct 2026 18:56:36 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0191/live/aa944b90-d22e-11f1-a701-fddedf244c16.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[How 'anti-superstar' Kane defied doubters to become world's best]]></title>
             <description><![CDATA[Harry Kane is the humble 'anti-superstar' who defied doubters to achieve Ballon d'Or greatness, says chief football writer Phil McNulty.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cqvg01jyy84xo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -290,7 +290,7 @@
             <title><![CDATA[Why did Fleetwood have to lose player for Arsenal penalty shootout?]]></title>
             <description><![CDATA[Fleetwood Town had to remove a player for their penalty shootout against Arsenal - BBC Sport's Ask Me Anything team explains why.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/c8040xn769xgo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c8040xn769xgo#5</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c8040xn769xgo#6</guid>
             <pubDate>Wed, 28 Oct 2026 11:23:20 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b26/live/b3920100-d2c0-11f1-8e79-5381b0a9d682.jpg"/>
         </item>
@@ -298,7 +298,7 @@
             <title><![CDATA[Chinese brands drop Mbappe as backlash grows over Mao joke]]></title>
             <description><![CDATA[The France star had referred to the former Chinese leader as a "dictator" during an interview about memes.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cv62yg0erp8zo#5</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cv62yg0erp8zo#6</guid>
             <pubDate>Tue, 27 Oct 2026 13:25:54 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e10e/live/f7b26730-d1c6-11f1-9381-5f06d29fdf11.jpg"/>
         </item>
@@ -341,14 +341,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqp9gky38lj3o#6</guid>
             <pubDate>Mon, 26 Oct 2026 23:14:39 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f75b/live/cfdebc20-d191-11f1-8c41-0bbbeafdc6d4.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Milan derby to be shown live on BBC Two]]></title>
-            <description><![CDATA[The first Milan derby of the season takes place on Saturday, 31 October and it will be live on BBC Two.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/crvg93zvgjzzo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/crvg93zvgjzzo#6</guid>
-            <pubDate>Tue, 27 Oct 2026 16:38:17 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6919/live/98f7c8e0-d223-11f1-b8e4-17c9744a7f8e.png"/>
         </item>
         <item>
             <title><![CDATA[Man Utd lacked intensity & fight - Alderweireld]]></title>
@@ -581,14 +573,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c65yn8wnr902o#16</guid>
             <pubDate>Wed, 28 Oct 2026 07:29:37 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aaa1/live/2238a020-d2a1-11f1-93e1-3b657b665bcf.png"/>
-        </item>
-        <item>
-            <title><![CDATA[Podcast: McInnes returns to Tynecastle - it's not going to be pretty]]></title>
-            <description><![CDATA[Tynecastle return and pressure at Hibs - we look ahead to a full Premiership card.]]></description>
-            <link>https://www.bbc.co.uk/sounds/play/p0pjzv0k?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0pjzv0k#16</guid>
-            <pubDate>Wed, 28 Oct 2026 08:00:00 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0pjzv29.jpg"/>
         </item>
         <item>
             <title><![CDATA[Where are Celtic & O'Neill a year after Rodgers exit?]]></title>

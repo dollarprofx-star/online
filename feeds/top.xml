@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 28 Oct 2026 18:55:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Oct 2026 19:35:47 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -47,12 +47,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc1b/live/32f89c50-d2ea-11f1-8d86-83eebc838351.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Dharshini David: Healey buys himself some time, but big questions still unanswered]]></title>
-            <description><![CDATA[The chancellor talked of charting a new course for Britain, but the impact of Iran war has limited his options.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cqe9l4px0yzxo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqe9l4px0yzxo#1</guid>
-            <pubDate>Wed, 28 Oct 2026 17:32:51 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/426f/live/d5d2d7e0-d21f-11f1-b8e4-17c9744a7f8e.jpg"/>
+            <title><![CDATA[How the Budget affects you]]></title>
+            <description><![CDATA[Changes announced by Chancellor John Healey in his first Budget will affect your finances directly. Here's how.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo#1</guid>
+            <pubDate>Wed, 28 Oct 2026 16:43:35 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5846/live/65892820-d2e4-11f1-8d3a-ef62f316044e.jpg"/>
         </item>
         <item>
             <title><![CDATA[Watch: At the scene of Spain's deadly train crash]]></title>
@@ -68,7 +68,15 @@
             <link>https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo#2</guid>
             <pubDate>Wed, 28 Oct 2026 15:36:11 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc1d/live/c4d7e6f0-d2c5-11f1-a701-fddedf244c16.jpg"/>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81f7/live/e4acc800-d302-11f1-a701-fddedf244c16.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Flávio Bolsonaro lands in Miami after defeat in Brazil's presidential election]]></title>
+            <description><![CDATA[His arrival in the US ends speculation about his whereabouts after he failed to comply with an order to surrender his passports.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo#2</guid>
+            <pubDate>Wed, 28 Oct 2026 18:42:45 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c2c/live/4c19c1e0-d2eb-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
             <title><![CDATA[Netanyahu's bloc leading Israel election but short of majority, partial results show]]></title>
@@ -95,22 +103,6 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d10a/live/a9fbaa70-d2f1-11f1-8d86-83eebc838351.jpg"/>
         </item>
         <item>
-            <title><![CDATA[How the Budget affects you]]></title>
-            <description><![CDATA[Changes announced by Chancellor John Healey in his first Budget will affect your finances directly. Here's how.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo#3</guid>
-            <pubDate>Wed, 28 Oct 2026 16:43:35 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5846/live/65892820-d2e4-11f1-8d3a-ef62f316044e.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Healey tells departments to make 1% cuts to fund defence]]></title>
-            <description><![CDATA[The reduction in public spending will go towards paying for the Defence Investment Plan. ]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c65ynl0px107o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c65ynl0px107o#3</guid>
-            <pubDate>Wed, 28 Oct 2026 17:52:48 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a7f5/live/ac2b2f40-d2de-11f1-b677-b762d2f83f6e.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Tax thresholds remain unchanged - here's what it means for your pay]]></title>
             <description><![CDATA[The point at which you start to pay tax, and the point where you tip into paying a higher rate of tax have been frozen for three more years.]]></description>
             <link>https://www.bbc.co.uk/news/articles/clydn7r5pn1o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -119,12 +111,28 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af37/live/66999470-d2e9-11f1-8d86-83eebc838351.jpg"/>
         </item>
         <item>
-            <title><![CDATA[What we know as Flávio Bolsonaro lands in US after Brazil election loss]]></title>
-            <description><![CDATA[The BBC's Ione Wells unpacks Bolsonaro's journey to Miami after losing Brazil's presidential election and facing a passport surrender order.]]></description>
-            <link>https://www.bbc.co.uk/news/videos/c6x29djyx7g9o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/c6x29djyx7g9o#4</guid>
-            <pubDate>Wed, 28 Oct 2026 16:30:29 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2708/live/9df1e7e0-d2eb-11f1-b441-2b33b063138f.jpg"/>
+            <title><![CDATA[Healey tells departments to make 1% cuts to fund defence]]></title>
+            <description><![CDATA[The reduction in public spending will go towards paying for the Defence Investment Plan. ]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c65ynl0px107o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c65ynl0px107o#3</guid>
+            <pubDate>Wed, 28 Oct 2026 19:01:34 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a7f5/live/ac2b2f40-d2de-11f1-b677-b762d2f83f6e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dharshini David: Healey buys himself some time, but big questions still unanswered]]></title>
+            <description><![CDATA[The chancellor talked of charting a new course for Britain, but the impact of Iran war has limited his options.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cqe9l4px0yzxo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqe9l4px0yzxo#3</guid>
+            <pubDate>Wed, 28 Oct 2026 17:32:51 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/426f/live/d5d2d7e0-d21f-11f1-b8e4-17c9744a7f8e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: How did Flávio Bolsonaro end up in Miami?]]></title>
+            <description><![CDATA[BBC Verify has pieced together defeated presidential candidate Flávio Bolsonaro's journey through Brazil, Argentina and Ecuador to reach Miami.]]></description>
+            <link>https://www.bbc.co.uk/news/videos/ck4g1xe5xny4o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/ck4g1xe5xny4o#4</guid>
+            <pubDate>Wed, 28 Oct 2026 18:51:05 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c9c9/live/0a0506e0-d2f8-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
             <title><![CDATA[Babydoll singer says life will 'never be the same again' after UK number one]]></title>
@@ -183,6 +191,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d0be/live/2ecff280-d2f0-11f1-8d86-83eebc838351.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Elon Musk is a 'real genius', Putin says after satellite talks with SpaceX boss]]></title>
+            <description><![CDATA[The Russian President praised Musk and said they are in "close" contact.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c63djl148n3eo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c63djl148n3eo#6</guid>
+            <pubDate>Wed, 28 Oct 2026 19:15:58 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a4e/live/248d87d0-d2fd-11f1-8091-57f2713cabe8.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Russell Brand tells trial sexual consent is 'fundamental']]></title>
             <description><![CDATA[The entertainer gives evidence at his trial on charges including rape and assault, which he denies.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cmvgxl5kdgrzo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -205,14 +221,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwp8gdk3rzn3o#6</guid>
             <pubDate>Wed, 28 Oct 2026 18:48:15 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36d8/live/145f70f0-d2ec-11f1-8d86-83eebc838351.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Legal bid to overturn Drumcree march ban fails]]></title>
-            <description><![CDATA[The High Court in Belfast has ruled that Sir Chris Bryant's decision made on 9 October was lawful.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c674p7v91wx8o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c674p7v91wx8o#6</guid>
-            <pubDate>Wed, 28 Oct 2026 15:56:21 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ac2/live/f24bf110-d2db-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
             <title><![CDATA[Blindfolded wife 'felt stranger's hand' during sex with husband, court told]]></title>
@@ -239,12 +247,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf6/live/d1e71250-9509-11ee-8df3-1d2983d8814f.png"/>
         </item>
         <item>
-            <title><![CDATA[Carrick and Fernandes hold clear-the-air talks]]></title>
-            <description><![CDATA[Manchester United head coach Michael Carrick and captain Bruno Fernandes hold clear-the-air talks at the club's training ground.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cje36dn5nx36o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cje36dn5nx36o#10</guid>
-            <pubDate>Wed, 28 Oct 2026 11:48:28 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4ff/live/98c57790-d2ce-11f1-b441-2b33b063138f.jpg"/>
+            <title><![CDATA[Red Roses make six changes but Kildunne on bench again]]></title>
+            <description><![CDATA[Red Roses' star Ellie Kildunne is named on England's bench again as head coach John Mitchell makes six changes to his side to face the United States.]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-union/articles/cq1m4kn84gk2o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/rugby-union/articles/cq1m4kn84gk2o#10</guid>
+            <pubDate>Wed, 28 Oct 2026 19:00:51 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e95/live/aa597550-d306-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
             <title><![CDATA[Labuschagne's form hits record low but Australia hint at future]]></title>
@@ -255,20 +263,12 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f819/live/38658c50-d2ec-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Arsenal to appeal against Dowman red card]]></title>
-            <description><![CDATA[Arsenal will appeal against Max Dowman's sending-off during Tuesday's Carabao Cup defeat at Fleetwood Town.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/c3dxwdnjqj17o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c3dxwdnjqj17o#10</guid>
-            <pubDate>Wed, 28 Oct 2026 11:55:21 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5147/live/a2fe6400-d2cf-11f1-b677-b762d2f83f6e.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['Relax, I love Kane and Lamine Yamal' - Henry defends his Ballon d'Or hosting]]></title>
-            <description><![CDATA[Former Arsenal forward Thierry Henry responds to criticism of a number of comments he made during Monday's Ballon d'Or ceremony and claims they were "jokes".]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cm369r0n0zk5o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cm369r0n0zk5o#10</guid>
-            <pubDate>Wed, 28 Oct 2026 12:13:23 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afc8/live/796bbb50-d2d0-11f1-b677-b762d2f83f6e.jpg"/>
+            <title><![CDATA[Carrick and Fernandes hold clear-the-air talks]]></title>
+            <description><![CDATA[Manchester United head coach Michael Carrick and captain Bruno Fernandes hold clear-the-air talks at the club's training ground.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cje36dn5nx36o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cje36dn5nx36o#10</guid>
+            <pubDate>Wed, 28 Oct 2026 11:48:28 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4ff/live/98c57790-d2ce-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
             <title><![CDATA[Perez signs multi-year extension with Cadillac]]></title>
