@@ -5,7 +5,7 @@
         <atom:link href="https://rss.punchng.com" rel="self" type="application/rss+xml" />
         <link> https://rss.punchng.com </link>
         <description> Get the latest News in Nigeria </description>
-        <lastBuildDate> Wed, 28 Oct 2026 11:06:38 +0000</lastBuildDate>
+        <lastBuildDate> Wed, 28 Oct 2026 11:46:44 +0000</lastBuildDate>
         <language> en-US </language>
         <sy:updatePeriod> minutely	</sy:updatePeriod>
         <sy:updateFrequency> 5	</sy:updateFrequency>
@@ -13,6 +13,20 @@
         <generator>https://rss.punchng.com</generator>
 
         <item>
+                        <title>EPL: Carrick, Fernandes resolve tensions after Bournemouth defeat</title>
+                        <link>https://punchng.com/epl-carrick-fernandes-resolve-tensions-after-bournemouth-defeat/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
+                        <pubDate>Wed, 28 Oct 2026 12:43:00 +0000</pubDate>
+                        <dc:creator><![CDATA[Punch Newspapers]]></dc:creator>
+                        <category><![CDATA[]]></category>
+                        <guid isPermaLink='true'>https://punchng.com/epl-carrick-fernandes-resolve-tensions-after-bournemouth-defeat/?utm_source=rss.punchng.com&amp;utm_medium=web</guid>
+                        <description><![CDATA[
+
+Michael Carrick and Bruno Fernandes have held clear-the-air talks following Man United&#8217;s 3-0 defeat to Bournemouth, which saw the captain benched.
+
+Read More: https://punchng.com/epl-carrick-fernandes-resolve-tensions-after-bournemouth-defeat/]]></description>
+                        <enclosure url='https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png' length='342247' type='image/png'/>
+                    </item>
+                    <item>
                         <title>Soldiers arrest two suspects over burning of vigilante office in Plateau</title>
                         <link>https://punchng.com/soldiers-arrest-two-suspects-over-burning-of-vigilante-office-in-plateau/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
                         <pubDate>Wed, 28 Oct 2026 12:02:31 +0000</pubDate>
@@ -83,20 +97,6 @@ Read More: https://punchng.com/japan-football-fa-vice-president-quits-over-world
                         <enclosure url='https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png' length='342247' type='image/png'/>
                     </item>
                     <item>
-                        <title>BREAKING: NELFUND introduces token system to stop double payment of school fees</title>
-                        <link>https://punchng.com/breaking-nelfund-introduces-token-system-to-stop-double-payment-of-school-fees/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
-                        <pubDate>Wed, 28 Oct 2026 11:13:07 +0000</pubDate>
-                        <dc:creator><![CDATA[Punch Newspapers]]></dc:creator>
-                        <category><![CDATA[]]></category>
-                        <guid isPermaLink='true'>https://punchng.com/breaking-nelfund-introduces-token-system-to-stop-double-payment-of-school-fees/?utm_source=rss.punchng.com&amp;utm_medium=web</guid>
-                        <description><![CDATA[
-
-The Nigerian Education Loan Fund has introduced a token system to prevent students from paying school fees twice and to eliminate refund complications.
-
-Read More: https://punchng.com/breaking-nelfund-introduces-token-system-to-stop-double-payment-of-school-fees/]]></description>
-                        <enclosure url='https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png' length='342247' type='image/png'/>
-                    </item>
-                    <item>
                         <title>Many injured in Spain as two trains crash</title>
                         <link>https://punchng.com/many-injured-in-spain-as-two-trains-crash/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
                         <pubDate>Wed, 28 Oct 2026 11:12:03 +0000</pubDate>
@@ -119,9 +119,23 @@ Read More: https://punchng.com/many-injured-in-spain-as-two-trains-crash/]]></de
                         <guid isPermaLink='true'>https://punchng.com/uk-increases-student-visa-financial-requirements-for-international-students/?utm_source=rss.punchng.com&amp;utm_medium=web</guid>
                         <description><![CDATA[
 
-The UK has increased the financial requirements for international students, including Nigerians, applying for study visas from November 30, 2026.
+The UK Home Office has increased the financial requirements for international students, including Nigerians, applying for study visas from November 30, 202
 
 Read More: https://punchng.com/uk-increases-student-visa-financial-requirements-for-international-students/]]></description>
+                        <enclosure url='https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png' length='342247' type='image/png'/>
+                    </item>
+                    <item>
+                        <title>BREAKING: NELFUND introduces token system to stop double payment of school fees</title>
+                        <link>https://punchng.com/breaking-nelfund-introduces-token-system-to-stop-double-payment-of-school-fees/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
+                        <pubDate>Wed, 28 Oct 2026 11:00:07 +0000</pubDate>
+                        <dc:creator><![CDATA[Punch Newspapers]]></dc:creator>
+                        <category><![CDATA[]]></category>
+                        <guid isPermaLink='true'>https://punchng.com/breaking-nelfund-introduces-token-system-to-stop-double-payment-of-school-fees/?utm_source=rss.punchng.com&amp;utm_medium=web</guid>
+                        <description><![CDATA[
+
+The Nigerian Education Loan Fund has introduced a token system to stop double payment of school fees and eliminate refund issues for student loan beneficia
+
+Read More: https://punchng.com/breaking-nelfund-introduces-token-system-to-stop-double-payment-of-school-fees/]]></description>
                         <enclosure url='https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png' length='342247' type='image/png'/>
                     </item>
                     <item>
@@ -416,20 +430,6 @@ Read More: https://punchng.com/barcelona-fined-e602-over-alvarez-approach/]]></d
 Thierry Henry has defended his interactions with Lamine Yamal and Kate Scott at the Ballon d’Or ceremony, insisting his remarks were jokes, not disrespect.
 
 Read More: https://punchng.com/ballon-dor-henry-breaks-silence-on-yamal-kate-scott-controversies/]]></description>
-                        <enclosure url='https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png' length='342247' type='image/png'/>
-                    </item>
-                    <item>
-                        <title>Morning recap: FG’s N70,000 allowance, Fubara-Wike alliance, Katsina cleric’s killing, other stories</title>
-                        <link>https://punchng.com/morning-recap-fgs-n70000-allowance-fubara-wike-alliance-katsina-clerics-killing-other-stories/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
-                        <pubDate>Wed, 28 Oct 2026 08:07:42 +0000</pubDate>
-                        <dc:creator><![CDATA[Punch Newspapers]]></dc:creator>
-                        <category><![CDATA[]]></category>
-                        <guid isPermaLink='true'>https://punchng.com/morning-recap-fgs-n70000-allowance-fubara-wike-alliance-katsina-clerics-killing-other-stories/?utm_source=rss.punchng.com&amp;utm_medium=web</guid>
-                        <description><![CDATA[
-
-Read the morning roundup on the FG&#8217;s N70,000 transport allowance for workers, Fubara and Wike&#8217;s new alliance, and the killing of a cleric in Katsina.
-
-Read More: https://punchng.com/morning-recap-fgs-n70000-allowance-fubara-wike-alliance-katsina-clerics-killing-other-stories/]]></description>
                         <enclosure url='https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png' length='342247' type='image/png'/>
                     </item>
                         </channel>
