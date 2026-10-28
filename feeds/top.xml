@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 28 Oct 2026 08:37:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Oct 2026 09:27:01 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -19,7 +19,7 @@
             <description><![CDATA[Chancellor John Healey will set out his plans for UK taxes on 28 October.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno#1</guid>
-            <pubDate>Wed, 28 Oct 2026 07:39:54 GMT</pubDate>
+            <pubDate>Wed, 28 Oct 2026 09:25:19 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c529/live/61181430-d2a9-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
@@ -32,12 +32,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5351/live/42654eb0-d29d-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Defeated presidential candidate Flávio Bolsonaro arrives in US after Brazil cancels his passports, sources say]]></title>
-            <description><![CDATA[The defeated presidential candidate's apparent arrival in the US came hours after he failed to turn in his passports to Brazilian authorities.]]></description>
+            <title><![CDATA[Confusion about Flávio Bolsonaro's whereabouts as Argentina says he flew to Ecuador]]></title>
+            <description><![CDATA[The defeated presidential candidate's whereabouts are unclear, as Argentina says he boarded a flight to Ecuador.]]></description>
             <link>https://www.bbc.co.uk/news/articles/ckly0xpxp243o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckly0xpxp243o#1</guid>
-            <pubDate>Wed, 28 Oct 2026 02:47:45 GMT</pubDate>
+            <pubDate>Wed, 28 Oct 2026 08:55:49 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65cf/live/0c187e30-d2a3-11f1-93e1-3b657b665bcf.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Biggest night in club's history' as fearless Fleetwood stun Arsenal in EFL Cup]]></title>
+            <description><![CDATA[A whopping 83 league places separated Fleetwood from Arsenal, yet the hosts booked their place in the Carabao Cup quarter-final thanks to their penalty shootout win over the Gunners.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cqgkv2vxeengo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqgkv2vxeengo#1</guid>
+            <pubDate>Wed, 28 Oct 2026 00:39:30 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5033/live/74cba6c0-d256-11f1-aea4-e9d772bed98c.jpg"/>
         </item>
         <item>
             <title><![CDATA[King acknowledges 'suffering of the past' as Caribbean tour begins]]></title>
@@ -70,14 +78,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cr20w5vx39peo#1</guid>
             <pubDate>Wed, 28 Oct 2026 00:01:03 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0c1/live/a72f6590-d1f5-11f1-93e1-3b657b665bcf.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['Biggest night in club's history' as fearless Fleetwood stun Arsenal in EFL Cup]]></title>
-            <description><![CDATA[A whopping 83 league places separated Fleetwood from Arsenal, yet the hosts booked their place in the Carabao Cup quarter-final thanks to their penalty shootout win over the Gunners.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cqgkv2vxeengo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqgkv2vxeengo#1</guid>
-            <pubDate>Wed, 28 Oct 2026 00:39:30 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5033/live/74cba6c0-d256-11f1-aea4-e9d772bed98c.jpg"/>
         </item>
         <item>
             <title><![CDATA[Luxury cruise passengers stranded in Cambodia due to soaring fuel costs]]></title>
@@ -256,6 +256,14 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b564/live/880c4810-d257-11f1-aea4-e9d772bed98c.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Liverpool gambled on Jacquet and it is paying off]]></title>
+            <description><![CDATA[Liverpool beat Chelsea to the signing of Jeremy Jacquet and the defender is thriving at Anfield. Things could have been very different...]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cqgkv216dx2no?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqgkv216dx2no#9</guid>
+            <pubDate>Wed, 28 Oct 2026 08:36:34 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0222/live/8a6c2fc0-d154-11f1-9eb5-811878e0f07d.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Why Hurts played with blood clot and what it means for NFL]]></title>
             <description><![CDATA[Philadelphia Eagles quarterback Jalen Hurts is recovering from a life-threatening condition which developed after he was cleared to play with a blood clot and board a long-haul flight.]]></description>
             <link>https://www.bbc.co.uk/sport/american-football/articles/cm0qk37933nno?at_medium=RSS&amp;at_campaign=rss</link>
@@ -270,14 +278,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/cycling/articles/cjn5vql4z137o#9</guid>
             <pubDate>Wed, 28 Oct 2026 06:12:34 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4aef/live/a91aedb0-d14c-11f1-b587-a3ec61e669b1.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Where does Fleetwood beating Arsenal rank in biggest cup upsets?]]></title>
-            <description><![CDATA[BBC Sport looks at the history of the biggest FA Cup and League Cup upsets after Fleetwood Town's shock win against Arsenal.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cq62y7yzjdmzo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cq62y7yzjdmzo#9</guid>
-            <pubDate>Tue, 27 Oct 2026 23:35:11 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3415/live/1c1ff480-d257-11f1-aea4-e9d772bed98c.jpg"/>
         </item>
     </channel>
 </rss>
