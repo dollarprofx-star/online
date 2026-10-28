@@ -9,17 +9,17 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 28 Oct 2026 06:58:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Oct 2026 07:52:20 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
-            <title><![CDATA[Tax on banks, energy bill help and minimum wage rise - what could be in the Budget?]]></title>
+            <title><![CDATA[Energy bill help, minimum wage rise and bank taxes - what could be in the Budget?]]></title>
             <description><![CDATA[Chancellor John Healey will set out his plans for UK taxes on 28 October.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno#1</guid>
-            <pubDate>Wed, 28 Oct 2026 00:03:10 GMT</pubDate>
+            <pubDate>Wed, 28 Oct 2026 07:39:54 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a8c/live/b075b800-d21f-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
@@ -29,7 +29,7 @@
             <link>https://www.bbc.co.uk/news/videos/cm79p5pxqey2o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cm79p5pxqey2o#1</guid>
             <pubDate>Wed, 28 Oct 2026 04:22:59 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c34b/live/eebe6880-d262-11f1-b441-2b33b063138f.jpg"/>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5351/live/42654eb0-d29d-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
             <title><![CDATA[Defeated presidential candidate Flávio Bolsonaro arrives in US after Brazil cancels his passports, sources say]]></title>
@@ -37,7 +37,7 @@
             <link>https://www.bbc.co.uk/news/articles/ckly0xpxp243o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckly0xpxp243o#1</guid>
             <pubDate>Wed, 28 Oct 2026 02:47:45 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8385/live/d2ce76e0-d232-11f1-93e1-3b657b665bcf.jpg"/>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65cf/live/0c187e30-d2a3-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
             <title><![CDATA[King acknowledges 'suffering of the past' as Caribbean tour begins]]></title>
@@ -48,20 +48,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f0e4/live/7d77ba00-d249-11f1-8ba3-9fd3e261415f.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Thick fog to create dangerous driving conditions for UK commuters]]></title>
-            <description><![CDATA[After storms across the UK, the weather is set to turn calmer with mist and fog at times over the coming week.]]></description>
-            <link>https://www.bbc.co.uk/weather/articles/c6x2wr0dwzx1o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/weather/articles/c6x2wr0dwzx1o#1</guid>
-            <pubDate>Wed, 28 Oct 2026 03:29:29 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac35/live/641cb4d0-d1fd-11f1-b30f-21253679b290.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Neil Young again sues Trump campaign for playing Rockin' in the Free World at rally]]></title>
-            <description><![CDATA[The Canadian-American musician sued Trump in 2020 over unauthorised use of song at a political event.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cqr7y3d0dvm5o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqr7y3d0dvm5o#1</guid>
-            <pubDate>Wed, 28 Oct 2026 02:44:50 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de00/live/637d2790-d24c-11f1-8ba3-9fd3e261415f.jpg"/>
+            <title><![CDATA[Trump says US voter fraud is 'rampant' - evidence suggests it is extremely rare]]></title>
+            <description><![CDATA[As the US president casts doubt on the security of the midterm elections, BBC Verify examines his claims.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/ckeq3vezxlx1o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckeq3vezxlx1o#1</guid>
+            <pubDate>Tue, 27 Oct 2026 21:46:43 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d705/live/81506150-d23e-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
             <title><![CDATA[Landline switchover could cut people off in emergency, minister warned]]></title>
@@ -72,20 +64,28 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1cce/live/f32ec320-d22f-11f1-a1ed-ffd83ae54f7c.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Alexander brothers each sentenced to 30 years in prison in sex trafficking case]]></title>
-            <description><![CDATA[The trio - two of whom were high-profile US real estate moguls - were found guilty using their social status to lure women to parties and then raping them.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cqn498mng08ro?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqn498mng08ro#1</guid>
-            <pubDate>Wed, 28 Oct 2026 02:20:25 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c228/live/e6371090-d249-11f1-8ba3-9fd3e261415f.jpg"/>
+            <title><![CDATA[Multiple sclerosis patient living in 'horrific pain' due to UK-wide drugs shortage]]></title>
+            <description><![CDATA[Jill Kenning says she has been unable to get a drug she uses to manage her condition.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cr20w5vx39peo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cr20w5vx39peo#1</guid>
+            <pubDate>Wed, 28 Oct 2026 00:01:03 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0c1/live/a72f6590-d1f5-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Serial killer Ted Bundy linked to teenage girl's murder after 52 years]]></title>
-            <description><![CDATA[Authorities in Utah used advanced DNA technology to solve the cold case decades after the notorious killer was executed.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/ckqxnd7j5007o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckqxnd7j5007o#1</guid>
-            <pubDate>Tue, 27 Oct 2026 19:56:02 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c4e/live/e382eae0-d23a-11f1-93e1-3b657b665bcf.jpg"/>
+            <title><![CDATA[Thick fog to create dangerous driving conditions for UK commuters]]></title>
+            <description><![CDATA[After storms across the UK, the weather is set to turn calmer with mist and fog at times over the coming week.]]></description>
+            <link>https://www.bbc.co.uk/weather/articles/c6x2wr0dwzx1o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/weather/articles/c6x2wr0dwzx1o#1</guid>
+            <pubDate>Wed, 28 Oct 2026 03:29:29 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dec6/live/f86ea8e0-d2a3-11f1-93e1-3b657b665bcf.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Luxury cruise passengers stranded in Cambodia due to soaring fuel costs]]></title>
+            <description><![CDATA[The Villa Vie Odyssey suspended its voyage and is working with passengers on "temporary living arrangements".]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwj342k62exyo#1</guid>
+            <pubDate>Wed, 28 Oct 2026 07:38:13 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7eaf/live/69ded4d0-d26f-11f1-a4f1-4fff2e6cf5f3.jpg"/>
         </item>
         <item>
             <title><![CDATA[Chris Mason: Budget needs to go some way towards delivering PM's promises]]></title>
@@ -96,20 +96,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a8f/live/dbace880-d298-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
+            <title><![CDATA[What to expect from this year's Budget]]></title>
+            <description><![CDATA[The BBC's political correspondent Harry Farley explains what to expect ahead of John Healey's first Budget.]]></description>
+            <link>https://www.bbc.co.uk/news/videos/c6p9gv5vd70lo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/c6p9gv5vd70lo#2</guid>
+            <pubDate>Wed, 28 Oct 2026 07:12:55 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fccc/live/27f209d0-d2a0-11f1-b441-2b33b063138f.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[I get £4,062 a year and am trying my best - here's what I want from the Budget]]></title>
             <description><![CDATA[People on a range of incomes from £4,062 to £150,000 a year tell the BBC what they want to see in this year's Budget.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmx235r9wr3yo#2</guid>
             <pubDate>Wed, 28 Oct 2026 00:03:05 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1484/live/60f61940-d225-11f1-93e1-3b657b665bcf.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Who is Chancellor John Healey? Labour veteran who quit as defence secretary]]></title>
-            <description><![CDATA[The softly-spoken former defence secretary is gearing up for the biggest moment of his long political career.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/ce85y9lm81no?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ce85y9lm81no#2</guid>
-            <pubDate>Thu, 22 Oct 2026 09:35:25 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb79/live/e0522e10-d21e-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
             <title><![CDATA[Four ways Labour could raise money in the Budget without hiking income tax]]></title>
@@ -120,20 +120,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4709/live/59ef3fb0-ceff-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Arab parties could hold key as Netanyahu and Eisenkot set to fall short of victory]]></title>
+            <description><![CDATA[The two main blocs appear to have too few seats to form the next government without reliance on Arab parties.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cjy561y4pl56o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cjy561y4pl56o#3</guid>
+            <pubDate>Wed, 28 Oct 2026 06:53:23 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c2b/live/e44a9b80-d299-11f1-b255-6fc3b99d1334.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[A bust-up between mathematicians is fuelling fears that AI could undermine science]]></title>
             <description><![CDATA[AI has made some awesome scientific discoveries. But now, questions are being raised about its accuracy]]></description>
             <link>https://www.bbc.co.uk/news/articles/c6gelgxjwzdzo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6gelgxjwzdzo#3</guid>
             <pubDate>Wed, 28 Oct 2026 01:01:02 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e1f6/live/c49501d0-cdf4-11f1-a64c-550be9e3c66b.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Trump says US voter fraud is 'rampant' - evidence suggests it is extremely rare]]></title>
-            <description><![CDATA[As the US president casts doubt on the security of the midterm elections, BBC Verify examines his claims.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/ckeq3vezxlx1o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckeq3vezxlx1o#3</guid>
-            <pubDate>Tue, 27 Oct 2026 21:46:43 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d705/live/81506150-d23e-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
             <title><![CDATA[China's families are now supporting more old people than kids]]></title>
@@ -160,20 +160,28 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3415/live/1c1ff480-d257-11f1-aea4-e9d772bed98c.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Luxury cruise passengers stranded in Cambodia due to soaring fuel costs]]></title>
-            <description><![CDATA[The Villa Vie Odyssey suspends its voyage and is working with passengers on "temporary living arrangements".]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwj342k62exyo#5</guid>
-            <pubDate>Wed, 28 Oct 2026 03:43:38 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7eaf/live/69ded4d0-d26f-11f1-a4f1-4fff2e6cf5f3.jpg"/>
+            <title><![CDATA[Alexander brothers each sentenced to 30 years in prison in sex trafficking case]]></title>
+            <description><![CDATA[The trio - two of whom were high-profile US real estate moguls - were found guilty using their social status to lure women to parties and then raping them.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cqn498mng08ro?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqn498mng08ro#5</guid>
+            <pubDate>Wed, 28 Oct 2026 02:20:25 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c228/live/e6371090-d249-11f1-8ba3-9fd3e261415f.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Healey to promise £15m to tackle misogyny in Budget]]></title>
-            <description><![CDATA[The Conservatives doubt whether women and girls will feel safer as a result of the funding.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cme36gez2d3qo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cme36gez2d3qo#5</guid>
-            <pubDate>Tue, 27 Oct 2026 18:23:09 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d316/live/00dde230-d23f-11f1-b441-2b33b063138f.jpg"/>
+            <title><![CDATA[Neil Young sues Trump campaign again for playing Rockin' in the Free World at rally]]></title>
+            <description><![CDATA[The Canadian-American musician sued Trump in 2020 over unauthorised use of song at a political event.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cqr7y3d0dvm5o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqr7y3d0dvm5o#5</guid>
+            <pubDate>Wed, 28 Oct 2026 02:44:50 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de00/live/637d2790-d24c-11f1-8ba3-9fd3e261415f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Serial killer Ted Bundy linked to teenage girl's murder after 52 years]]></title>
+            <description><![CDATA[Authorities in Utah used advanced DNA technology to solve the cold case decades after the notorious killer was executed.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/ckqxnd7j5007o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckqxnd7j5007o#5</guid>
+            <pubDate>Tue, 27 Oct 2026 19:56:02 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c4e/live/e382eae0-d23a-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
             <title><![CDATA[Two in court over alleged Iran-linked plot at RAF Fairford]]></title>
@@ -200,20 +208,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9def/live/df52aa20-d1f7-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Dutch zookeeper dies after being mauled by leopard]]></title>
-            <description><![CDATA[The woman began her career at the park when she was 17 and had worked there on-and-off for four decades.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/crwyq90gwg8jo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/crwyq90gwg8jo#5</guid>
-            <pubDate>Tue, 27 Oct 2026 19:30:37 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d5f/live/cfa3dd20-d22d-11f1-b8e4-17c9744a7f8e.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Manhunt under way for Tennessee killer who escaped prison through a fence]]></title>
-            <description><![CDATA[Morley was given a life sentence for the 2022 killing of his co-worker Cody Birchfield. ]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c64g17jqy5ddo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c64g17jqy5ddo#5</guid>
-            <pubDate>Tue, 27 Oct 2026 19:20:13 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2426/live/ee2a8c90-d218-11f1-a701-fddedf244c16.jpg"/>
+            <title><![CDATA[Healey to promise £15m to tackle misogyny in Budget]]></title>
+            <description><![CDATA[The Conservatives doubt whether women and girls will feel safer as a result of the funding.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cme36gez2d3qo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cme36gez2d3qo#5</guid>
+            <pubDate>Tue, 27 Oct 2026 18:23:09 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d316/live/00dde230-d23f-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
             <title><![CDATA[Download now]]></title>
@@ -240,6 +240,30 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/23b8/live/73dea320-d260-11f1-b2d5-7de31c6a8089.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Goodbye to Wawrinka - an everyman who gatecrashed the greats]]></title>
+            <description><![CDATA[Stan Wawrinka's glorious career - which brought him three Grand Slam titles in a golden era - ends after an honourable defeat on an emotional night in Basel.]]></description>
+            <link>https://www.bbc.co.uk/sport/tennis/articles/crlykgp51ej4o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/crlykgp51ej4o#9</guid>
+            <pubDate>Wed, 28 Oct 2026 07:14:18 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b564/live/880c4810-d257-11f1-aea4-e9d772bed98c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why Hurts played with blood clot and what it means for NFL]]></title>
+            <description><![CDATA[Philadelphia Eagles quarterback Jalen Hurts is recovering from a life-threatening condition which developed after he was cleared to play with a blood clot and board a long-haul flight.]]></description>
+            <link>https://www.bbc.co.uk/sport/american-football/articles/cm0qk37933nno?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/american-football/articles/cm0qk37933nno#9</guid>
+            <pubDate>Wed, 28 Oct 2026 06:49:03 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a65/live/52752d00-d29f-11f1-b255-6fc3b99d1334.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Cundy 'no spring chicken' but nears 20-year unbeaten run]]></title>
+            <description><![CDATA[Jody Cundy says he is "no spring chicken", yet at the age of 48 he could make it 20 years unbeaten in the kilo at the Para-cycling Track World Championships.]]></description>
+            <link>https://www.bbc.co.uk/sport/cycling/articles/cjn5vql4z137o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/cycling/articles/cjn5vql4z137o#9</guid>
+            <pubDate>Wed, 28 Oct 2026 06:12:34 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4aef/live/a91aedb0-d14c-11f1-b587-a3ec61e669b1.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Where does Fleetwood beating Arsenal rank in biggest cup upsets?]]></title>
             <description><![CDATA[BBC Sport looks at the history of the biggest FA Cup and League Cup upsets after Fleetwood Town's shock win against Arsenal.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cq62y7yzjdmzo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -248,36 +272,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3415/live/1c1ff480-d257-11f1-aea4-e9d772bed98c.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Why Hurts played with blood clot and what it means for NFL]]></title>
-            <description><![CDATA[Philadelphia Eagles quarterback Jalen Hurts is recovering from a life-threatening condition, having played with a blood clot and boarded a long-haul flight.]]></description>
-            <link>https://www.bbc.co.uk/sport/american-football/articles/cm0qk37933nno?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/american-football/articles/cm0qk37933nno#9</guid>
-            <pubDate>Wed, 28 Oct 2026 06:49:03 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f853/live/e15eb220-d1c8-11f1-82d3-0562771fb08a.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Man Utd stick with Carrick - inside a turbulent 48 hours at Old Trafford]]></title>
             <description><![CDATA[BBC Sport looks at the 48 hours that led to Manchester United deciding to keep under-pressure Michael Carrick as their head coach for Saturday's trip to Chelsea.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cwz0vgj35k7mo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cwz0vgj35k7mo#9</guid>
             <pubDate>Tue, 27 Oct 2026 18:56:36 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0191/live/aa944b90-d22e-11f1-a701-fddedf244c16.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Australia fight back to keep Cummins out of unwanted club... for now]]></title>
-            <description><![CDATA[Australia fight back in afternoon and evening against South Africa to spare the blushes of captain Pat Cummins in third Test.]]></description>
-            <link>https://www.bbc.co.uk/sport/cricket/articles/c51kdggvmy7mo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/cricket/articles/c51kdggvmy7mo#9</guid>
-            <pubDate>Tue, 27 Oct 2026 17:10:04 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f724/live/00ef62a0-d224-11f1-93e1-3b657b665bcf.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Williams loses again - to opponent 28 years younger]]></title>
-            <description><![CDATA[Former world number one Venus Williams, 46, loses for the 16th match in a row as she is beaten by an opponent 28 years younger.]]></description>
-            <link>https://www.bbc.co.uk/sport/tennis/articles/cqr7y33ekv0go?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/cqr7y33ekv0go#9</guid>
-            <pubDate>Tue, 27 Oct 2026 13:40:56 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3a6/live/848f76a0-d205-11f1-b3b6-c1e79e957e40.jpg"/>
         </item>
     </channel>
 </rss>
