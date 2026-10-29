@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/sport/football</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 29 Oct 2026 11:50:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Oct 2026 12:31:38 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -90,7 +90,7 @@
             <title><![CDATA['He could be happier' - why is Estevao becoming Chelsea's forgotten man?]]></title>
             <description><![CDATA[Estevao plays no part as Chelsea lose on penalties to Liverpool in the Carabao Cup - so where does this leave the exciting Brazilian with Xabi Alonso?]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cv5ynwkndw61o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cv5ynwkndw61o#0</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cv5ynwkndw61o#1</guid>
             <pubDate>Thu, 29 Oct 2026 00:05:21 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83e9/live/c0798ce0-d328-11f1-acfb-39fa465810d4.jpg"/>
         </item>
@@ -119,20 +119,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/047b/live/8acbc4e0-d315-11f1-ba7d-b5eab6da6837.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Wrexham fined for fielding ineligible players]]></title>
-            <description><![CDATA[The English Football League fines Wrexham £75k for two instances of fielding ineligible players.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cr89z5pj5n2zo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cr89z5pj5n2zo#1</guid>
-            <pubDate>Wed, 28 Oct 2026 18:22:42 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6edc/live/22cfb9f0-d2f7-11f1-93e1-3b657b665bcf.png"/>
-        </item>
-        <item>
             <title><![CDATA['Relax, I love Kane and Lamine Yamal' - Henry defends his Ballon d'Or hosting]]></title>
             <description><![CDATA[Former Arsenal forward Thierry Henry responds to criticism of a number of comments he made during Monday's Ballon d'Or ceremony and claims they were "jokes".]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cm369r0n0zk5o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cm369r0n0zk5o#2</guid>
             <pubDate>Wed, 28 Oct 2026 12:13:23 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afc8/live/796bbb50-d2d0-11f1-b677-b762d2f83f6e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Wrexham fined for fielding ineligible players]]></title>
+            <description><![CDATA[The English Football League fines Wrexham £75k for two instances of fielding ineligible players.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cr89z5pj5n2zo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cr89z5pj5n2zo#2</guid>
+            <pubDate>Wed, 28 Oct 2026 18:22:42 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6edc/live/22cfb9f0-d2f7-11f1-93e1-3b657b665bcf.png"/>
         </item>
         <item>
             <title><![CDATA[Burnley appoint ex-Basel boss Celestini as head coach]]></title>
@@ -226,7 +226,7 @@
             <title><![CDATA[Everyone hurt by Woodman exit - acting Bromley boss]]></title>
             <description><![CDATA[Bromley's acting boss Byron Webster says the dismissal of manager Andy Woodman "hurt" - but backs the club to find the right successor.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cmn4e3q88708o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmn4e3q88708o#5</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmn4e3q88708o#6</guid>
             <pubDate>Wed, 28 Oct 2026 16:50:37 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b87/live/7230f810-d2ed-11f1-8d86-83eebc838351.jpg"/>
         </item>
@@ -237,14 +237,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cwly0myd08reo#6</guid>
             <pubDate>Wed, 28 Oct 2026 08:36:46 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/713a/live/466d7cb0-d12d-11f1-9a61-7b8d75492b97.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Where does Fleetwood beating Arsenal rank in biggest cup upsets?]]></title>
-            <description><![CDATA[BBC Sport looks at the history of the biggest FA Cup and League Cup upsets after Fleetwood Town's shock win against Arsenal.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cq62y7yzjdmzo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cq62y7yzjdmzo#6</guid>
-            <pubDate>Tue, 27 Oct 2026 23:35:11 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3415/live/1c1ff480-d257-11f1-aea4-e9d772bed98c.jpg"/>
         </item>
         <item>
             <title><![CDATA[Johnstone Burgh to play two cup ties simultaneously after schedule clash]]></title>
@@ -359,6 +351,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47f9/live/fa9a0830-d091-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Where does Fleetwood beating Arsenal rank in biggest cup upsets?]]></title>
+            <description><![CDATA[BBC Sport looks at the history of the biggest FA Cup and League Cup upsets after Fleetwood Town's shock win against Arsenal.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cq62y7yzjdmzo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cq62y7yzjdmzo#10</guid>
+            <pubDate>Tue, 27 Oct 2026 23:35:11 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3415/live/1c1ff480-d257-11f1-aea4-e9d772bed98c.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Why is Wilcox in line of fire from Man Utd fans?]]></title>
             <description><![CDATA[With Michael Carrick's position as Man Utd boss under scrutiny, focus has also turned to director of football Jason Wilcox.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/ck5yn5j37en0o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -381,14 +381,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cx2ln5n7yqdo#10</guid>
             <pubDate>Tue, 27 Oct 2026 09:31:37 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff25/live/e4590260-d1f4-11f1-b360-61fb5d34dc08.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Who has made Troy's Premier League team of the week?]]></title>
-            <description><![CDATA[After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/c804013klnn0o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c804013klnn0o#10</guid>
-            <pubDate>Sun, 25 Oct 2026 22:16:14 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b3e/live/b4b3c870-d0c2-11f1-a701-fddedf244c16.png"/>
         </item>
         <item>
             <title><![CDATA[Kane ends England's 25-year Ballon d'Or wait - how he bucked the trend]]></title>
