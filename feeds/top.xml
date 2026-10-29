@@ -9,11 +9,19 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 29 Oct 2026 21:55:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Oct 2026 22:29:17 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Watch: Life and career of iconic actor Sir Patrick Stewart]]></title>
+            <description><![CDATA[In a career that spanned seven decades, Sir Patrick won multiple Emmys and Golden Globes, a star on the Hollywood Walk of Fame and a knighthood from Queen Elizabeth II.]]></description>
+            <link>https://www.bbc.co.uk/news/videos/c6qxnlxn0n15o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/c6qxnlxn0n15o#1</guid>
+            <pubDate>Thu, 29 Oct 2026 21:57:04 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c0a/live/202db8a0-d3d8-11f1-b441-2b33b063138f.jpg"/>
+        </item>
         <item>
             <title><![CDATA[Burnham says he wants to cut welfare bill 'as soon as we possibly can']]></title>
             <description><![CDATA[Opponents have questioned the Budget's lack of detail on welfare reform, with the prime minister not outlining a timetable for any reductions.]]></description>
@@ -36,7 +44,7 @@
             <link>https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmqxnl312v34o#1</guid>
             <pubDate>Thu, 29 Oct 2026 11:07:35 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3bc/live/1e706fb0-d3c1-11f1-a62f-fd53d503ac8d.jpg"/>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5421/live/19962d80-d3e5-11f1-9caf-3b69fd8bbd8b.jpg"/>
         </item>
         <item>
             <title><![CDATA['Continue your journey': Key moments of leaked Spain train crash audio]]></title>
@@ -44,15 +52,7 @@
             <link>https://www.bbc.co.uk/news/videos/c6vgjeg0myzgo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/c6vgjeg0myzgo#1</guid>
             <pubDate>Thu, 29 Oct 2026 20:50:25 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/221a/live/4d1466f0-d3da-11f1-93e1-3b657b665bcf.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Met refers itself to police watchdog over letter about Meghan's father]]></title>
-            <description><![CDATA[The police force faces scrutiny over its handling of a letter containing allegations about Meghan's father.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/ck30e91r9z0jo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ck30e91r9z0jo#1</guid>
-            <pubDate>Thu, 29 Oct 2026 17:58:18 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/90d2/live/12831950-d3bc-11f1-93e1-3b657b665bcf.png"/>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d46f/live/7d9cd370-d3e4-11f1-9caf-3b69fd8bbd8b.jpg"/>
         </item>
         <item>
             <title><![CDATA[Jury shown CCTV of Huntingdon train staff using frying pan in defence]]></title>
@@ -61,6 +61,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckdd8qpdeym4o#1</guid>
             <pubDate>Thu, 29 Oct 2026 20:02:27 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d6c/live/9fc56a20-d3c1-11f1-a701-fddedf244c16.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Met refers itself to police watchdog over letter about Meghan's father]]></title>
+            <description><![CDATA[The police force faces scrutiny over its handling of a letter containing allegations about Meghan's father.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/ck30e91r9z0jo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ck30e91r9z0jo#1</guid>
+            <pubDate>Thu, 29 Oct 2026 17:58:18 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/90d2/live/12831950-d3bc-11f1-93e1-3b657b665bcf.png"/>
         </item>
         <item>
             <title><![CDATA[Israeli opposition accuses Netanyahu of trying to 'delegitimise' election]]></title>
@@ -77,14 +85,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cq146562ld3no#1</guid>
             <pubDate>Thu, 29 Oct 2026 17:13:40 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5383/live/4030c550-d3b7-11f1-8c27-87a7c72809db.png"/>
-        </item>
-        <item>
-            <title><![CDATA[Grealish dropped by Everton after 'breach of club discipline']]></title>
-            <description><![CDATA[Jack Grealish is left out of Everton's Carabao Cup tie with Newcastle United on Thursday "due to a breach of club discipline".]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cmwy4vyl9nplo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmwy4vyl9nplo#1</guid>
-            <pubDate>Thu, 29 Oct 2026 19:31:36 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ff6/live/0d5fec70-d3ce-11f1-9c32-1532a6164171.png"/>
         </item>
         <item>
             <title><![CDATA[King Charles arrives in Guyana as Bahamas visit declared 'diplomatic success']]></title>
@@ -199,6 +199,14 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/184e/live/37150480-d3bd-11f1-a62f-fd53d503ac8d.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Grealish dropped by Everton after 'breach of club discipline']]></title>
+            <description><![CDATA[Jack Grealish is left out of Everton's Carabao Cup tie with Newcastle United on Thursday "due to a breach of club discipline".]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cmwy4vyl9nplo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmwy4vyl9nplo#5</guid>
+            <pubDate>Thu, 29 Oct 2026 19:31:36 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ff6/live/0d5fec70-d3ce-11f1-9c32-1532a6164171.png"/>
+        </item>
+        <item>
             <title><![CDATA[MI5 false evidence in neo-Nazi spy case a serious failing, says intelligence watchdog]]></title>
             <description><![CDATA[Lord Leveson says MI5 lying to multiple courts was as "serious as anything" he has dealt with.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c3dxwdwx8vxwo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -229,14 +237,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cky93127nyepo#5</guid>
             <pubDate>Thu, 29 Oct 2026 12:52:50 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53e6/live/53a22db0-d383-11f1-b5f4-fd541fd21001.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Offshore workers turn to weight-loss jabs to meet helicopter weight rules]]></title>
-            <description><![CDATA[From Sunday anyone weighing more than 19st 7Ib (124kg) will be banned from flying to an offshore platform.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cmpqgx8w0537o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmpqgx8w0537o#5</guid>
-            <pubDate>Thu, 29 Oct 2026 15:18:10 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ef7/live/c9a8ab10-a6e2-11f1-9e4c-79c1c0e340c6.jpg"/>
         </item>
         <item>
             <title><![CDATA[Download now]]></title>
