@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 29 Oct 2026 11:10:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Oct 2026 11:50:13 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -32,10 +32,10 @@
         </item>
         <item>
             <title><![CDATA[Poundland's future hangs in the balance as chain edges towards collapse]]></title>
-            <description><![CDATA[Poundland's bosses have filed a notice of intention to appoint administrators to the business.]]></description>
+            <description><![CDATA[Poundland's bosses is filing a notice of intention to appoint administrators to the business.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cqrky1p4dlm7o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqrky1p4dlm7o#1</guid>
-            <pubDate>Thu, 29 Oct 2026 11:05:34 GMT</pubDate>
+            <pubDate>Thu, 29 Oct 2026 11:19:10 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd3d/live/2cdccc40-d378-11f1-bf63-739fb2907d03.jpg"/>
         </item>
         <item>
@@ -45,6 +45,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cw5ynxepy4gno#1</guid>
             <pubDate>Thu, 29 Oct 2026 10:45:01 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/13ee/live/a45ae8b0-d37d-11f1-bf63-739fb2907d03.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Russell Brand's wife tells his rape trial he is 'kind and a wonderful father']]></title>
+            <description><![CDATA[Laura Brand tells the jury at his trial she feels "very seen by him" and "I love him very much".]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cky93127nyepo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cky93127nyepo#1</guid>
+            <pubDate>Thu, 29 Oct 2026 11:17:56 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53e6/live/53a22db0-d383-11f1-b5f4-fd541fd21001.jpg"/>
         </item>
         <item>
             <title><![CDATA[Ofcom sets out social media age-checking methods ahead of ban]]></title>
@@ -71,15 +79,7 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/85bb/live/bcdd9ca0-d384-11f1-b5f4-fd541fd21001.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Flávio Bolsonaro denies fleeing Brazil after landing in Miami]]></title>
-            <description><![CDATA[The defeated Brazilian candidate claims to be the victim of a coup d’état and political persecution, recycling unsubstantiated allegations of “electoral fraud”.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo#1</guid>
-            <pubDate>Thu, 29 Oct 2026 01:14:01 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c2c/live/4c19c1e0-d2eb-11f1-b441-2b33b063138f.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Europe's youth take to the streets - they feel locked out of a promising future]]></title>
+            <title><![CDATA[Europe's youth is on the march - but does anything actually unite them?]]></title>
             <description><![CDATA[The last month has seen youth-driven demonstrations across Europe. What connects them?]]></description>
             <link>https://www.bbc.co.uk/news/articles/cm2ke80nd929o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm2ke80nd929o#1</guid>
@@ -175,6 +175,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/094c/live/44a78890-d384-11f1-b5f4-fd541fd21001.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Alaska governor orders probe into Democratic campaign's alleged links to same-name candidate]]></title>
+            <description><![CDATA[The Republican governor was responding to allegations in the New York Times that Democrats recruited a spoiler candidate, Dan Sullivan.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c8vgx0zrpk6no?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c8vgx0zrpk6no#5</guid>
+            <pubDate>Thu, 29 Oct 2026 11:27:05 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/836b/live/07facba0-d37f-11f1-93e1-3b657b665bcf.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[US Health Secretary RFK Jr to expand access to unapproved peptides]]></title>
             <description><![CDATA[Health experts have cautioned against use of the drugs, citing a lack of clinical trials for humans and the unknown long-term effects.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cmq8nwd748v3o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -191,6 +199,14 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d5e1/live/2afb1230-d2ef-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Flávio Bolsonaro denies fleeing Brazil after landing in Miami]]></title>
+            <description><![CDATA[The defeated Brazilian candidate claims to be the victim of a coup d’état and political persecution, recycling unsubstantiated allegations of “electoral fraud”.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo#5</guid>
+            <pubDate>Thu, 29 Oct 2026 01:14:01 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c2c/live/4c19c1e0-d2eb-11f1-b441-2b33b063138f.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Mum of critically ill baby denied hospital food as she wasn't breastfeeding]]></title>
             <description><![CDATA[Sophie Price had given birth in the same hospital five days earlier but was denied a hot meal.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cqzrdkn4v36po?at_medium=RSS&amp;at_campaign=rss</link>
@@ -205,22 +221,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo#5</guid>
             <pubDate>Thu, 29 Oct 2026 09:51:06 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0304/live/98070ac0-d2e8-11f1-8d86-83eebc838351.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Details of thousands of US immigration agents leaked in major hack]]></title>
-            <description><![CDATA[A group called the Department of Peace released information on more than 41,000 DHS staff.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo#5</guid>
-            <pubDate>Thu, 29 Oct 2026 01:30:43 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c03/live/2996f1b0-d318-11f1-ba7d-b5eab6da6837.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Microsoft profits soar days after announcing thousands of layoffs]]></title>
-            <description><![CDATA[The week, the Windows developer said it would offer buyouts to 60,000 workers as it looks to curb costs.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c6m24klyjr8no?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6m24klyjr8no#5</guid>
-            <pubDate>Thu, 29 Oct 2026 01:27:40 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0364/live/44d987f0-d32a-11f1-b0c3-4b2ce0e9f02a.jpg"/>
         </item>
         <item>
             <title><![CDATA['Like cutting up a Picasso': AI microdrama edit of Neighbours worries actors and crew]]></title>
@@ -247,7 +247,7 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9302/live/9a370150-d370-11f1-9ed3-17a877d6ca72.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Sometimes managers needs sacking for own good - Neville]]></title>
+            <title><![CDATA[Sometimes managers need sacking for own good - Neville]]></title>
             <description><![CDATA[Gary Neville says managers sometimes need to be sacked "for their own good" as Manchester United persist with under-pressure boss Michael Carrick.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cjvgx0ek6rz2o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cjvgx0ek6rz2o#9</guid>
