@@ -9,41 +9,25 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 29 Oct 2026 09:19:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Oct 2026 10:15:13 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
-            <title><![CDATA[Healey promises reduction in welfare bill before next election]]></title>
-            <description><![CDATA[The Conservatives criticised the chancellor for not providing more details on welfare reform in his Budget.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cm5ynwkjgpz3o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm5ynwkjgpz3o#1</guid>
-            <pubDate>Thu, 29 Oct 2026 05:57:01 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1dd8/live/5d3b4f20-d36d-11f1-93e1-3b657b665bcf.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[I earn £30,000. I'm angry there was no fuel duty cut in the Budget]]></title>
-            <description><![CDATA[People on a range of incomes from £4,062 to £150,000 a year tell the BBC what they made of this year's Budget.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmx235r9wr3yo#1</guid>
-            <pubDate>Thu, 29 Oct 2026 00:00:25 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5570/live/b5261da0-d304-11f1-a9bf-3316693f55f0.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Audio reveals exchanges between control centre and drivers before deadly Spain train crash]]></title>
-            <description><![CDATA[The recordings appear to show one high-speed train was given clearance to move even though another up ahead had stalled.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmqxnl312v34o#1</guid>
-            <pubDate>Thu, 29 Oct 2026 08:38:54 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56de/live/c3d6ea10-d367-11f1-a701-fddedf244c16.jpg"/>
+            <title><![CDATA[What we know so far about deadly Spain train crash]]></title>
+            <description><![CDATA[More than 500 passengers were on board the trains when the crash occurred in the province of Toledo, south of Madrid.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo#1</guid>
+            <pubDate>Thu, 29 Oct 2026 10:02:37 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe69/live/788ac890-d37d-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
             <title><![CDATA[Ofcom sets out social media age-checking methods ahead of ban]]></title>
             <description><![CDATA[Ofcom says photo and digital ID, banking checks or facial age estimation can help prove someone is 16 or over.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c6ly3027820lo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6ly3027820lo#1</guid>
-            <pubDate>Thu, 29 Oct 2026 05:57:15 GMT</pubDate>
+            <pubDate>Thu, 29 Oct 2026 09:31:44 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c4ca/live/2bf1c250-d2af-11f1-a05d-41eb870c7a5f.jpg"/>
         </item>
         <item>
@@ -71,28 +55,28 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e53/live/5b4a4ea0-d2eb-11f1-8d86-83eebc838351.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Details of thousands of US immigration agents leaked in major hack]]></title>
-            <description><![CDATA[A group called the Department of Peace released information on more than 41,000 DHS staff.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo#1</guid>
-            <pubDate>Thu, 29 Oct 2026 01:30:43 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c03/live/2996f1b0-d318-11f1-ba7d-b5eab6da6837.jpg"/>
+            <title><![CDATA[Europe's youth take to the streets - they feel locked out of a promising future]]></title>
+            <description><![CDATA[The last month has seen youth-driven demonstrations across Europe. What connects them?]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cm2ke80nd929o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm2ke80nd929o#1</guid>
+            <pubDate>Thu, 29 Oct 2026 00:33:11 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64cf/live/0f06e8c0-d2e9-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Weight-loss jab boom brings needles warning for recyclers]]></title>
+            <title><![CDATA[Watch: King dances in the streets of the Bahamas capital]]></title>
+            <description><![CDATA[The monarch is in the Bahamas as part of a tour of the Caribbean during which he addressed the "great suffering of the past".]]></description>
+            <link>https://www.bbc.co.uk/news/videos/cm87zwe3ydp1o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cm87zwe3ydp1o#1</guid>
+            <pubDate>Wed, 28 Oct 2026 20:44:10 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15f2/live/2647c7b0-d30d-11f1-a701-fddedf244c16.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Weight-loss jabs boom putting recycling centre workers at risk]]></title>
             <description><![CDATA[Recycling bosses say used needles are increasingly being found among household waste.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c98rz45yjyvgo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c98rz45yjyvgo#1</guid>
             <pubDate>Thu, 29 Oct 2026 00:06:12 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d5e1/live/2afb1230-d2ef-11f1-b441-2b33b063138f.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Microsoft profits soar days after announcing thousands of layoffs]]></title>
-            <description><![CDATA[The week, the Windows developer said it would offer buyouts to 60,000 workers as it looks to curb costs.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c6m24klyjr8no?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6m24klyjr8no#1</guid>
-            <pubDate>Thu, 29 Oct 2026 01:27:40 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0364/live/44d987f0-d32a-11f1-b0c3-4b2ce0e9f02a.jpg"/>
         </item>
         <item>
             <title><![CDATA[US conservative activists charged with unlawful voting in election stunt]]></title>
@@ -103,12 +87,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa88/live/450046a0-d326-11f1-ba7d-b5eab6da6837.jpg"/>
         </item>
         <item>
-            <title><![CDATA[What the Budget means for your money]]></title>
-            <description><![CDATA[Changes announced by Chancellor John Healey in his first Budget will affect your finances directly. Here's how.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo#2</guid>
-            <pubDate>Wed, 28 Oct 2026 16:43:35 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84cd/live/e88146a0-d365-11f1-b441-2b33b063138f.jpg"/>
+            <title><![CDATA[Microsoft profits soar days after announcing thousands of layoffs]]></title>
+            <description><![CDATA[The week, the Windows developer said it would offer buyouts to 60,000 workers as it looks to curb costs.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c6m24klyjr8no?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6m24klyjr8no#1</guid>
+            <pubDate>Thu, 29 Oct 2026 01:27:40 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0364/live/44d987f0-d32a-11f1-b0c3-4b2ce0e9f02a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Healey promises reduction in welfare bill before next election]]></title>
+            <description><![CDATA[The Conservatives criticised the chancellor for not providing more details on welfare reform in his Budget.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cm5ynwkjgpz3o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm5ynwkjgpz3o#2</guid>
+            <pubDate>Thu, 29 Oct 2026 05:57:01 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1dd8/live/5d3b4f20-d36d-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
             <title><![CDATA[Budget key points at a glance]]></title>
@@ -119,12 +111,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7506/live/63f2d5e0-d2d2-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Will I get the £100 energy payment and when will I receive it?]]></title>
-            <description><![CDATA[Here is what you need to know about the payment that millions will receive from January.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c35yn8x748e9o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c35yn8x748e9o#2</guid>
-            <pubDate>Wed, 28 Oct 2026 17:47:37 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c06e/live/66b0c920-d2ed-11f1-8d86-83eebc838351.jpg"/>
+            <title><![CDATA[Dharshini David: Healey buys himself some time, but big questions still unanswered]]></title>
+            <description><![CDATA[The chancellor talked of charting a new course for Britain, but the impact of Iran war has limited his options.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cqe9l4px0yzxo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqe9l4px0yzxo#2</guid>
+            <pubDate>Wed, 28 Oct 2026 19:51:01 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/426f/live/d5d2d7e0-d21f-11f1-b8e4-17c9744a7f8e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[I earn £30,000. I'm angry there was no fuel duty cut in the Budget]]></title>
+            <description><![CDATA[People on a range of incomes from £4,062 to £150,000 a year tell the BBC what they made of this year's Budget.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmx235r9wr3yo#2</guid>
+            <pubDate>Thu, 29 Oct 2026 00:00:25 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5570/live/b5261da0-d304-11f1-a9bf-3316693f55f0.jpg"/>
         </item>
         <item>
             <title><![CDATA[Under 25? Here's what the Budget means for you]]></title>
@@ -135,20 +135,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f96e/live/0a45b830-d2de-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
-            <title><![CDATA[What we now know about the UK economy in four charts]]></title>
-            <description><![CDATA[The Office for Budget Responsibility says higher energy prices will impact everything from prices and living standards to economic growth.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c9x28350ly07o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c9x28350ly07o#2</guid>
-            <pubDate>Wed, 28 Oct 2026 20:08:45 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/302d/live/da4a7910-d2ea-11f1-8d86-83eebc838351.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Europe's youth take to the streets - they feel locked out of a promising future]]></title>
-            <description><![CDATA[The last month has seen youth-driven demonstrations across Europe. What connects them?]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cm2ke80nd929o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm2ke80nd929o#3</guid>
-            <pubDate>Thu, 29 Oct 2026 00:33:11 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64cf/live/0f06e8c0-d2e9-11f1-b441-2b33b063138f.jpg"/>
+            <title><![CDATA[Israel's election deadlock is a sign of the country's deep divisions]]></title>
+            <description><![CDATA[The election was a celebration of democracy in some ways - but it has left Israel with no clear path to a new government, writes James Landale.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cqz0ve94ygpjo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqz0ve94ygpjo#3</guid>
+            <pubDate>Wed, 28 Oct 2026 20:53:02 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a31/live/8148c250-d311-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
             <title><![CDATA[We love how we look but AI tried to 'fix' our visible differences]]></title>
@@ -156,15 +148,15 @@
             <link>https://www.bbc.co.uk/news/articles/cmx28e44xxx7o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmx28e44xxx7o#3</guid>
             <pubDate>Thu, 29 Oct 2026 06:13:33 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/162f/live/9c87ca10-d1fa-11f1-93e1-3b657b665bcf.jpg"/>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d62/live/4d35f620-d381-11f1-b441-2b33b063138f.png"/>
         </item>
         <item>
-            <title><![CDATA['I live with a ghost': Japan's haunted homes attract bargain hunters]]></title>
+            <title><![CDATA['I live with a ghost' - inside the haunted homes attracting bargain hunters]]></title>
             <description><![CDATA[Properties where someone has died in tragic circumstances can have big reductions in price.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cqwy78elyrlzo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqwy78elyrlzo#3</guid>
-            <pubDate>Thu, 29 Oct 2026 00:00:15 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c40/live/5436ab40-cc8d-11f1-bed8-c51b95c602ec.jpg"/>
+            <pubDate>Thu, 29 Oct 2026 09:30:03 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40b7/live/70bc5130-cc91-11f1-94e6-edd4c60b2e1d.jpg"/>
         </item>
         <item>
             <title><![CDATA[Take our Celebrity Traitors quiz to find out which star you would be in this year's show]]></title>
@@ -172,15 +164,7 @@
             <link>https://www.bbc.co.uk/news/articles/c6d93vxj3g5xo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6d93vxj3g5xo#3</guid>
             <pubDate>Thu, 29 Oct 2026 00:29:39 GMT</pubDate>
-            <media:thumbnail width="240" height="160" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26c6/live/8d452c50-d2f4-11f1-b441-2b33b063138f.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Israel's election deadlock is a sign of the country's deep divisions]]></title>
-            <description><![CDATA[The election was a celebration of democracy in some ways - but it has left Israel with no clear path to a new government, writes James Landale.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cqz0ve94ygpjo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqz0ve94ygpjo#3</guid>
-            <pubDate>Wed, 28 Oct 2026 20:53:02 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a31/live/8148c250-d311-11f1-a701-fddedf244c16.jpg"/>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f5ab/live/81163810-d2fa-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
             <title><![CDATA[The Papers: 'Healey offers cold comfort' and 'A £100 trick or treat?']]></title>
@@ -191,14 +175,6 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2989/live/db9f2a70-d328-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Watch: How did Flávio Bolsonaro end up in Miami?]]></title>
-            <description><![CDATA[BBC Verify has pieced together defeated presidential candidate Flávio Bolsonaro's journey through Brazil, Argentina and Ecuador to reach Miami.]]></description>
-            <link>https://www.bbc.co.uk/news/videos/ck4g1xe5xny4o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/ck4g1xe5xny4o#3</guid>
-            <pubDate>Wed, 28 Oct 2026 18:51:05 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c9c9/live/0a0506e0-d2f8-11f1-a701-fddedf244c16.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[US Health Secretary RFK Jr to expand access to unapproved peptides]]></title>
             <description><![CDATA[Health experts have cautioned against use of the drugs, citing a lack of clinical trials for humans and the unknown long-term effects.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cmq8nwd748v3o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -207,20 +183,28 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a8b/live/52521bc0-d33b-11f1-a26e-e3fa3a99b3a9.jpg"/>
         </item>
         <item>
-            <title><![CDATA[King Charles shows off dance moves on second day of Caribbean tour]]></title>
-            <description><![CDATA[Earlier in the day, the King paid his respects to the island's fallen servicemen and women.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/ckzd670vpj09o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckzd670vpj09o#5</guid>
-            <pubDate>Thu, 29 Oct 2026 01:41:36 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99e4/live/f61cf470-d316-11f1-93e1-3b657b665bcf.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Mum of critically ill baby denied hospital food as she wasn't breastfeeding]]></title>
             <description><![CDATA[Sophie Price had given birth in the same hospital five days earlier but was denied a hot meal.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cqzrdkn4v36po?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqzrdkn4v36po#5</guid>
             <pubDate>Thu, 29 Oct 2026 06:12:07 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7058/live/3a507bf0-d2b6-11f1-b441-2b33b063138f.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Carney to push for closer ties at Canada-EU summit in Montreal]]></title>
+            <description><![CDATA[The term "associate member" is reportedly off the table as officials discuss deeper economic and defence ties.  ]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo#5</guid>
+            <pubDate>Thu, 29 Oct 2026 09:51:06 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0304/live/98070ac0-d2e8-11f1-8d86-83eebc838351.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Details of thousands of US immigration agents leaked in major hack]]></title>
+            <description><![CDATA[A group called the Department of Peace released information on more than 41,000 DHS staff.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo#5</guid>
+            <pubDate>Thu, 29 Oct 2026 01:30:43 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c03/live/2996f1b0-d318-11f1-ba7d-b5eab6da6837.jpg"/>
         </item>
         <item>
             <title><![CDATA['Like cutting up a Picasso': AI microdrama edit of Neighbours worries actors and crew]]></title>
@@ -239,6 +223,14 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad45/live/27f788a0-d30f-11f1-ad4f-5d2bbacf0caf.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Ethiopia acquires Russian fighter jets and air defence systems amid war in Tigray]]></title>
+            <description><![CDATA[The acquisition of the warplanes comes amid ongoing fighting in northern Tigray region that started last month.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cw78prj801pvo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cw78prj801pvo#5</guid>
+            <pubDate>Thu, 29 Oct 2026 08:23:31 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d18/live/3bba8dd0-d367-11f1-8799-171d5bd36a81.png"/>
+        </item>
+        <item>
             <title><![CDATA[Download now]]></title>
             <description><![CDATA[Top stories, breaking news, live reporting, and follow news topics that match your interests]]></description>
             <link>https://www.bbc.co.uk/news/10628994?at_medium=RSS&amp;at_campaign=rss</link>
@@ -248,7 +240,7 @@
         </item>
         <item>
             <title><![CDATA[Mourinho and chaos - is Real Madrid boss misunderstood?]]></title>
-            <description><![CDATA[Jose Mourinho has spent the past decade seeing other managers hailed as geniuses, but did Real Madrid's win at Barcelona last week show he's been misunderstood?]]></description>
+            <description><![CDATA[Jose Mourinho has spent the past decade seeing other managers hailed as geniuses, but did Real Madrid's win at Barcelona show he's been misunderstood?]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/crly062vd0z7o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/crly062vd0z7o#9</guid>
             <pubDate>Thu, 29 Oct 2026 08:07:22 GMT</pubDate>
