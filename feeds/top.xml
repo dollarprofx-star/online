@@ -9,11 +9,19 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 29 Oct 2026 06:32:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Oct 2026 07:41:10 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Healey promises reduction in welfare bill before next election]]></title>
+            <description><![CDATA[The Conservatives criticised the chancellor for not providing more details on welfare reform in his Budget.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cm5ynwkjgpz3o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm5ynwkjgpz3o#1</guid>
+            <pubDate>Thu, 29 Oct 2026 05:57:01 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd23/live/24913c10-d323-11f1-a701-fddedf244c16.jpg"/>
+        </item>
         <item>
             <title><![CDATA[I earn £30,000. I'm angry there was no fuel duty cut in the Budget]]></title>
             <description><![CDATA[People on a range of incomes from £4,062 to £150,000 a year tell the BBC what they made of this year's Budget.]]></description>
@@ -28,7 +36,7 @@
             <link>https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmqxnl312v34o#1</guid>
             <pubDate>Thu, 29 Oct 2026 03:51:05 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3dc9/live/708f0da0-d34a-11f1-8a05-59afc813496d.jpg"/>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56de/live/c3d6ea10-d367-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
             <title><![CDATA[Ofcom outlines ways social media can verify ages of users]]></title>
@@ -47,14 +55,6 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c2c/live/4c19c1e0-d2eb-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Watch: How did Flávio Bolsonaro end up in Miami?]]></title>
-            <description><![CDATA[BBC Verify has pieced together defeated presidential candidate Flávio Bolsonaro's journey through Brazil, Argentina and Ecuador to reach Miami.]]></description>
-            <link>https://www.bbc.co.uk/news/videos/ck4g1xe5xny4o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/ck4g1xe5xny4o#1</guid>
-            <pubDate>Wed, 28 Oct 2026 18:51:05 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c9c9/live/0a0506e0-d2f8-11f1-a701-fddedf244c16.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Death of US actress Hayden Panettiere ruled accidental, ending local police probe]]></title>
             <description><![CDATA[The Heroes and Nashville star died in August from the toxic effects of fentanyl, Xanax and several other drugs.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c6lylxjkkp0vo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -71,20 +71,20 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e53/live/5b4a4ea0-d2eb-11f1-8d86-83eebc838351.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Netanyahu's bloc leading Israel election but short of majority, partial results show]]></title>
-            <description><![CDATA[With 85% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmdx3knq1xexo#1</guid>
-            <pubDate>Wed, 28 Oct 2026 20:24:39 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3381/live/719a4410-d2f2-11f1-8d86-83eebc838351.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Details of thousands of US immigration agents leaked in major hack]]></title>
             <description><![CDATA[A group called the Department of Peace released information on more than 41,000 DHS staff.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo#1</guid>
             <pubDate>Thu, 29 Oct 2026 01:30:43 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c03/live/2996f1b0-d318-11f1-ba7d-b5eab6da6837.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: BBC in the Philippines where Thomas Markle is expected to be investigated]]></title>
+            <description><![CDATA[Jonathan Head is in Cebu, reporting from outside the home where Markle last resided.]]></description>
+            <link>https://www.bbc.co.uk/news/videos/cm0rlxxpng5eo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cm0rlxxpng5eo#1</guid>
+            <pubDate>Thu, 29 Oct 2026 07:28:26 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a90c/live/b93f5b80-d369-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
             <title><![CDATA[Weight-loss jab boom brings needles warning for recyclers]]></title>
@@ -103,20 +103,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa88/live/450046a0-d326-11f1-ba7d-b5eab6da6837.jpg"/>
         </item>
         <item>
+            <title><![CDATA[What the Budget means for your money]]></title>
+            <description><![CDATA[Changes announced by Chancellor John Healey in his first Budget will affect your finances directly. Here's how.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo#2</guid>
+            <pubDate>Wed, 28 Oct 2026 16:43:35 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84cd/live/e88146a0-d365-11f1-b441-2b33b063138f.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Budget key points at a glance]]></title>
             <description><![CDATA[Here’s what you need to know from John Healey’s first Budget, as the chancellor sets out the government’s tax and spending plans.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno#2</guid>
             <pubDate>Wed, 28 Oct 2026 16:55:27 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7506/live/63f2d5e0-d2d2-11f1-b441-2b33b063138f.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[How the Budget affects you]]></title>
-            <description><![CDATA[Changes announced by Chancellor John Healey in his first Budget will affect your finances directly. Here's how.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo#2</guid>
-            <pubDate>Wed, 28 Oct 2026 16:43:35 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5846/live/65892820-d2e4-11f1-8d3a-ef62f316044e.jpg"/>
         </item>
         <item>
             <title><![CDATA[Will I get the £100 energy payment and when will I receive it?]]></title>
@@ -175,12 +175,28 @@
             <media:thumbnail width="240" height="160" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26c6/live/8d452c50-d2f4-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Netanyahu and Eisenkot face difficult paths to power as neither set to win majority]]></title>
+            <description><![CDATA[The two main blocs appear to have too few seats to form the next government without reliance on Arab parties.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cjy561y4pl56o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cjy561y4pl56o#3</guid>
+            <pubDate>Wed, 28 Oct 2026 10:35:13 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c2b/live/e44a9b80-d299-11f1-b255-6fc3b99d1334.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[The Papers: 'Healey offers cold comfort' and 'A £100 trick or treat?']]></title>
             <description><![CDATA[Thursday's papers focus entirely on John Healey's first Budget that included £100 for energy bills and a bank tax.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c6j470yx0nweo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6j470yx0nweo#3</guid>
             <pubDate>Thu, 29 Oct 2026 05:29:08 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2989/live/db9f2a70-d328-11f1-93e1-3b657b665bcf.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: How did Flávio Bolsonaro end up in Miami?]]></title>
+            <description><![CDATA[BBC Verify has pieced together defeated presidential candidate Flávio Bolsonaro's journey through Brazil, Argentina and Ecuador to reach Miami.]]></description>
+            <link>https://www.bbc.co.uk/news/videos/ck4g1xe5xny4o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/ck4g1xe5xny4o#3</guid>
+            <pubDate>Wed, 28 Oct 2026 18:51:05 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c9c9/live/0a0506e0-d2f8-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
             <title><![CDATA[US Health Secretary RFK Jr to expand access to unapproved peptides]]></title>
@@ -197,6 +213,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckzd670vpj09o#5</guid>
             <pubDate>Thu, 29 Oct 2026 01:41:36 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99e4/live/f61cf470-d316-11f1-93e1-3b657b665bcf.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Netanyahu's bloc leading Israel election but short of majority, partial results show]]></title>
+            <description><![CDATA[With 85% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmdx3knq1xexo#5</guid>
+            <pubDate>Wed, 28 Oct 2026 20:24:39 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3381/live/719a4410-d2f2-11f1-8d86-83eebc838351.jpg"/>
         </item>
         <item>
             <title><![CDATA[Mum of critically ill baby denied hospital food as she wasn't breastfeeding]]></title>
@@ -229,14 +253,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c678prm55gzzo#5</guid>
             <pubDate>Wed, 28 Oct 2026 22:08:52 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad45/live/27f788a0-d30f-11f1-ad4f-5d2bbacf0caf.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Winner claims massive Canada lotto prize hours before expiration]]></title>
-            <description><![CDATA[It's rare for such a large lottery jackpot to go unclaimed - this one is worth C$40m (£21.4m).]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cwvg039x08g2o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwvg039x08g2o#5</guid>
-            <pubDate>Wed, 28 Oct 2026 20:35:01 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d10a/live/a9fbaa70-d2f1-11f1-8d86-83eebc838351.jpg"/>
         </item>
         <item>
             <title><![CDATA[Download now]]></title>
@@ -276,7 +292,7 @@
             <link>https://www.bbc.co.uk/sport/football/articles/cmp3glnle0wdo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmp3glnle0wdo#9</guid>
             <pubDate>Wed, 28 Oct 2026 22:45:35 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b83d/live/3ba1f500-d320-11f1-ba7d-b5eab6da6837.jpg"/>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1292/live/876ff670-d367-11f1-8799-171d5bd36a81.jpg"/>
         </item>
         <item>
             <title><![CDATA[Red Roses make six changes but Kildunne on bench again]]></title>
