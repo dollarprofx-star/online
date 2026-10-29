@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/sport/football</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 29 Oct 2026 17:28:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Oct 2026 18:12:57 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -21,6 +21,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ckz7x8z1e9y9o#0</guid>
             <pubDate>Thu, 29 Oct 2026 14:31:52 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4203/live/1524b320-d3a4-11f1-a5cd-49637fcbd4e4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Scottish football could pave way for 3pm TV blackout to end]]></title>
+            <description><![CDATA[The first tentative steps to end the 3pm television blackout in the UK have been taken by Scottish football as it seeks offers for the next broadcast cycle.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cmgr8l87edyjo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmgr8l87edyjo#0</guid>
+            <pubDate>Thu, 29 Oct 2026 17:43:53 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/24e1/live/b4fef970-d3bb-11f1-8c27-87a7c72809db.jpg"/>
         </item>
         <item>
             <title><![CDATA[Is double drop from the Premier League becoming more common?]]></title>
@@ -47,6 +55,22 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d11c/live/a995c900-d37b-11f1-bf63-739fb2907d03.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Celtic & Rangers Scottish Cup stadium closure upheld]]></title>
+            <description><![CDATA[Rangers and Celtic will both play their next Scottish Cup home ties behind closed doors after the clubs respective appeals against the sanction was dismissed.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/c6n49v9ek1k9o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6n49v9ek1k9o#0</guid>
+            <pubDate>Thu, 29 Oct 2026 17:20:57 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a66e/live/81ba8920-d15f-11f1-87df-afb7a168a1f2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['I'm embarrassed' - Harrogate boss after 3-0 defeat by nine-man Carlisle]]></title>
+            <description><![CDATA[Carlisle boss Rob Elliot praises his nine-man side after their "incredible" win over Harrogate.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/crly06p0g11eo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/crly06p0g11eo#0</guid>
+            <pubDate>Thu, 29 Oct 2026 10:45:18 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/942b/live/560e04f0-d380-11f1-b5f4-fd541fd21001.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Chiellini guidance to Leeds 'rock' - could Muharemovic be signing of season?]]></title>
             <description><![CDATA[Having cost Leeds United an 'eye-watering' fee, Tarik Muharemovic has impressed so much that some fear the club face a battle to keep him.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cx05487d6r9vo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -61,14 +85,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/crly062vd0z7o#0</guid>
             <pubDate>Thu, 29 Oct 2026 08:07:22 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9302/live/9a370150-d370-11f1-9ed3-17a877d6ca72.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['I'm embarrassed' - Harrogate boss after 3-0 defeat by nine-man Carlisle]]></title>
-            <description><![CDATA[Carlisle boss Rob Elliot praises his nine-man side after their "incredible" win over Harrogate.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/crly06p0g11eo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/crly06p0g11eo#0</guid>
-            <pubDate>Thu, 29 Oct 2026 10:45:18 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/942b/live/560e04f0-d380-11f1-b5f4-fd541fd21001.jpg"/>
         </item>
         <item>
             <title><![CDATA['Stutter' penalty back in the spotlight after Barco miss costs Chelsea]]></title>
@@ -87,20 +103,28 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0205/live/a303f5c0-d331-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Who am I? Plus today's other quizzes]]></title>
-            <description><![CDATA[Test your football knowledge with today's Who Am I?, Five in Five and Brainteaser quizzes.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cqr7y1218vjvo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqr7y1218vjvo#0</guid>
-            <pubDate>Thu, 29 Oct 2026 06:23:21 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"/>
-        </item>
-        <item>
             <title><![CDATA[McInnes defends Fernandez before League Cup semi]]></title>
             <description><![CDATA[Rangers manager Derek McInnes defends Emmanuel Fernandez, saying the centre-back "has been a big part of our better performances this season".]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/c6e3x50p3v1eo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6e3x50p3v1eo#0</guid>
             <pubDate>Thu, 29 Oct 2026 15:36:21 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5375/live/5d7f5e60-d3ac-11f1-a5cd-49637fcbd4e4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sancho rejects Getafe - Thursday's gossip]]></title>
+            <description><![CDATA[Free agent Jadon Sancho turns down a move to La Liga, Desire Doue is in talks with Paris St-Germain about a contract extension, and Everton are considering a move for Marcus Rashford. ]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/ckyvr1q72v84o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ckyvr1q72v84o#1</guid>
+            <pubDate>Wed, 28 Oct 2026 21:34:36 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c777/live/a55976f0-d30f-11f1-93e1-3b657b665bcf.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Who am I? Plus today's other quizzes]]></title>
+            <description><![CDATA[Test your football knowledge with today's Who Am I?, Five in Five and Brainteaser quizzes.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cqr7y1218vjvo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqr7y1218vjvo#1</guid>
+            <pubDate>Thu, 29 Oct 2026 06:23:21 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"/>
         </item>
         <item>
             <title><![CDATA[Why is there only one Premier League match on Sunday?]]></title>
@@ -119,28 +143,20 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c935/live/d2a76ef0-d387-11f1-b5f4-fd541fd21001.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Sancho rejects Getafe - Thursday's gossip]]></title>
-            <description><![CDATA[Free agent Jadon Sancho turns down a move to La Liga, Desire Doue is in talks with Paris St-Germain about a contract extension, and Everton are considering a move for Marcus Rashford. ]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/ckyvr1q72v84o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ckyvr1q72v84o#1</guid>
-            <pubDate>Wed, 28 Oct 2026 21:34:36 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c777/live/a55976f0-d30f-11f1-93e1-3b657b665bcf.png"/>
-        </item>
-        <item>
-            <title><![CDATA[Football Daily]]></title>
-            <description><![CDATA[Rick & Lloyd are joined by Julien Laurens to discuss De Zerbi’s quiet transformation.]]></description>
-            <link>https://www.bbc.co.uk/sounds/play/m003434t?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/m003434t#1</guid>
-            <pubDate>Thu, 29 Oct 2026 16:54:00 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0pgvdbk.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Fleetwood to face Everton or Newcastle in last eight]]></title>
             <description><![CDATA[League Two Fleetwood Town will face Everton or Newcastle United at Highbury in the quarter-finals of the EFL Cup.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cmp3glnle0wdo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmp3glnle0wdo#2</guid>
             <pubDate>Wed, 28 Oct 2026 22:45:35 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1292/live/876ff670-d367-11f1-8799-171d5bd36a81.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Football Daily]]></title>
+            <description><![CDATA[Rick & Lloyd are joined by Julien Laurens to discuss De Zerbi’s quiet transformation.]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/m003434t?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/m003434t#2</guid>
+            <pubDate>Thu, 29 Oct 2026 16:54:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0pgvdbk.jpg"/>
         </item>
         <item>
             <title><![CDATA[Euro Leagues]]></title>
@@ -165,22 +181,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cv5ynwkndw61o#2</guid>
             <pubDate>Thu, 29 Oct 2026 00:05:21 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83e9/live/c0798ce0-d328-11f1-acfb-39fa465810d4.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[How unbeaten Chelsea are getting back to their best]]></title>
-            <description><![CDATA[Chelsea are getting back to their best following their 2-0 Women's Champions League win over Roma - so how have they built success in their unbeaten run?]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/c8wy9wenqd01o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c8wy9wenqd01o#2</guid>
-            <pubDate>Wed, 28 Oct 2026 23:17:33 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c93/live/57164640-d309-11f1-ad4f-5d2bbacf0caf.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kompany discharged from hospital following collapse]]></title>
-            <description><![CDATA[Bayern Munich head coach Vincent Kompany is discharged from hospital and "doing well" following his collapse at the club's training ground, according to a club board member.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/c678prmye8xvo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c678prmye8xvo#2</guid>
-            <pubDate>Wed, 28 Oct 2026 21:37:08 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/047b/live/8acbc4e0-d315-11f1-ba7d-b5eab6da6837.jpg"/>
         </item>
         <item>
             <title><![CDATA[Russo scores hat-trick as Arsenal beat Benfica]]></title>
@@ -223,6 +223,22 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ef7/live/513170a0-d166-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Kompany discharged from hospital following collapse]]></title>
+            <description><![CDATA[Bayern Munich head coach Vincent Kompany is discharged from hospital and "doing well" following his collapse at the club's training ground, according to a club board member.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/c678prmye8xvo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c678prmye8xvo#5</guid>
+            <pubDate>Wed, 28 Oct 2026 21:37:08 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/047b/live/8acbc4e0-d315-11f1-ba7d-b5eab6da6837.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How unbeaten Chelsea are getting back to their best]]></title>
+            <description><![CDATA[Chelsea are getting back to their best following their 2-0 Women's Champions League win over Roma - so how have they built success in their unbeaten run?]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/c8wy9wenqd01o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c8wy9wenqd01o#5</guid>
+            <pubDate>Wed, 28 Oct 2026 23:17:33 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c93/live/57164640-d309-11f1-ad4f-5d2bbacf0caf.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Wrexham fined for fielding ineligible players]]></title>
             <description><![CDATA[The English Football League fines Wrexham £75k for two instances of fielding ineligible players.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cr89z5pj5n2zo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -258,7 +274,7 @@
             <title><![CDATA[All Spanish cup matches suspended after Madrid train collision ]]></title>
             <description><![CDATA[All 24 matches in the Spanish Copa del Rey due to take place on Wednesday are suspended as a mark of respect after at least 68 people were killed in a train crash near Madrid.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/crgj902p68gno?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/crgj902p68gno#5</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/crgj902p68gno#6</guid>
             <pubDate>Wed, 28 Oct 2026 13:25:48 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/196d/live/ff0ee8f0-d2ca-11f1-8e79-5381b0a9d682.jpg"/>
         </item>
@@ -277,22 +293,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cwly0myd08reo#6</guid>
             <pubDate>Wed, 28 Oct 2026 08:36:46 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/713a/live/466d7cb0-d12d-11f1-9a61-7b8d75492b97.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[McClean leaves Derry City after contract dispute]]></title>
-            <description><![CDATA[James McClean says Derry City "will always hold a special place in my heart" after mutually agreeing to terminate his contract with immediate effect. ]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cqn738v634xxo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqn738v634xxo#6</guid>
-            <pubDate>Wed, 28 Oct 2026 13:25:57 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cfe9/live/31e75ff0-d2d5-11f1-b677-b762d2f83f6e.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ousmane Dembele, Winchester City and the Ballon d'Or]]></title>
-            <description><![CDATA[France and PSG star Ousmane Dembele's unique connection to non-league side Winchester City resurfaces at Monday's Ballon d'Or ceremony.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/c50mejwmry3vo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c50mejwmry3vo#6</guid>
-            <pubDate>Wed, 28 Oct 2026 16:01:47 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eea1/live/d8017ad0-d2e7-11f1-8d86-83eebc838351.jpg"/>
         </item>
         <item>
             <title><![CDATA[Late Mbappe goal earns Real win at Barca in dramatic Clasico]]></title>
@@ -511,6 +511,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a66e/live/81ba8920-d15f-11f1-87df-afb7a168a1f2.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Scottish football could pave way for 3pm TV blackout to end]]></title>
+            <description><![CDATA[The first tentative steps to end the 3pm television blackout in the UK have been taken by Scottish football as it seeks offers for the next broadcast cycle.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cmgr8l87edyjo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmgr8l87edyjo#16</guid>
+            <pubDate>Thu, 29 Oct 2026 17:43:53 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/24e1/live/b4fef970-d3bb-11f1-8c27-87a7c72809db.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Do Dundee United have Scotland's best midfield three?]]></title>
             <description><![CDATA[As Dundee United hold reigning champions Celtic to a draw in Glasgow, the question is posed about whether they have the best midfield in Scotland.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cwn738elr6nvo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -542,14 +550,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0pk76wv#16</guid>
             <pubDate>Thu, 29 Oct 2026 08:00:00 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0pk76y0.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['Leggy' Rangers frustrate Makhanya - gossip]]></title>
-            <description><![CDATA[Rangers scorer frustrated as Celtic manager plays down hopes of winger getting starts.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/ckly4dqz66z6o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ckly4dqz66z6o#16</guid>
-            <pubDate>Thu, 29 Oct 2026 07:40:56 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02a4/live/bdfc8380-d36b-11f1-b441-2b33b063138f.png"/>
         </item>
         <item>
             <title><![CDATA[How unbeaten Chelsea are getting back to their best]]></title>

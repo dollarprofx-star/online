@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 29 Oct 2026 17:28:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Oct 2026 18:13:00 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -31,12 +31,12 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/45cd/live/c93e7220-d385-11f1-b5f4-fd541fd21001.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Audio reveals exchanges between control centre and drivers before deadly Spain train crash]]></title>
-            <description><![CDATA[The recordings appear to show one high-speed train was given clearance to move even though another up ahead had stalled.]]></description>
+            <title><![CDATA[Audio reveals exchanges between Spain train operators and drivers moments before deadly crash]]></title>
+            <description><![CDATA[The leaked tapes appear to show one high-speed train was given clearance to move at normal speed, even though another up ahead had stalled.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmqxnl312v34o#1</guid>
             <pubDate>Thu, 29 Oct 2026 11:07:35 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26f6/live/810fd9c0-d39a-11f1-b441-2b33b063138f.jpg"/>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a6ba/live/c5307740-d3c2-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
             <title><![CDATA[Russell Brand's wife tells his rape trial he is 'kind and a wonderful father']]></title>
@@ -51,7 +51,7 @@
             <description><![CDATA[The police force faces scrutiny over its handling of a letter containing allegations about Meghan's father.]]></description>
             <link>https://www.bbc.co.uk/news/articles/ck30e91r9z0jo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ck30e91r9z0jo#1</guid>
-            <pubDate>Thu, 29 Oct 2026 17:12:20 GMT</pubDate>
+            <pubDate>Thu, 29 Oct 2026 17:58:18 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/90d2/live/12831950-d3bc-11f1-93e1-3b657b665bcf.png"/>
         </item>
         <item>
@@ -60,7 +60,7 @@
             <link>https://www.bbc.co.uk/news/articles/ckdd8qpdeym4o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckdd8qpdeym4o#1</guid>
             <pubDate>Thu, 29 Oct 2026 17:25:41 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e60/live/6096d430-d383-11f1-b5f4-fd541fd21001.png"/>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d6c/live/9fc56a20-d3c1-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
             <title><![CDATA[Flávio Bolsonaro calls himself 'leader of Brazil' after election loss]]></title>
@@ -79,7 +79,7 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e53/live/5b4a4ea0-d2eb-11f1-8d86-83eebc838351.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Hundreds of GP practices lose online services after collapse of tech firm Silicon Practice]]></title>
+            <title><![CDATA[Hundreds of GP practices lose online services after collapse of tech firm]]></title>
             <description><![CDATA[It will cause huge disruption in some parts of England and Wales, say GP leaders.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cq146562ld3no?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cq146562ld3no#1</guid>
@@ -91,7 +91,7 @@
             <description><![CDATA[The Lib Dems claim Farage "attempted to shove" their South Devon MP but a Reform source accuses the party of "lying".]]></description>
             <link>https://www.bbc.co.uk/news/articles/cwg7x3kegymvo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwg7x3kegymvo#1</guid>
-            <pubDate>Thu, 29 Oct 2026 17:20:30 GMT</pubDate>
+            <pubDate>Thu, 29 Oct 2026 17:46:15 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c830/live/c86392f0-d3bb-11f1-8c27-87a7c72809db.jpg"/>
         </item>
         <item>
@@ -101,6 +101,22 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmpqgx8w0537o#1</guid>
             <pubDate>Thu, 29 Oct 2026 15:18:10 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ef7/live/c9a8ab10-a6e2-11f1-9e4c-79c1c0e340c6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[What are the government's options for reducing welfare spending?]]></title>
+            <description><![CDATA[BBC Verify examines how much the welfare system costs and the options the government could use to reduce it.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cwy7l1lrkmk2o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwy7l1lrkmk2o#2</guid>
+            <pubDate>Thu, 29 Oct 2026 17:59:57 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ce1/live/683365e0-d3bb-11f1-a701-fddedf244c16.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[What the Budget means for your money]]></title>
+            <description><![CDATA[Changes announced by Chancellor John Healey in his first Budget will affect your finances directly. Here's how.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo#2</guid>
+            <pubDate>Thu, 29 Oct 2026 15:11:35 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84cd/live/e88146a0-d365-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
             <title><![CDATA[Faisal Islam: This Budget was micro and that was deliberate]]></title>
@@ -117,22 +133,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cr5yn9zwnp3qo#2</guid>
             <pubDate>Thu, 29 Oct 2026 15:18:04 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d97f/live/92781b20-d3a7-11f1-a5cd-49637fcbd4e4.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Healey provides some breathing space but things still set to get worse for most]]></title>
-            <description><![CDATA[The chancellor talked of charting a new course for Britain, but the impact of Iran war has limited his options.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cqe9l4px0yzxo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqe9l4px0yzxo#2</guid>
-            <pubDate>Wed, 28 Oct 2026 19:51:01 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/426f/live/d5d2d7e0-d21f-11f1-b8e4-17c9744a7f8e.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[What the Budget means for your money]]></title>
-            <description><![CDATA[Changes announced by Chancellor John Healey in his first Budget will affect your finances directly. Here's how.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo#2</guid>
-            <pubDate>Thu, 29 Oct 2026 15:11:35 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84cd/live/e88146a0-d365-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
             <title><![CDATA[Shock of rail tragedy gives way to sorrow and outrage in politically divided Spain]]></title>
@@ -199,6 +199,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9946/live/591e3810-d3b5-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
+            <title><![CDATA[DUP blocks Michelle O'Neill's engagements over Drumcree ]]></title>
+            <description><![CDATA[The DUP leader Gavin Robinson also confirms that Emma Little-Pengelly will not participate in joint engagements with O'Neill.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cwly300mxym3o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwly300mxym3o#5</guid>
+            <pubDate>Thu, 29 Oct 2026 18:08:15 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c13/live/7da04f20-d392-11f1-b490-07d78ce4b8e5.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Rock collapse kills two in Turkey's Cappadocia, local media reports]]></title>
             <description><![CDATA[One of the region's famous rock formations, known as "fairy chimneys", reportedly collapsed outside an open-air museum.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cknv08nvzld4o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -215,12 +223,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd3d/live/2cdccc40-d378-11f1-bf63-739fb2907d03.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Serious pollution by water industry remains high despite £5bn investment]]></title>
-            <description><![CDATA[All but one of England's water companies were rated as "poor" or "requiring improvement" for environmental targets.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cw5ynxepy4gno?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cw5ynxepy4gno#5</guid>
-            <pubDate>Thu, 29 Oct 2026 12:08:01 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/934c/live/6b157700-d396-11f1-b490-07d78ce4b8e5.jpg"/>
+            <title><![CDATA[Man pleads guilty to federal hate crimes charges over fatal Colorado firebombing]]></title>
+            <description><![CDATA[Mohamed Sabry Soliman, who is already serving a life sentence over the fatal 2025 attack, changed his plea in the federal case on Thursday.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cred3e7yj8wqo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cred3e7yj8wqo#5</guid>
+            <pubDate>Thu, 29 Oct 2026 17:56:10 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c0d/live/8fff2150-d3a6-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
             <title><![CDATA[Bereaved families appalled by footage of Seoul crush in Call of Duty]]></title>
@@ -229,14 +237,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cx5ynj718zymo#5</guid>
             <pubDate>Thu, 29 Oct 2026 12:01:41 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1dfe/live/773d7ae0-cc94-11f1-9a39-31b474234113.png"/>
-        </item>
-        <item>
-            <title><![CDATA[DUP blocks Michelle O'Neill's engagements over Drumcree ]]></title>
-            <description><![CDATA[The DUP leader Gavin Robinson also confirms that Emma Little-Pengelly will not participate in joint engagements with O'Neill.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cwly300mxym3o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwly300mxym3o#5</guid>
-            <pubDate>Thu, 29 Oct 2026 16:55:48 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c13/live/7da04f20-d392-11f1-b490-07d78ce4b8e5.jpg"/>
         </item>
         <item>
             <title><![CDATA[Mum of critically ill baby denied hospital food as she wasn't breastfeeding]]></title>
@@ -271,14 +271,6 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5147/live/a2fe6400-d2cf-11f1-b677-b762d2f83f6e.jpg"/>
         </item>
         <item>
-            <title><![CDATA['Fully committed' Fernandes to remain Man Utd captain]]></title>
-            <description><![CDATA[Manchester United head coach Michael Carrick confirms Bruno Fernandes will remain captain, and addresses his own future before Saturday's trip to Chelsea.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/ckz7x8z1e9y9o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ckz7x8z1e9y9o#9</guid>
-            <pubDate>Thu, 29 Oct 2026 14:31:52 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4203/live/1524b320-d3a4-11f1-a5cd-49637fcbd4e4.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Is the double drop from the Premier League becoming more common?]]></title>
             <description><![CDATA[Back-to-back relegations to the third tier of English football are becoming more common and this season Burnley could make it a hat-trick after Luton Town and Leicester.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cv2d6ze63gk2o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -295,12 +287,20 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42b2/live/34539a90-d3bd-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Mourinho and chaos - is Real Madrid boss misunderstood?]]></title>
-            <description><![CDATA[Jose Mourinho has spent the past decade seeing other managers hailed as geniuses, but did Real Madrid's win at Barcelona show he's been misunderstood?]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/crly062vd0z7o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/crly062vd0z7o#9</guid>
-            <pubDate>Thu, 29 Oct 2026 08:07:22 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9302/live/9a370150-d370-11f1-9ed3-17a877d6ca72.jpg"/>
+            <title><![CDATA[Antonelli to miss Mexico media day with illness]]></title>
+            <description><![CDATA[Kimi Antonelli is to miss Thursday's Mexico City Grand Prix media day with an illness as he stands on the brink of clinching his first world title.]]></description>
+            <link>https://www.bbc.co.uk/sport/formula1/articles/cke8rlrrzpqyo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/formula1/articles/cke8rlrrzpqyo#9</guid>
+            <pubDate>Thu, 29 Oct 2026 17:25:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3173/live/156e6ee0-d3bb-11f1-8c27-87a7c72809db.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Fully committed' Fernandes to remain Man Utd captain]]></title>
+            <description><![CDATA[Manchester United head coach Michael Carrick confirms Bruno Fernandes will remain captain, and addresses his own future before Saturday's trip to Chelsea.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/ckz7x8z1e9y9o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ckz7x8z1e9y9o#9</guid>
+            <pubDate>Thu, 29 Oct 2026 14:31:52 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4203/live/1524b320-d3a4-11f1-a5cd-49637fcbd4e4.jpg"/>
         </item>
         <item>
             <title><![CDATA[Garcia targets Ryder Cup return as he confirms LIV exit]]></title>
