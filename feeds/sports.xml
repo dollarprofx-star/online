@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/sport/football</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 29 Oct 2026 20:30:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Oct 2026 21:14:58 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -519,6 +519,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a66e/live/81ba8920-d15f-11f1-87df-afb7a168a1f2.jpg"/>
         </item>
         <item>
+            <title><![CDATA[What have we learned from first round of Premiership? ]]></title>
+            <description><![CDATA[With every team having now faced one another in the Scottish Premiership, BBC Sport Scotland assesses the key things we have learned so far.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cwvgd4yegyepo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cwvgd4yegyepo#16</guid>
+            <pubDate>Thu, 29 Oct 2026 20:53:07 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f0b/live/460c42b0-d3c6-11f1-867c-77016fb236d7.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Scottish football could pave way for 3pm TV blackout to end]]></title>
             <description><![CDATA[The first tentative steps to end the 3pm television blackout in the UK have been taken by Scottish football as it seeks offers for the next broadcast cycle.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cmgr8l87edyjo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -550,14 +558,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6e3x50p3v1eo#16</guid>
             <pubDate>Thu, 29 Oct 2026 15:36:21 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5375/live/5d7f5e60-d3ac-11f1-a5cd-49637fcbd4e4.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Podcast: Midweek mayhem in the SPFL - The full debrief]]></title>
-            <description><![CDATA[Tynecastle drama, Celtic held and mounting pressure at Aberdeen.]]></description>
-            <link>https://www.bbc.co.uk/sounds/play/p0pk76wv?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0pk76wv#16</guid>
-            <pubDate>Thu, 29 Oct 2026 08:00:00 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0pk76y0.jpg"/>
         </item>
         <item>
             <title><![CDATA[How unbeaten Chelsea are getting back to their best]]></title>
