@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 29 Oct 2026 07:41:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Oct 2026 08:28:23 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -20,7 +20,7 @@
             <link>https://www.bbc.co.uk/news/articles/cm5ynwkjgpz3o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm5ynwkjgpz3o#1</guid>
             <pubDate>Thu, 29 Oct 2026 05:57:01 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd23/live/24913c10-d323-11f1-a701-fddedf244c16.jpg"/>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1dd8/live/5d3b4f20-d36d-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
             <title><![CDATA[I earn £30,000. I'm angry there was no fuel duty cut in the Budget]]></title>
@@ -127,7 +127,7 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c06e/live/66b0c920-d2ed-11f1-8d86-83eebc838351.jpg"/>
         </item>
         <item>
-            <title><![CDATA[What the Budget offers for under 25s - and what it leaves out ]]></title>
+            <title><![CDATA[Under 25? Here's what the Budget means for you]]></title>
             <description><![CDATA[The chancellor announced a series of measures which will impact under-25 year-olds from housing to minimum wage.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c60e05yn3w9zo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c60e05yn3w9zo#2</guid>
@@ -151,7 +151,7 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64cf/live/0f06e8c0-d2e9-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
-            <title><![CDATA['Super offensive' - We love how we look but AI tried to 'fix' our visible differences]]></title>
+            <title><![CDATA[We love how we look but AI tried to 'fix' our visible differences]]></title>
             <description><![CDATA[An AI tool edited a photo of Rhiannon Morgan in a work newsletter and she was shocked by the results.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cmx28e44xxx7o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmx28e44xxx7o#3</guid>
@@ -279,28 +279,20 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f99/live/b256c500-d117-11f1-921d-7d7921390179.png"/>
         </item>
         <item>
-            <title><![CDATA['He knows his role' - Rulli provides heroics but no worries for Donnarumma]]></title>
-            <description><![CDATA[Geronimo Rulli's penalty shootout heroics may have put the pressure on Gianluigi Donnarumma at Manchester City, but manager Enzo Maresca has no doubt about his number one.]]></description>
-            <link>https://www.bbc.co.uk/sport/articles/cqrky1jnpy1no?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/articles/cqrky1jnpy1no#9</guid>
-            <pubDate>Wed, 28 Oct 2026 23:10:06 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4071/live/c953f890-d31a-11f1-ba7d-b5eab6da6837.jpg"/>
+            <title><![CDATA[Brewers win first World Series in 57-year history]]></title>
+            <description><![CDATA[The Milwaukee Brewers win the World Series for the first time in the franchise's 57-year history after beating the Tampa Bay Rays in game five on Wednesday.]]></description>
+            <link>https://www.bbc.co.uk/sport/baseball/articles/c5x2v991l0lvo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/baseball/articles/c5x2v991l0lvo#9</guid>
+            <pubDate>Thu, 29 Oct 2026 07:56:38 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef65/live/d45c5110-d36a-11f1-a2f1-9d8bc53db834.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Fleetwood to face Everton or Newcastle in last eight]]></title>
-            <description><![CDATA[League Two Fleetwood Town will face Everton or Newcastle United at Highbury in the quarter-finals of the EFL Cup.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cmp3glnle0wdo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmp3glnle0wdo#9</guid>
-            <pubDate>Wed, 28 Oct 2026 22:45:35 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1292/live/876ff670-d367-11f1-8799-171d5bd36a81.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Red Roses make six changes but Kildunne on bench again]]></title>
-            <description><![CDATA[Red Roses' star Ellie Kildunne is named on England's bench again as head coach John Mitchell makes six changes to his side to face the United States.]]></description>
-            <link>https://www.bbc.co.uk/sport/rugby-union/articles/cq1m4kn84gk2o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/rugby-union/articles/cq1m4kn84gk2o#9</guid>
-            <pubDate>Wed, 28 Oct 2026 19:00:51 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e95/live/aa597550-d306-11f1-93e1-3b657b665bcf.jpg"/>
+            <title><![CDATA[Mourinho and chaos - is Real Madrid boss misunderstood?]]></title>
+            <description><![CDATA[Jose Mourinho has spent the past decade seeing other managers hailed as geniuses, but did Real Madrid's win at Barcelona last week show he's been misunderstood?]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/crly062vd0z7o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/crly062vd0z7o#9</guid>
+            <pubDate>Thu, 29 Oct 2026 08:07:22 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9302/live/9a370150-d370-11f1-9ed3-17a877d6ca72.jpg"/>
         </item>
     </channel>
 </rss>
