@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 29 Oct 2026 22:29:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Oct 2026 23:09:48 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -31,20 +31,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80a9/live/4b0bdaa0-d3b7-11f1-a701-fddedf244c16.png"/>
         </item>
         <item>
-            <title><![CDATA['Painful' years ahead, think tanks warn, as living standards set to fall]]></title>
-            <description><![CDATA[Budget forecasts show growth in living standards grinding almost to a halt.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c6z7x8214np7o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6z7x8214np7o#1</guid>
-            <pubDate>Thu, 29 Oct 2026 13:19:24 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7565/live/8d520610-d3cf-11f1-b441-2b33b063138f.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Audio reveals exchanges between Spain train operators and drivers moments before deadly crash]]></title>
-            <description><![CDATA[The leaked tapes appear to show one high-speed train was given clearance to move at normal speed, even though another up ahead had stalled.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmqxnl312v34o#1</guid>
-            <pubDate>Thu, 29 Oct 2026 11:07:35 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5421/live/19962d80-d3e5-11f1-9caf-3b69fd8bbd8b.jpg"/>
+            <title><![CDATA[Young athlete and former minister among victims of Spain train crash]]></title>
+            <description><![CDATA[As some of the victims' names are released publicly, an outpouring of grief and anger is sweeping across Spain.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cr78plp1p9yvo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cr78plp1p9yvo#1</guid>
+            <pubDate>Thu, 29 Oct 2026 21:33:35 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9c9/live/e9ad7380-d3c6-11f1-867c-77016fb236d7.jpg"/>
         </item>
         <item>
             <title><![CDATA['Continue your journey': Key moments of leaked Spain train crash audio]]></title>
@@ -53,6 +45,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/c6vgjeg0myzgo#1</guid>
             <pubDate>Thu, 29 Oct 2026 20:50:25 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d46f/live/7d9cd370-d3e4-11f1-9caf-3b69fd8bbd8b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Israeli opposition accuses Netanyahu of trying to 'delegitimise' election]]></title>
+            <description><![CDATA[The PM's Likud party has alleged foreign interference and said Arab-led parties "stole" the election after his coalition lost its majority.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo#1</guid>
+            <pubDate>Thu, 29 Oct 2026 20:21:54 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/213a/live/ecf64a00-d3d3-11f1-9c32-1532a6164171.jpg"/>
         </item>
         <item>
             <title><![CDATA[Jury shown CCTV of Huntingdon train staff using frying pan in defence]]></title>
@@ -71,12 +71,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/90d2/live/12831950-d3bc-11f1-93e1-3b657b665bcf.png"/>
         </item>
         <item>
-            <title><![CDATA[Israeli opposition accuses Netanyahu of trying to 'delegitimise' election]]></title>
-            <description><![CDATA[The PM's Likud party has alleged foreign interference and said Arab-led parties "stole" the election after his coalition lost its majority.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo#1</guid>
-            <pubDate>Thu, 29 Oct 2026 20:21:54 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/213a/live/ecf64a00-d3d3-11f1-9c32-1532a6164171.jpg"/>
+            <title><![CDATA[Burnham 'ready to support' Poundland staff as retailer faces collapse]]></title>
+            <description><![CDATA[Poundland's bosses are filing a notice of intention to appoint administrators to the business.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cqrky1p4dlm7o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqrky1p4dlm7o#1</guid>
+            <pubDate>Thu, 29 Oct 2026 19:11:10 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd3d/live/2cdccc40-d378-11f1-bf63-739fb2907d03.jpg"/>
         </item>
         <item>
             <title><![CDATA[Hundreds of GP practices lose online services after collapse of tech firm]]></title>
@@ -183,20 +183,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af03/live/714dcfb0-d3cc-11f1-93e1-3b657b665bcf.png"/>
         </item>
         <item>
-            <title><![CDATA[Burnham 'ready to support' Poundland staff as retailer faces collapse]]></title>
-            <description><![CDATA[Poundland's bosses are filing a notice of intention to appoint administrators to the business.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cqrky1p4dlm7o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqrky1p4dlm7o#5</guid>
-            <pubDate>Thu, 29 Oct 2026 19:11:10 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd3d/live/2cdccc40-d378-11f1-bf63-739fb2907d03.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Paris suburb shooting suspect targeted people of Muslim or African appearance, prosecutor says]]></title>
             <description><![CDATA[Kevin T has been charged with murder and attempted murder in connection with a terrorist enterprise.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cmd7qjq13prpo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmd7qjq13prpo#5</guid>
             <pubDate>Thu, 29 Oct 2026 19:19:23 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/184e/live/37150480-d3bd-11f1-a62f-fd53d503ac8d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Painful' years ahead, think tanks warn, as living standards set to fall]]></title>
+            <description><![CDATA[Budget forecasts show growth in living standards grinding almost to a halt.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c6z7x8214np7o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6z7x8214np7o#5</guid>
+            <pubDate>Thu, 29 Oct 2026 13:19:24 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7565/live/8d520610-d3cf-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
             <title><![CDATA[Grealish dropped by Everton after 'breach of club discipline']]></title>
@@ -263,14 +263,6 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/660e/live/5ff58e70-d1ff-11f1-b30f-21253679b290.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Duckett and Dawson deliver in England's consolation win]]></title>
-            <description><![CDATA[Ben Duckett hits 167 and Liam Dawson takes four wickets as England end the tri-series with victory over Sri Lanka. ]]></description>
-            <link>https://www.bbc.co.uk/sport/cricket/articles/cjg4700703rxo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/cricket/articles/cjg4700703rxo#9</guid>
-            <pubDate>Thu, 29 Oct 2026 16:37:15 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06b4/live/7a9b9240-d3a0-11f1-a5cd-49637fcbd4e4.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Careless dismissals give Australia route to series win in South Africa]]></title>
             <description><![CDATA[Australia take a step towards victory over South Africa in Cape Town, with the help of careless batting from Proteas' top order.]]></description>
             <link>https://www.bbc.co.uk/sport/cricket/articles/cwz0vevng3n0o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -285,6 +277,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/cwdr8m8g4jz2o#9</guid>
             <pubDate>Thu, 29 Oct 2026 20:25:37 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6651/live/755ec310-d3d7-11f1-9c32-1532a6164171.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[PSG score late to hold struggling Man City]]></title>
+            <description><![CDATA[Manchester City concede late to a draw 1-1 with Paris St-Germain, as their wait for a win in the Women's Champions League this season continues.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/videos/ckeq3v1wgxy4o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/ckeq3v1wgxy4o#9</guid>
+            <pubDate>Thu, 29 Oct 2026 22:40:17 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2032/live/17c3a580-d3e7-11f1-a701-fddedf244c16.jpg"/>
         </item>
     </channel>
 </rss>
