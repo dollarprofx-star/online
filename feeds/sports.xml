@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/sport/football</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 30 Oct 2026 08:58:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Oct 2026 09:44:46 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -55,16 +55,8 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/54c4/live/03f07a30-d20f-11f1-93e1-3b657b665bcf.png"/>
         </item>
         <item>
-            <title><![CDATA[Families v loyal fans - women's football's attendance dilemma]]></title>
-            <description><![CDATA[Average Women's Super League attendances surged by 192% in the season after the Lionesses' Euro 2022 triumph, but the boom has stalled.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cq23d1ldgn1yo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cq23d1ldgn1yo#0</guid>
-            <pubDate>Fri, 30 Oct 2026 07:04:53 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/467e/live/8c69bbf0-d1ed-11f1-b360-61fb5d34dc08.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Afcon to return to two-year cycle after Caf U-turn]]></title>
-            <description><![CDATA[The African Cup of Nations (Afcon) will return to its traditional two-year cycle after a review into December's decision to host it every four years instead.]]></description>
+            <description><![CDATA[The Africa Cup of Nations (Afcon) will return to its traditional two-year cycle after a review into December's decision to host it every four years instead.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cqn73pxx8vr5o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqn73pxx8vr5o#0</guid>
             <pubDate>Fri, 30 Oct 2026 08:39:36 GMT</pubDate>
@@ -98,7 +90,7 @@
             <title><![CDATA[Is double drop from the Premier League becoming more common?]]></title>
             <description><![CDATA[Back-to-back relegations to the third tier of English football are becoming more common and this season Burnley could make it a hat-trick after Luton Town and Leicester.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cv2d6ze63gk2o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cv2d6ze63gk2o#1</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cv2d6ze63gk2o#0</guid>
             <pubDate>Thu, 29 Oct 2026 13:19:52 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/660e/live/5ff58e70-d1ff-11f1-b30f-21253679b290.jpg"/>
         </item>
@@ -154,7 +146,7 @@
             <title><![CDATA['I'm embarrassed' - Harrogate boss after 3-0 defeat by nine-man Carlisle]]></title>
             <description><![CDATA[Carlisle boss Rob Elliot praises his nine-man side after their "incredible" win over Harrogate.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/crly06p0g11eo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/crly06p0g11eo#2</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/crly06p0g11eo#1</guid>
             <pubDate>Thu, 29 Oct 2026 10:45:18 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/942b/live/560e04f0-d380-11f1-b5f4-fd541fd21001.jpg"/>
         </item>
@@ -207,6 +199,22 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c6c1/live/22b81730-d38f-11f1-b31d-29088a2dcf13.jpg"/>
         </item>
         <item>
+            <title><![CDATA['Stutter' penalty back in the spotlight after Barco miss costs Chelsea]]></title>
+            <description><![CDATA[The stuttering run-up for penalties has been called 'naive' as players continue to try to deceive goalkeepers with a stop-start approach - but why?]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cmp3g8vxd258o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmp3g8vxd258o#2</guid>
+            <pubDate>Thu, 29 Oct 2026 00:17:48 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2567/live/4a1635a0-d32b-11f1-b0c3-4b2ce0e9f02a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why time is running out for Milan's iconic San Siro]]></title>
+            <description><![CDATA[With AC Milan and Inter announcing designs for a new stadium to replace their current home, BBC Sport visits San Siro in its centenary year, to find out why time could be running out to visit one of the world's most iconic football grounds.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/videos/c0q4k74kvy5o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/c0q4k74kvy5o#3</guid>
+            <pubDate>Wed, 04 Feb 2026 08:43:06 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44c9/live/88464190-0116-11f1-b7e1-afb6d0884c18.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Russo scores hat-trick as Arsenal beat Benfica]]></title>
             <description><![CDATA[Alessia Russo becomes England's all-time leading goalscorer in the Women's Champions League with a hat-trick in Arsenal's 3-0 win over Benfica.]]></description>
             <link>https://www.bbc.co.uk/sport/football/videos/crd6dzxwlqjlo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -239,22 +247,6 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b15/live/a5aa2a50-d1e3-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Ballon d'Or winner Kane's best Bundesliga goals]]></title>
-            <description><![CDATA[Watch Harry Kane's best goals from the 2025/26 Bundesliga season with Bayern, as the England striker is crowned the men's 2026 Ballon d'Or winner.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/videos/cmd93gqn8119o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cmd93gqn8119o#3</guid>
-            <pubDate>Mon, 26 Oct 2026 19:29:35 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ef7/live/513170a0-d166-11f1-93e1-3b657b665bcf.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['Stutter' penalty back in the spotlight after Barco miss costs Chelsea]]></title>
-            <description><![CDATA[The stuttering run-up for penalties has been called 'naive' as players continue to try to deceive goalkeepers with a stop-start approach - but why?]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cmp3g8vxd258o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmp3g8vxd258o#5</guid>
-            <pubDate>Thu, 29 Oct 2026 00:17:48 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2567/live/4a1635a0-d32b-11f1-b0c3-4b2ce0e9f02a.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Chiellini guidance to Leeds 'rock' - could Muharemovic be signing of season?]]></title>
             <description><![CDATA[Having cost Leeds United an 'eye-watering' fee, Tarik Muharemovic has impressed so much that some fear the club face a battle to keep him.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cx05487d6r9vo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -282,7 +274,7 @@
             <title><![CDATA['He could be happier' - why is Estevao becoming Chelsea's forgotten man?]]></title>
             <description><![CDATA[Estevao plays no part as Chelsea lose on penalties to Liverpool in the Carabao Cup - so where does this leave the exciting Brazilian with Xabi Alonso?]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cv5ynwkndw61o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cv5ynwkndw61o#6</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cv5ynwkndw61o#5</guid>
             <pubDate>Thu, 29 Oct 2026 00:05:21 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83e9/live/c0798ce0-d328-11f1-acfb-39fa465810d4.jpg"/>
         </item>
@@ -317,6 +309,22 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c678prmye8xvo#6</guid>
             <pubDate>Wed, 28 Oct 2026 21:37:08 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/047b/live/8acbc4e0-d315-11f1-ba7d-b5eab6da6837.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Man Utd's Sesko ruled out until January with shin injury]]></title>
+            <description><![CDATA[Manchester United striker Benjamin Sesko is expected to be out until at least January with a shin injury.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cq33xl50vyj2o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cq33xl50vyj2o#6</guid>
+            <pubDate>Wed, 28 Oct 2026 19:57:04 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a322/live/ef367710-d304-11f1-a9bf-3316693f55f0.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ballon d'Or winner Kane's best Bundesliga goals]]></title>
+            <description><![CDATA[Watch Harry Kane's best goals from the 2025/26 Bundesliga season with Bayern, as the England striker is crowned the men's 2026 Ballon d'Or winner.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/videos/cmd93gqn8119o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cmd93gqn8119o#7</guid>
+            <pubDate>Mon, 26 Oct 2026 19:29:35 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ef7/live/513170a0-d166-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
             <title><![CDATA[Late Mbappe goal earns Real win at Barca in dramatic Clasico]]></title>
@@ -373,14 +381,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cj3vq1ggw247o#7</guid>
             <pubDate>Sun, 25 Oct 2026 23:52:55 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2942/live/b4d98470-d0b8-11f1-a701-fddedf244c16.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Watch: Best of Scottish Championship & League 1 action]]></title>
-            <description><![CDATA[Watch the best of the action from the weekend's action in the Scottish Championship and League 1.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/videos/cqgm04mjkgzwo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cqgm04mjkgzwo#7</guid>
-            <pubDate>Mon, 26 Oct 2026 09:26:06 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c4a/live/e4f14f40-cba8-11f1-9ee2-f74dfb8e54e5.jpg"/>
         </item>
         <item>
             <title><![CDATA[Where does Fleetwood beating Arsenal rank in biggest cup upsets?]]></title>
@@ -567,14 +567,6 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0205/live/a303f5c0-d331-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Families v loyal fans - women's football's attendance dilemma]]></title>
-            <description><![CDATA[Average Women's Super League attendances surged by 192% in the season after the Lionesses' Euro 2022 triumph, but the boom has stalled.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cq23d1ldgn1yo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cq23d1ldgn1yo#17</guid>
-            <pubDate>Fri, 30 Oct 2026 07:04:53 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/467e/live/8c69bbf0-d1ed-11f1-b360-61fb5d34dc08.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[PSG score late to hold struggling Man City]]></title>
             <description><![CDATA[Manchester City concede late to a draw 1-1 with Paris St-Germain, as their wait for a win in the Women's Champions League this season continues.]]></description>
             <link>https://www.bbc.co.uk/sport/football/videos/ckeq3v1wgxy4o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -597,6 +589,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqp9gky38lj3o#17</guid>
             <pubDate>Mon, 26 Oct 2026 23:14:39 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f75b/live/cfdebc20-d191-11f1-8c41-0bbbeafdc6d4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[What have Man Utd changed to turn around WSL form?]]></title>
+            <description><![CDATA[It is a different picture at Manchester United now than it was last month - and they proved it to fight back and earn a point against rivals Manchester City.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cm5ynpjx170zo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cm5ynpjx170zo#17</guid>
+            <pubDate>Sun, 25 Oct 2026 21:38:59 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/685a/live/32d096c0-d0cd-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
             <title><![CDATA[The Unpromotables: Germany's league champions who can't go up]]></title>

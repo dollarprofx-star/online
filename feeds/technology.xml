@@ -9,11 +9,19 @@
             <link>https://www.bbc.co.uk/news/technology</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 30 Oct 2026 08:58:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Oct 2026 09:44:51 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Crypto giant Binance hit by $6.3bn hack suspected to be largest in history]]></title>
+            <description><![CDATA[Two analytics firms have attributed the incident to a North Korean hacking unit called TraderTraitor.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o#0</guid>
+            <pubDate>Fri, 30 Oct 2026 09:33:51 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31a8/live/31633420-d43b-11f1-93e1-3b657b665bcf.jpg"/>
+        </item>
         <item>
             <title><![CDATA[How video game remakes tap the power of nostalgia]]></title>
             <description><![CDATA[Video games are good at triggering nostalgia, a key reason why classic games keep getting remade.]]></description>
@@ -23,15 +31,7 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f80/live/10dfbd10-c949-11f1-bc2e-018d645d8d21.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Crypto giant Binance hit by $6.3bn hack suspected to be largest in history]]></title>
-            <description><![CDATA[Two analytics firms have attributed the incident to a North Korean hacking unit called TraderTraitor.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o#0</guid>
-            <pubDate>Fri, 30 Oct 2026 07:16:05 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a4c/live/ee32b970-d406-11f1-b5d5-035446124886.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Google value plunges by $500bn as AI fears rattle Wall Street]]></title>
+            <title><![CDATA[Google value plunges by $500bn as AI search hits ad sales]]></title>
             <description><![CDATA[Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI search summaries were affecting ad revenue.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o#0</guid>
