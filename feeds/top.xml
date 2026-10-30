@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 30 Oct 2026 22:44:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Oct 2026 23:15:26 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -43,7 +43,7 @@
             <description><![CDATA[The second series of the hit series reached its climax on Friday after attracting 15 million viewers.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cw4g17z11l45o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cw4g17z11l45o#1</guid>
-            <pubDate>Fri, 30 Oct 2026 22:00:39 GMT</pubDate>
+            <pubDate>Fri, 30 Oct 2026 22:52:33 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b017/live/6daf0760-d477-11f1-9dda-1ba6fcc7d159.jpg"/>
         </item>
         <item>
@@ -215,6 +215,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf6/live/d1e71250-9509-11ee-8df3-1d2983d8814f.png"/>
         </item>
         <item>
+            <title><![CDATA[Villa to sue Carragher over 'unacceptable insults']]></title>
+            <description><![CDATA[Aston Villa say they will initiate legal action against Jamie Carragher over what the club branded as "unacceptable insults".]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cqd09p3kppyvo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqd09p3kppyvo#8</guid>
+            <pubDate>Fri, 30 Oct 2026 23:05:45 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b461/live/128fc5d0-d4b4-11f1-a58c-6d26609b0a57.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[What Howe could bring to Man Utd - and what are the challenges?]]></title>
             <description><![CDATA[Eddie Howe is being linked with the Manchester United job, but what are some of the considerations for him and the club?]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cr74pd99vwq3o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -237,14 +245,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/rugby-union/articles/cmy832jv00p1o#8</guid>
             <pubDate>Fri, 30 Oct 2026 16:22:55 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20d9/live/b6628fc0-d479-11f1-8edb-d9fce66588c6.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Britain's first £100m man facing defining moment]]></title>
-            <description><![CDATA[Is it 'now or never' for Jack Grealish after he was dropped by Everton for a breach of club discipline, asks chief football writer Phil McNulty?]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cmzxj2e2e5p2o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmzxj2e2e5p2o#8</guid>
-            <pubDate>Fri, 30 Oct 2026 13:42:15 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a69e/live/a617bf90-d45c-11f1-ab12-eb0c94f5b382.jpg"/>
         </item>
     </channel>
 </rss>
