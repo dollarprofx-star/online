@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/sport/football</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 30 Oct 2026 23:15:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Oct 2026 23:57:45 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -21,6 +21,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cr74pd99vwq3o#0</guid>
             <pubDate>Fri, 30 Oct 2026 16:27:13 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6804/live/b15b30a0-d47d-11f1-80bc-6d398902272f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Villa to sue Carragher over 'unacceptable insults']]></title>
+            <description><![CDATA[Aston Villa say they will initiate legal action against Jamie Carragher over what the club branded as "unacceptable insults".]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cqd09p3kppyvo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqd09p3kppyvo#0</guid>
+            <pubDate>Fri, 30 Oct 2026 23:05:45 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b461/live/128fc5d0-d4b4-11f1-a58c-6d26609b0a57.jpg"/>
         </item>
         <item>
             <title><![CDATA[Arteta warns Dowman 'we are not in Disneyland' after red card ]]></title>
@@ -61,14 +69,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmkgkpexjzneo#0</guid>
             <pubDate>Fri, 30 Oct 2026 16:21:10 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd1a/live/0239a6a0-d479-11f1-8edb-d9fce66588c6.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Villa to sue Carragher over 'unacceptable insults']]></title>
-            <description><![CDATA[Aston Villa say they will initiate legal action against Jamie Carragher over what the club branded as "unacceptable insults".]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cqd09p3kppyvo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqd09p3kppyvo#0</guid>
-            <pubDate>Fri, 30 Oct 2026 23:05:45 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b461/live/128fc5d0-d4b4-11f1-a58c-6d26609b0a57.jpg"/>
         </item>
         <item>
             <title><![CDATA[From WiFi to 'relief' - how was Ferguson's Irish League debut?]]></title>
