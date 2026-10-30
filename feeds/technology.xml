@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news/technology</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 30 Oct 2026 13:40:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Oct 2026 14:34:25 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -23,7 +23,7 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3304/live/1c4d6e00-d3d4-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
-            <title><![CDATA[What we know so far about the Binance hack]]></title>
+            <title><![CDATA[Who could be behind the Binance hack and what we know so far]]></title>
             <description><![CDATA[Binance has been hit by what could be the biggest crypto hack ever - here's what we know so far]]></description>
             <link>https://www.bbc.co.uk/news/articles/cm5yn8eqg3npo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm5yn8eqg3npo#0</guid>

@@ -9,18 +9,18 @@
             <link>https://www.bbc.co.uk/sport/football</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 30 Oct 2026 13:40:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Oct 2026 14:34:31 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
-            <title><![CDATA[Grealish dropped over 'breach of club discipline' - what now?]]></title>
-            <description><![CDATA[Jack Grealish is left out of Everton's EFL Cup win over Newcastle United on Thursday because of "a breach of club discipline".]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cmwy4vyl9nplo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmwy4vyl9nplo#0</guid>
-            <pubDate>Thu, 29 Oct 2026 19:31:36 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8012/live/29492fb0-d3f0-11f1-93e1-3b657b665bcf.jpg"/>
+            <title><![CDATA[Britain's first £100m man facing defining moment]]></title>
+            <description><![CDATA[Is it 'now or never' for Jack Grealish after he was dropped by Everton for a breach of club discipline, asks chief football writer Phil McNulty?]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cmzxj2e2e5p2o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmzxj2e2e5p2o#0</guid>
+            <pubDate>Fri, 30 Oct 2026 13:42:15 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a69e/live/a617bf90-d45c-11f1-ab12-eb0c94f5b382.jpg"/>
         </item>
         <item>
             <title><![CDATA[How talking about Man Utd's cycle of doom became an industry]]></title>
@@ -29,6 +29,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cjn5v3pl0159o#0</guid>
             <pubDate>Fri, 30 Oct 2026 06:14:19 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4563/live/79c82590-d3b4-11f1-a340-478c8f3b9e55.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[O'Neill agrees with McGregor about Celtic issues]]></title>
+            <description><![CDATA[Manager Martin O'Neill says he is in "full agreement" with captain Callum McGregor's assessment of Celtic's issues, but insisted they will "sort it out".]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cwrkypzzp6xeo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cwrkypzzp6xeo#0</guid>
+            <pubDate>Fri, 30 Oct 2026 14:22:18 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd1b/live/4b429540-d46b-11f1-9dda-1ba6fcc7d159.jpg"/>
         </item>
         <item>
             <title><![CDATA[Ronaldo closes in on 1,000th goal with hat-trick ]]></title>
@@ -79,20 +87,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/54c4/live/03f07a30-d20f-11f1-93e1-3b657b665bcf.png"/>
         </item>
         <item>
-            <title><![CDATA[Forest Green launch legal action over Savage approach]]></title>
-            <description><![CDATA[Forest Green chairman Dale Vince announces the club is taking legal action against Peterborough United.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cq4g148z2xp2o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cq4g148z2xp2o#0</guid>
-            <pubDate>Fri, 30 Oct 2026 12:18:28 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/17ef/live/37196de0-d458-11f1-93d9-89af68edb68a.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[PSG score late to hold struggling Man City]]></title>
             <description><![CDATA[Manchester City concede late to a draw 1-1 with Paris St-Germain, as their wait for a win in the Women's Champions League this season continues.]]></description>
             <link>https://www.bbc.co.uk/sport/football/videos/ckeq3v1wgxy4o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/ckeq3v1wgxy4o#0</guid>
             <pubDate>Thu, 29 Oct 2026 22:40:17 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2032/live/17c3a580-d3e7-11f1-a701-fddedf244c16.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Forest Green launch legal action over Savage approach]]></title>
+            <description><![CDATA[Forest Green chairman Dale Vince announces the club is taking legal action against Peterborough United.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cq4g148z2xp2o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cq4g148z2xp2o#1</guid>
+            <pubDate>Fri, 30 Oct 2026 12:18:28 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/17ef/live/37196de0-d458-11f1-93d9-89af68edb68a.jpg"/>
         </item>
         <item>
             <title><![CDATA[How to follow the Premier League on the BBC this weekend]]></title>
@@ -109,6 +117,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqn73pxx8vr5o#1</guid>
             <pubDate>Fri, 30 Oct 2026 08:39:36 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a58/live/94f26780-d437-11f1-9ba3-e16b46d57ce6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Grealish dropped over 'breach of club discipline' - what now?]]></title>
+            <description><![CDATA[Jack Grealish is left out of Everton's EFL Cup win over Newcastle United on Thursday because of "a breach of club discipline".]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cmwy4vyl9nplo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmwy4vyl9nplo#1</guid>
+            <pubDate>Thu, 29 Oct 2026 19:31:36 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8012/live/29492fb0-d3f0-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
             <title><![CDATA[Chelsea linked with Alexander-Arnold - Friday's gossip]]></title>
@@ -130,7 +146,7 @@
             <title><![CDATA[Ex-captain says club was turned into 'dictatorship']]></title>
             <description><![CDATA[Emily Owen made the allegations after her departure from Cheltenham Town's women's side was announced this week.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/crq5n91ly4pxo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/crq5n91ly4pxo#1</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/crq5n91ly4pxo#2</guid>
             <pubDate>Fri, 30 Oct 2026 09:49:29 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c80/live/e515d380-d385-11f1-b5f4-fd541fd21001.jpg"/>
         </item>
@@ -175,22 +191,6 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4079/live/dc2e4040-d3c6-11f1-867c-77016fb236d7.jpg"/>
         </item>
         <item>
-            <title><![CDATA[What have we learned from first round of Premiership? ]]></title>
-            <description><![CDATA[With every team having now faced one another in the Scottish Premiership, BBC Sport Scotland assesses the key things we have learned so far.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cwvgd4yegyepo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cwvgd4yegyepo#2</guid>
-            <pubDate>Thu, 29 Oct 2026 20:53:07 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f0b/live/460c42b0-d3c6-11f1-867c-77016fb236d7.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sometimes managers need sacking for own good - Neville]]></title>
-            <description><![CDATA[Gary Neville says managers sometimes need to be sacked "for their own good" as Manchester United persist with under-pressure boss Michael Carrick.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cjvgx0ek6rz2o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cjvgx0ek6rz2o#2</guid>
-            <pubDate>Thu, 29 Oct 2026 11:00:53 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d11c/live/a995c900-d37b-11f1-bf63-739fb2907d03.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Carrick says there are 'no issues' with captain Fernandes]]></title>
             <description><![CDATA[Manchester United manager Michael Carrick says there are "no issues" with captain Bruno Fernandes after he was dropped from the team against Bournemouth.]]></description>
             <link>https://www.bbc.co.uk/sport/football/videos/cqj34pjxp7xdo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -231,6 +231,22 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2286/live/1682cd20-d29f-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
+            <title><![CDATA[What have we learned from first round of Premiership? ]]></title>
+            <description><![CDATA[With every team having now faced one another in the Scottish Premiership, BBC Sport Scotland assesses the key things we have learned so far.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cwvgd4yegyepo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cwvgd4yegyepo#5</guid>
+            <pubDate>Thu, 29 Oct 2026 20:53:07 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f0b/live/460c42b0-d3c6-11f1-867c-77016fb236d7.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sometimes managers need sacking for own good - Neville]]></title>
+            <description><![CDATA[Gary Neville says managers sometimes need to be sacked "for their own good" as Manchester United persist with under-pressure boss Michael Carrick.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cjvgx0ek6rz2o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cjvgx0ek6rz2o#5</guid>
+            <pubDate>Thu, 29 Oct 2026 11:00:53 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d11c/live/a995c900-d37b-11f1-bf63-739fb2907d03.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Sub-plots intensify Blades and Wrexham's rivalry]]></title>
             <description><![CDATA[Former team-mates Chris Wilder and Phil Parkinson lock horns again as Sheffield United face Wrexham in the Championship on Friday night.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cky931w9p0x0o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -245,14 +261,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/crly062vd0z7o#5</guid>
             <pubDate>Thu, 29 Oct 2026 08:07:22 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9302/live/9a370150-d370-11f1-9ed3-17a877d6ca72.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[McInnes defends Fernandez before League Cup semi]]></title>
-            <description><![CDATA[Rangers manager Derek McInnes defends Emmanuel Fernandez, saying the centre-back "has been a big part of our better performances this season".]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/c6e3x50p3v1eo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6e3x50p3v1eo#5</guid>
-            <pubDate>Thu, 29 Oct 2026 15:36:21 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5375/live/5d7f5e60-d3ac-11f1-a5cd-49637fcbd4e4.jpg"/>
         </item>
         <item>
             <title><![CDATA['I'm embarrassed' - Harrogate boss after 3-0 defeat by nine-man Carlisle]]></title>
@@ -279,14 +287,6 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c935/live/d2a76ef0-d387-11f1-b5f4-fd541fd21001.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Do Dundee United have Scotland's best midfield three?]]></title>
-            <description><![CDATA[As Dundee United hold reigning champions Celtic to a draw in Glasgow, the question is posed about whether they have the best midfield in Scotland.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cwn738elr6nvo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cwn738elr6nvo#5</guid>
-            <pubDate>Thu, 29 Oct 2026 08:21:35 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0205/live/a303f5c0-d331-11f1-a701-fddedf244c16.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Chiellini guidance to Leeds 'rock' - could Muharemovic be signing of season?]]></title>
             <description><![CDATA[Having cost Leeds United an 'eye-watering' fee, Tarik Muharemovic has impressed so much that some fear the club face a battle to keep him.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cx05487d6r9vo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -309,6 +309,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmp3g8vxd258o#6</guid>
             <pubDate>Thu, 29 Oct 2026 00:17:48 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2567/live/4a1635a0-d32b-11f1-b0c3-4b2ce0e9f02a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[McInnes defends Fernandez before League Cup semi]]></title>
+            <description><![CDATA[Rangers manager Derek McInnes defends Emmanuel Fernandez, saying the centre-back "has been a big part of our better performances this season".]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/c6e3x50p3v1eo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6e3x50p3v1eo#6</guid>
+            <pubDate>Thu, 29 Oct 2026 15:36:21 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5375/live/5d7f5e60-d3ac-11f1-a5cd-49637fcbd4e4.jpg"/>
         </item>
         <item>
             <title><![CDATA[Fleetwood to face Everton in EFL Cup quarters]]></title>
@@ -535,6 +543,14 @@
             <media:thumbnail url="https://ichef.bbci.co.uk/images/ic/480xn/p0pcy5zl.jpg"/>
         </item>
         <item>
+            <title><![CDATA[O'Neill agrees with McGregor about Celtic issues]]></title>
+            <description><![CDATA[Manager Martin O'Neill says he is in "full agreement" with captain Callum McGregor's assessment of Celtic's issues, but insisted they will "sort it out".]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cwrkypzzp6xeo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cwrkypzzp6xeo#16</guid>
+            <pubDate>Fri, 30 Oct 2026 14:22:18 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd1b/live/4b429540-d46b-11f1-9dda-1ba6fcc7d159.jpg"/>
+        </item>
+        <item>
             <title><![CDATA['I know how to motivate teams' - Robinson urges Aberdeen to seize Hampden chance]]></title>
             <description><![CDATA[Saturday's Premier Sports Cup semi-final with Rangers would be the perfect place for Aberdeen to ease the tension of a disappointing start to the season, says head coach Stephen Robinson.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cq9vz3r3lr7po?at_medium=RSS&amp;at_campaign=rss</link>
@@ -581,14 +597,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cwx281gzv1xlo#16</guid>
             <pubDate>Fri, 30 Oct 2026 08:08:22 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a9af/live/b06c4a20-d438-11f1-b441-2b33b063138f.png"/>
-        </item>
-        <item>
-            <title><![CDATA[McInnes defends Fernandez before League Cup semi]]></title>
-            <description><![CDATA[Rangers manager Derek McInnes defends Emmanuel Fernandez, saying the centre-back "has been a big part of our better performances this season".]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/c6e3x50p3v1eo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6e3x50p3v1eo#16</guid>
-            <pubDate>Thu, 29 Oct 2026 15:36:21 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5375/live/5d7f5e60-d3ac-11f1-a5cd-49637fcbd4e4.jpg"/>
         </item>
         <item>
             <title><![CDATA[Families v loyal fans - women's football's attendance dilemma]]></title>
