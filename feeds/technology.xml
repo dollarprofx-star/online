@@ -9,18 +9,18 @@
             <link>https://www.bbc.co.uk/news/technology</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 30 Oct 2026 01:30:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Oct 2026 02:24:31 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
             <title><![CDATA[Crypto worth billions frozen after suspected Binance hack]]></title>
-            <description><![CDATA[The firm said transactions are suspended while it conducts security checks and will "cover all losses".]]></description>
+            <description><![CDATA[The firm has not said how much was potentially stolen but some crypto experts have put the figure at over $5bn.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o#0</guid>
-            <pubDate>Fri, 30 Oct 2026 01:20:57 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a0f/live/12c05980-d3f5-11f1-8635-ad8ba8dceb2e.jpg"/>
+            <pubDate>Fri, 30 Oct 2026 02:18:00 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a4c/live/ee32b970-d406-11f1-b5d5-035446124886.jpg"/>
         </item>
         <item>
             <title><![CDATA[Google value plunges by $500bn as AI fears rattle Wall Street]]></title>
