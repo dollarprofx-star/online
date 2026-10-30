@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 30 Oct 2026 19:19:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Oct 2026 20:04:22 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -111,12 +111,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42df/live/bd536810-d3b4-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Watch: Iconic moments from the career of Sir Patrick Stewart, who has died aged 86]]></title>
-            <description><![CDATA[The renowned British actor died after "a brief and poignant journey" with Alzheimer's disease and Lewy Body Dementia, his spokesperson says.]]></description>
-            <link>https://www.bbc.co.uk/news/videos/c6qxnlxn0n15o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/c6qxnlxn0n15o#2</guid>
-            <pubDate>Fri, 30 Oct 2026 08:59:45 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6bde/live/cb48d2f0-d447-11f1-a701-fddedf244c16.jpg"/>
+            <title><![CDATA[Set up to fail? Where England's World Cup campaign went wrong]]></title>
+            <description><![CDATA[England's men and women endured different types of disappointment at the Rugby League World Cup on Friday - and the inquests have already begun.]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-league/articles/cqp9gv3mr8myo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/rugby-league/articles/cqp9gv3mr8myo#2</guid>
+            <pubDate>Fri, 30 Oct 2026 14:50:57 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eda9/live/97d12300-d46f-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
             <title><![CDATA[How a passenger's confession helped convict her cousin of murder]]></title>
@@ -215,6 +215,14 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6804/live/b15b30a0-d47d-11f1-80bc-6d398902272f.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Leclerc fastest in Mexico City Grand Prix first practice]]></title>
+            <description><![CDATA[Ferrari's Charles Leclerc goes fastest in the first practice session of the Mexico City Grand Prix.]]></description>
+            <link>https://www.bbc.co.uk/sport/formula1/articles/cqde8p6j9ye7o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/formula1/articles/cqde8p6j9ye7o#8</guid>
+            <pubDate>Fri, 30 Oct 2026 19:43:59 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e2d/live/764217c0-d493-11f1-93e1-3b657b665bcf.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[South Africa-Australia set for classic finale – what does history suggest could happen?]]></title>
             <description><![CDATA[South Africa set up an epic final day of their decisive Test against Australia by batting throughout the fourth day. What does history suggest could happen?]]></description>
             <link>https://www.bbc.co.uk/sport/cricket/articles/c6n8dpvyyy71o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -237,22 +245,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmzxj2e2e5p2o#8</guid>
             <pubDate>Fri, 30 Oct 2026 13:42:15 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a69e/live/a617bf90-d45c-11f1-ab12-eb0c94f5b382.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Arteta warns Dowman 'we are not in Disneyland' after red card ]]></title>
-            <description><![CDATA[Mikel Arteta says "we are not in Disneyland" and that he will hold Max Dowman to the same standards as other first-team players after the teenager's red card against Fleetwood. ]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/c875p940g5v2o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c875p940g5v2o#8</guid>
-            <pubDate>Fri, 30 Oct 2026 15:41:43 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8dd6/live/0e0d1c20-d46d-11f1-8228-c14a49713dc8.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Set up to fail? Where England's World Cup campaign went wrong]]></title>
-            <description><![CDATA[England's men and women endured different types of disappointment at the Rugby League World Cup on Friday - and the inquests have already begun.]]></description>
-            <link>https://www.bbc.co.uk/sport/rugby-league/articles/cqp9gv3mr8myo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/rugby-league/articles/cqp9gv3mr8myo#8</guid>
-            <pubDate>Fri, 30 Oct 2026 14:50:57 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eda9/live/97d12300-d46f-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
     </channel>
 </rss>
