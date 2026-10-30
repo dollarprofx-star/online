@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 30 Oct 2026 09:44:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Oct 2026 10:29:25 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -36,7 +36,7 @@
             <link>https://www.bbc.co.uk/news/videos/c6qxnlxn0n15o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/c6qxnlxn0n15o#1</guid>
             <pubDate>Fri, 30 Oct 2026 08:59:45 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d30d/live/989bf870-d440-11f1-93e1-3b657b665bcf.jpg"/>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6bde/live/cb48d2f0-d447-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
             <title><![CDATA[Foreign defence contractors will need to invest in UK under new rules]]></title>
@@ -57,36 +57,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b92d/live/69d85f50-d3e7-11f1-8aed-e5579b6f5a98.jpg"/>
         </item>
         <item>
-            <title><![CDATA[The Democratic party in the US has an identity crisis - it won't be an easy fix]]></title>
+            <title><![CDATA[Democrats in the US are united against Trump - but divided on their future]]></title>
             <description><![CDATA[Whatever the result of the midterm elections, the party is facing tough questions over what they stand for and who should represent them.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cknv08980d3vo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cknv08980d3vo#1</guid>
             <pubDate>Fri, 30 Oct 2026 02:14:41 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42df/live/bd536810-d3b4-11f1-b441-2b33b063138f.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Syrians struggle with soaring prices as crisis challenges post-Assad recovery]]></title>
-            <description><![CDATA[End of subsidies and rising prices drive discontent, testing support for Ahmed al-Sharaa's government.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cmn4egvez1yzo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmn4egvez1yzo#1</guid>
-            <pubDate>Fri, 30 Oct 2026 06:02:23 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/329d/live/be5913a0-d435-11f1-93e1-3b657b665bcf.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hazardous driving conditions for Friday as fog warning issued by Met Office]]></title>
-            <description><![CDATA[Foggy conditions likely to bring tricky conditions for the Friday morning commute as severe weather warning issued.]]></description>
-            <link>https://www.bbc.co.uk/weather/articles/c6ly075l742ro?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/weather/articles/c6ly075l742ro#1</guid>
-            <pubDate>Fri, 30 Oct 2026 06:18:35 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec46/live/44508980-d435-11f1-b441-2b33b063138f.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Google value plunges by $500bn as AI search hits ad sales]]></title>
-            <description><![CDATA[Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI search summaries were affecting ad revenue.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o#1</guid>
-            <pubDate>Thu, 29 Oct 2026 22:17:52 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3304/live/1c4d6e00-d3d4-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
             <title><![CDATA['I made the wrong decision,' Hyrox athlete who soiled herself in race tells BBC]]></title>
@@ -97,12 +73,36 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c240/live/2b6f2c10-d434-11f1-b610-e9c472d2c97b.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Syrians struggle with soaring prices as crisis challenges post-Assad recovery]]></title>
+            <description><![CDATA[End of subsidies and rising prices drive discontent, testing support for Ahmed al-Sharaa's government.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cmn4egvez1yzo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmn4egvez1yzo#1</guid>
+            <pubDate>Fri, 30 Oct 2026 06:02:23 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/329d/live/be5913a0-d435-11f1-93e1-3b657b665bcf.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Google value plunges by $500bn as AI search hits ad sales]]></title>
+            <description><![CDATA[Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI search summaries were affecting ad revenue.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o#1</guid>
+            <pubDate>Thu, 29 Oct 2026 22:17:52 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3304/live/1c4d6e00-d3d4-11f1-b441-2b33b063138f.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Watch: What leaked audio reveals about Spain train crash]]></title>
             <description><![CDATA[Recordings between a control centre and the train drivers appear to show one train was given clearance to move even though another train had stalled on the track.]]></description>
             <link>https://www.bbc.co.uk/news/videos/c6vgjeg0myzgo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/c6vgjeg0myzgo#1</guid>
             <pubDate>Thu, 29 Oct 2026 20:50:25 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d46f/live/7d9cd370-d3e4-11f1-9caf-3b69fd8bbd8b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Yorkshire Water boss resigns after firm downgraded]]></title>
+            <description><![CDATA[Nicola Shaw, who has led the company since 2022, will step down in January, it is announced.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/ckzd623pldqgo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckzd623pldqgo#1</guid>
+            <pubDate>Fri, 30 Oct 2026 07:54:08 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b90/live/5715cb30-d434-11f1-b610-e9c472d2c97b.jpg"/>
         </item>
         <item>
             <title><![CDATA[From watching Star Trek to knighthood - Sir Patrick Stewart on the BBC]]></title>
@@ -209,28 +209,28 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e86c/live/220a00a0-d402-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Attenborough-backed appeal secures £30m estate]]></title>
-            <description><![CDATA[The purchase of the vast Rothbury Estate by wildlife groups is hailed as "something very special".]]></description>
-            <link>https://www.bbc.co.uk/news/articles/ck79pj8zn3vwo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ck79pj8zn3vwo#5</guid>
-            <pubDate>Fri, 30 Oct 2026 06:16:43 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40a7/live/b7610e70-d441-11f1-97f9-27ebf08d99fe.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Yorkshire Water boss resigns after firm downgraded]]></title>
-            <description><![CDATA[Nicola Shaw, who has led the company since 2022, will step down in January, it is announced.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/ckzd623pldqgo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckzd623pldqgo#5</guid>
-            <pubDate>Fri, 30 Oct 2026 07:54:08 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b90/live/5715cb30-d434-11f1-b610-e9c472d2c97b.jpg"/>
-        </item>
-        <item>
             <title><![CDATA['I run a spotless kitchen', says Michelin-star restaurant chef in wake of food hygiene debacle]]></title>
             <description><![CDATA[Chef Gareth Ward defends how he operates in documentary after Ynyshir got a one-star hygiene rating.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cqp8g19r66y4o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqp8g19r66y4o#5</guid>
             <pubDate>Fri, 30 Oct 2026 06:08:16 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7e9/live/7ce4e4d0-d386-11f1-a701-fddedf244c16.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[DUP leader 'hopes' Carla Lockhart will not leave party]]></title>
+            <description><![CDATA[Lockhart has previously said Michelle O'Neill "must go" as first minister following the Drumcree parade dispute.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cm20w2xlj2y4o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm20w2xlj2y4o#5</guid>
+            <pubDate>Fri, 30 Oct 2026 09:38:08 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c886/live/cfa8c4f0-d437-11f1-9ba3-e16b46d57ce6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Attenborough-backed appeal secures £30m estate]]></title>
+            <description><![CDATA[The purchase of the vast Rothbury Estate by wildlife groups is hailed as "something very special".]]></description>
+            <link>https://www.bbc.co.uk/news/articles/ck79pj8zn3vwo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ck79pj8zn3vwo#5</guid>
+            <pubDate>Fri, 30 Oct 2026 06:16:43 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40a7/live/b7610e70-d441-11f1-97f9-27ebf08d99fe.jpg"/>
         </item>
         <item>
             <title><![CDATA[Scottish police to target online gangs forcing children to self-harm]]></title>
