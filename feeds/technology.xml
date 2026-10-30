@@ -9,13 +9,13 @@
             <link>https://www.bbc.co.uk/news/technology</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 30 Oct 2026 06:07:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Oct 2026 07:01:09 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
-            <title><![CDATA[Crypto giant Binance hit by hack suspected to be largest in history]]></title>
+            <title><![CDATA[Crypto giant Binance hit by $6.3bn hack suspected to be largest in history]]></title>
             <description><![CDATA[Two analytics firms have attributed the incident to a North Korean hacking unit called TraderTraitor.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o#0</guid>
