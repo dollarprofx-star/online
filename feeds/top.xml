@@ -9,18 +9,18 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 31 Oct 2026 19:29:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Oct 2026 20:01:12 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
-            <title><![CDATA[Ukrainian evacuees reunite with family after years trapped in Russia-occupied city]]></title>
-            <description><![CDATA[Oleshky residents had been without food, water and electricity, with many resorting to cooking garden weeds to survive. ]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqx2818elrnzo#1</guid>
-            <pubDate>Sat, 31 Oct 2026 17:53:35 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/41b8/live/9f93a310-d532-11f1-b441-2b33b063138f.jpg"/>
+            <title><![CDATA['We came back from hell', say Ukrainians after years in Russia-occupied frontline city]]></title>
+            <description><![CDATA[One evacuated couple says they crossed minefields in Oleshky in a search for food.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqglw3k7djp1o#1</guid>
+            <pubDate>Sat, 31 Oct 2026 19:22:26 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/053a/live/d1a9e840-d54c-11f1-bcb7-8f812b44c2e5.jpg"/>
         </item>
         <item>
             <title><![CDATA[Emotional reunions with loved ones for Oleshky evacuees]]></title>
@@ -31,7 +31,7 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4184/live/73d4d420-d54a-11f1-bcb7-8f812b44c2e5.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Healey risks breaking minimum wage promise for younger workers]]></title>
+            <title><![CDATA[Laura Kuenssberg: Healey risks breaking minimum wage promise for younger workers]]></title>
             <description><![CDATA[The Chancellor has suggested that younger workers might not receive the same minimum wage as others before the next election.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cv369266644lo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cv369266644lo#1</guid>
