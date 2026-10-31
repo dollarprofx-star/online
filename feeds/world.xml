@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news/world</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 31 Oct 2026 14:17:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Oct 2026 14:59:02 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/world/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -19,7 +19,7 @@
             <description><![CDATA[Residents left the devastated city on Friday following a ceasefire brokered by US First Lady Melania Trump.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqx2818elrnzo#0</guid>
-            <pubDate>Sat, 31 Oct 2026 13:45:34 GMT</pubDate>
+            <pubDate>Sat, 31 Oct 2026 14:53:34 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/41b8/live/9f93a310-d532-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
@@ -55,12 +55,12 @@
             <media:thumbnail width="240" height="124" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a970/live/20e78ee0-d4ed-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
-            <title><![CDATA[G20 'family photo' cancelled after protests over presence of Russian minister]]></title>
-            <description><![CDATA[UK Foreign Secretary Ed Miliband  confronted his Russian counterpart at the meeting and accused his government of killing innocent civilians in Ukraine.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmd6dp2y576do#0</guid>
-            <pubDate>Fri, 30 Oct 2026 22:11:52 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa3e/live/bc4ea460-d487-11f1-80bc-6d398902272f.jpg"/>
+            <title><![CDATA[Ethiopian PM puts ministers through military training]]></title>
+            <description><![CDATA[The prime minister has previously emphasised military preparedness as central to his government's ambitions.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cmwyv2y7g9l8o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmwyv2y7g9l8o#0</guid>
+            <pubDate>Sat, 31 Oct 2026 14:28:15 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/edb0/live/55b5ceb0-d534-11f1-b64c-03717a6e5b71.jpg"/>
         </item>
         <item>
             <title><![CDATA[Global nature talks reach deal but money remains an issue]]></title>
@@ -69,6 +69,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo#0</guid>
             <pubDate>Sat, 31 Oct 2026 01:27:05 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c07/live/57283d20-d4b5-11f1-a58c-6d26609b0a57.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[G20 'family photo' cancelled after protests over presence of Russian minister]]></title>
+            <description><![CDATA[UK Foreign Secretary Ed Miliband  confronted his Russian counterpart at the meeting and accused his government of killing innocent civilians in Ukraine.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmd6dp2y576do#1</guid>
+            <pubDate>Fri, 30 Oct 2026 22:11:52 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa3e/live/bc4ea460-d487-11f1-80bc-6d398902272f.jpg"/>
         </item>
         <item>
             <title><![CDATA[They strangled us, says founder of Russian newspaper shut under pressure from authorities]]></title>
@@ -141,62 +149,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ck8dz8j5n993o#1</guid>
             <pubDate>Fri, 30 Oct 2026 01:35:40 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2fd0/live/73fed000-d3fa-11f1-ad77-7dc2f7c343f8.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Democratic senator blames Egypt press crackdown on US military aid decision]]></title>
-            <description><![CDATA[Chris Murphy said waiving a human rights condition on aid paved the way for arrests of journalists.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c63r529wn2vzo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c63r529wn2vzo#1</guid>
-            <pubDate>Fri, 30 Oct 2026 15:17:11 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6fe5/live/560bc7b0-d454-11f1-a701-fddedf244c16.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Syrians struggle with soaring prices as crisis challenges post-Assad recovery]]></title>
-            <description><![CDATA[End of subsidies and rising prices drive discontent, testing support for Ahmed al-Sharaa's government.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cmn4egvez1yzo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmn4egvez1yzo#1</guid>
-            <pubDate>Fri, 30 Oct 2026 06:02:23 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32b3/live/2a2c9e80-d477-11f1-93e1-3b657b665bcf.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot]]></title>
-            <description><![CDATA[The incumbent Republican running for re-election and allies have accused the Democrats of trying to confuse voters by recruiting a second Dan Sullivan to also stand in the race.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo#1</guid>
-            <pubDate>Sat, 31 Oct 2026 00:29:58 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4570/live/1ef80da0-d46e-11f1-93e1-3b657b665bcf.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Six dead after helicopter crashes in northern Indian state ]]></title>
-            <description><![CDATA[The aircraft reportedly took off from the Hindu pilgrimage site of Badrinath on Friday afternoon before losing contact.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cr93zxyn9eqeo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cr93zxyn9eqeo#1</guid>
-            <pubDate>Fri, 30 Oct 2026 15:06:05 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a6da/live/dd357d00-d448-11f1-97f9-27ebf08d99fe.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[China denies allegations of spy operation targeting Nvidia CEO]]></title>
-            <description><![CDATA[US intelligence officials believe a Chinese businesswoman was gathering information for Beijing on the US chip-making giant, The New York Times reports.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/ckgj9plnlxdeo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckgj9plnlxdeo#1</guid>
-            <pubDate>Fri, 30 Oct 2026 12:20:04 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05cc/live/95d8dca0-d447-11f1-97f9-27ebf08d99fe.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Human rights lawyer couple sentenced to 10 years' prison in Pakistan]]></title>
-            <description><![CDATA[Imaan Mazari and Hadi Ali Chattha were charged over an incident in 2024, when England's cricket team was touring Pakistan.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/crq5nplyvlg8o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/crq5nplyvlg8o#1</guid>
-            <pubDate>Fri, 30 Oct 2026 07:53:38 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3993/live/eb3645b0-d42f-11f1-af8d-6d06cb91da1d.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Student-backed election winners demand sweeping resignations in Serbia]]></title>
-            <description><![CDATA[Days after ousting Aleksandar Vučić's party from power, Student List MPs call for top figures to stand down.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cmx2dwzp0z0vo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmx2dwzp0z0vo#1</guid>
-            <pubDate>Fri, 30 Oct 2026 00:17:28 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dec3/live/30285610-d42e-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
             <title><![CDATA[Watch: Blood donors get a Halloween fright in Thailand]]></title>
