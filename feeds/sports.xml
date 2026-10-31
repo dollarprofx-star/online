@@ -9,11 +9,19 @@
             <link>https://www.bbc.co.uk/sport/football</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 31 Oct 2026 13:36:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Oct 2026 14:17:23 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Carragher apologises to Villa for 'wrong' language]]></title>
+            <description><![CDATA[Jamie Carragher apologises for "clumsy and wrong" language when linking manager Unai Emery with becoming Manchester United head coach, after Aston Villa threatened to sue him.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cqj6jp63k87zo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqj6jp63k87zo#0</guid>
+            <pubDate>Sat, 31 Oct 2026 13:51:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6920/live/f487dd80-d52f-11f1-866a-b522399149a0.jpg"/>
+        </item>
         <item>
             <title><![CDATA[Shearer discusses scoring record, MOTD & a brush with Cardiff]]></title>
             <description><![CDATA[Alan Shearer discusses his love of Newcastle, almost continuing his managerial career and swapping the pitch for the commentary box in The Football Interview.]]></description>
@@ -21,14 +29,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cwkg5l822k3no#0</guid>
             <pubDate>Sat, 31 Oct 2026 06:23:58 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d003/live/d915ccd0-d2ee-11f1-8d86-83eebc838351.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Villa to sue Carragher over 'unacceptable insults']]></title>
-            <description><![CDATA[Aston Villa say they will initiate legal action against Jamie Carragher over what the club branded as "unacceptable insults".]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cqd09p3kppyvo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqd09p3kppyvo#0</guid>
-            <pubDate>Fri, 30 Oct 2026 23:05:45 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b461/live/128fc5d0-d4b4-11f1-a58c-6d26609b0a57.jpg"/>
         </item>
         <item>
             <title><![CDATA['We fell behind' - what does new San Siro deal mean for AC Milan and Inter?]]></title>
@@ -63,20 +63,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e92/live/be15cb40-d444-11f1-97f9-27ebf08d99fe.png"/>
         </item>
         <item>
-            <title><![CDATA[Britain's first £100m man facing defining moment]]></title>
-            <description><![CDATA[Is it 'now or never' for Jack Grealish after he was dropped by Everton for a breach of club discipline, asks chief football writer Phil McNulty?]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cmzxj2e2e5p2o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmzxj2e2e5p2o#0</guid>
-            <pubDate>Fri, 30 Oct 2026 13:42:15 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a69e/live/a617bf90-d45c-11f1-ab12-eb0c94f5b382.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Who am I? Plus today's other quizzes]]></title>
             <description><![CDATA[Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/c6x2qr8dj81vo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6x2qr8dj81vo#0</guid>
             <pubDate>Sat, 31 Oct 2026 06:54:52 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Britain's first £100m man facing defining moment]]></title>
+            <description><![CDATA[Is it 'now or never' for Jack Grealish after he was dropped by Everton for a breach of club discipline, asks chief football writer Phil McNulty?]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cmzxj2e2e5p2o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmzxj2e2e5p2o#1</guid>
+            <pubDate>Fri, 30 Oct 2026 13:42:15 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a69e/live/a617bf90-d45c-11f1-ab12-eb0c94f5b382.jpg"/>
         </item>
         <item>
             <title><![CDATA[Can Robinson work Hampden magic against McInnes' Rangers?]]></title>
@@ -111,20 +111,20 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d4c/live/e763c300-d4b5-11f1-a58c-6d26609b0a57.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Listen: Shearer on MOTD, managerial jobs & scoring record]]></title>
-            <description><![CDATA[Kelly Somers speaks to former Premier League striker and pundit Alan Shearer.]]></description>
-            <link>https://www.bbc.co.uk/sounds/play/p0pkgq2g?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0pkgq2g#1</guid>
-            <pubDate>Sat, 31 Oct 2026 10:00:00 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0pkgq4g.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Fears Chelsea's Lacroix could be out until January]]></title>
             <description><![CDATA[Chelsea fear Maxence Lacroix will have a lengthy lay-off having suffered a serious hamstring injury.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cmkgkpexjzneo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmkgkpexjzneo#2</guid>
             <pubDate>Fri, 30 Oct 2026 16:21:10 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd1a/live/0239a6a0-d479-11f1-8edb-d9fce66588c6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Listen: Shearer on MOTD, managerial jobs & scoring record]]></title>
+            <description><![CDATA[Kelly Somers speaks to former Premier League striker and pundit Alan Shearer.]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/p0pkgq2g?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0pkgq2g#2</guid>
+            <pubDate>Sat, 31 Oct 2026 10:00:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0pkgq4g.jpg"/>
         </item>
         <item>
             <title><![CDATA[Ronaldo closes in on 1,000th goal with hat-trick ]]></title>
@@ -247,20 +247,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/660e/live/5ff58e70-d1ff-11f1-b30f-21253679b290.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Items stolen from Man Utd Munich air disaster memorial]]></title>
-            <description><![CDATA[The foundation has urged the return of stolen items, saying they mean so much to bereaved families.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cxly4pqndz57o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cxly4pqndz57o#5</guid>
-            <pubDate>Fri, 30 Oct 2026 15:03:12 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9412/live/5e0eb9f0-d458-11f1-93d9-89af68edb68a.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Toney nightclub assault trial set for June 2028]]></title>
             <description><![CDATA[The footballer has denied assaulting a man at a Soho nightclub on 6 December last year.]]></description>
             <link>https://www.bbc.co.uk/news/articles/ck98zmrdz2g5o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ck98zmrdz2g5o#6</guid>
             <pubDate>Thu, 29 Oct 2026 13:47:43 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c935/live/d2a76ef0-d387-11f1-b5f4-fd541fd21001.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Items stolen from Man Utd Munich air disaster memorial]]></title>
+            <description><![CDATA[The foundation has urged the return of stolen items, saying they mean so much to bereaved families.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cxly4pqndz57o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cxly4pqndz57o#6</guid>
+            <pubDate>Fri, 30 Oct 2026 15:03:12 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9412/live/5e0eb9f0-d458-11f1-93d9-89af68edb68a.jpg"/>
         </item>
         <item>
             <title><![CDATA[Dowman to miss three matches after appeal rejected]]></title>
@@ -301,14 +301,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm3wv36d603yo#6</guid>
             <pubDate>Thu, 29 Oct 2026 23:03:15 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c4a8/live/2e93a660-d3ac-11f1-b441-2b33b063138f.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Scottish football could pave way for 3pm TV blackout to end]]></title>
-            <description><![CDATA[The first tentative steps to end the 3pm television blackout in the UK have been taken by Scottish football as it seeks offers for the next broadcast cycle.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cmgr8l87edyjo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmgr8l87edyjo#6</guid>
-            <pubDate>Thu, 29 Oct 2026 17:43:53 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/24e1/live/b4fef970-d3bb-11f1-8c27-87a7c72809db.jpg"/>
         </item>
         <item>
             <title><![CDATA[Lawlor delighted after beating 'best team in the country']]></title>
@@ -533,14 +525,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cwrkypzzp6xeo#16</guid>
             <pubDate>Fri, 30 Oct 2026 14:22:18 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd1b/live/4b429540-d46b-11f1-9dda-1ba6fcc7d159.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Listen to Off The Ball with Gary Innes]]></title>
-            <description><![CDATA[The most petty and ill-informed football show on radio.]]></description>
-            <link>https://www.bbc.co.uk/sounds/play/live:bbc_radio_scotland_fm?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/live:bbc_radio_scotland_fm#16</guid>
-            <pubDate>Sat, 31 Oct 2026 14:00:00 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0d5ff0c.jpg"/>
         </item>
         <item>
             <title><![CDATA[Can Robinson work Hampden magic against McInnes' Rangers?]]></title>
