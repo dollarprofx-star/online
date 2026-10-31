@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 31 Oct 2026 14:59:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Oct 2026 15:28:54 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -103,12 +103,12 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7be/live/dab6afd0-d223-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Mahmood expected to announce changes to rules around indefinite leave to remain]]></title>
-            <description><![CDATA[The home secretary has faced opposition from within the government over plans to impose new rules on migrant workers already in the UK.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cm62yxxd992eo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm62yxxd992eo#3</guid>
-            <pubDate>Sat, 31 Oct 2026 05:16:01 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05f5/live/d86df8b0-d4de-11f1-b441-2b33b063138f.jpg"/>
+            <title><![CDATA[More than 5,000 die from Ebola in DR Congo's deadliest outbreak]]></title>
+            <description><![CDATA[Government data shows that more than 10,000 people have contracted the rare virus.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cj5ynryyep2yo#3</guid>
+            <pubDate>Sat, 31 Oct 2026 15:16:20 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5071/live/dc9ee270-d531-11f1-866a-b522399149a0.jpg"/>
         </item>
         <item>
             <title><![CDATA[UK police cannot 'intervene' over woman killed by father in US, despite 'unlawful' ruling]]></title>
@@ -135,12 +135,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95ec/live/566810d0-915e-11f1-a8f1-774cbc5e1a9f.jpg"/>
         </item>
         <item>
-            <title><![CDATA[UK could see 10 days without rain after 'wettest week in two years']]></title>
-            <description><![CDATA[With high pressure developing across the UK, the start of November is looking very settled with no significant rain in the forecast.]]></description>
-            <link>https://www.bbc.co.uk/weather/articles/cq98zrwd42jzo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/weather/articles/cq98zrwd42jzo#3</guid>
-            <pubDate>Sat, 31 Oct 2026 00:06:31 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8a4/live/d7b9f090-d452-11f1-93e1-3b657b665bcf.jpg"/>
+            <title><![CDATA[Mahmood expected to announce changes to rules around indefinite leave to remain]]></title>
+            <description><![CDATA[The home secretary has faced opposition from within the government over plans to impose new rules on migrant workers already in the UK.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cm62yxxd992eo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm62yxxd992eo#3</guid>
+            <pubDate>Sat, 31 Oct 2026 05:16:01 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05f5/live/d86df8b0-d4de-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
             <title><![CDATA[Spain train disaster clouds Sánchez chances of re-election]]></title>
@@ -220,7 +220,7 @@
             <link>https://www.bbc.co.uk/sport/football/articles/c3j47prvlz04o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c3j47prvlz04o#9</guid>
             <pubDate>Sat, 31 Oct 2026 14:35:50 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03cf/live/b873d9f0-d531-11f1-866a-b522399149a0.jpg"/>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3256/live/7a023db0-d53b-11f1-93e1-3b657b665bcf.png"/>
         </item>
     </channel>
 </rss>
