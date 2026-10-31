@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/sport/football</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 31 Oct 2026 09:45:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Oct 2026 10:24:22 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -111,6 +111,14 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d4c/live/e763c300-d4b5-11f1-a58c-6d26609b0a57.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Listen: Shearer on MOTD, managerial jobs & scoring record]]></title>
+            <description><![CDATA[Kelly Somers speaks to former Premier League striker and pundit Alan Shearer.]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/p0pkgq2g?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0pkgq2g#1</guid>
+            <pubDate>Sat, 31 Oct 2026 10:00:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0pkgq4g.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Spurs' Maddison fit to face Palace - De Zerbi]]></title>
             <description><![CDATA[Tottenham midfielder James Maddison is available to face Crystal Palace on Saturday says manager Roberto De Zerbi, despite an injury scare last week.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cke8rp00m87lo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -154,7 +162,7 @@
             <title><![CDATA[How talking about Man Utd's cycle of doom became an industry]]></title>
             <description><![CDATA[Manchester United's struggles are pored over more than ever before - not least by former players. ]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cjn5v3pl0159o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cjn5v3pl0159o#1</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cjn5v3pl0159o#2</guid>
             <pubDate>Fri, 30 Oct 2026 06:14:19 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4563/live/79c82590-d3b4-11f1-a340-478c8f3b9e55.jpg"/>
         </item>
@@ -189,14 +197,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cxly4pqndz57o#2</guid>
             <pubDate>Fri, 30 Oct 2026 15:03:12 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9412/live/5e0eb9f0-d458-11f1-93d9-89af68edb68a.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Afcon to return to two-year cycle after Caf U-turn]]></title>
-            <description><![CDATA[The Africa Cup of Nations (Afcon) will return to its traditional two-year cycle after a review into December's decision to host it every four years instead.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cqn73pxx8vr5o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqn73pxx8vr5o#2</guid>
-            <pubDate>Fri, 30 Oct 2026 08:39:36 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a58/live/94f26780-d437-11f1-9ba3-e16b46d57ce6.jpg"/>
         </item>
         <item>
             <title><![CDATA['The most important person managers must manage is themselves']]></title>
@@ -247,6 +247,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e016/live/6ae1e220-d30d-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Afcon to return to two-year cycle after Caf U-turn]]></title>
+            <description><![CDATA[The Africa Cup of Nations (Afcon) will return to its traditional two-year cycle after a review into December's decision to host it every four years instead.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cqn73pxx8vr5o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqn73pxx8vr5o#5</guid>
+            <pubDate>Fri, 30 Oct 2026 08:39:36 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a58/live/94f26780-d437-11f1-9ba3-e16b46d57ce6.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Prospective Gateshead takeover close to collapse]]></title>
             <description><![CDATA[The takeover of National League side Gateshead is close to collapsing due to third-party involvement, according to prospective owners Flacks Group.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/crz657qv7nv4o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -285,14 +293,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm3wv36d603yo#5</guid>
             <pubDate>Thu, 29 Oct 2026 23:03:15 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c4a8/live/2e93a660-d3ac-11f1-b441-2b33b063138f.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Scottish football could pave way for 3pm TV blackout to end]]></title>
-            <description><![CDATA[The first tentative steps to end the 3pm television blackout in the UK have been taken by Scottish football as it seeks offers for the next broadcast cycle.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cmgr8l87edyjo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmgr8l87edyjo#5</guid>
-            <pubDate>Thu, 29 Oct 2026 17:43:53 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/24e1/live/b4fef970-d3bb-11f1-8c27-87a7c72809db.jpg"/>
         </item>
         <item>
             <title><![CDATA[Mourinho and chaos - is Real Madrid boss misunderstood?]]></title>
@@ -335,12 +335,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a66e/live/81ba8920-d15f-11f1-87df-afb7a168a1f2.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Sometimes managers need sacking for own good - Neville]]></title>
-            <description><![CDATA[Gary Neville says managers sometimes need to be sacked "for their own good" as Manchester United persist with under-pressure boss Michael Carrick.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cjvgx0ek6rz2o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cjvgx0ek6rz2o#6</guid>
-            <pubDate>Thu, 29 Oct 2026 11:00:53 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d11c/live/a995c900-d37b-11f1-bf63-739fb2907d03.jpg"/>
+            <title><![CDATA[Scottish football could pave way for 3pm TV blackout to end]]></title>
+            <description><![CDATA[The first tentative steps to end the 3pm television blackout in the UK have been taken by Scottish football as it seeks offers for the next broadcast cycle.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cmgr8l87edyjo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmgr8l87edyjo#6</guid>
+            <pubDate>Thu, 29 Oct 2026 17:43:53 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/24e1/live/b4fef970-d3bb-11f1-8c27-87a7c72809db.jpg"/>
         </item>
         <item>
             <title><![CDATA[Chiellini guidance to Leeds 'rock' - could Muharemovic be signing of season?]]></title>

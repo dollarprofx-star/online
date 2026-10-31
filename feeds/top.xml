@@ -9,11 +9,19 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 31 Oct 2026 09:45:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Oct 2026 10:24:23 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Burnham 'open' to calls for slavery apology but not reparations]]></title>
+            <description><![CDATA[The British government has never formally apologised for slavery despite repeated calls from a number of Commonwealth leaders.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c5398239je88o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c5398239je88o#1</guid>
+            <pubDate>Sat, 31 Oct 2026 09:52:52 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a09/live/908b67d0-d4cf-11f1-b441-2b33b063138f.jpg"/>
+        </item>
         <item>
             <title><![CDATA[US approves sale of 500 Patriot missiles to Ukraine]]></title>
             <description><![CDATA[The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles.]]></description>
@@ -21,14 +29,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo#1</guid>
             <pubDate>Sat, 31 Oct 2026 00:40:43 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea75/live/f93e2820-d4b7-11f1-a701-fddedf244c16.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Burnham 'open' to calls for slavery apology but not reparations]]></title>
-            <description><![CDATA[The prime minister says Britain must "face up to the past" for its role in the transatlantic slave trade but reparations are "not the right answer".]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c5398239je88o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c5398239je88o#1</guid>
-            <pubDate>Sat, 31 Oct 2026 09:40:58 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a09/live/908b67d0-d4cf-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
             <title><![CDATA[Why North Korea's 'elite' hackers are the prime suspect in major Binance hack]]></title>
