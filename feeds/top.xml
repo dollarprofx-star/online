@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 31 Oct 2026 18:14:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Oct 2026 18:56:41 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -215,12 +215,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2690/live/86db81e0-d518-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Returning Estevao brings X-factor to strikerless Chelsea]]></title>
-            <description><![CDATA[Morgan Rogers swings the match in Chelsea's favour as Estevao Willian dazzles, making a mystery of his limited action under Xabi Alonso this season.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cwnv0p143qzyo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cwnv0p143qzyo#9</guid>
-            <pubDate>Sat, 31 Oct 2026 16:34:42 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf18/live/aba32670-d542-11f1-b69a-cfba30d5f3d4.jpg"/>
+            <title><![CDATA[Usyk eyes 'final chapter' at cruiserweight against Benavidez]]></title>
+            <description><![CDATA[Former undisputed heavyweight champion Oleksandr Usyk is eyeing a return to cruiserweight to fight David Benavidez before retiring from boxing, says his adviser.]]></description>
+            <link>https://www.bbc.co.uk/sport/boxing/articles/crpdg3qwjg4eo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/boxing/articles/crpdg3qwjg4eo#9</guid>
+            <pubDate>Sat, 31 Oct 2026 18:11:22 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7580/live/d2a756e0-d553-11f1-bcb7-8f812b44c2e5.png"/>
         </item>
     </channel>
 </rss>
