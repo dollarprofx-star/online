@@ -9,11 +9,19 @@
             <link>https://www.bbc.co.uk/sport/football</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 31 Oct 2026 21:48:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Oct 2026 22:24:00 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Watch: Match of the Day]]></title>
+            <description><![CDATA[Highlights from eight Premier League matches, including Manchester City against Brighton.]]></description>
+            <link>https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/iplayer/live/bbcone#0</guid>
+            <pubDate>Sat, 31 Oct 2026 00:00:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0pkhkk5.jpg"/>
+        </item>
         <item>
             <title><![CDATA[Martinez's 'inexplicable' 83 seconds cost Man Utd and Carrick]]></title>
             <description><![CDATA[Manchester United defender Lisandro Martinez condemned for costly red card in 2-0 defeat to Chelsea at Stamford Bridge.]]></description>
@@ -55,10 +63,18 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7552/live/dc226d60-d55b-11f1-b937-61b94454a4cf.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Man Utd enquire about Toney - Sunday's gossip]]></title>
+            <description><![CDATA[Manchester United enquire about Ivan Toney's availability, Barcelona are tracking Chelsea winger Estevao Willian, Jean-Philippe Mateta is set to leave Crystal Palace in January, plus more.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/crz98lwn3pvzo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/crz98lwn3pvzo#0</guid>
+            <pubDate>Sat, 31 Oct 2026 22:14:36 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc19/live/848cd980-d571-11f1-858c-9b90cf3a2059.png"/>
+        </item>
+        <item>
             <title><![CDATA[Returning Estevao brings X-factor to strikerless Chelsea]]></title>
             <description><![CDATA[Morgan Rogers swings the match in Chelsea's favour as Estevao Willian dazzles, making a mystery of his limited action under Xabi Alonso this season.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cwnv0p143qzyo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cwnv0p143qzyo#0</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cwnv0p143qzyo#1</guid>
             <pubDate>Sat, 31 Oct 2026 16:34:42 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf18/live/aba32670-d542-11f1-b69a-cfba30d5f3d4.jpg"/>
         </item>
@@ -66,7 +82,7 @@
             <title><![CDATA['Best thing is keep your mouth shut' - Mourinho on Mbappe-Mao row]]></title>
             <description><![CDATA[Real Madrid head coach Jose Mourinho says the "best thing is to keep your mouth shut" but backs Kylian Mbappe following reaction to his Mao Zedong remark.   ]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/ck9dz2yned67o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ck9dz2yned67o#0</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ck9dz2yned67o#1</guid>
             <pubDate>Sat, 31 Oct 2026 17:40:41 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c30/live/8cd57960-d54b-11f1-bcb7-8f812b44c2e5.jpg"/>
         </item>
@@ -74,7 +90,7 @@
             <title><![CDATA[Sunderland's paradox - San Siro trip amid relegation battle]]></title>
             <description><![CDATA[Sunderland were last season's surprise package in the Premier League, but this time they are struggling after Coventry handed them their sixth defeat.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cmrry892zpkro?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmrry892zpkro#0</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmrry892zpkro#1</guid>
             <pubDate>Sat, 31 Oct 2026 20:03:10 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d7e/live/ae855140-d562-11f1-bf97-5ff9d5d5ecd0.jpg"/>
         </item>
@@ -90,7 +106,7 @@
             <title><![CDATA[Rogers shines, 3/10 for sent-off Martinez - player ratings for Chelsea v Man Utd]]></title>
             <description><![CDATA[Player ratings as Morgan Rogers and Cole Palmer score second-half goals in Chelsea's home win over Manchester United, who have Lisandro Martinez sent off.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/c3j47prvlz04o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c3j47prvlz04o#1</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c3j47prvlz04o#2</guid>
             <pubDate>Sat, 31 Oct 2026 14:35:50 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3256/live/7a023db0-d53b-11f1-93e1-3b657b665bcf.png"/>
         </item>
@@ -127,6 +143,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf47/live/8558ab70-d565-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
+            <title><![CDATA[AC Milan score three first-half goals to seal derby victory over Inter]]></title>
+            <description><![CDATA[Christian Pulisic, Adrien Rabiot and Diego Moreira score in the first-half to help AC Milan to a 3-1 victory over city rivals Inter Milan in the first Milan derby of the season in Serie A.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/videos/cmqln15wdyxgo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cmqln15wdyxgo#3</guid>
+            <pubDate>Sat, 31 Oct 2026 21:58:09 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a139/live/5b584f00-d575-11f1-b441-2b33b063138f.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Alonso praises Estevao response to lack of gametime]]></title>
             <description><![CDATA[Chelsea manager Xabi Alonso praises the performance and response of winger Estevao in his side's 2-0 win over struggling Manchester United in the Premier League.]]></description>
             <link>https://www.bbc.co.uk/sport/football/videos/cr5ynzdpjnn9o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -143,52 +167,36 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef87/live/7ca6bce0-d553-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Sage looking for solutions to Palace form]]></title>
-            <description><![CDATA[Crystal Palace manger Pierre Sage reacts as his side loses a third consecutive league game following their 2-0 defeat by Tottenham. ]]></description>
-            <link>https://www.bbc.co.uk/sport/football/videos/c6r7yx55n3gjo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/c6r7yx55n3gjo#3</guid>
-            <pubDate>Sat, 31 Oct 2026 20:13:28 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15a2/live/85e90f20-d566-11f1-a701-fddedf244c16.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Shearer discusses scoring record, MOTD & a brush with Cardiff]]></title>
             <description><![CDATA[Alan Shearer discusses his love of Newcastle, almost continuing his managerial career and swapping the pitch for the commentary box in The Football Interview.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cwkg5l822k3no?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cwkg5l822k3no#5</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cwkg5l822k3no#6</guid>
             <pubDate>Sat, 31 Oct 2026 06:23:58 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d003/live/d915ccd0-d2ee-11f1-8d86-83eebc838351.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kane beat Mbappe to Ballon d'Or by just 28 points]]></title>
-            <description><![CDATA[Voting figures show Harry Kane beat second-placed Kylian Mbappe to the men's Ballon d'Or by one of the tightest winning margins in the award's history.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/c6073yeg52xeo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6073yeg52xeo#5</guid>
-            <pubDate>Sat, 31 Oct 2026 15:21:24 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/24d2/live/06c43490-d539-11f1-b64c-03717a6e5b71.jpg"/>
         </item>
         <item>
             <title><![CDATA[Who am I? Plus today's other quizzes]]></title>
             <description><![CDATA[Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/c6x2qr8dj81vo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6x2qr8dj81vo#5</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6x2qr8dj81vo#6</guid>
             <pubDate>Sat, 31 Oct 2026 06:54:52 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"/>
         </item>
         <item>
-            <title><![CDATA[What Howe could bring to Man Utd - and what are the challenges?]]></title>
-            <description><![CDATA[Eddie Howe is being linked with the Manchester United job, but what are some of the considerations for him and the club?]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cr74pd99vwq3o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cr74pd99vwq3o#6</guid>
-            <pubDate>Fri, 30 Oct 2026 16:27:13 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6804/live/b15b30a0-d47d-11f1-80bc-6d398902272f.jpg"/>
+            <title><![CDATA[Kane beat Mbappe to Ballon d'Or by just 28 points]]></title>
+            <description><![CDATA[Voting figures show Harry Kane beat second-placed Kylian Mbappe to the men's Ballon d'Or by one of the tightest winning margins in the award's history.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/c6073yeg52xeo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6073yeg52xeo#6</guid>
+            <pubDate>Sat, 31 Oct 2026 15:21:24 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/24d2/live/06c43490-d539-11f1-b64c-03717a6e5b71.jpg"/>
         </item>
         <item>
-            <title><![CDATA['We fell behind' - what does new San Siro deal mean for AC Milan and Inter?]]></title>
-            <description><![CDATA[BBC Sport explores the plans for AC Milan and Inter's new stadium, and how powerful naming rights for new arenas can be]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/c84g15r12xn3o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c84g15r12xn3o#6</guid>
-            <pubDate>Sat, 31 Oct 2026 11:18:53 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81ef/live/feb3d0b0-d477-11f1-9dda-1ba6fcc7d159.jpg"/>
+            <title><![CDATA[Sage looking for solutions to Palace form]]></title>
+            <description><![CDATA[Crystal Palace manger Pierre Sage reacts as his side loses a third consecutive league game following their 2-0 defeat by Tottenham. ]]></description>
+            <link>https://www.bbc.co.uk/sport/football/videos/c6r7yx55n3gjo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/c6r7yx55n3gjo#7</guid>
+            <pubDate>Sat, 31 Oct 2026 20:13:28 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15a2/live/85e90f20-d566-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
             <title><![CDATA[Le Bris shrugs off questions on Sunderland future]]></title>
@@ -255,12 +263,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2286/live/1682cd20-d29f-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Ballon d'Or winner Kane explains how his game has evolved]]></title>
-            <description><![CDATA[Speaking in August, Harry Kane tells Umir Irfan how he has evolved in recent seasons - leading him to winning the coveted Ballon d'Or.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/videos/cwg7xevnyrjpo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cwg7xevnyrjpo#7</guid>
-            <pubDate>Tue, 27 Oct 2026 08:53:55 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b15/live/a5aa2a50-d1e3-11f1-93e1-3b657b665bcf.jpg"/>
+            <title><![CDATA['We fell behind' - what does new San Siro deal mean for AC Milan and Inter?]]></title>
+            <description><![CDATA[BBC Sport explores the plans for AC Milan and Inter's new stadium, and how powerful naming rights for new arenas can be]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/c84g15r12xn3o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c84g15r12xn3o#10</guid>
+            <pubDate>Sat, 31 Oct 2026 11:18:53 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81ef/live/feb3d0b0-d477-11f1-9dda-1ba6fcc7d159.jpg"/>
         </item>
         <item>
             <title><![CDATA[Sutton's predictions v Bad Day At The Office star John Hannah]]></title>
@@ -293,14 +301,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cv2d6ze63gk2o#10</guid>
             <pubDate>Thu, 29 Oct 2026 13:19:52 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/660e/live/5ff58e70-d1ff-11f1-b30f-21253679b290.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mourinho and chaos - is Real Madrid boss misunderstood?]]></title>
-            <description><![CDATA[Jose Mourinho has spent the past decade seeing other managers hailed as geniuses, but did Real Madrid's win at Barcelona show he's been misunderstood?]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/crly062vd0z7o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/crly062vd0z7o#10</guid>
-            <pubDate>Thu, 29 Oct 2026 08:07:22 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9302/live/9a370150-d370-11f1-9ed3-17a877d6ca72.jpg"/>
         </item>
         <item>
             <title><![CDATA[Manager ins and outs - 2026-27]]></title>

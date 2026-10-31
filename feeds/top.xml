@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 31 Oct 2026 21:48:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Oct 2026 22:23:59 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -48,10 +48,10 @@
         </item>
         <item>
             <title><![CDATA[Crypto firm Binance covers 90% of losses after $6.3bn hack]]></title>
-            <description><![CDATA[Two analytics firms say they have robust intelligence pointing to a North Korean state-backed group as the likely culprit.]]></description>
+            <description><![CDATA[The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack.]]></description>
             <link>https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckpdg3ql4169o#1</guid>
-            <pubDate>Sat, 31 Oct 2026 16:32:08 GMT</pubDate>
+            <pubDate>Sat, 31 Oct 2026 22:11:45 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e52/live/ccbb9490-d53e-11f1-93de-81de9e959fac.jpg"/>
         </item>
         <item>
@@ -61,6 +61,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cxnv0p4l7rjlo#1</guid>
             <pubDate>Sat, 31 Oct 2026 13:20:39 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95ec/live/566810d0-915e-11f1-a8f1-774cbc5e1a9f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why did this Korean content creator throw a divorce ceremony?]]></title>
+            <description><![CDATA[Cho Seung-yeon marked the end of her marriage by having a divorce ceremony - however not everyone online was happy about it.]]></description>
+            <link>https://www.bbc.co.uk/news/videos/c51kd2jyjr1eo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/c51kd2jyjr1eo#2</guid>
+            <pubDate>Sat, 31 Oct 2026 22:01:39 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5b8/live/2b5b2bb0-d430-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
             <title><![CDATA['The necktie is dead': How US midterm candidates are dressing for votes]]></title>
@@ -93,14 +101,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmly016ep243o#2</guid>
             <pubDate>Sat, 31 Oct 2026 02:39:25 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7be/live/dab6afd0-d223-11f1-93e1-3b657b665bcf.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Why MPs keep talking about an early election despite Burnham's denials]]></title>
-            <description><![CDATA[The prime minister has categorically ruled out an early general election, but it has not stopped speculation at Westminster.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cm5yn7d0qx1do?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm5yn7d0qx1do#2</guid>
-            <pubDate>Sat, 31 Oct 2026 00:00:15 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b0c/live/51145730-d491-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
             <title><![CDATA[Burnham 'open' to calls for slavery apology but not reparations]]></title>
@@ -199,6 +199,22 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf6/live/d1e71250-9509-11ee-8df3-1d2983d8814f.png"/>
         </item>
         <item>
+            <title><![CDATA[Watch: Match of the Day]]></title>
+            <description><![CDATA[Highlights from eight Premier League matches, including Manchester City against Brighton.]]></description>
+            <link>https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/iplayer/live/bbcone#9</guid>
+            <pubDate>Sat, 31 Oct 2026 00:00:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0pkhkk5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hamilton takes first pole for Ferrari at Mexico City Grand Prix]]></title>
+            <description><![CDATA[Lewis Hamilton takes his first pole position for Ferrari and his first for more than three years at the Mexico City Grand Prix.]]></description>
+            <link>https://www.bbc.co.uk/sport/formula1/articles/c6reyl8zp3jwo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/formula1/articles/c6reyl8zp3jwo#9</guid>
+            <pubDate>Sat, 31 Oct 2026 22:17:34 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8011/live/be657260-d577-11f1-a35a-6940860b77cf.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Martinez's 'inexplicable' 83 seconds cost Man Utd and Carrick]]></title>
             <description><![CDATA[Manchester United defender Lisandro Martinez condemned for costly red card in 2-0 defeat to Chelsea at Stamford Bridge.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/ckvg64xp1e1eo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -221,14 +237,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cve8rkd8r302o#9</guid>
             <pubDate>Sat, 31 Oct 2026 19:05:41 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9843/live/a24ea490-d557-11f1-b937-61b94454a4cf.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['Un-Australian' - Warner tears into former side after SA charge to win]]></title>
-            <description><![CDATA[Australia crumble under the pressure of a final-day chase as South Africa charge to a famous Test and series victory.]]></description>
-            <link>https://www.bbc.co.uk/sport/cricket/articles/cmdx3p354v04o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/cricket/articles/cmdx3p354v04o#9</guid>
-            <pubDate>Sat, 31 Oct 2026 13:23:15 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2690/live/86db81e0-d518-11f1-a701-fddedf244c16.jpg"/>
         </item>
     </channel>
 </rss>
