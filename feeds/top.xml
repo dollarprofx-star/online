@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 31 Oct 2026 18:56:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Oct 2026 19:29:28 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -135,6 +135,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea75/live/f93e2820-d4b7-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Everton striker's relief family not home during burglary]]></title>
+            <description><![CDATA[The French striker says he is relieved his family were not at home as he played against Newcastle United.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cwm26rnyrk23o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwm26rnyrk23o#3</guid>
+            <pubDate>Sat, 31 Oct 2026 15:27:55 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c17/live/550cc3d0-d53c-11f1-93de-81de9e959fac.png"/>
+        </item>
+        <item>
             <title><![CDATA[Mahmood expected to announce changes to rules around indefinite leave to remain]]></title>
             <description><![CDATA[The home secretary has faced opposition from within the government over plans to impose new rules on migrant workers already in the UK.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cm62yxxd992eo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -149,14 +157,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmeweppr990qo#3</guid>
             <pubDate>Sat, 31 Oct 2026 05:44:21 GMT</pubDate>
             <media:thumbnail width="240" height="124" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a970/live/20e78ee0-d4ed-11f1-93e1-3b657b665bcf.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[After 28 years and 36,000 miles, Karl Bushby is almost home]]></title>
-            <description><![CDATA[Global walker Karl Bushby is almost within sight of his journey's end after 28 years away.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cq8rz38jr50go?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cq8rz38jr50go#3</guid>
-            <pubDate>Sat, 31 Oct 2026 00:04:06 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/840c/live/7d897fe0-d12e-11f1-a94e-6dd2aca774ac.jpg"/>
         </item>
         <item>
             <title><![CDATA['I live with a ghost': The people saving money by moving into Japan's haunted houses]]></title>
@@ -197,6 +197,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/10628994#6</guid>
             <pubDate>Wed, 30 Apr 2025 14:04:28 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf6/live/d1e71250-9509-11ee-8df3-1d2983d8814f.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Maresca's big test is to address mounting Man City issues]]></title>
+            <description><![CDATA[Enzo Maresca enjoyed a flawless start as Manchester City manager, winning his first seven Premier League games in charge, but the honeymoon period is now over.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cve8rkd8r302o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cve8rkd8r302o#9</guid>
+            <pubDate>Sat, 31 Oct 2026 19:05:41 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9843/live/a24ea490-d557-11f1-b937-61b94454a4cf.jpg"/>
         </item>
         <item>
             <title><![CDATA[Martinez's 'inexplicable' 83 seconds cost Man Utd and Carrick]]></title>
