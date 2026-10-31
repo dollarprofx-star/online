@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/sport/football</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 31 Oct 2026 09:07:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Oct 2026 09:45:16 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -591,6 +591,14 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5275/live/903e59e0-d47a-11f1-8edb-d9fce66588c6.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Stewart caught in Swansea rules limbo - gossip]]></title>
+            <description><![CDATA[Ross Stewart's lack of game time with Swansea City is explained as Rangers reportedly want Lyall Cameron in their first-team squad after his season with Dundee United.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cq4g17m1dzjdo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cq4g17m1dzjdo#16</guid>
+            <pubDate>Sat, 31 Oct 2026 09:24:21 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/88aa/live/c2c7bdb0-d50c-11f1-b441-2b33b063138f.png"/>
+        </item>
+        <item>
             <title><![CDATA[Hearts & Hibs brace for 'all or nothing' semi-final]]></title>
             <description><![CDATA[Hearts and Hibernian are braced for a winner-takes-all League Cup semi-final. But the Edinburgh rivals arrive at Hampden in very different moods.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/c6reypq3vjdvo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -621,14 +629,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0pkf71w#16</guid>
             <pubDate>Fri, 30 Oct 2026 08:00:00 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0pkf724.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Celtic & Rangers Scottish Cup stadium closure upheld]]></title>
-            <description><![CDATA[Rangers and Celtic will both play their next Scottish Cup home ties behind closed doors after the clubs respective appeals against the sanction was dismissed.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/c6n49v9ek1k9o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6n49v9ek1k9o#16</guid>
-            <pubDate>Thu, 29 Oct 2026 17:20:57 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a66e/live/81ba8920-d15f-11f1-87df-afb7a168a1f2.jpg"/>
         </item>
         <item>
             <title><![CDATA[Families v loyal fans - women's football's attendance dilemma]]></title>
