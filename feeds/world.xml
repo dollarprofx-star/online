@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news/world</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 31 Oct 2026 16:01:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Oct 2026 16:42:18 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/world/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -23,12 +23,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/41b8/live/9f93a310-d532-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Why North Korea's 'elite' hackers are the prime suspect in major Binance hack]]></title>
-            <description><![CDATA[If the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o#0</guid>
-            <pubDate>Sat, 31 Oct 2026 02:12:19 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b98/live/c9241530-d4aa-11f1-b441-2b33b063138f.jpg"/>
+            <title><![CDATA[Crypto firm Binance covers 90% of losses after $6.3bn hack]]></title>
+            <description><![CDATA[Two analytics firms say they have robust intelligence pointing to a North Korean state-backed group as the likely culprit.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckpdg3ql4169o#0</guid>
+            <pubDate>Sat, 31 Oct 2026 16:32:08 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e52/live/ccbb9490-d53e-11f1-93de-81de9e959fac.jpg"/>
         </item>
         <item>
             <title><![CDATA[More than 5,000 die from Ebola in DR Congo's deadliest outbreak]]></title>
@@ -207,6 +207,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e86c/live/220a00a0-d402-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Why North Korea's 'elite' hackers are the prime suspect in major Binance hack]]></title>
+            <description><![CDATA[If the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o#3</guid>
+            <pubDate>Sat, 31 Oct 2026 02:12:19 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b98/live/c9241530-d4aa-11f1-b441-2b33b063138f.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[He questioned Thailand's monarchy dressed as Harry Potter. Now he's in jail for 34 years]]></title>
             <description><![CDATA[Thailand has prosecuted 294 people since 2020 under its lèse majesté law, with sentences going up to 50 years.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cmjwepvd0qq9o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -253,14 +261,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cknv08980d3vo#3</guid>
             <pubDate>Fri, 30 Oct 2026 02:14:41 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42df/live/bd536810-d3b4-11f1-b441-2b33b063138f.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Many Cubans voted for Trump - now they're turning on Republican immigration policies]]></title>
-            <description><![CDATA[President Trump's fellow Republicans might feel the brunt of frustration among Cubans at the ballot box, writes the BBC's Will Grant.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c574p7z1xm8wo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c574p7z1xm8wo#3</guid>
-            <pubDate>Fri, 30 Oct 2026 00:43:04 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b579/live/dc6c6420-d2e9-11f1-8d86-83eebc838351.jpg"/>
         </item>
     </channel>
 </rss>
