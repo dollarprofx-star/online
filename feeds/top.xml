@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 31 Oct 2026 11:28:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Oct 2026 12:02:15 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -103,7 +103,7 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b0c/live/51145730-d491-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Trump's tariffs could shutter this Canadian town - its residents are fighting to save it]]></title>
+            <title><![CDATA[The fight to save Canadian town threatened by Trump's tariffs]]></title>
             <description><![CDATA[A century-old paper mill in Témiscaming, Quebec is indefinitely closed after the US imposed 50% tariffs on its products, putting hundreds out of work.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cmly016ep243o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmly016ep243o#2</guid>
@@ -124,7 +124,7 @@
             <link>https://www.bbc.co.uk/news/articles/cm9dz48g24yzo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm9dz48g24yzo#3</guid>
             <pubDate>Sat, 31 Oct 2026 07:19:00 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad61/live/6f53d770-d3ab-11f1-9b99-01189ab4006e.jpg"/>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a3f4/live/1cd9d130-d521-11f1-b9b6-63098f5263b3.png"/>
         </item>
         <item>
             <title><![CDATA[G20 'family photo' cancelled after protests over presence of Russian minister]]></title>
@@ -237,14 +237,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/formula1/articles/cqde8p6j9ye7o#9</guid>
             <pubDate>Sat, 31 Oct 2026 03:18:06 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/45fd/live/fec5d270-d4c1-11f1-93e1-3b657b665bcf.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[AC Milan v Inter and the tale of an iconic image]]></title>
-            <description><![CDATA[AC Milan versus Inter will be shown live on the BBC on Saturday - this is the story of the fixture's most iconic image.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cq99zlpzm87ro?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cq99zlpzm87ro#9</guid>
-            <pubDate>Sat, 31 Oct 2026 06:44:38 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e92/live/be15cb40-d444-11f1-97f9-27ebf08d99fe.png"/>
         </item>
     </channel>
 </rss>
