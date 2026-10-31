@@ -9,17 +9,17 @@
             <link>https://www.bbc.co.uk/news/world</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 31 Oct 2026 12:52:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Oct 2026 13:36:52 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/world/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
-            <title><![CDATA[Evacuees from Russia-occupied city where residents ate weeds on way to Ukraine]]></title>
+            <title><![CDATA[Evacuees from Russia-occupied city where residents ate weeds arrive in Ukraine]]></title>
             <description><![CDATA[Residents left the devastated city on Friday following a ceasefire brokered by US First Lady Melania Trump.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqx2818elrnzo#0</guid>
-            <pubDate>Sat, 31 Oct 2026 12:05:04 GMT</pubDate>
+            <pubDate>Sat, 31 Oct 2026 13:12:46 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/62ec/live/4e7bd090-d516-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
@@ -199,7 +199,15 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dec3/live/30285610-d42e-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
-            <title><![CDATA[CCTV, zip ties and election watchers: How US mail-in votes are secured and counted]]></title>
+            <title><![CDATA[Watch: Blood donors get a Halloween fright in Thailand]]></title>
+            <description><![CDATA[Thai Red Cross workers dressed up as part of a Halloween-themed blood drive in the country's capital Bangkok.]]></description>
+            <link>https://www.bbc.co.uk/news/videos/cmze42el49d9o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cmze42el49d9o#2</guid>
+            <pubDate>Sat, 31 Oct 2026 12:50:45 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc6e/live/d3851b40-d528-11f1-93e1-3b657b665bcf.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[CCTV and zip ties: How US mail-in votes are secured and counted]]></title>
             <description><![CDATA[BBC Verify goes to an election centre to get a behind-the-scenes look at how mail-in ballots for the US midterm elections are processed.]]></description>
             <link>https://www.bbc.co.uk/news/videos/cw4g1vlj4v2jo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cw4g1vlj4v2jo#2</guid>
@@ -237,14 +245,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cmlykpd9kpy7o#2</guid>
             <pubDate>Fri, 30 Oct 2026 01:38:54 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e86c/live/220a00a0-d402-11f1-93e1-3b657b665bcf.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['I made the wrong decision,' Hyrox athlete who soiled herself in race tells BBC]]></title>
-            <description><![CDATA[Speaking exclusively to the BBC, Joanna Wietrzyk says her determination to win the Hyrox race in September had clouded her judgement.]]></description>
-            <link>https://www.bbc.co.uk/news/videos/cwly4p6e9264o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cwly4p6e9264o#2</guid>
-            <pubDate>Fri, 30 Oct 2026 07:33:27 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/373c/live/e5969800-d450-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
             <title><![CDATA[He questioned Thailand's monarchy dressed as Harry Potter. Now he's in jail for 34 years]]></title>
