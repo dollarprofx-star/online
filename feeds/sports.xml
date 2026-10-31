@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/sport/football</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 31 Oct 2026 20:41:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Oct 2026 21:14:50 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -85,6 +85,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c3j47prvlz04o#1</guid>
             <pubDate>Sat, 31 Oct 2026 14:35:50 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3256/live/7a023db0-d53b-11f1-93e1-3b657b665bcf.png"/>
+        </item>
+        <item>
+            <title><![CDATA[More goals for Lankshear, home woes for Hammers - Aaron McLean's EFL Takeaways]]></title>
+            <description><![CDATA[BBC Final Score pundit Aaron McLean looks at the weekend's talking points in the EFL, including Middlesbrough and West Ham United. ]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cv369yp2451lo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cv369yp2451lo#2</guid>
+            <pubDate>Sat, 31 Oct 2026 20:24:50 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5df/live/6baa95e0-d569-11f1-a701-fddedf244c16.png"/>
         </item>
         <item>
             <title><![CDATA[Carrick bemoans Man Utd defending in Chelsea loss]]></title>
@@ -173,14 +181,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cq1m4j79x50jo#6</guid>
             <pubDate>Thu, 29 Oct 2026 19:55:24 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/089f/live/2e6abec0-d245-11f1-a701-fddedf244c16.png"/>
-        </item>
-        <item>
-            <title><![CDATA[Arteta warns Dowman 'we are not in Disneyland' after red card ]]></title>
-            <description><![CDATA[Mikel Arteta says "we are not in Disneyland" and that he will hold Max Dowman to the same standards as other first-team players after the teenager's red card against Fleetwood. ]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/c875p940g5v2o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c875p940g5v2o#6</guid>
-            <pubDate>Fri, 30 Oct 2026 15:41:43 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8dd6/live/0e0d1c20-d46d-11f1-8228-c14a49713dc8.jpg"/>
         </item>
         <item>
             <title><![CDATA[Le Bris shrugs off questions on Sunderland future]]></title>
@@ -397,6 +397,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/bitesize/articles/z8t4b7h#15</guid>
             <pubDate>Mon, 21 Sep 2026 20:12:31 GMT</pubDate>
             <media:thumbnail url="https://ichef.bbci.co.uk/images/ic/480xn/p0pcy5zl.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch Saturday's Sportscene highlights on iPlayer]]></title>
+            <description><![CDATA[Highlights from Kilmarnock v St Johnstone and Motherwell v St Mirren.]]></description>
+            <link>https://www.bbc.co.uk/iplayer/episode/m0033wb7?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/iplayer/episode/m0033wb7#16</guid>
+            <pubDate>Sat, 31 Oct 2026 20:51:42 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0pkn7fv.jpg"/>
         </item>
         <item>
             <title><![CDATA[Hearts & Hibs brace for 'all or nothing' semi-final]]></title>
