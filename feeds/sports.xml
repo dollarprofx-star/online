@@ -9,11 +9,19 @@
             <link>https://www.bbc.co.uk/sport/football</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 31 Oct 2026 16:42:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Oct 2026 17:13:50 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Martinez's 'inexplicable' 83 seconds cost Man Utd and Carrick]]></title>
+            <description><![CDATA[Manchester United defender Lisandro Martinez condemned for costly red card in 2-0 defeat to Chelsea at Stamford Bridge.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/ckvg64xp1e1eo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ckvg64xp1e1eo#0</guid>
+            <pubDate>Sat, 31 Oct 2026 16:38:15 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3453/live/944e8ae0-d53e-11f1-93e1-3b657b665bcf.jpg"/>
+        </item>
         <item>
             <title><![CDATA[Returning Estevao brings X-factor to strikerless Chelsea]]></title>
             <description><![CDATA[Morgan Rogers swings the match in Chelsea's favour as Estevao Willian dazzles, making a mystery of his limited action under Xabi Alonso this season.]]></description>
@@ -34,7 +42,7 @@
             <title><![CDATA[Carragher apologises to Villa for 'wrong' language]]></title>
             <description><![CDATA[Jamie Carragher apologises for "clumsy and wrong" language when linking manager Unai Emery with becoming Manchester United head coach, after Aston Villa threatened to sue him.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cqj6jp63k87zo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqj6jp63k87zo#0</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqj6jp63k87zo#2</guid>
             <pubDate>Sat, 31 Oct 2026 13:51:00 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6920/live/f487dd80-d52f-11f1-866a-b522399149a0.jpg"/>
         </item>
@@ -42,7 +50,7 @@
             <title><![CDATA[Kane beat Mbappe to Ballon d'Or by just 28 points]]></title>
             <description><![CDATA[Voting figures show Harry Kane beat second-placed Kylian Mbappe to the men's Ballon d'Or by one of the tightest winning margins in the award's history.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/c6073yeg52xeo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6073yeg52xeo#0</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6073yeg52xeo#2</guid>
             <pubDate>Sat, 31 Oct 2026 15:21:24 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/24d2/live/06c43490-d539-11f1-b64c-03717a6e5b71.jpg"/>
         </item>
@@ -50,23 +58,15 @@
             <title><![CDATA[Shearer discusses scoring record, MOTD & a brush with Cardiff]]></title>
             <description><![CDATA[Alan Shearer discusses his love of Newcastle, almost continuing his managerial career and swapping the pitch for the commentary box in The Football Interview.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cwkg5l822k3no?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cwkg5l822k3no#1</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cwkg5l822k3no#2</guid>
             <pubDate>Sat, 31 Oct 2026 06:23:58 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d003/live/d915ccd0-d2ee-11f1-8d86-83eebc838351.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['We fell behind' - what does new San Siro deal mean for AC Milan and Inter?]]></title>
-            <description><![CDATA[BBC Sport explores the plans for AC Milan and Inter's new stadium, and how powerful naming rights for new arenas can be]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/c84g15r12xn3o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c84g15r12xn3o#1</guid>
-            <pubDate>Sat, 31 Oct 2026 11:18:53 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81ef/live/feb3d0b0-d477-11f1-9dda-1ba6fcc7d159.jpg"/>
         </item>
         <item>
             <title><![CDATA[What Howe could bring to Man Utd - and what are the challenges?]]></title>
             <description><![CDATA[Eddie Howe is being linked with the Manchester United job, but what are some of the considerations for him and the club?]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cr74pd99vwq3o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cr74pd99vwq3o#1</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cr74pd99vwq3o#2</guid>
             <pubDate>Fri, 30 Oct 2026 16:27:13 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6804/live/b15b30a0-d47d-11f1-80bc-6d398902272f.jpg"/>
         </item>
@@ -74,65 +74,9 @@
             <title><![CDATA[Who am I? Plus today's other quizzes]]></title>
             <description><![CDATA[Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/c6x2qr8dj81vo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6x2qr8dj81vo#1</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6x2qr8dj81vo#2</guid>
             <pubDate>Sat, 31 Oct 2026 06:54:52 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"/>
-        </item>
-        <item>
-            <title><![CDATA[AC Milan v Inter and the tale of an iconic image]]></title>
-            <description><![CDATA[AC Milan versus Inter will be shown live on the BBC on Saturday - this is the story of the fixture's most iconic image.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cq99zlpzm87ro?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cq99zlpzm87ro#2</guid>
-            <pubDate>Sat, 31 Oct 2026 06:44:38 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e92/live/be15cb40-d444-11f1-97f9-27ebf08d99fe.png"/>
-        </item>
-        <item>
-            <title><![CDATA[Man Utd target Barcelona's Lopez - Saturday's gossip]]></title>
-            <description><![CDATA[Manchester United target Barcelona's Fermin Lopez, Lisandro Martinez is attracting interest from the La Liga side,  Arsenal eye Club Brugge striker Nicolo Tresoldi, plus more.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/ck3r52vn758xo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ck3r52vn758xo#2</guid>
-            <pubDate>Fri, 30 Oct 2026 23:08:16 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb46/live/8e4a93d0-d4b4-11f1-a58c-6d26609b0a57.png"/>
-        </item>
-        <item>
-            <title><![CDATA[Britain's first £100m man facing defining moment]]></title>
-            <description><![CDATA[Is it 'now or never' for Jack Grealish after he was dropped by Everton for a breach of club discipline, asks chief football writer Phil McNulty?]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cmzxj2e2e5p2o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmzxj2e2e5p2o#2</guid>
-            <pubDate>Fri, 30 Oct 2026 13:42:15 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a69e/live/a617bf90-d45c-11f1-ab12-eb0c94f5b382.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sutton's predictions v Bad Day At The Office star John Hannah]]></title>
-            <description><![CDATA[BBC Sport football expert Chris Sutton takes on Bad Day At The Office star John Hannah, plus the BBC readers and AI with his predictions for this weekend's Premier League fixtures.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cq1m4j79x50jo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cq1m4j79x50jo#2</guid>
-            <pubDate>Thu, 29 Oct 2026 19:55:24 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/089f/live/2e6abec0-d245-11f1-a701-fddedf244c16.png"/>
-        </item>
-        <item>
-            <title><![CDATA[Can Robinson work Hampden magic against McInnes' Rangers?]]></title>
-            <description><![CDATA[Under-pressure Aberdeen manager Stephen Robinson has an excellent record in Hampden semi-finals. But is Saturday's meeting with Rangers a bridge too far?]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cwx281x2p28do?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cwx281x2p28do#2</guid>
-            <pubDate>Fri, 30 Oct 2026 21:26:10 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5275/live/903e59e0-d47a-11f1-8edb-d9fce66588c6.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Arteta warns Dowman 'we are not in Disneyland' after red card ]]></title>
-            <description><![CDATA[Mikel Arteta says "we are not in Disneyland" and that he will hold Max Dowman to the same standards as other first-team players after the teenager's red card against Fleetwood. ]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/c875p940g5v2o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c875p940g5v2o#2</guid>
-            <pubDate>Fri, 30 Oct 2026 15:41:43 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8dd6/live/0e0d1c20-d46d-11f1-8228-c14a49713dc8.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Why has Caf abandoned plans to hold Afcon every four years?]]></title>
-            <description><![CDATA[The Africa Cup of Nations will remain on a two-year cycle after the Confederation of African Football performed a U-turn on a decision taken last December.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cm3el25ez88yo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cm3el25ez88yo#2</guid>
-            <pubDate>Fri, 30 Oct 2026 17:33:02 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6408/live/28140fd0-d458-11f1-93d9-89af68edb68a.jpg"/>
         </item>
         <item>
             <title><![CDATA[Carrick bemoans Man Utd defending in Chelsea loss]]></title>
@@ -175,6 +119,22 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44c9/live/88464190-0116-11f1-b7e1-afb6d0884c18.jpg"/>
         </item>
         <item>
+            <title><![CDATA['We fell behind' - what does new San Siro deal mean for AC Milan and Inter?]]></title>
+            <description><![CDATA[BBC Sport explores the plans for AC Milan and Inter's new stadium, and how powerful naming rights for new arenas can be]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/c84g15r12xn3o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c84g15r12xn3o#5</guid>
+            <pubDate>Sat, 31 Oct 2026 11:18:53 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81ef/live/feb3d0b0-d477-11f1-9dda-1ba6fcc7d159.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[AC Milan v Inter and the tale of an iconic image]]></title>
+            <description><![CDATA[AC Milan versus Inter will be shown live on the BBC on Saturday - this is the story of the fixture's most iconic image.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cq99zlpzm87ro?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cq99zlpzm87ro#5</guid>
+            <pubDate>Sat, 31 Oct 2026 06:44:38 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e92/live/be15cb40-d444-11f1-97f9-27ebf08d99fe.png"/>
+        </item>
+        <item>
             <title><![CDATA[Ronaldo closes in on 1,000th goal with hat-trick ]]></title>
             <description><![CDATA[Cristiano Ronaldo scores the 67th hat-trick of his career in Al-Nassr's 5-3 win against Al-Kholood in the Saudi Pro League.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cmkgqprr44gzo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -191,22 +151,6 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d4c/live/e763c300-d4b5-11f1-a58c-6d26609b0a57.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Listen: Shearer on MOTD, managerial jobs & scoring record]]></title>
-            <description><![CDATA[Kelly Somers speaks to former Premier League striker and pundit Alan Shearer.]]></description>
-            <link>https://www.bbc.co.uk/sounds/play/p0pkgq2g?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0pkgq2g#5</guid>
-            <pubDate>Sat, 31 Oct 2026 10:00:00 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0pkgq4g.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[How to follow the Premier League on the BBC this weekend]]></title>
-            <description><![CDATA[Our Ask Me Anything team explains how to follow matches from week nine of the Premier League season on the BBC this weekend.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cp30ggvqj0do?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cp30ggvqj0do#5</guid>
-            <pubDate>Fri, 30 Oct 2026 10:50:44 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/299a/live/02777700-d389-11f1-93e1-3b657b665bcf.png"/>
-        </item>
-        <item>
             <title><![CDATA[How talking about Man Utd's cycle of doom became an industry]]></title>
             <description><![CDATA[Manchester United's struggles are pored over more than ever before - not least by former players. ]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cjn5v3pl0159o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -221,6 +165,46 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cq4g148z2xp2o#5</guid>
             <pubDate>Fri, 30 Oct 2026 12:18:28 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/17ef/live/37196de0-d458-11f1-93d9-89af68edb68a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Britain's first £100m man facing defining moment]]></title>
+            <description><![CDATA[Is it 'now or never' for Jack Grealish after he was dropped by Everton for a breach of club discipline, asks chief football writer Phil McNulty?]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cmzxj2e2e5p2o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmzxj2e2e5p2o#5</guid>
+            <pubDate>Fri, 30 Oct 2026 13:42:15 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a69e/live/a617bf90-d45c-11f1-ab12-eb0c94f5b382.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Man Utd target Barcelona's Lopez - Saturday's gossip]]></title>
+            <description><![CDATA[Manchester United target Barcelona's Fermin Lopez, Lisandro Martinez is attracting interest from the La Liga side,  Arsenal eye Club Brugge striker Nicolo Tresoldi, plus more.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/ck3r52vn758xo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ck3r52vn758xo#5</guid>
+            <pubDate>Fri, 30 Oct 2026 23:08:16 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb46/live/8e4a93d0-d4b4-11f1-a58c-6d26609b0a57.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Why has Caf abandoned plans to hold Afcon every four years?]]></title>
+            <description><![CDATA[The Africa Cup of Nations will remain on a two-year cycle after the Confederation of African Football performed a U-turn on a decision taken last December.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cm3el25ez88yo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cm3el25ez88yo#5</guid>
+            <pubDate>Fri, 30 Oct 2026 17:33:02 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6408/live/28140fd0-d458-11f1-93d9-89af68edb68a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sutton's predictions v Bad Day At The Office star John Hannah]]></title>
+            <description><![CDATA[BBC Sport football expert Chris Sutton takes on Bad Day At The Office star John Hannah, plus the BBC readers and AI with his predictions for this weekend's Premier League fixtures.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cq1m4j79x50jo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cq1m4j79x50jo#6</guid>
+            <pubDate>Thu, 29 Oct 2026 19:55:24 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/089f/live/2e6abec0-d245-11f1-a701-fddedf244c16.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Arteta warns Dowman 'we are not in Disneyland' after red card ]]></title>
+            <description><![CDATA[Mikel Arteta says "we are not in Disneyland" and that he will hold Max Dowman to the same standards as other first-team players after the teenager's red card against Fleetwood. ]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/c875p940g5v2o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c875p940g5v2o#6</guid>
+            <pubDate>Fri, 30 Oct 2026 15:41:43 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8dd6/live/0e0d1c20-d46d-11f1-8228-c14a49713dc8.jpg"/>
         </item>
         <item>
             <title><![CDATA[O'Neill agrees with McGregor about Celtic issues]]></title>
@@ -245,14 +229,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6x2w1epxx8yo#6</guid>
             <pubDate>Fri, 30 Oct 2026 10:26:53 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/740e/live/7ab22640-d44a-11f1-93e1-3b657b665bcf.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Spurs' Maddison fit to face Palace - De Zerbi]]></title>
-            <description><![CDATA[Tottenham midfielder James Maddison is available to face Crystal Palace on Saturday says manager Roberto De Zerbi, despite an injury scare last week.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cke8rp00m87lo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cke8rp00m87lo#6</guid>
-            <pubDate>Fri, 30 Oct 2026 15:49:28 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f44e/live/c51aa310-d477-11f1-9dda-1ba6fcc7d159.jpg"/>
         </item>
         <item>
             <title><![CDATA[Prospective Gateshead takeover close to collapse]]></title>
@@ -509,14 +485,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cq4g17m1dzjdo#16</guid>
             <pubDate>Sat, 31 Oct 2026 09:24:21 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/88aa/live/c2c7bdb0-d50c-11f1-b441-2b33b063138f.png"/>
-        </item>
-        <item>
-            <title><![CDATA[Hearts & Hibs brace for 'all or nothing' semi-final]]></title>
-            <description><![CDATA[Hearts and Hibernian are braced for a winner-takes-all League Cup semi-final. But the Edinburgh rivals arrive at Hampden in very different moods.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/c6reypq3vjdvo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6reypq3vjdvo#16</guid>
-            <pubDate>Fri, 30 Oct 2026 18:26:20 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60ef/live/c3ff5e20-d46e-11f1-b441-2b33b063138f.png"/>
         </item>
         <item>
             <title><![CDATA[Families v loyal fans - women's football's attendance dilemma]]></title>
