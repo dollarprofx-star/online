@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news/world</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 31 Oct 2026 04:31:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Oct 2026 05:19:40 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/world/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -69,6 +69,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmewepdr109do#0</guid>
             <pubDate>Fri, 30 Oct 2026 20:41:51 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b85a/live/484c0a90-d4b8-11f1-a701-fddedf244c16.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump's tariffs could shutter this Canadian town - its residents are fighting to save it]]></title>
+            <description><![CDATA[A century-old paper mill in Témiscaming, Quebec is indefinitely closed after the US imposed 50% tariffs on its products, putting hundreds out of work.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cmly016ep243o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmly016ep243o#1</guid>
+            <pubDate>Sat, 31 Oct 2026 02:39:25 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7be/live/dab6afd0-d223-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
             <title><![CDATA[US inmate Christa Pike says she woke up 'confused and in pain' after failed execution]]></title>
@@ -231,14 +239,6 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2371/live/1f84cb60-d4bd-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Trump's tariffs could shutter this Canadian town - its residents are fighting to save it]]></title>
-            <description><![CDATA[A century-old paper mill in Témiscaming, Quebec is indefinitely closed after the US imposed 50% tariffs on its products, putting hundreds out of work.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cmly016ep243o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmly016ep243o#3</guid>
-            <pubDate>Sat, 31 Oct 2026 02:39:25 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7be/live/dab6afd0-d223-11f1-93e1-3b657b665bcf.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Responsible or panicked? Meet the people around the world already preparing for crisis]]></title>
             <description><![CDATA[Filter straws to a disposable toilet - people in the US, Japan, Sweden and Netherlands on what's in their emergency stashes.]]></description>
             <link>https://www.bbc.co.uk/news/articles/ckreypn92w49o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -261,6 +261,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckq6nz4286r4o#3</guid>
             <pubDate>Sat, 31 Oct 2026 00:16:03 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f23a/live/e2d76eb0-d3a5-11f1-a701-fddedf244c16.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Suited and booted: How Joseph Kabila went from president to rebel leader ]]></title>
+            <description><![CDATA[What does Joseph Kabila launching a new rebel movement mean for DR Congo?]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cr3wv311dwnlo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cr3wv311dwnlo#3</guid>
+            <pubDate>Sat, 31 Oct 2026 04:32:07 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a56b/live/5a0952f0-d487-11f1-80bc-6d398902272f.jpg"/>
         </item>
         <item>
             <title><![CDATA[Democrats have an identity crisis - it won't be an easy fix]]></title>
