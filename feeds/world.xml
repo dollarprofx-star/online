@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news/world</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 31 Oct 2026 00:44:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Oct 2026 01:41:26 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/world/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -31,12 +31,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61df/live/2d4de870-d487-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
-            <title><![CDATA[US inmate Christa Pike says she woke up 'confused and in pain' after failed execution]]></title>
-            <description><![CDATA[It is Pike's first public statement since she survived an execution attempt by lethal injection in September. ]]></description>
-            <link>https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo#0</guid>
-            <pubDate>Fri, 30 Oct 2026 17:07:19 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e22e/live/c1455920-d46c-11f1-93e1-3b657b665bcf.jpg"/>
+            <title><![CDATA[Police deployed during stand-off over control of top Poland court]]></title>
+            <description><![CDATA[The escalation came after the government suspended two senior justices and moved to bring criminal charges against them.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/crz9824d5e88o#0</guid>
+            <pubDate>Sat, 31 Oct 2026 01:11:43 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b6c2/live/46cc2780-d49b-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
             <title><![CDATA[Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire]]></title>
@@ -47,20 +47,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/21db/live/aec4b500-d482-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Police deployed during stand-off over control of top Poland court]]></title>
-            <description><![CDATA[The escalation came after the government suspended two senior justices and moved to bring criminal charges against them.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/crz9824d5e88o#0</guid>
-            <pubDate>Fri, 30 Oct 2026 20:52:01 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b6c2/live/46cc2780-d49b-11f1-a701-fddedf244c16.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[They strangled us, says founder of Russian newspaper shut under pressure from authorities]]></title>
             <description><![CDATA[Novaya Gazeta has been one of the most high-profile independent news outlets in Russia over the last three decades.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmewepdr109do#0</guid>
             <pubDate>Fri, 30 Oct 2026 20:41:51 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b85a/live/484c0a90-d4b8-11f1-a701-fddedf244c16.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[US inmate Christa Pike says she woke up 'confused and in pain' after failed execution]]></title>
+            <description><![CDATA[It is Pike's first public statement since she survived an execution attempt by lethal injection in September. ]]></description>
+            <link>https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo#0</guid>
+            <pubDate>Fri, 30 Oct 2026 17:07:19 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e22e/live/c1455920-d46c-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
             <title><![CDATA[Spain transport minister says he won't resign over high-speed rail disaster]]></title>
@@ -279,6 +279,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2371/live/1f84cb60-d4bd-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Responsible or panicked? Meet the people around the world already preparing for crisis]]></title>
+            <description><![CDATA[Filter straws to a disposable toilet - people in the US, Japan, Sweden and Netherlands on what's in their emergency stashes.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/ckreypn92w49o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckreypn92w49o#3</guid>
+            <pubDate>Sat, 31 Oct 2026 01:32:33 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cce2/live/961bb030-d482-11f1-b441-2b33b063138f.png"/>
+        </item>
+        <item>
             <title><![CDATA['The necktie is dead': How US midterm candidates are dressing for votes]]></title>
             <description><![CDATA[From Alaska to Texas, candidates with an eye on Congress are using their personal style to stand out. ]]></description>
             <link>https://www.bbc.co.uk/news/articles/ckq6nz4286r4o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -317,14 +325,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c574p7z1xm8wo#3</guid>
             <pubDate>Fri, 30 Oct 2026 00:43:04 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b579/live/dc6c6420-d2e9-11f1-8d86-83eebc838351.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Indians turn to start-ups to care for ageing parents as young become more mobile]]></title>
-            <description><![CDATA[Changing family structures in India are driving demand for start-ups offering services for eldercare.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cmx2qr4rp1xeo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmx2qr4rp1xeo#3</guid>
-            <pubDate>Fri, 30 Oct 2026 00:02:35 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83eb/live/3d4d12b0-d37d-11f1-bf63-739fb2907d03.jpg"/>
         </item>
     </channel>
 </rss>
