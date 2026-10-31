@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news/world</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 31 Oct 2026 22:57:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Oct 2026 23:27:52 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/world/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -191,6 +191,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b98/live/c9241530-d4aa-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
+            <title><![CDATA[I've been stuck on a tiny Pacific island for years and can't get a transit visa to fly home]]></title>
+            <description><![CDATA[Ruchira Ranasingha, 50, has been stranded in the Cook Islands since 2023 and wants to return to Sri Lanka.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cmq5npz5l5geo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmq5npz5l5geo#3</guid>
+            <pubDate>Sat, 31 Oct 2026 23:06:13 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02cf/live/411e4740-d433-11f1-93e1-3b657b665bcf.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[He questioned Thailand's monarchy dressed as Harry Potter. Now he's in jail for 34 years]]></title>
             <description><![CDATA[Thailand has prosecuted 294 people since 2020 under its lèse majesté law, with sentences going up to 50 years.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cmjwepvd0qq9o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -229,14 +237,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cr3wv311dwnlo#3</guid>
             <pubDate>Sat, 31 Oct 2026 04:32:07 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a56b/live/5a0952f0-d487-11f1-80bc-6d398902272f.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Democrats have an identity crisis - it won't be an easy fix]]></title>
-            <description><![CDATA[Whatever the result of the midterm elections, the party is facing tough questions over what they stand for and who should represent them.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cknv08980d3vo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cknv08980d3vo#3</guid>
-            <pubDate>Fri, 30 Oct 2026 02:14:41 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42df/live/bd536810-d3b4-11f1-b441-2b33b063138f.jpg"/>
         </item>
     </channel>
 </rss>
