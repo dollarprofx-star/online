@@ -9,18 +9,18 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 01 Nov 2026 22:29:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Nov 2026 23:03:52 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
-            <title><![CDATA[Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends]]></title>
-            <description><![CDATA[A rare humanitarian ceasefire allowed civilians to evacuate the Russian-occupied city of Oleshky.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c64g1y90p71eo#1</guid>
-            <pubDate>Sun, 01 Nov 2026 21:55:01 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8e6/live/7871d270-d627-11f1-a947-0507737f09b2.jpg"/>
+            <title><![CDATA[Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says]]></title>
+            <description><![CDATA[Authorities say there is no threat and have advised the public to stay calm and follow official channels for information. ]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo#1</guid>
+            <pubDate>Sun, 01 Nov 2026 22:38:24 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3608/live/1d2513e0-d646-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
             <title><![CDATA[Five teenagers stabbed at Halloween party]]></title>
@@ -59,7 +59,7 @@
             <description><![CDATA[The former European 1500m champion had bowel cancer and died just three weeks after marrying her partner.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cj3vqy1g3eygo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cj3vqy1g3eygo#1</guid>
-            <pubDate>Sun, 01 Nov 2026 20:33:11 GMT</pubDate>
+            <pubDate>Sun, 01 Nov 2026 22:44:47 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0552/live/19da7760-d633-11f1-9ca7-b72124134595.jpg"/>
         </item>
         <item>
@@ -159,6 +159,14 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea05/live/c6f18070-d5ec-11f1-bfdd-73f39e6db31d.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends]]></title>
+            <description><![CDATA[A rare humanitarian ceasefire allowed civilians to evacuate the Russian-occupied city of Oleshky.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c64g1y90p71eo#3</guid>
+            <pubDate>Sun, 01 Nov 2026 21:55:01 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8e6/live/7871d270-d627-11f1-a947-0507737f09b2.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Healey risks breaking minimum wage promise for younger workers]]></title>
             <description><![CDATA[The Chancellor has suggested that younger workers might not receive the same minimum wage as others before the next election.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cv369266644lo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -215,6 +223,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0l7jnbt.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Antonelli becomes world champion as Verstappen wins in Mexico]]></title>
+            <description><![CDATA[Kimi Antonelli becomes the youngest world champion in Formula 1 history as Max Verstappen wins the Mexico City Grand Prix.]]></description>
+            <link>https://www.bbc.co.uk/sport/formula1/articles/cv62y1e6wly6o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/formula1/articles/cv62y1e6wly6o#8</guid>
+            <pubDate>Sun, 01 Nov 2026 22:57:02 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca5e/live/10960270-d645-11f1-be49-c7d51bdcf05a.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Antonelli - the boy 'born in a garage' who became world champion]]></title>
             <description><![CDATA[Kimi Antonelli was a natural driver at the age of three, according to his dad. Here's how he developed to become the F1 champion at the age of 20. ]]></description>
             <link>https://www.bbc.co.uk/sport/formula1/articles/c0rdvxdwwwwo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -223,12 +239,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c15/live/b16a1f00-94a6-11f1-afe9-fb1a837ec5d9.jpg"/>
         </item>
         <item>
+            <title><![CDATA['We've got big problems' - Hamilton says Ferrari need 'serious talks']]></title>
+            <description><![CDATA[Lewis Hamilton says Ferrari need "some serious talks behind closed doors" after fighting between their two drivers in Mexico.]]></description>
+            <link>https://www.bbc.co.uk/sport/formula1/articles/cmwy7dl879gzo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/formula1/articles/cmwy7dl879gzo#8</guid>
+            <pubDate>Sun, 01 Nov 2026 22:54:52 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/acfa/live/c64d1030-d646-11f1-93e1-3b657b665bcf.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Watch: Match of the Day]]></title>
             <description><![CDATA[Highlights of Sunday’s only Premier League game as Liverpool take on champions Arsenal.]]></description>
             <link>https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/iplayer/live/bbcone#8</guid>
             <pubDate>Sun, 01 Nov 2026 23:12:25 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0pkhl8y.jpg"/>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0pkhln5.jpg"/>
         </item>
         <item>
             <title><![CDATA[I'll tell my players to dive in future - Iraola]]></title>
@@ -245,22 +269,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c39wz2epven4o#8</guid>
             <pubDate>Sun, 01 Nov 2026 20:16:46 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fbd8/live/473d6620-d62b-11f1-b085-b9e65bc8bfff.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Boy, 14, hands himself in to police over Bradley Lowery video]]></title>
-            <description><![CDATA[A 14-year-old has handed himself into West Midlands Police after Coventry City said they were investigating a video appearing to show a fan taunting Sunderland supporters with a picture of Bradley Lowery.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/c6z7x52w0r0zo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6z7x52w0r0zo#8</guid>
-            <pubDate>Sun, 01 Nov 2026 20:15:52 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9407/live/2d7783d0-d624-11f1-8c22-ab38856653ce.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[How Dart revived career with help of Wimbledon champion]]></title>
-            <description><![CDATA[Britain's Harriet Dart knows people doubted whether she would ever win a WTA title, but says the belief of her coach Marion Bartoli helped achieve the best week of her career.]]></description>
-            <link>https://www.bbc.co.uk/sport/tennis/articles/cmrlyw2y0gxzo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/cmrlyw2y0gxzo#8</guid>
-            <pubDate>Sun, 01 Nov 2026 15:55:46 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc98/live/7e9cac50-d60a-11f1-a701-fddedf244c16.jpg"/>
         </item>
     </channel>
 </rss>

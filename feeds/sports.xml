@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/sport/football</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 01 Nov 2026 22:29:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Nov 2026 23:03:46 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -20,7 +20,7 @@
             <link>https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/iplayer/live/bbcone#0</guid>
             <pubDate>Sun, 01 Nov 2026 23:12:25 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0pkhl8y.jpg"/>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0pkhln5.jpg"/>
         </item>
         <item>
             <title><![CDATA[I'll tell my players to dive in future - Iraola]]></title>
@@ -87,6 +87,22 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/340f/live/54e51be0-d61e-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Man Utd eye Barcelona's Balde - Monday's gossip]]></title>
+            <description><![CDATA[Alejandro Balde could leave Barcelona, sparking interest from Manchester United, Liverpool shortlist want Murillo and Nico Schlotterbeck, Real Madrid eye Bart Verbruggen, plus more.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cqkgk0l3zpnyo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqkgk0l3zpnyo#0</guid>
+            <pubDate>Sun, 01 Nov 2026 23:00:21 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97eb/live/0cb45b70-d645-11f1-be49-c7d51bdcf05a.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Rice relishing title race 'anxiety' after win at Liverpool]]></title>
+            <description><![CDATA[Declan Rice joins BBC Sport's Kelly Cates, Danny Murphy and Micah Richards to analyse how Arsenal earned their first Premier League victory at Liverpool in 14 years.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/videos/cxly47pyy8j6o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cxly47pyy8j6o#1</guid>
+            <pubDate>Sun, 01 Nov 2026 22:50:05 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4707/live/d5373530-d632-11f1-b441-2b33b063138f.jpg"/>
+        </item>
+        <item>
             <title><![CDATA['Everyone saw it' - Iraola confused by Isak penalty decision]]></title>
             <description><![CDATA[Liverpool manager Andoni Iraola reacts to his side's defeat at home to league leaders Arsenal, saying he "doesn't understand" why Alexander Isak was not awarded a penalty.]]></description>
             <link>https://www.bbc.co.uk/sport/football/videos/cjdx3dpvevngo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -117,14 +133,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/c6wyrgydvx0lo#1</guid>
             <pubDate>Sun, 01 Nov 2026 17:10:45 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d1d/live/e42e7990-d61e-11f1-93e1-3b657b665bcf.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Clinical Man City edge past London City in WSL thriller]]></title>
-            <description><![CDATA[Manchester City earn a dramatic victory courtesy of goals from Khadija Shaw and Lauren Hemp against an excellent but wasteful London City Lionesses side.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/videos/cm4g1rgey8j7o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cm4g1rgey8j7o#1</guid>
-            <pubDate>Sun, 01 Nov 2026 17:54:43 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4858/live/af032900-d600-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
             <title><![CDATA[Are Manchester United really at risk of a relegation scrap?]]></title>
@@ -173,14 +181,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c9e8lp357je7o#3</guid>
             <pubDate>Sun, 01 Nov 2026 07:42:08 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b465/live/040177b0-d460-11f1-ab12-eb0c94f5b382.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Who am I? Plus today's other quizzes]]></title>
-            <description><![CDATA[Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cv8ezj09e9k6o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cv8ezj09e9k6o#3</guid>
-            <pubDate>Sun, 01 Nov 2026 06:54:38 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"/>
         </item>
         <item>
             <title><![CDATA[Chelsea beat 10-man Man Utd to pile more pressure on Carrick]]></title>
@@ -250,6 +250,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/00d7/live/efbcddc0-d578-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Who am I? Plus today's other quizzes]]></title>
+            <description><![CDATA[Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cv8ezj09e9k6o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cv8ezj09e9k6o#6</guid>
+            <pubDate>Sun, 01 Nov 2026 06:54:38 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"/>
+        </item>
+        <item>
             <title><![CDATA[Martinez's 'inexplicable' 83 seconds cost Man Utd and Carrick]]></title>
             <description><![CDATA[Manchester United defender Lisandro Martinez condemned for costly red card in 2-0 defeat to Chelsea at Stamford Bridge.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/ckvg64xp1e1eo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -293,7 +301,7 @@
             <title><![CDATA[Wednesday appoint former Stockport boss Challinor]]></title>
             <description><![CDATA[Sheffield Wednesday appoint former Stockport County boss Dave Challinor as their new manager.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/ckzd6er2025qo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ckzd6er2025qo#6</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ckzd6er2025qo#7</guid>
             <pubDate>Sun, 01 Nov 2026 11:15:42 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe4b/live/5cc02ee0-d5e2-11f1-8fc6-43c59756914a.jpg"/>
         </item>
@@ -330,12 +338,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba92/live/63ab8750-d57d-11f1-a701-fddedf244c16.png"/>
         </item>
         <item>
-            <title><![CDATA[Sunderland's paradox - San Siro trip amid relegation battle]]></title>
-            <description><![CDATA[Sunderland were last season's surprise package in the Premier League, but this time they are struggling after Coventry handed them their sixth defeat.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cmrry892zpkro?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmrry892zpkro#7</guid>
-            <pubDate>Sat, 31 Oct 2026 20:03:10 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf84/live/bcbd55c0-d579-11f1-93e1-3b657b665bcf.jpg"/>
+            <title><![CDATA[Clinical Man City edge past London City in WSL thriller]]></title>
+            <description><![CDATA[Manchester City earn a dramatic victory courtesy of goals from Khadija Shaw and Lauren Hemp against an excellent but wasteful London City Lionesses side.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/videos/cm4g1rgey8j7o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cm4g1rgey8j7o#8</guid>
+            <pubDate>Sun, 01 Nov 2026 17:54:43 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4858/live/af032900-d600-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
             <title><![CDATA[Russo rescues late point for Arsenal against Villa]]></title>
@@ -384,14 +392,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/c9203ymmn1m3o#8</guid>
             <pubDate>Sat, 31 Oct 2026 20:13:33 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf47/live/8558ab70-d565-11f1-a701-fddedf244c16.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[AC Milan score three first-half goals to seal derby victory over Inter]]></title>
-            <description><![CDATA[Christian Pulisic, Adrien Rabiot and Diego Moreira score in the first-half to help AC Milan to a 3-1 victory over city rivals Inter Milan in the first Milan derby of the season in Serie A.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/videos/cmqln15wdyxgo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cmqln15wdyxgo#8</guid>
-            <pubDate>Sat, 31 Oct 2026 21:58:09 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a139/live/5b584f00-d575-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
             <title><![CDATA[More goals for Lankshear, home woes for Hammers - Aaron McLean's EFL Takeaways]]></title>
