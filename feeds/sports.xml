@@ -9,19 +9,11 @@
             <link>https://www.bbc.co.uk/sport/football</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 01 Nov 2026 13:05:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Nov 2026 13:50:40 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
-        <item>
-            <title><![CDATA[Are Manchester United really at risk of a relegation scrap?]]></title>
-            <description><![CDATA[Manchester United's current tally of seven points from nine games would not even get them 30 points if it was continued for the full season.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/c8g47wl06vkqo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c8g47wl06vkqo#0</guid>
-            <pubDate>Sat, 31 Oct 2026 23:52:28 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c471/live/62195190-d55c-11f1-b937-61b94454a4cf.jpg"/>
-        </item>
         <item>
             <title><![CDATA[Anfield, intensity, rotation - how Iraola is improving Liverpool]]></title>
             <description><![CDATA[Liverpool fans are finding joy at Anfield again with a feel-good factor around the club before the visit of reigning champions Arsenal on Sunday.]]></description>
@@ -29,6 +21,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ckzd6217j7pgo#0</guid>
             <pubDate>Sun, 01 Nov 2026 07:38:15 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d5c/live/b3329da0-d45a-11f1-93d9-89af68edb68a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Are Manchester United really at risk of a relegation scrap?]]></title>
+            <description><![CDATA[Manchester United's current tally of seven points from nine games would not even get them 30 points if it was continued for the full season.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/c8g47wl06vkqo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c8g47wl06vkqo#0</guid>
+            <pubDate>Sat, 31 Oct 2026 23:52:28 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c471/live/62195190-d55c-11f1-b937-61b94454a4cf.jpg"/>
         </item>
         <item>
             <title><![CDATA[Are De Zerbi's Spurs finding elusive consistency?]]></title>
@@ -69,14 +69,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cv8ezj09e9k6o#0</guid>
             <pubDate>Sun, 01 Nov 2026 06:54:38 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"/>
-        </item>
-        <item>
-            <title><![CDATA[Wednesday appoint former Stockport boss Challinor]]></title>
-            <description><![CDATA[Sheffield Wednesday appoint former Stockport County boss Dave Challinor as their new manager.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/ckzd6er2025qo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ckzd6er2025qo#0</guid>
-            <pubDate>Sun, 01 Nov 2026 11:15:42 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe4b/live/5cc02ee0-d5e2-11f1-8fc6-43c59756914a.jpg"/>
         </item>
         <item>
             <title><![CDATA[Martinez's 'inexplicable' 83 seconds cost Man Utd and Carrick]]></title>
@@ -162,6 +154,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e1be/live/48da30d0-d568-11f1-910b-9bd7c745c627.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Wednesday appoint former Stockport boss Challinor]]></title>
+            <description><![CDATA[Sheffield Wednesday appoint former Stockport County boss Dave Challinor as their new manager.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/ckzd6er2025qo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ckzd6er2025qo#2</guid>
+            <pubDate>Sun, 01 Nov 2026 11:15:42 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe4b/live/5cc02ee0-d5e2-11f1-8fc6-43c59756914a.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Glasner fears he will be next Forest sacking if wins don't follow]]></title>
             <description><![CDATA[Nottingham Forest head coach Oliver Glasner warns he will be the fifth sacking in just over a year by the club, unless results improve soon.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cvn067174knjo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -189,7 +189,7 @@
             <title><![CDATA[Coventry, Ipswich, Hull - promoted trio enjoy positive starts]]></title>
             <description><![CDATA[The three teams have collected a respectable 31 points in total after nine games, and all currently sit above the relegation zone.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/ck5ynzv8404ro?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ck5ynzv8404ro#2</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ck5ynzv8404ro#3</guid>
             <pubDate>Sat, 31 Oct 2026 23:08:07 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba92/live/63ab8750-d57d-11f1-a701-fddedf244c16.png"/>
         </item>
@@ -298,20 +298,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6920/live/f487dd80-d52f-11f1-866a-b522399149a0.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Wales in fight to retain rising female stars]]></title>
-            <description><![CDATA[Wales face an "increasingly aggressive" battle to secure the international futures of talented youngsters tempted to switch to England.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/c893zndlp7nko?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c893zndlp7nko#7</guid>
-            <pubDate>Sun, 01 Nov 2026 05:00:11 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dcdc/live/2fa61a00-d1fa-11f1-8c9f-8d21fef6ffad.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Shearer discusses scoring record, MOTD & a brush with Cardiff]]></title>
             <description><![CDATA[Alan Shearer discusses his love of Newcastle, almost continuing his managerial career and swapping the pitch for the commentary box in The Football Interview.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cwkg5l822k3no?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cwkg5l822k3no#7</guid>
             <pubDate>Sat, 31 Oct 2026 06:23:58 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d003/live/d915ccd0-d2ee-11f1-8d86-83eebc838351.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Wales in fight to retain rising female stars]]></title>
+            <description><![CDATA[Wales face an "increasingly aggressive" battle to secure the international futures of talented youngsters tempted to switch to England.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/c893zndlp7nko?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c893zndlp7nko#7</guid>
+            <pubDate>Sun, 01 Nov 2026 05:00:11 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dcdc/live/2fa61a00-d1fa-11f1-8c9f-8d21fef6ffad.jpg"/>
         </item>
         <item>
             <title><![CDATA[Williams heart warning after career ended at 22]]></title>
@@ -571,10 +571,10 @@
         </item>
         <item>
             <title><![CDATA[Watch Saturday's Sportscene highlights on iPlayer]]></title>
-            <description><![CDATA[Highlights from Kilmarnock v St Johnstone and Motherwell v St Mirren.]]></description>
+            <description><![CDATA[With action from Kilmarnock v St Johnstone and Motherwell v St Mirren]]></description>
             <link>https://www.bbc.co.uk/iplayer/episodes/m002jryr/sportscene-premiership-highlights?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/iplayer/episodes/m002jryr/sportscene-premiership-highlights#17</guid>
-            <pubDate>Sat, 31 Oct 2026 20:51:42 GMT</pubDate>
+            <pubDate>Sun, 01 Nov 2026 13:00:00 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0pkn7fv.jpg"/>
         </item>
         <item>
