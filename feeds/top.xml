@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 31 Oct 2026 23:58:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Nov 2026 00:46:26 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -47,12 +47,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d3a/live/6230e120-d570-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
-            <title><![CDATA['It's been killing me!' Celebrity Traitors winners relieved the secret is out]]></title>
-            <description><![CDATA[The second series of the hit show reached its finale on Friday, attracting a whopping 11.2 million live viewers.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cm4g18l8l4wgo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm4g18l8l4wgo#1</guid>
-            <pubDate>Sat, 31 Oct 2026 16:49:18 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7499/live/ba968590-d4b2-11f1-88a4-835788f4f80e.jpg"/>
+            <title><![CDATA[Who are the real winners of Celebrity Traitors?]]></title>
+            <description><![CDATA[Certain stars have been tipped by industry experts as getting the biggest career boost after the show.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cmx2qg0nezrgo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmx2qg0nezrgo#1</guid>
+            <pubDate>Sun, 01 Nov 2026 00:06:01 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f2d7/live/d14e6dc0-d47b-11f1-93e1-3b657b665bcf.png"/>
         </item>
         <item>
             <title><![CDATA[Crypto firm Binance covers 90% of losses after $6.3bn hack]]></title>
@@ -63,20 +63,36 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e52/live/ccbb9490-d53e-11f1-93de-81de9e959fac.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Hamilton takes first pole for Ferrari at Mexico City Grand Prix]]></title>
+            <description><![CDATA[Lewis Hamilton takes his first pole position for Ferrari and his first for more than three years at the Mexico City Grand Prix.]]></description>
+            <link>https://www.bbc.co.uk/sport/formula1/articles/c6reyl8zp3jwo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/formula1/articles/c6reyl8zp3jwo#1</guid>
+            <pubDate>Sat, 31 Oct 2026 23:07:02 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/57ee/live/6d77c180-d579-11f1-aae4-a751b3f56d67.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[No more washing up: How Airbnb's new house rules have divided hosts and guests]]></title>
+            <description><![CDATA[Airbnb hosts must stop asking guests to wash-up or take out bins under rules coming into force in November. ]]></description>
+            <link>https://www.bbc.co.uk/news/articles/ckjwez8g5dyeo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckjwez8g5dyeo#2</guid>
+            <pubDate>Sun, 01 Nov 2026 00:17:05 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52bf/live/c3b77ec0-d3b5-11f1-a340-478c8f3b9e55.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[I've been stuck on a tiny Pacific island for years and can't get a transit visa to fly home]]></title>
+            <description><![CDATA[Ruchira Ranasingha, 50, has been stranded in the Cook Islands since 2023 and wants to return to Sri Lanka.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cmq5npz5l5geo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmq5npz5l5geo#2</guid>
+            <pubDate>Sat, 31 Oct 2026 23:06:13 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02cf/live/411e4740-d433-11f1-93e1-3b657b665bcf.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Why did this Korean content creator throw a divorce ceremony?]]></title>
             <description><![CDATA[Cho Seung-yeon marked the end of her marriage by having a divorce ceremony - however not everyone online was happy about it.]]></description>
             <link>https://www.bbc.co.uk/news/videos/c51kd2jyjr1eo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/c51kd2jyjr1eo#2</guid>
             <pubDate>Sat, 31 Oct 2026 22:01:39 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5b8/live/2b5b2bb0-d430-11f1-b441-2b33b063138f.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['The necktie is dead': How US midterm candidates are dressing for votes]]></title>
-            <description><![CDATA[From Alaska to Texas, candidates with an eye on Congress are using their personal style to stand out. ]]></description>
-            <link>https://www.bbc.co.uk/news/articles/ckq6nz4286r4o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckq6nz4286r4o#2</guid>
-            <pubDate>Sat, 31 Oct 2026 00:16:03 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f23a/live/e2d76eb0-d3a5-11f1-a701-fddedf244c16.png"/>
         </item>
         <item>
             <title><![CDATA[He questioned Thailand's monarchy dressed as Harry Potter. Now he's in jail for 34 years]]></title>
@@ -95,12 +111,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cce2/live/961bb030-d482-11f1-b441-2b33b063138f.png"/>
         </item>
         <item>
-            <title><![CDATA[The fight to save Canadian town threatened by Trump's tariffs]]></title>
-            <description><![CDATA[A century-old paper mill in Témiscaming, Quebec is indefinitely closed after the US imposed 50% tariffs on its products, putting hundreds out of work.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cmly016ep243o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmly016ep243o#2</guid>
-            <pubDate>Sat, 31 Oct 2026 02:39:25 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7be/live/dab6afd0-d223-11f1-93e1-3b657b665bcf.jpg"/>
+            <title><![CDATA[Thick fog to create hazardous driving conditions into next week]]></title>
+            <description><![CDATA[England and Wales are most likely to experience the foggy conditions on Sunday, before the threat shifts northwards into next week. ]]></description>
+            <link>https://www.bbc.co.uk/weather/articles/c3n04pl19zzqo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/weather/articles/c3n04pl19zzqo#3</guid>
+            <pubDate>Sun, 01 Nov 2026 00:33:04 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2451/live/fa7eb240-d516-11f1-a701-fddedf244c16.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Judge orders Trump administration to stop threatening US election officials ]]></title>
+            <description><![CDATA[The order comes after election officials received letters demanding they set aside the ballots of possible non-citizen voters.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c8qln1539y37o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c8qln1539y37o#3</guid>
+            <pubDate>Sun, 01 Nov 2026 00:27:33 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7152/live/9f9230c0-d564-11f1-b3d5-e70aafec92c6.jpg"/>
         </item>
         <item>
             <title><![CDATA[Europe can no longer rely on US to 'bankroll' its defence, Starmer says]]></title>
@@ -127,14 +151,6 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5071/live/dc9ee270-d531-11f1-866a-b522399149a0.jpg"/>
         </item>
         <item>
-            <title><![CDATA[US approves sale of 500 Patriot missiles to Ukraine]]></title>
-            <description><![CDATA[The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo#3</guid>
-            <pubDate>Sat, 31 Oct 2026 12:21:25 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea75/live/f93e2820-d4b7-11f1-a701-fddedf244c16.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Everton striker's relief family not home during burglary]]></title>
             <description><![CDATA[The French striker says he is relieved his family were not at home as he played against Newcastle United.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cwm26rnyrk23o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -149,14 +165,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm62yxxd992eo#3</guid>
             <pubDate>Sat, 31 Oct 2026 05:16:01 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05f5/live/d86df8b0-d4de-11f1-b441-2b33b063138f.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Spain train disaster clouds Sánchez chances of re-election]]></title>
-            <description><![CDATA[The Spanish PM is hit by a succession of crises just weeks before a snap general election.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cmeweppr990qo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmeweppr990qo#3</guid>
-            <pubDate>Sat, 31 Oct 2026 05:44:21 GMT</pubDate>
-            <media:thumbnail width="240" height="124" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a970/live/20e78ee0-d4ed-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
             <title><![CDATA['I live with a ghost': The people saving money by moving into Japan's haunted houses]]></title>
@@ -199,20 +207,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf6/live/d1e71250-9509-11ee-8df3-1d2983d8814f.png"/>
         </item>
         <item>
-            <title><![CDATA[Martinez's 'inexplicable' 83 seconds cost Man Utd and Carrick]]></title>
-            <description><![CDATA[Manchester United defender Lisandro Martinez condemned for costly red card in 2-0 defeat to Chelsea at Stamford Bridge.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/ckvg64xp1e1eo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ckvg64xp1e1eo#9</guid>
-            <pubDate>Sat, 31 Oct 2026 17:27:06 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a0b8/live/ed87fc60-d578-11f1-93e1-3b657b665bcf.jpg"/>
+            <title><![CDATA[Are Manchester United really at risk of a relegation scrap?]]></title>
+            <description><![CDATA[Manchester United's current tally of nine points from seven games would not even get them 30 points if it was continued for the full season.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/c8g47wl06vkqo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c8g47wl06vkqo#9</guid>
+            <pubDate>Sat, 31 Oct 2026 23:52:28 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c471/live/62195190-d55c-11f1-b937-61b94454a4cf.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Hamilton takes first pole for Ferrari at Mexico City Grand Prix]]></title>
-            <description><![CDATA[Lewis Hamilton takes his first pole position for Ferrari and his first for more than three years at the Mexico City Grand Prix.]]></description>
-            <link>https://www.bbc.co.uk/sport/formula1/articles/c6reyl8zp3jwo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/formula1/articles/c6reyl8zp3jwo#9</guid>
-            <pubDate>Sat, 31 Oct 2026 23:07:02 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/57ee/live/6d77c180-d579-11f1-aae4-a751b3f56d67.jpg"/>
+            <title><![CDATA[On 'tense' Antonelli's big weekend, this was Hamilton's day]]></title>
+            <description><![CDATA[As Kimi Antonelli bids to become F1's youngest world champion, veteran Lewis Hamilton rolled back the years to take his first Ferrari pole.]]></description>
+            <link>https://www.bbc.co.uk/sport/formula1/articles/cje36e0gze4ko?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/formula1/articles/cje36e0gze4ko#9</guid>
+            <pubDate>Sun, 01 Nov 2026 00:35:28 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce06/live/9f389c10-d585-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
             <title><![CDATA[Are De Zerbi's Spurs finding elusive consistency?]]></title>
