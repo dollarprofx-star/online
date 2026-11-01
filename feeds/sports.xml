@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/sport/football</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 01 Nov 2026 15:01:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Nov 2026 15:41:12 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -21,6 +21,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ckzd6217j7pgo#0</guid>
             <pubDate>Sun, 01 Nov 2026 07:38:15 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d5c/live/b3329da0-d45a-11f1-93d9-89af68edb68a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Spence 'very proud' to break WSL appearance record]]></title>
+            <description><![CDATA[Tottenham midfielder Drew Spence says it is a "very proud moment" to become the Women's Super League's all-time appearance record holder.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cmy4xwwqzvw1o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmy4xwwqzvw1o#0</guid>
+            <pubDate>Sun, 01 Nov 2026 15:18:43 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/21ef/live/b83d8390-d203-11f1-b3b6-c1e79e957e40.jpg"/>
         </item>
         <item>
             <title><![CDATA[Are Manchester United really at risk of a relegation scrap?]]></title>
@@ -37,14 +45,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6n04v897qe4o#0</guid>
             <pubDate>Sat, 31 Oct 2026 21:16:11 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8e1/live/13b64ef0-d579-11f1-b441-2b33b063138f.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Maresca's big test is to address mounting Man City issues]]></title>
-            <description><![CDATA[Enzo Maresca enjoyed a flawless start as Manchester City manager, winning his first seven Premier League games in charge, but the honeymoon period is now over.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cve8rkd8r302o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cve8rkd8r302o#0</guid>
-            <pubDate>Sat, 31 Oct 2026 19:05:41 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9843/live/a24ea490-d557-11f1-b937-61b94454a4cf.jpg"/>
         </item>
         <item>
             <title><![CDATA[Chelsea beat 10-man Man Utd to pile more pressure on Carrick]]></title>
@@ -114,6 +114,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/00d7/live/efbcddc0-d578-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Maresca's big test is to address mounting Man City issues]]></title>
+            <description><![CDATA[Enzo Maresca enjoyed a flawless start as Manchester City manager, winning his first seven Premier League games in charge, but the honeymoon period is now over.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cve8rkd8r302o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cve8rkd8r302o#2</guid>
+            <pubDate>Sat, 31 Oct 2026 19:05:41 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9843/live/a24ea490-d557-11f1-b937-61b94454a4cf.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Third choice? Inside Alexander-Arnold's struggles in Madrid]]></title>
             <description><![CDATA[Trent Alexander-Arnold is currently third-choice right-back at Real Madrid - where does his future lie?]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/c9e8lp357je7o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -165,7 +173,7 @@
             <title><![CDATA[Man Utd enquire about Toney - Sunday's gossip]]></title>
             <description><![CDATA[Manchester United enquire about Ivan Toney's availability, Barcelona are tracking Chelsea winger Estevao Willian, Jean-Philippe Mateta is set to leave Crystal Palace in January, plus more.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/crz98lwn3pvzo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/crz98lwn3pvzo#2</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/crz98lwn3pvzo#3</guid>
             <pubDate>Sat, 31 Oct 2026 22:14:36 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc19/live/848cd980-d571-11f1-858c-9b90cf3a2059.png"/>
         </item>
@@ -280,14 +288,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqj6jp63k87zo#7</guid>
             <pubDate>Sat, 31 Oct 2026 13:51:00 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6920/live/f487dd80-d52f-11f1-866a-b522399149a0.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Who am I? Guess WSL star No 10]]></title>
-            <description><![CDATA[Work out the identity of today's player in as few attempts as possible.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/c3vgyqrw90nxo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c3vgyqrw90nxo#7</guid>
-            <pubDate>Sun, 01 Nov 2026 06:56:19 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70d9/live/eb25ea50-9afd-11f1-b792-a710e56a11dc.jpg"/>
         </item>
         <item>
             <title><![CDATA[Tottenham mood 'totally different' - De Zerbi ]]></title>
@@ -538,6 +538,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0pkn7fv.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Spence 'very proud' to break WSL appearance record]]></title>
+            <description><![CDATA[Tottenham midfielder Drew Spence says it is a "very proud moment" to become the Women's Super League's all-time appearance record holder.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cmy4xwwqzvw1o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmy4xwwqzvw1o#18</guid>
+            <pubDate>Sun, 01 Nov 2026 15:18:43 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/21ef/live/b83d8390-d203-11f1-b3b6-c1e79e957e40.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Man Utd held to goalless draw at Everton]]></title>
             <description><![CDATA[Watch highlights as Manchester United make it 10 matches unbeaten in all competitions, but were held by Everton to a drab goalless draw at Goodison Park.]]></description>
             <link>https://www.bbc.co.uk/sport/football/videos/c5vgj1gx3r77o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -552,14 +560,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cq23d1ldgn1yo#18</guid>
             <pubDate>Fri, 30 Oct 2026 11:07:04 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/467e/live/8c69bbf0-d1ed-11f1-b360-61fb5d34dc08.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Who am I? Guess WSL star No 10]]></title>
-            <description><![CDATA[Work out the identity of today's player in as few attempts as possible.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/c3vgyqrw90nxo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c3vgyqrw90nxo#18</guid>
-            <pubDate>Sun, 01 Nov 2026 06:56:19 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70d9/live/eb25ea50-9afd-11f1-b792-a710e56a11dc.jpg"/>
         </item>
         <item>
             <title><![CDATA[The Unpromotables: Germany's league champions who can't go up]]></title>
