@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 01 Nov 2026 21:16:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Nov 2026 21:58:29 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -19,7 +19,7 @@
             <description><![CDATA[A rare humanitarian ceasefire allowed civilians to evacuate the Russian-occupied city of Oleshky.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c64g1y90p71eo#1</guid>
-            <pubDate>Sun, 01 Nov 2026 21:01:58 GMT</pubDate>
+            <pubDate>Sun, 01 Nov 2026 21:55:01 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8e6/live/7871d270-d627-11f1-a947-0507737f09b2.jpg"/>
         </item>
         <item>
@@ -51,7 +51,7 @@
             <description><![CDATA[King Charles III will deliver a speech to the Commonwealth Heads of Government Meeting on Tuesday as he concludes his nine-day Caribbean tour. ]]></description>
             <link>https://www.bbc.co.uk/news/articles/cq398y0zj9rpo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cq398y0zj9rpo#1</guid>
-            <pubDate>Sun, 01 Nov 2026 19:58:20 GMT</pubDate>
+            <pubDate>Sun, 01 Nov 2026 21:18:12 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/98d2/live/7c6766b0-d613-11f1-90fb-b3468681b3ba.jpg"/>
         </item>
         <item>
@@ -61,6 +61,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cj3vqy1g3eygo#1</guid>
             <pubDate>Sun, 01 Nov 2026 20:33:11 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0552/live/19da7760-d633-11f1-9ca7-b72124134595.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nine killed in 'horrific' Florida jet crash]]></title>
+            <description><![CDATA[Transport Secretary Sean Duffy describes the crash, which happened nine miles from President Trump's Mar-a-Lago resort, as a "horrific tragedy"]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm369yy7lw73o#1</guid>
+            <pubDate>Sun, 01 Nov 2026 21:47:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d55d/live/79dfd4d0-d63c-11f1-8675-51d7bbc7c8d5.jpg"/>
         </item>
         <item>
             <title><![CDATA[After a 28-year trek around the world, homebound Karl Bushby crosses the Humber Bridge]]></title>
@@ -77,14 +85,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cqgm0der7zkmo#1</guid>
             <pubDate>Sun, 01 Nov 2026 18:51:56 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c8f/live/e077e4c0-d61f-11f1-beec-49c9509fcdec.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Israeli strikes in Gaza kill eight including child, hospitals say]]></title>
-            <description><![CDATA[Five officers from the Hamas-run police have been killed in Khan Younis and three people, including a child, killed in Gaza City, officials say.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmqln14rrzxvo#1</guid>
-            <pubDate>Sun, 01 Nov 2026 17:06:32 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c922/live/4fe4c8d0-d5fa-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
             <title><![CDATA[Armed police start patrols in Sydney after Bondi Beach attack]]></title>
@@ -175,20 +175,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/11e1/live/f50d1300-d5f3-11f1-a6a8-6dc45e4fc351.png"/>
         </item>
         <item>
+            <title><![CDATA[Israeli strikes in Gaza kill eight including child, hospitals say]]></title>
+            <description><![CDATA[Five officers from the Hamas-run police have been killed in Khan Younis and three people, including a child, killed in Gaza City, officials say.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmqln14rrzxvo#3</guid>
+            <pubDate>Sun, 01 Nov 2026 17:06:32 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c922/live/4fe4c8d0-d5fa-11f1-a701-fddedf244c16.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[More than 300 arrests at Palestine Action support protest outside US embassy]]></title>
             <description><![CDATA[More than 4,000 people have been arrested for supporting the group since it was proscribed in July 2025.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c98rz23ed781o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c98rz23ed781o#3</guid>
             <pubDate>Sun, 01 Nov 2026 13:41:00 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c2da/live/12dda4f0-d5f7-11f1-a6a8-6dc45e4fc351.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Green Party at 'crossroads' after Zionism vote, says former co-leader]]></title>
-            <description><![CDATA[Adrian Ramsay suggested the party needs to focus on its "core values", including environmental issues.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c6x2wkp7e0q9o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6x2wkp7e0q9o#3</guid>
-            <pubDate>Sun, 01 Nov 2026 15:52:51 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/802c/live/e0b8cef0-c403-11f1-a64c-550be9e3c66b.png"/>
         </item>
         <item>
             <title><![CDATA[Cate McHugh wins The Voice UK after being mentored by Sir Tom Jones]]></title>
@@ -220,7 +220,7 @@
             <link>https://www.bbc.co.uk/sport/football/articles/cvp8grpjk4leo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cvp8grpjk4leo#8</guid>
             <pubDate>Sun, 01 Nov 2026 21:00:26 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c6f/live/4e8ffeb0-d630-11f1-81be-7db9d1d08850.jpg"/>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afa9/live/8fe2aac0-d63a-11f1-8c46-b5027fa7bde9.jpg"/>
         </item>
         <item>
             <title><![CDATA[From Fleetwood embarrassment to 'magical' Anfield win 14 years in making ]]></title>
@@ -247,7 +247,7 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f85/live/92559140-d613-11f1-90fb-b3468681b3ba.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Boy, 14, hands himself into police over Bradley Lowery video]]></title>
+            <title><![CDATA[Boy, 14, hands himself in to police over Bradley Lowery video]]></title>
             <description><![CDATA[A 14-year-old has handed himself into West Midlands Police after Coventry City said they were investigating a video appearing to show a fan taunting Sunderland supporters with a picture of Bradley Lowery.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/c6z7x52w0r0zo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6z7x52w0r0zo#8</guid>
