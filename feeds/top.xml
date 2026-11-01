@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 01 Nov 2026 06:41:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Nov 2026 07:38:59 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -19,7 +19,7 @@
             <description><![CDATA[The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqj34gnd3n30o#1</guid>
-            <pubDate>Sun, 01 Nov 2026 06:30:59 GMT</pubDate>
+            <pubDate>Sun, 01 Nov 2026 07:36:18 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d1d6/live/e39b2030-d58f-11f1-b151-73ae9f7607e8.jpg"/>
         </item>
         <item>
@@ -115,7 +115,7 @@
             <description><![CDATA[England and Wales are most likely to experience the foggy conditions on Sunday, before the threat shifts northwards into next week. ]]></description>
             <link>https://www.bbc.co.uk/weather/articles/c3n04pl19zzqo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/weather/articles/c3n04pl19zzqo#3</guid>
-            <pubDate>Sun, 01 Nov 2026 00:33:04 GMT</pubDate>
+            <pubDate>Sun, 01 Nov 2026 06:51:06 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2451/live/fa7eb240-d516-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
@@ -247,6 +247,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9843/live/a24ea490-d557-11f1-b937-61b94454a4cf.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Wales hit by Australia century in World Cup record defeat]]></title>
+            <description><![CDATA[Wales women concede 21 tries in Sydney as defending Rugby League World Cup champions Australia rewrite the international record books.]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-league/articles/cked34glxp0no?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/rugby-league/articles/cked34glxp0no#9</guid>
+            <pubDate>Sun, 01 Nov 2026 06:57:05 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cbef/live/0e215400-d5b8-11f1-a012-e5d60a7e6c41.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Chelsea beat 10-man Man Utd to pile more pressure on Carrick]]></title>
             <description><![CDATA[Lisandro Martinez is sent off for Manchester United as they suffer a 2-0 defeat against Chelsea at Stamford Bridge to pile more pressure on under-fire manager Michael Carrick.]]></description>
             <link>https://www.bbc.co.uk/sport/football/videos/ckn8w20nn9g7o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -263,7 +271,7 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3234/live/ef24d060-d560-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Coventry out of bottom three after win over struggling Sunderland]]></title>
+            <title><![CDATA[Coventry out of bottom three with win over struggling Sunderland]]></title>
             <description><![CDATA[Frank Lampard's Coventry City lift themselves out of the relegation zone after beating struggling Sunderland, who remain rooted to the bottom of the Premier League table.]]></description>
             <link>https://www.bbc.co.uk/sport/football/videos/cm93zv0zkjqlo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cm93zv0zkjqlo#10</guid>
