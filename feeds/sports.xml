@@ -9,11 +9,19 @@
             <link>https://www.bbc.co.uk/sport/football</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 01 Nov 2026 18:00:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Nov 2026 18:49:21 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Rice brings energy, Alisson costs hosts - Liverpool and Arsenal player ratings]]></title>
+            <description><![CDATA[How Liverpool and Arsenal's players rated in their Premier League match at Anfield, as the champions of the past two seasons went head to head.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cqj9kgyww478o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqj9kgyww478o#0</guid>
+            <pubDate>Sun, 01 Nov 2026 18:38:45 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/381b/live/0f9c8e70-d61d-11f1-905f-4bb31135b4e2.jpg"/>
+        </item>
         <item>
             <title><![CDATA[Anfield, intensity, rotation - how Iraola is improving Liverpool]]></title>
             <description><![CDATA[Liverpool fans are finding joy at Anfield again with a feel-good factor around the club before the visit of reigning champions Arsenal on Sunday.]]></description>
@@ -44,7 +52,7 @@
             <link>https://www.bbc.co.uk/sport/football/articles/cj93z2nk2694o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cj93z2nk2694o#0</guid>
             <pubDate>Sun, 01 Nov 2026 15:49:47 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e9d/live/7fcb7d70-d60c-11f1-bdc5-33a5057f63d4.jpg"/>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/340f/live/54e51be0-d61e-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
             <title><![CDATA[Are Manchester United really at risk of a relegation scrap?]]></title>
@@ -55,42 +63,26 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c471/live/62195190-d55c-11f1-b937-61b94454a4cf.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Retired Sheff Utd legend Sharp signs for Rushden]]></title>
-            <description><![CDATA[Former Sheffield United and Doncaster Rovers striker Billy Sharp comes out of retirement to join Northern Premier League side AFC Rushden & Diamonds as they prepare for their FA Cup match against Burton Albion.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/c820vylvxwxlo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c820vylvxwxlo#1</guid>
-            <pubDate>Sun, 01 Nov 2026 16:51:07 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/35f1/live/61412250-d612-11f1-90fb-b3468681b3ba.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Are De Zerbi's Spurs finding elusive consistency?]]></title>
-            <description><![CDATA[Are Spurs finally finding elusive consistency under Roberto de Zerbi after a third successive Premier League win, asks chief football writer Phil McNulty?]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/c6n04v897qe4o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6n04v897qe4o#1</guid>
-            <pubDate>Sat, 31 Oct 2026 21:16:11 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8e1/live/13b64ef0-d579-11f1-b441-2b33b063138f.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Third choice? Inside Alexander-Arnold's struggles in Madrid]]></title>
-            <description><![CDATA[Trent Alexander-Arnold is currently third-choice right-back at Real Madrid - where does his future lie?]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/c9e8lp357je7o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c9e8lp357je7o#1</guid>
-            <pubDate>Sun, 01 Nov 2026 07:42:08 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b465/live/040177b0-d460-11f1-ab12-eb0c94f5b382.jpg"/>
+            <title><![CDATA[Bellingham & Mbappe score as Real Madrid earn statement win]]></title>
+            <description><![CDATA[Kylian Mbappe, Jude Bellingham and Yan Diomande score as Real Madrid cruise to a 3-0 win against Racing Santander, moving only three points behind Barcelona at the top of La Liga.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/videos/cv0ldye7k4g3o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cv0ldye7k4g3o#1</guid>
+            <pubDate>Sun, 01 Nov 2026 18:37:48 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9010/live/2011c5a0-d61c-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
             <title><![CDATA[Chelsea put six past Charlton to top WSL]]></title>
             <description><![CDATA[Ruthless Chelsea put six goals past Charlton - who are yet to earn a point in the WSL this season - to return to the top of the table with 27 goals in just eight games.]]></description>
             <link>https://www.bbc.co.uk/sport/football/videos/c6wyrgydvx0lo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/c6wyrgydvx0lo#2</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/c6wyrgydvx0lo#1</guid>
             <pubDate>Sun, 01 Nov 2026 17:10:45 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f0d0/live/8ca24210-d614-11f1-b441-2b33b063138f.jpg"/>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d1d/live/e42e7990-d61e-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
             <title><![CDATA[Clinical Man City edge past London City in WSL thriller]]></title>
-            <description><![CDATA[Manchester City earn a dramatic victory courtesy of goals from Bunny Shaw and Lauren Hemp against an excellent but wastful London City Lionesses side.]]></description>
+            <description><![CDATA[Manchester City earn a dramatic victory courtesy of goals from Khadija Shaw and Lauren Hemp against an excellent but wasteful London City Lionesses side.]]></description>
             <link>https://www.bbc.co.uk/sport/football/videos/cm4g1rgey8j7o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cm4g1rgey8j7o#2</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cm4g1rgey8j7o#1</guid>
             <pubDate>Sun, 01 Nov 2026 17:54:43 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4858/live/af032900-d600-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
@@ -98,17 +90,41 @@
             <title><![CDATA[Russo rescues late point for Arsenal against Villa]]></title>
             <description><![CDATA[Chastity Grant's first-half strike for Aston Villa is cancelled out by a late header from Alessia Russo, as Arsenal record another draw at home in a frustrating afternoon.]]></description>
             <link>https://www.bbc.co.uk/sport/football/videos/c678pe84l97go?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/c678pe84l97go#2</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/c678pe84l97go#1</guid>
             <pubDate>Sun, 01 Nov 2026 17:54:40 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e39/live/9912a9f0-d5ff-11f1-a701-fddedf244c16.jpg"/>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0da7/live/982d8900-d61e-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
             <title><![CDATA[Has Martinez become a liability for Man Utd?]]></title>
             <description><![CDATA[Match of the Day pundits Danny Murphy and Stephan Warnock analyse Lisandro Martinez's performance in Manchester United's 2-0 defeat to Chelsea, where the Argentinian defender was sent off.  ]]></description>
             <link>https://www.bbc.co.uk/sport/football/videos/c9vgrjej28dvo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/c9vgrjej28dvo#2</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/c9vgrjej28dvo#1</guid>
             <pubDate>Sat, 31 Oct 2026 23:59:22 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/541c/live/8561b7e0-d580-11f1-a701-fddedf244c16.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Retired Sheff Utd legend Sharp signs for Rushden]]></title>
+            <description><![CDATA[Former Sheffield United and Doncaster Rovers striker Billy Sharp comes out of retirement to join Northern Premier League side AFC Rushden & Diamonds as they prepare for their FA Cup match against Burton Albion.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/c820vylvxwxlo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c820vylvxwxlo#2</guid>
+            <pubDate>Sun, 01 Nov 2026 16:51:07 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/35f1/live/61412250-d612-11f1-90fb-b3468681b3ba.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Are De Zerbi's Spurs finding elusive consistency?]]></title>
+            <description><![CDATA[Are Spurs finally finding elusive consistency under Roberto de Zerbi after a third successive Premier League win, asks chief football writer Phil McNulty?]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/c6n04v897qe4o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6n04v897qe4o#2</guid>
+            <pubDate>Sat, 31 Oct 2026 21:16:11 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8e1/live/13b64ef0-d579-11f1-b441-2b33b063138f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Third choice? Inside Alexander-Arnold's struggles in Madrid]]></title>
+            <description><![CDATA[Trent Alexander-Arnold is currently third-choice right-back at Real Madrid - where does his future lie?]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/c9e8lp357je7o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c9e8lp357je7o#2</guid>
+            <pubDate>Sun, 01 Nov 2026 07:42:08 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b465/live/040177b0-d460-11f1-ab12-eb0c94f5b382.jpg"/>
         </item>
         <item>
             <title><![CDATA[Who am I? Plus today's other quizzes]]></title>
@@ -149,14 +165,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6pqg3dw9w55o#3</guid>
             <pubDate>Sun, 01 Nov 2026 10:41:28 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e1be/live/48da30d0-d568-11f1-910b-9bd7c745c627.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Verbruggen spreads belief as impressive Brighton beat Man City]]></title>
-            <description><![CDATA[Goalkeeper Bart Verbruggen was the man of the moment on Saturday afternoon as he produced an impressive individual display to help Brighton beat Manchester City ]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/c6d7qwnz1jnjo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6d7qwnz1jnjo#3</guid>
-            <pubDate>Sat, 31 Oct 2026 20:36:26 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ef9/live/3b22ede0-d579-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
             <title><![CDATA[Chelsea beat 10-man Man Utd to pile more pressure on Carrick]]></title>
@@ -234,6 +242,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6cac/live/3039d500-d55c-11f1-b937-61b94454a4cf.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Verbruggen spreads belief as impressive Brighton beat Man City]]></title>
+            <description><![CDATA[Goalkeeper Bart Verbruggen was the man of the moment on Saturday afternoon as he produced an impressive individual display to help Brighton beat Manchester City ]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/c6d7qwnz1jnjo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6d7qwnz1jnjo#6</guid>
+            <pubDate>Sat, 31 Oct 2026 20:36:26 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ef9/live/3b22ede0-d579-11f1-a701-fddedf244c16.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Wednesday appoint former Stockport boss Challinor]]></title>
             <description><![CDATA[Sheffield Wednesday appoint former Stockport County boss Dave Challinor as their new manager.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/ckzd6er2025qo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -250,20 +266,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d88/live/9c858070-d579-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Coventry, Ipswich, Hull - promoted trio enjoy positive starts]]></title>
-            <description><![CDATA[The three teams have collected a respectable 31 points in total after nine games, and all currently sit above the relegation zone.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/ck5ynzv8404ro?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ck5ynzv8404ro#6</guid>
-            <pubDate>Sat, 31 Oct 2026 23:08:07 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba92/live/63ab8750-d57d-11f1-a701-fddedf244c16.png"/>
-        </item>
-        <item>
             <title><![CDATA['Best thing is keep your mouth shut' - Mourinho on Mbappe-Mao row]]></title>
             <description><![CDATA[Real Madrid head coach Jose Mourinho says the "best thing is to keep your mouth shut" but backs Kylian Mbappe following reaction to his Mao Zedong remark.   ]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/ck9dz2yned67o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ck9dz2yned67o#6</guid>
             <pubDate>Sat, 31 Oct 2026 17:40:41 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c30/live/8cd57960-d54b-11f1-bcb7-8f812b44c2e5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Coventry, Ipswich, Hull - promoted trio enjoy positive starts]]></title>
+            <description><![CDATA[The three teams have collected a respectable 31 points in total after nine games, and all currently sit above the relegation zone.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/ck5ynzv8404ro?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ck5ynzv8404ro#7</guid>
+            <pubDate>Sat, 31 Oct 2026 23:08:07 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba92/live/63ab8750-d57d-11f1-a701-fddedf244c16.png"/>
         </item>
         <item>
             <title><![CDATA[Sunderland's paradox - San Siro trip amid relegation battle]]></title>
@@ -352,14 +368,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/c6r7yx55n3gjo#8</guid>
             <pubDate>Sat, 31 Oct 2026 20:13:28 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15a2/live/85e90f20-d566-11f1-a701-fddedf244c16.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Le Bris shrugs off questions on Sunderland future]]></title>
-            <description><![CDATA[Sunderland manager Regis Le Bris says he is more focused on "finding solutions" than his job security after losing 3-1 to Coventry in the Premier League.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/videos/cm9dz2yy1225o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cm9dz2yy1225o#8</guid>
-            <pubDate>Sat, 31 Oct 2026 18:08:39 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f759/live/ae67aa60-d552-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
             <title><![CDATA[Kane beat Mbappe to Ballon d'Or by just 28 points]]></title>
@@ -506,6 +514,14 @@
             <media:thumbnail url="https://ichef.bbci.co.uk/images/ic/480xn/p0pcy5zl.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Giant curiosity Hibs finally liberated from the sucker punch ]]></title>
+            <description><![CDATA[Hibernian, for once, avoid late heartbreak to set up League Cup final with Rangers, writes Tom English.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cxr5yjpnd31eo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cxr5yjpnd31eo#17</guid>
+            <pubDate>Sun, 01 Nov 2026 18:45:49 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70d1/live/12fd5df0-d623-11f1-8b43-9d133992838c.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Are Celtic club in regression amid run of six defeats in 10?]]></title>
             <description><![CDATA[Chris Sutton and Ian McCall weigh in on Celtic after a second league defeat of the season, but manager Martin O'Neill is defiant.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cmvg7d1xl8epo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -543,7 +559,7 @@
             <link>https://www.bbc.co.uk/sport/football/articles/cj93z2nk2694o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cj93z2nk2694o#18</guid>
             <pubDate>Sun, 01 Nov 2026 15:49:47 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e9d/live/7fcb7d70-d60c-11f1-bdc5-33a5057f63d4.jpg"/>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/340f/live/54e51be0-d61e-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
             <title><![CDATA[Spence 'very proud' to break WSL appearance record]]></title>
