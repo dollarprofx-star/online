@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/sport/football</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 01 Nov 2026 16:59:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Nov 2026 17:29:43 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -114,6 +114,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/00d7/live/efbcddc0-d578-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Retired Sheff Utd legend Sharp signs for Rushden]]></title>
+            <description><![CDATA[Former Sheffield United and Doncaster Rovers striker Billy Sharp comes out of retirement to join Northern Premier League side AFC Rushden & Diamonds as they prepare for their FA Cup match against Burton Albion.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/c820vylvxwxlo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c820vylvxwxlo#2</guid>
+            <pubDate>Sun, 01 Nov 2026 16:51:07 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/35f1/live/61412250-d612-11f1-90fb-b3468681b3ba.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Are De Zerbi's Spurs finding elusive consistency?]]></title>
             <description><![CDATA[Are Spurs finally finding elusive consistency under Roberto de Zerbi after a third successive Premier League win, asks chief football writer Phil McNulty?]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/c6n04v897qe4o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -178,20 +186,20 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ef9/live/3b22ede0-d579-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Wednesday appoint former Stockport boss Challinor]]></title>
-            <description><![CDATA[Sheffield Wednesday appoint former Stockport County boss Dave Challinor as their new manager.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/ckzd6er2025qo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ckzd6er2025qo#3</guid>
-            <pubDate>Sun, 01 Nov 2026 11:15:42 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe4b/live/5cc02ee0-d5e2-11f1-8fc6-43c59756914a.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Glasner fears he will be next Forest sacking if wins don't follow]]></title>
             <description><![CDATA[Nottingham Forest head coach Oliver Glasner warns he will be the fifth sacking in just over a year by the club, unless results improve soon.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cvn067174knjo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cvn067174knjo#3</guid>
             <pubDate>Sat, 31 Oct 2026 20:26:15 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6cac/live/3039d500-d55c-11f1-b937-61b94454a4cf.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Chelsea put six past Charlton to top WSL table]]></title>
+            <description><![CDATA[Ruthless Chelsea put six goals past Charlton - who are yet to earn a point in the WSL this season - to return to the top of the table with 27 goals in just eight games.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/videos/c6wyrgydvx0lo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/c6wyrgydvx0lo#4</guid>
+            <pubDate>Sun, 01 Nov 2026 17:10:45 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f0d0/live/8ca24210-d614-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
             <title><![CDATA[Has Martinez become a liability for Man Utd?]]></title>
@@ -218,12 +226,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f367/live/6d027830-d57e-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
-            <title><![CDATA[How 'brave & balanced' Brighton beat Man City]]></title>
-            <description><![CDATA[Match of the Day pundits Danny Murphy and Stephan Warnock analyse Brighton's impressive 1-0 victory over Manchester City, with Warnock praising the balance of the Seagulls squad.   ]]></description>
-            <link>https://www.bbc.co.uk/sport/football/videos/cmx23wyk769eo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cmx23wyk769eo#4</guid>
-            <pubDate>Sat, 31 Oct 2026 23:59:24 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7688/live/aebb6ee0-d582-11f1-a701-fddedf244c16.jpg"/>
+            <title><![CDATA[Wednesday appoint former Stockport boss Challinor]]></title>
+            <description><![CDATA[Sheffield Wednesday appoint former Stockport County boss Dave Challinor as their new manager.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/ckzd6er2025qo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ckzd6er2025qo#6</guid>
+            <pubDate>Sun, 01 Nov 2026 11:15:42 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe4b/live/5cc02ee0-d5e2-11f1-8fc6-43c59756914a.jpg"/>
         </item>
         <item>
             <title><![CDATA[Returning Estevao brings X-factor to strikerless Chelsea]]></title>
@@ -253,7 +261,7 @@
             <title><![CDATA[Sunderland's paradox - San Siro trip amid relegation battle]]></title>
             <description><![CDATA[Sunderland were last season's surprise package in the Premier League, but this time they are struggling after Coventry handed them their sixth defeat.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cmrry892zpkro?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmrry892zpkro#6</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmrry892zpkro#7</guid>
             <pubDate>Sat, 31 Oct 2026 20:03:10 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf84/live/bcbd55c0-d579-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
@@ -266,20 +274,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5df/live/6baa95e0-d569-11f1-a701-fddedf244c16.png"/>
         </item>
         <item>
-            <title><![CDATA['Always under pressure' - patience for Nuno wanes at West Ham]]></title>
-            <description><![CDATA[West Ham United head coach Nuno Espirito Santo says he is under pressure every day as West Brom win intensifies criticism of him.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cqkgj70zr6e0o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqkgj70zr6e0o#7</guid>
-            <pubDate>Sat, 31 Oct 2026 19:23:02 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a471/live/42074930-d55b-11f1-b937-61b94454a4cf.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Fishlock out to keep career alive in NWSL play-offs]]></title>
             <description><![CDATA[On Sunday, 1 November, Jess Fishlock takes to the pitch for Seattle Reign against Orlando Pride, not knowing if it will be her final match.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cmewe7ee1djzo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmewe7ee1djzo#7</guid>
             <pubDate>Sun, 01 Nov 2026 05:15:00 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a352/live/0473ba50-d488-11f1-80bc-6d398902272f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How 'brave & balanced' Brighton beat Man City]]></title>
+            <description><![CDATA[Match of the Day pundits Danny Murphy and Stephan Warnock analyse Brighton's impressive 1-0 victory over Manchester City, with Warnock praising the balance of the Seagulls squad.   ]]></description>
+            <link>https://www.bbc.co.uk/sport/football/videos/cmx23wyk769eo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cmx23wyk769eo#8</guid>
+            <pubDate>Sat, 31 Oct 2026 23:59:24 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7688/live/aebb6ee0-d582-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
             <title><![CDATA[Tottenham mood 'totally different' - De Zerbi ]]></title>
@@ -344,14 +352,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/ckeq3v1wgxy4o#8</guid>
             <pubDate>Thu, 29 Oct 2026 22:40:17 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2032/live/17c3a580-d3e7-11f1-a701-fddedf244c16.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Carrick says there are 'no issues' with captain Fernandes]]></title>
-            <description><![CDATA[Manchester United manager Michael Carrick says there are "no issues" with captain Bruno Fernandes after he was dropped from the team against Bournemouth.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/videos/cqj34pjxp7xdo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cqj34pjxp7xdo#8</guid>
-            <pubDate>Fri, 30 Oct 2026 09:58:41 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4906/live/d18883a0-d446-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
             <title><![CDATA[Kane beat Mbappe to Ballon d'Or by just 28 points]]></title>
