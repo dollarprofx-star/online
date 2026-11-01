@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/sport/football</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 01 Nov 2026 07:39:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Nov 2026 08:25:50 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -90,6 +90,14 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c471/live/62195190-d55c-11f1-b937-61b94454a4cf.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Anfield, intensity, rotation - how Iraola is improving Liverpool]]></title>
+            <description><![CDATA[Liverpool fans are finding joy at Anfield again with a feel-good factor around the club before the visit of reigning champions Arsenal on Sunday.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/ckzd6217j7pgo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ckzd6217j7pgo#1</guid>
+            <pubDate>Sun, 01 Nov 2026 07:38:15 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d5c/live/b3329da0-d45a-11f1-93d9-89af68edb68a.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Are De Zerbi's Spurs finding elusive consistency?]]></title>
             <description><![CDATA[Are Spurs finally finding elusive consistency under Roberto de Zerbi after a third successive Premier League win, asks chief football writer Phil McNulty?]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/c6n04v897qe4o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -112,6 +120,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cve8rkd8r302o#1</guid>
             <pubDate>Sat, 31 Oct 2026 19:05:41 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9843/live/a24ea490-d557-11f1-b937-61b94454a4cf.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Third-choice? Inside Alexander-Arnold's struggles in Madrid]]></title>
+            <description><![CDATA[Trent Alexander-Arnold is currently third-choice right-back at Real Madrid - where does his future lie?]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/c9e8lp357je7o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c9e8lp357je7o#1</guid>
+            <pubDate>Sun, 01 Nov 2026 07:42:08 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b465/live/040177b0-d460-11f1-ab12-eb0c94f5b382.jpg"/>
         </item>
         <item>
             <title><![CDATA[Who am I? Plus today's other quizzes]]></title>
@@ -149,7 +165,7 @@
             <title><![CDATA[Returning Estevao brings X-factor to strikerless Chelsea]]></title>
             <description><![CDATA[Morgan Rogers swings the match in Chelsea's favour as Estevao Willian dazzles, making a mystery of his limited action under Xabi Alonso this season.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cwnv0p143qzyo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cwnv0p143qzyo#1</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cwnv0p143qzyo#2</guid>
             <pubDate>Sat, 31 Oct 2026 16:34:42 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d88/live/9c858070-d579-11f1-a701-fddedf244c16.jpg"/>
         </item>
@@ -202,14 +218,6 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a471/live/42074930-d55b-11f1-b937-61b94454a4cf.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Carragher apologises to Villa for 'wrong' language]]></title>
-            <description><![CDATA[Jamie Carragher apologises for "clumsy and wrong" language when linking manager Unai Emery with becoming Manchester United head coach, after Aston Villa threatened to sue him.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cqj6jp63k87zo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqj6jp63k87zo#3</guid>
-            <pubDate>Sat, 31 Oct 2026 13:51:00 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6920/live/f487dd80-d52f-11f1-866a-b522399149a0.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Has Martinez become a liability for Man Utd?]]></title>
             <description><![CDATA[Match of the Day pundits Danny Murphy and Stephan Warnock analyse Lisandro Martinez's performance in Manchester United's 2-0 defeat to Chelsea, where the Argentinian defender was sent off.  ]]></description>
             <link>https://www.bbc.co.uk/sport/football/videos/c9vgrjej28dvo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -256,6 +264,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cv369yp2451lo#6</guid>
             <pubDate>Sat, 31 Oct 2026 20:24:50 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5df/live/6baa95e0-d569-11f1-a701-fddedf244c16.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Carragher apologises to Villa for 'wrong' language]]></title>
+            <description><![CDATA[Jamie Carragher apologises for "clumsy and wrong" language when linking manager Unai Emery with becoming Manchester United head coach, after Aston Villa threatened to sue him.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cqj6jp63k87zo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqj6jp63k87zo#6</guid>
+            <pubDate>Sat, 31 Oct 2026 13:51:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6920/live/f487dd80-d52f-11f1-866a-b522399149a0.jpg"/>
         </item>
         <item>
             <title><![CDATA[Shearer discusses scoring record, MOTD & a brush with Cardiff]]></title>
