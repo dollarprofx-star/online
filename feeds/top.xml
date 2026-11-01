@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 01 Nov 2026 21:58:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Nov 2026 22:29:28 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -64,11 +64,11 @@
         </item>
         <item>
             <title><![CDATA[Nine killed in 'horrific' Florida jet crash]]></title>
-            <description><![CDATA[Transport Secretary Sean Duffy describes the crash, which happened nine miles from President Trump's Mar-a-Lago resort, as a "horrific tragedy"]]></description>
+            <description><![CDATA[Transport Secretary Sean Duffy described the crash, which happened nine miles from President Trump's Mar-a-Lago resort, as a "horrific tragedy".]]></description>
             <link>https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm369yy7lw73o#1</guid>
-            <pubDate>Sun, 01 Nov 2026 21:47:00 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d55d/live/79dfd4d0-d63c-11f1-8675-51d7bbc7c8d5.jpg"/>
+            <pubDate>Sun, 01 Nov 2026 22:19:19 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9fb5/live/43875670-d640-11f1-be6d-936c6c4b19c2.jpg"/>
         </item>
         <item>
             <title><![CDATA[After a 28-year trek around the world, homebound Karl Bushby crosses the Humber Bridge]]></title>
@@ -215,6 +215,22 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0l7jnbt.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Antonelli - the boy 'born in a garage' who became world champion]]></title>
+            <description><![CDATA[Kimi Antonelli was a natural driver at the age of three, according to his dad. Here's how he developed to become the F1 champion at the age of 20. ]]></description>
+            <link>https://www.bbc.co.uk/sport/formula1/articles/c0rdvxdwwwwo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/formula1/articles/c0rdvxdwwwwo#8</guid>
+            <pubDate>Sun, 01 Nov 2026 22:25:01 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c15/live/b16a1f00-94a6-11f1-afe9-fb1a837ec5d9.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Match of the Day]]></title>
+            <description><![CDATA[Highlights of Sunday’s only Premier League game as Liverpool take on champions Arsenal.]]></description>
+            <link>https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/iplayer/live/bbcone#8</guid>
+            <pubDate>Sun, 01 Nov 2026 23:12:25 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0pkhl8y.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[I'll tell my players to dive in future - Iraola]]></title>
             <description><![CDATA[Andoni Iraola says that he will tell his players to go down in future after Liverpool were denied a penalty in Sunday's defeat by Arsenal.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cvp8grpjk4leo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -229,22 +245,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c39wz2epven4o#8</guid>
             <pubDate>Sun, 01 Nov 2026 20:16:46 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fbd8/live/473d6620-d62b-11f1-b085-b9e65bc8bfff.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Arsenal move clear at the top with a rare win at Liverpool]]></title>
-            <description><![CDATA[Arsenal win at Anfield for the first time since 2012 to earn a three-point lead at the top of the Premier League table following an end-to-end match that leaves Liverpool frustrated to have taken nothing.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/videos/cmly09yv9xl6o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cmly09yv9xl6o#8</guid>
-            <pubDate>Sun, 01 Nov 2026 20:00:18 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/035d/live/adb0c650-d62a-11f1-a701-fddedf244c16.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Are Celtic club in regression amid run of six defeats in 10?]]></title>
-            <description><![CDATA[Chris Sutton and Ian McCall weigh in on Celtic after a second league defeat of the season, but manager Martin O'Neill is defiant.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cmvg7d1xl8epo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmvg7d1xl8epo#8</guid>
-            <pubDate>Sun, 01 Nov 2026 17:34:12 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f85/live/92559140-d613-11f1-90fb-b3468681b3ba.jpg"/>
         </item>
         <item>
             <title><![CDATA[Boy, 14, hands himself in to police over Bradley Lowery video]]></title>
