@@ -9,18 +9,18 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 01 Nov 2026 20:01:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Nov 2026 20:42:35 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
-            <title><![CDATA[Shops looted as German cost-of-living protests turn violent]]></title>
-            <description><![CDATA[The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqj34gnd3n30o#1</guid>
-            <pubDate>Sun, 01 Nov 2026 11:57:48 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/11b7/live/aefac8c0-d5f9-11f1-b441-2b33b063138f.jpg"/>
+            <title><![CDATA[Russian strikes cut power to thousands in Ukraine as Kherson ceasefire to end]]></title>
+            <description><![CDATA[A rare humanitarian ceasefire has allowed civilians to evacuate the Russian-occupied city of Oleshky.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c64g1y90p71eo#1</guid>
+            <pubDate>Sun, 01 Nov 2026 19:48:17 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8e6/live/7871d270-d627-11f1-a947-0507737f09b2.jpg"/>
         </item>
         <item>
             <title><![CDATA[Five teenagers stabbed at Halloween party]]></title>
@@ -56,11 +56,11 @@
         </item>
         <item>
             <title><![CDATA[Tributes to 'inspirational' Olympian Ciara Mageean after death at 34]]></title>
-            <description><![CDATA[Sporting, political and media figures pay tribute to former European champion and Olympian Ciara Mageean following her death at 34.]]></description>
+            <description><![CDATA[The former European 1500m champion had bowel cancer and died just three weeks after marrying her partner.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cj3vqy1g3eygo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cj3vqy1g3eygo#1</guid>
-            <pubDate>Sun, 01 Nov 2026 18:00:14 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2295/live/8c37c370-d5f3-11f1-a6a8-6dc45e4fc351.jpg"/>
+            <pubDate>Sun, 01 Nov 2026 20:33:11 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0552/live/19da7760-d633-11f1-9ca7-b72124134595.jpg"/>
         </item>
         <item>
             <title><![CDATA[After a 28-year trek around the world, homebound Karl Bushby crosses the Humber Bridge]]></title>
@@ -71,6 +71,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eda7/live/fe7b2e30-d61c-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Peaceful protests in Germany spiral into violence and looting]]></title>
+            <description><![CDATA[Thousands joined largely orderly demonstrations earlier in the day, before violence erupted in Frankfurt, Berlin, Cologne and Hamburg.]]></description>
+            <link>https://www.bbc.co.uk/news/videos/cqgm0der7zkmo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cqgm0der7zkmo#1</guid>
+            <pubDate>Sun, 01 Nov 2026 18:51:56 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c8f/live/e077e4c0-d61f-11f1-beec-49c9509fcdec.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Israeli strikes in Gaza kill eight including child, hospitals say]]></title>
             <description><![CDATA[Five officers from the Hamas-run police have been killed in Khan Younis and three people, including a child, killed in Gaza City, officials say.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -79,12 +87,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c922/live/4fe4c8d0-d5fa-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
-            <title><![CDATA[University of Cambridge scientist among those who died in Spanish train crash]]></title>
-            <description><![CDATA[Marta Shahbazi was an "inspiring, talented and passionate scientist", says the laboratory where she worked.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cq5ynzvkn1d8o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cq5ynzvkn1d8o#1</guid>
-            <pubDate>Sun, 01 Nov 2026 17:05:18 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea05/live/c6f18070-d5ec-11f1-bfdd-73f39e6db31d.jpg"/>
+            <title><![CDATA[Armed police start patrols in Sydney after Bondi Beach attack]]></title>
+            <description><![CDATA[The new police unit is a security measure in response to last year's deadly shooting attack at a Hanukkah festival.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c9kgj7k7ry0ro?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c9kgj7k7ry0ro#1</guid>
+            <pubDate>Sun, 01 Nov 2026 17:56:47 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce75/live/a6edaf70-d618-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
             <title><![CDATA[Reeves says UK's future should be inside the EU]]></title>
@@ -143,6 +151,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be5b/live/57cc5ff0-d5b3-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
+            <title><![CDATA[University of Cambridge scientist among those who died in Spanish train crash]]></title>
+            <description><![CDATA[Marta Shahbazi was an "inspiring, talented and passionate scientist", says the laboratory where she worked.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cq5ynzvkn1d8o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cq5ynzvkn1d8o#3</guid>
+            <pubDate>Sun, 01 Nov 2026 17:05:18 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea05/live/c6f18070-d5ec-11f1-bfdd-73f39e6db31d.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Healey risks breaking minimum wage promise for younger workers]]></title>
             <description><![CDATA[The Chancellor has suggested that younger workers might not receive the same minimum wage as others before the next election.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cv369266644lo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -183,14 +199,6 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfd0/live/28b38530-d5fa-11f1-b437-279121eb1cd9.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Northern Lights dance across UK sky on Halloween night]]></title>
-            <description><![CDATA[Stargazers across the UK were treated to the vivid colours of the aurora borealis on Saturday night.]]></description>
-            <link>https://www.bbc.co.uk/weather/articles/c3pwge119lnvo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/weather/articles/c3pwge119lnvo#3</guid>
-            <pubDate>Sun, 01 Nov 2026 10:16:27 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69f4/live/7886c200-d5cf-11f1-82ae-81055b9ae1cd.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Download now]]></title>
             <description><![CDATA[Top stories, breaking news, live reporting, and follow news topics that match your interests]]></description>
             <link>https://www.bbc.co.uk/news/10628994?at_medium=RSS&amp;at_campaign=rss</link>
@@ -207,12 +215,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0l7jnbt.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Rice rewarded, Wirtz must do more - Liverpool and Arsenal player ratings]]></title>
-            <description><![CDATA[How Liverpool and Arsenal's players rated in their Premier League match at Anfield, as the champions of the past two seasons went head to head.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cqj9kgyww478o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqj9kgyww478o#8</guid>
-            <pubDate>Sun, 01 Nov 2026 18:38:45 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/baf2/live/7872f5d0-d625-11f1-a701-fddedf244c16.png"/>
+            <title><![CDATA[From Fleetwood embarrassment to 'magical' Anfield win 14 years in making ]]></title>
+            <description><![CDATA[Arsenal bounce back from the low of defeat at League Two Fleetwood to secure their first win in 14 years at Anfield - and open up a three-point lead at the top of the Premier League.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/c39wz2epven4o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c39wz2epven4o#8</guid>
+            <pubDate>Sun, 01 Nov 2026 20:16:46 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fbd8/live/473d6620-d62b-11f1-b085-b9e65bc8bfff.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arsenal move clear at the top with a rare win at Liverpool]]></title>
+            <description><![CDATA[Arsenal win at Anfield for the first time since 2012 to earn a three-point lead at the top of the Premier League table following an end-to-end match that leaves Liverpool frustrated to have taken nothing.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/videos/cmly09yv9xl6o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cmly09yv9xl6o#8</guid>
+            <pubDate>Sun, 01 Nov 2026 20:00:18 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/035d/live/adb0c650-d62a-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
             <title><![CDATA[Are Celtic club in regression amid run of six defeats in 10?]]></title>
@@ -229,14 +245,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cxr5yjpnd31eo#8</guid>
             <pubDate>Sun, 01 Nov 2026 18:45:49 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70d1/live/12fd5df0-d623-11f1-8b43-9d133992838c.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Referee accidentally fractures college football player's leg]]></title>
-            <description><![CDATA[A referee accidentally fractures a college football player's leg during a bizarre incident in the first half of East Carolina Pirates' win against Temple Owls.]]></description>
-            <link>https://www.bbc.co.uk/sport/american-football/articles/ck30ey1ezmyqo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/american-football/articles/ck30ey1ezmyqo#8</guid>
-            <pubDate>Sun, 01 Nov 2026 15:17:04 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1882/live/eccbb630-d605-11f1-a790-6f04ef4f8c74.jpg"/>
         </item>
         <item>
             <title><![CDATA[How Dart revived career with help of Wimbledon champion]]></title>
