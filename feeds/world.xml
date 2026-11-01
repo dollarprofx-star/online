@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news/world</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 01 Nov 2026 18:49:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Nov 2026 19:28:22 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/world/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -48,11 +48,11 @@
         </item>
         <item>
             <title><![CDATA[Democrat endorses Republican candidate in key Michigan Senate race as party spat escalates]]></title>
-            <description><![CDATA[Haley Stevens, a former congresswomen who lost out on the Democratic nomination to Abdul El-Sayed, endorses his opponent days before the vote.]]></description>
+            <description><![CDATA[Haley Stevens, who lost out on the Democratic Senate nomination to Abdul El-Sayed, endorses his opponent days before the vote.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c95ynzv88n68o#0</guid>
-            <pubDate>Sun, 01 Nov 2026 18:24:08 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/359f/live/2470c810-d61e-11f1-905f-4bb31135b4e2.jpg"/>
+            <pubDate>Sun, 01 Nov 2026 19:17:34 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ea1/live/d9896430-d625-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
             <title><![CDATA[India's opposition holds mega rally seeking election chief's resignation]]></title>
@@ -151,6 +151,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa3e/live/bc4ea460-d487-11f1-80bc-6d398902272f.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Peaceful protests in Germany spiral into violence and looting]]></title>
+            <description><![CDATA[Thousands joined largely orderly demonstrations earlier in the day, before violence erupted in Frankfurt, Berlin, Cologne and Hamburg.]]></description>
+            <link>https://www.bbc.co.uk/news/videos/cqgm0der7zkmo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cqgm0der7zkmo#2</guid>
+            <pubDate>Sun, 01 Nov 2026 18:51:56 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c8f/live/e077e4c0-d61f-11f1-beec-49c9509fcdec.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Watch: Heidi Klum as giant severed hand for Halloween bash]]></title>
             <description><![CDATA[The supermodel and TV host provided a gory new shock at her New York event.]]></description>
             <link>https://www.bbc.co.uk/news/videos/cj040yd1xdrlo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -181,14 +189,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cw4g1vlj4v2jo#2</guid>
             <pubDate>Sat, 31 Oct 2026 09:16:14 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e67/live/634d7ac0-d46a-11f1-a701-fddedf244c16.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[What's at stake for Trump in the US midterms?]]></title>
-            <description><![CDATA[Anthony Zurcher explains how the results of the midterm elections could reshape the rest of Trump's presidency.]]></description>
-            <link>https://www.bbc.co.uk/news/videos/cq77pm2jmmd5o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cq77pm2jmmd5o#2</guid>
-            <pubDate>Fri, 30 Oct 2026 10:19:48 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfb4/live/7add81a0-d3be-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
             <title><![CDATA[Lindsay Clancy is back in court - where will her case go next?]]></title>
