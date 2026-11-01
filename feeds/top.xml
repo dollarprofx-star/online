@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 01 Nov 2026 12:14:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Nov 2026 13:05:17 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -111,7 +111,7 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69f4/live/7886c200-d5cf-11f1-82ae-81055b9ae1cd.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Irish Olympic runner Ciara Mageean dies aged 34]]></title>
+            <title><![CDATA[Former European champion and two-time Olympian Ciara Mageean dies aged 34]]></title>
             <description><![CDATA[Ciara Mageean, who won a European title and twice represented Ireland at the Olympics, dies aged 34.]]></description>
             <link>https://www.bbc.co.uk/sport/athletics/articles/cn81px29032o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/athletics/articles/cn81px29032o#3</guid>
@@ -152,7 +152,7 @@
         </item>
         <item>
             <title><![CDATA[India's opposition holds mega rally seeking election chief's resignation]]></title>
-            <description><![CDATA[It comes amid growing protests over a voter roll revision exercise feared to leave 130 million voters off rolls.]]></description>
+            <description><![CDATA[Thousands gathered in the heart of delhi, calling for the chief election commissioner to step down. ]]></description>
             <link>https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c60qk92dvlwgo#3</guid>
             <pubDate>Sun, 01 Nov 2026 07:00:55 GMT</pubDate>
@@ -239,20 +239,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf6/live/d1e71250-9509-11ee-8df3-1d2983d8814f.png"/>
         </item>
         <item>
+            <title><![CDATA[The Fight For The Future Of The Green Party]]></title>
+            <description><![CDATA[The BBC’s daily news podcast with episodes available Monday to Sunday at 5pm.]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/p0pjpxbj?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0pjpxbj#8</guid>
+            <pubDate>Sat, 31 Oct 2026 00:00:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0l7jnbt.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Anfield, intensity, rotation - how Iraola is improving Liverpool]]></title>
             <description><![CDATA[Liverpool fans are finding joy at Anfield again with a feel-good factor around the club before the visit of reigning champions Arsenal on Sunday.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/ckzd6217j7pgo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ckzd6217j7pgo#10</guid>
             <pubDate>Sun, 01 Nov 2026 07:38:15 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d5c/live/b3329da0-d45a-11f1-93d9-89af68edb68a.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Are Manchester United really at risk of a relegation scrap?]]></title>
-            <description><![CDATA[Manchester United's current tally of seven points from nine games would not even get them 30 points if it was continued for the full season.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/c8g47wl06vkqo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c8g47wl06vkqo#10</guid>
-            <pubDate>Sat, 31 Oct 2026 23:52:28 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c471/live/62195190-d55c-11f1-b937-61b94454a4cf.jpg"/>
         </item>
         <item>
             <title><![CDATA[Former European champion and two-time Olympian Mageean dies aged 34]]></title>
@@ -263,12 +263,12 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f48f/live/df92a5c0-d5db-11f1-a25d-8f13519027da.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Britain's Dart wins first WTA title of her career]]></title>
+            <title><![CDATA[Britain's Dart wins first WTA title in 'wild week']]></title>
             <description><![CDATA[Britain's Harriet Dart caps the best week of her career by beating fast-rising Austrian teenager Lilli Tagger in three sets in Guangzhou.]]></description>
             <link>https://www.bbc.co.uk/sport/tennis/articles/cm62y10v3p96o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/cm62y10v3p96o#10</guid>
-            <pubDate>Sun, 01 Nov 2026 11:27:04 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7bc3/live/7f36f7b0-d5e2-11f1-8fc6-43c59756914a.jpg"/>
+            <pubDate>Sun, 01 Nov 2026 12:44:28 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4521/live/008fafc0-d5f0-11f1-a6a8-6dc45e4fc351.jpg"/>
         </item>
         <item>
             <title><![CDATA[Third-choice? Inside Alexander-Arnold's struggles in Madrid]]></title>
@@ -279,79 +279,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b465/live/040177b0-d460-11f1-ab12-eb0c94f5b382.jpg"/>
         </item>
         <item>
-            <title><![CDATA[On 'tense' Antonelli's big weekend, this was Hamilton's day]]></title>
-            <description><![CDATA[As Kimi Antonelli bids to become F1's youngest world champion, veteran Lewis Hamilton rolled back the years to take his first Ferrari pole.]]></description>
-            <link>https://www.bbc.co.uk/sport/formula1/articles/cje36e0gze4ko?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/formula1/articles/cje36e0gze4ko#10</guid>
-            <pubDate>Sun, 01 Nov 2026 00:35:28 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce06/live/9f389c10-d585-11f1-a701-fddedf244c16.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Chelsea beat 10-man Man Utd to pile more pressure on Carrick]]></title>
-            <description><![CDATA[Lisandro Martinez is sent off for Manchester United as they suffer a 2-0 defeat against Chelsea at Stamford Bridge to pile more pressure on under-fire manager Michael Carrick.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/videos/ckn8w20nn9g7o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/ckn8w20nn9g7o#11</guid>
-            <pubDate>Sat, 31 Oct 2026 22:30:16 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3d7/live/c15e4960-d55e-11f1-a701-fddedf244c16.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Brighton pick up first away league victory over Man City]]></title>
-            <description><![CDATA[Brighton pick up their first away league victory at Manchester City, winning 1-0 to condemn City to a second successive Premier League defeat.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/videos/cqx28l2gdepxo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cqx28l2gdepxo#11</guid>
-            <pubDate>Sat, 31 Oct 2026 22:30:05 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3234/live/ef24d060-d560-11f1-b441-2b33b063138f.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Coventry out of bottom three with win over struggling Sunderland]]></title>
-            <description><![CDATA[Frank Lampard's Coventry City lift themselves out of the relegation zone after beating struggling Sunderland, who remain rooted to the bottom of the Premier League table.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/videos/cm93zv0zkjqlo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cm93zv0zkjqlo#11</guid>
-            <pubDate>Sat, 31 Oct 2026 22:29:50 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6971/live/776ab830-d562-11f1-b441-2b33b063138f.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Enciso's stunning goal earns Ipswich draw at Hull]]></title>
-            <description><![CDATA[Julio Enciso scores the equalising goal for Ipswich as they draw 2-2 with Hull at the  MKM Stadium. ]]></description>
-            <link>https://www.bbc.co.uk/sport/football/videos/c8qln4qq2656o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/c8qln4qq2656o#11</guid>
-            <pubDate>Sat, 31 Oct 2026 22:29:40 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4cb/live/4de6b580-d563-11f1-a701-fddedf244c16.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Spurs revival continues with victory over 10-man Crystal Palace]]></title>
-            <description><![CDATA[Jean-Philippe Mateta was shown an early red card as Crystal Palace lose 2-0 at Tottenham to increase the pressure on manager Pierre Sage.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/videos/cxvgdrg33m72o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cxvgdrg33m72o#11</guid>
-            <pubDate>Sat, 31 Oct 2026 22:29:29 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9230/live/038f60d0-d564-11f1-93e1-3b657b665bcf.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Evanilson scores again as Bournemouth beat Leeds]]></title>
-            <description><![CDATA[Forward Evanilson continues his fine goalscoring form by netting in a fourth Premier League match in a row to help Bournemouth defeat Leeds United at the Vitality Stadium.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/videos/c6zxj1vzwx1xo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/c6zxj1vzwx1xo#11</guid>
-            <pubDate>Sat, 31 Oct 2026 22:29:21 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ae1/live/c3c33b70-d55e-11f1-b441-2b33b063138f.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Thiago on target as Brentford beat Forest]]></title>
-            <description><![CDATA[Igor Thiago's second-half goal helps Brentford to their first win in five as they beat Nottingham Forest 2-0 at the Gtech Community Stadium. ]]></description>
-            <link>https://www.bbc.co.uk/sport/football/videos/ck1l3z063n8vo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/ck1l3z063n8vo#11</guid>
-            <pubDate>Sat, 31 Oct 2026 22:29:11 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0170/live/c24a4850-d564-11f1-b441-2b33b063138f.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Suzuki mistake gifts Fulham point at Villa]]></title>
-            <description><![CDATA[Aston Villa goalkeeper Zion Suzuki's second-half mistake sees Fulham secure a 1-1 draw at Villa Park after Nicolas Jackson had given the hosts the lead. 
-
-
-]]></description>
-            <link>https://www.bbc.co.uk/sport/football/videos/cmwy9rylr0e6o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cmwy9rylr0e6o#11</guid>
-            <pubDate>Sat, 31 Oct 2026 22:29:02 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/00d7/live/efbcddc0-d578-11f1-a701-fddedf244c16.jpg"/>
+            <title><![CDATA[Are Manchester United really at risk of a relegation scrap?]]></title>
+            <description><![CDATA[Manchester United's current tally of seven points from nine games would not even get them 30 points if it was continued for the full season.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/c8g47wl06vkqo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c8g47wl06vkqo#10</guid>
+            <pubDate>Sat, 31 Oct 2026 23:52:28 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c471/live/62195190-d55c-11f1-b937-61b94454a4cf.jpg"/>
         </item>
     </channel>
 </rss>
