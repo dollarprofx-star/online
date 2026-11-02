@@ -9,26 +9,18 @@
             <link>https://www.bbc.co.uk/sport/football</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 02 Nov 2026 23:12:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Nov 2026 23:45:49 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
-            <title><![CDATA[Who produced the kind of performance Moyes loves? - player ratings]]></title>
-            <description><![CDATA[Newcastle United and Everton's players rated following their Premier League match.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cmglwjxx45gjo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmglwjxx45gjo#0</guid>
-            <pubDate>Mon, 02 Nov 2026 22:08:43 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d401/live/ade2a8b0-d70f-11f1-93e1-3b657b665bcf.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Carrick says it's 'crazy' but he's looking forward to Roma game]]></title>
-            <description><![CDATA[Under-pressure Michael Carrick says it might be "crazy" but he is looking forward to Manchester United's Champions League match against Roma at Old Trafford.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/c933x04ryz4do?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c933x04ryz4do#0</guid>
-            <pubDate>Mon, 02 Nov 2026 16:00:07 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/925e/live/560b7790-d6db-11f1-b441-2b33b063138f.jpg"/>
+            <title><![CDATA[From nightmare debut season to Everton hero - Barry's revival]]></title>
+            <description><![CDATA[Last season Thierno Barry scored eight goals in 41 appearances. This season it's taken him just 12 games to match that tally.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cqj346rvg3pzo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqj346rvg3pzo#0</guid>
+            <pubDate>Mon, 02 Nov 2026 23:28:17 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f34/live/8799e290-d70a-11f1-81b9-c76bd127a61a.jpg"/>
         </item>
         <item>
             <title><![CDATA[Who has made Troy's Premier League team of the week?]]></title>
@@ -39,12 +31,28 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf47/live/e05ef5c0-d6f4-11f1-93e1-3b657b665bcf.png"/>
         </item>
         <item>
-            <title><![CDATA[Fifa to share confidential World Cup sell-off plan documents]]></title>
+            <title><![CDATA[Carrick says it's 'crazy' but he's looking forward to Roma game]]></title>
+            <description><![CDATA[Under-pressure Michael Carrick says it might be "crazy" but he is looking forward to Manchester United's Champions League match against Roma at Old Trafford.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/c933x04ryz4do?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c933x04ryz4do#0</guid>
+            <pubDate>Mon, 02 Nov 2026 16:00:07 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/925e/live/560b7790-d6db-11f1-b441-2b33b063138f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fifa to share 'key documents' over World Cup sell-off plan]]></title>
             <description><![CDATA[Council members will need to travel to Fifa's headquarters in Zurich to see the documents, and will be subject to "strict review protocols".]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/c6vgj0p4ey17o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6vgj0p4ey17o#0</guid>
             <pubDate>Mon, 02 Nov 2026 20:23:55 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3134/live/d6604cd0-d6eb-11f1-a741-236ee91c2e25.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Grealish can still have Everton future - Moyes]]></title>
+            <description><![CDATA[Everton boss David Moyes says there is a way back for Jack Grealish at the club - but does not know when he might return to the team.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cm70pgrd22x4o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cm70pgrd22x4o#0</guid>
+            <pubDate>Mon, 02 Nov 2026 23:14:27 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f4e/live/f69cc0c0-d711-11f1-b19c-4d0080e30e42.jpg"/>
         </item>
         <item>
             <title><![CDATA[Kane would swap Ballon d'Or for Champions League victory]]></title>
@@ -71,20 +79,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb6d/live/5575bbe0-d70a-11f1-81b9-c76bd127a61a.png"/>
         </item>
         <item>
-            <title><![CDATA[Villa drop legal action threat against Carragher ]]></title>
-            <description><![CDATA[Aston Villa will not move forward with any legal action towards Jamie Carragher. ]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cmx285n4l81lo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmx285n4l81lo#0</guid>
-            <pubDate>Mon, 02 Nov 2026 11:49:05 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b785/live/99523b00-d6af-11f1-ac90-f7afd947062e.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bottom club Sunderland to stick with manager Le Bris]]></title>
-            <description><![CDATA[Sunderland manager Regis le Bris is set to be given more time to turn things around despite his side's poor start to the Premier League season.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cj75pglrq794o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cj75pglrq794o#0</guid>
-            <pubDate>Mon, 02 Nov 2026 12:04:09 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93de/live/1def3f10-d6b1-11f1-b5fb-3b1e7f14caa9.jpg"/>
+            <title><![CDATA[Who produced the kind of performance Moyes loves? - player ratings]]></title>
+            <description><![CDATA[Newcastle United and Everton's players rated following their Premier League match.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cmglwjxx45gjo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmglwjxx45gjo#0</guid>
+            <pubDate>Mon, 02 Nov 2026 22:08:43 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d401/live/ade2a8b0-d70f-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
             <title><![CDATA[Everton hold off Newcastle to move into seventh ]]></title>
@@ -95,12 +95,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/711d/live/e346fbb0-d70e-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Key questions as Pocognoli prepares to name Scotland squad]]></title>
-            <description><![CDATA[Sebastien Pocognoli names his second Scotland squad on Tuesday, with various dilemmas to address.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/ckpqg82yxqgyo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ckpqg82yxqgyo#0</guid>
-            <pubDate>Mon, 02 Nov 2026 17:35:14 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f10/live/6c28a7c0-d6e3-11f1-a741-236ee91c2e25.jpg"/>
+            <title><![CDATA[Villa drop legal action threat against Carragher ]]></title>
+            <description><![CDATA[Aston Villa will not move forward with any legal action towards Jamie Carragher. ]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cmx285n4l81lo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmx285n4l81lo#0</guid>
+            <pubDate>Mon, 02 Nov 2026 11:49:05 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b785/live/99523b00-d6af-11f1-ac90-f7afd947062e.jpg"/>
         </item>
         <item>
             <title><![CDATA['He's unavailable' - Moyes tight-lipped on Grealish]]></title>
@@ -143,6 +143,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6cdf/live/7301a9f0-d62c-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Key questions as Pocognoli prepares to name Scotland squad]]></title>
+            <description><![CDATA[Sebastien Pocognoli names his second Scotland squad on Tuesday, with various dilemmas to address.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/ckpqg82yxqgyo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ckpqg82yxqgyo#2</guid>
+            <pubDate>Mon, 02 Nov 2026 17:35:14 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f10/live/6c28a7c0-d6e3-11f1-a741-236ee91c2e25.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[I'll tell my players to dive in future - Iraola]]></title>
             <description><![CDATA[Andoni Iraola says that he will tell his players to go down in future after Liverpool were denied a penalty in Sunday's defeat by Arsenal.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cvp8grpjk4leo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -151,20 +159,20 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/00f2/live/07c743d0-d685-11f1-946d-dfb48af589c2.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Bottom club Sunderland to stick with manager Le Bris]]></title>
+            <description><![CDATA[Sunderland manager Regis le Bris is set to be given more time to turn things around despite his side's poor start to the Premier League season.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cj75pglrq794o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cj75pglrq794o#2</guid>
+            <pubDate>Mon, 02 Nov 2026 12:04:09 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93de/live/1def3f10-d6b1-11f1-b5fb-3b1e7f14caa9.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Hellberg unsure of 'brilliant' Lankshear's England chances]]></title>
             <description><![CDATA[Head coach Kim Hellberg hails Will Lankshear a "brilliant lad" as the goals keep coming, raising questions of a possible England call-up.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/c6jdm4n5l7rlo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6jdm4n5l7rlo#2</guid>
             <pubDate>Mon, 02 Nov 2026 13:36:46 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a80/live/23487470-d6bd-11f1-aacc-5b5f23abff4b.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[No Grealish, no problem - the rise of Everton's youngsters]]></title>
-            <description><![CDATA[BBC Sport examines the growing influence of Everton's youngsters on their chances of success this season.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cm70pv70jwrjo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cm70pv70jwrjo#2</guid>
-            <pubDate>Mon, 02 Nov 2026 07:19:35 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb4d/live/e7135150-d46e-11f1-9dda-1ba6fcc7d159.jpg"/>
         </item>
         <item>
             <title><![CDATA[Trailing 8-0 & down to six players - abandoned game labelled a 'farce']]></title>
@@ -194,7 +202,7 @@
             <title><![CDATA[Tenerife player in intensive care with injury]]></title>
             <description><![CDATA[Tenerife striker Jesus de Miguel is in a stable condition in intensive care after suffering a serious injury during a Spanish second division match on Monday.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo#2</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo#3</guid>
             <pubDate>Mon, 02 Nov 2026 18:18:55 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a2b/live/d2cdad00-d6e7-11f1-a741-236ee91c2e25.jpg"/>
         </item>
@@ -205,6 +213,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c65ynz5ve125o#3</guid>
             <pubDate>Mon, 02 Nov 2026 08:22:20 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/926b/live/2c541140-d60a-11f1-a790-6f04ef4f8c74.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[No Grealish, no problem - the rise of Everton's youngsters]]></title>
+            <description><![CDATA[BBC Sport examines the growing influence of Everton's youngsters on their chances of success this season.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cm70pv70jwrjo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cm70pv70jwrjo#3</guid>
+            <pubDate>Mon, 02 Nov 2026 07:19:35 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb4d/live/e7135150-d46e-11f1-9dda-1ba6fcc7d159.jpg"/>
         </item>
         <item>
             <title><![CDATA[BBC Women's Football Weekly]]></title>
@@ -231,14 +247,6 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9407/live/2d7783d0-d624-11f1-8c22-ab38856653ce.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Defeat for London City - but is Europe a real possibility?]]></title>
-            <description><![CDATA[London City Lionesses suffer defeat by Manchester City but their performance suggests they are closer to Champions League qualification than expected.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cj93z2nk2694o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cj93z2nk2694o#3</guid>
-            <pubDate>Sun, 01 Nov 2026 15:49:47 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/340f/live/54e51be0-d61e-11f1-93e1-3b657b665bcf.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Worst in the EFL - the team with a penalty problem]]></title>
             <description><![CDATA[Newport County have scored just two from nine penalties across the past two seasons in all competitions, so what's going wrong?]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cred3pgyyl53o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -250,9 +258,17 @@
             <title><![CDATA[Why Scottish football is struggling to produce young talent]]></title>
             <description><![CDATA[Scottish football is wrestling with a growing concern over the number of homegrown players who are making to the top of the game.]]></description>
             <link>https://www.bbc.co.uk/news/articles/crx23ejgz7j8o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/crx23ejgz7j8o#3</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/crx23ejgz7j8o#5</guid>
             <pubDate>Mon, 02 Nov 2026 06:05:57 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e76/live/5f6d3a80-d442-11f1-97f9-27ebf08d99fe.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Defeat for London City - but is Europe a real possibility?]]></title>
+            <description><![CDATA[London City Lionesses suffer defeat by Manchester City but their performance suggests they are closer to Champions League qualification than expected.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cj93z2nk2694o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cj93z2nk2694o#5</guid>
+            <pubDate>Sun, 01 Nov 2026 15:49:47 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/340f/live/54e51be0-d61e-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
             <title><![CDATA[Rice rewarded, Wirtz must do more - Liverpool and Arsenal player ratings]]></title>
@@ -261,14 +277,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqj9kgyww478o#5</guid>
             <pubDate>Sun, 01 Nov 2026 18:38:45 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ebf/live/c61a5450-d62e-11f1-b441-2b33b063138f.png"/>
-        </item>
-        <item>
-            <title><![CDATA[Who am I? Plus today's other quizzes]]></title>
-            <description><![CDATA[Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cx30erg1d2rjo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cx30erg1d2rjo#5</guid>
-            <pubDate>Mon, 02 Nov 2026 06:24:40 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"/>
         </item>
         <item>
             <title><![CDATA[Warnock hid seizures from Liverpool as a youngster]]></title>
@@ -282,7 +290,7 @@
             <title><![CDATA[Are Manchester United really at risk of a relegation scrap?]]></title>
             <description><![CDATA[Manchester United's current tally of seven points from nine games would not even get them 30 points if it was continued for the full season.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/c8g47wl06vkqo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c8g47wl06vkqo#5</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c8g47wl06vkqo#6</guid>
             <pubDate>Sat, 31 Oct 2026 23:52:28 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c471/live/62195190-d55c-11f1-b937-61b94454a4cf.jpg"/>
         </item>
