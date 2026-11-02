@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 02 Nov 2026 05:48:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Nov 2026 06:57:18 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -20,15 +20,25 @@
             <link>https://www.bbc.co.uk/news/articles/c6n4ed1l2pn1o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6n4ed1l2pn1o#1</guid>
             <pubDate>Sun, 01 Nov 2026 15:01:31 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3090/live/bdf49670-d5eb-11f1-bfdd-73f39e6db31d.jpg"/>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf3a/live/d896f6d0-d686-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
-            <title><![CDATA['Like a missile coming down' - Nine killed in fiery Florida jet crash]]></title>
+            <title><![CDATA[Nine killed as small jet crashes on Florida street]]></title>
             <description><![CDATA[Transportation Secretary Sean Duffy described the crash, which happened near President Trump's Mar-a-Lago resort, as a "horrific tragedy".]]></description>
             <link>https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm369yy7lw73o#1</guid>
             <pubDate>Mon, 02 Nov 2026 02:59:02 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9fb5/live/43875670-d640-11f1-be6d-936c6c4b19c2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Iran killed her teenage daughter - now she is facing up to the regime]]></title>
+            <description><![CDATA[Samira's 16-year-old daughter Sevda was shot dead as they took part in mass protests in January.
+
+]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c3qjn8117kwjo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c3qjn8117kwjo#1</guid>
+            <pubDate>Mon, 02 Nov 2026 06:00:54 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81df/live/6c995b00-d45e-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
             <title><![CDATA[How a Democrat in Michigan rocked the party days before the US midterms]]></title>
@@ -47,20 +57,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae1b/live/eaba2bb0-d48e-11f1-9a20-f717db279e3e.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Binance users withdraw $3.6bn after record crypto hack]]></title>
-            <description><![CDATA[The exchange froze transactions in the wake of the incident, which impacted $6.3bn worth of digital assets.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwj34gdmnly4o#1</guid>
-            <pubDate>Mon, 02 Nov 2026 03:32:14 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a7f/live/ad865b20-d64f-11f1-a701-fddedf244c16.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Antonelli becomes world champion as Verstappen wins in Mexico]]></title>
+            <title><![CDATA[Antonelli becomes youngest world champion as Verstappen wins in Mexico]]></title>
             <description><![CDATA[Kimi Antonelli becomes the youngest world champion in Formula 1 history as Max Verstappen wins the Mexico City Grand Prix.]]></description>
             <link>https://www.bbc.co.uk/sport/formula1/articles/cv62y1e6wly6o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/formula1/articles/cv62y1e6wly6o#1</guid>
             <pubDate>Sun, 01 Nov 2026 23:20:54 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1694/live/d0cd8590-d64a-11f1-b441-2b33b063138f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[After a 28-year trek around the world, homebound Karl Bushby crosses the Humber Bridge]]></title>
+            <description><![CDATA[The British adventurer is due to complete his 31,000-mile challenge in Hull on Monday.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c9146yve236lo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c9146yve236lo#1</guid>
+            <pubDate>Sun, 01 Nov 2026 17:18:16 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eda7/live/fe7b2e30-d61c-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
             <title><![CDATA[A&E warning system to flag sick children deteriorating quickly]]></title>
@@ -79,20 +89,12 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/98d2/live/7c6766b0-d613-11f1-90fb-b3468681b3ba.jpg"/>
         </item>
         <item>
-            <title><![CDATA[After a 28-year trek around the world, homebound Karl Bushby crosses the Humber Bridge]]></title>
-            <description><![CDATA[The British adventurer is due to complete his 31,000-mile challenge in Hull on Monday.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c9146yve236lo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c9146yve236lo#1</guid>
-            <pubDate>Sun, 01 Nov 2026 17:18:16 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eda7/live/fe7b2e30-d61c-11f1-93e1-3b657b665bcf.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tributes to 'inspirational' Olympian Ciara Mageean after death at 34]]></title>
-            <description><![CDATA[The former European 1500m champion had bowel cancer and died just three weeks after marrying her partner.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cj3vqy1g3eygo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cj3vqy1g3eygo#1</guid>
-            <pubDate>Sun, 01 Nov 2026 23:31:31 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0552/live/19da7760-d633-11f1-9ca7-b72124134595.jpg"/>
+            <title><![CDATA[Binance users withdraw $3.6bn after largest-ever crypto hack]]></title>
+            <description><![CDATA[The exchange froze transactions following the incident which has been linked to a North Korean group.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwj34gdmnly4o#1</guid>
+            <pubDate>Mon, 02 Nov 2026 03:32:14 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a7f/live/ad865b20-d64f-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
             <title><![CDATA[Thousands of jobs at Virgin Media O2 to be cut]]></title>
@@ -175,6 +177,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ddba/live/33355510-d488-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Tributes to 'inspirational' Olympian Ciara Mageean after death at 34]]></title>
+            <description><![CDATA[The former European 1500m champion had bowel cancer and died just three weeks after marrying her partner.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cj3vqy1g3eygo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cj3vqy1g3eygo#4</guid>
+            <pubDate>Sun, 01 Nov 2026 23:31:31 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0552/live/19da7760-d633-11f1-9ca7-b72124134595.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[France launches attempted murder investigation after petrol bomb thrown at police]]></title>
             <description><![CDATA[There were hundreds of arrests as protesters took to the streets in cities across France for the third weekend in a row. 
 ]]></description>
@@ -184,7 +194,7 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/30b9/live/175c0e10-d62c-11f1-b085-b9e65bc8bfff.jpg"/>
         </item>
         <item>
-            <title><![CDATA[China state broadcaster pulls Real Madrid match over Mbappé joke]]></title>
+            <title><![CDATA[China state broadcaster pulls La Liga matches following Mbappé joke]]></title>
             <description><![CDATA[China Media Group, which acknowledged Mbappé's apology, has not said how long the blackout will last.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cq78pypg0800o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cq78pypg0800o#4</guid>
@@ -206,14 +216,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c64g1y90p71eo#4</guid>
             <pubDate>Sun, 01 Nov 2026 21:55:01 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8e6/live/7871d270-d627-11f1-a947-0507737f09b2.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Healey risks breaking minimum wage promise for younger workers]]></title>
-            <description><![CDATA[The Chancellor has suggested that younger workers might not receive the same minimum wage as others before the next election.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cv369266644lo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cv369266644lo#4</guid>
-            <pubDate>Sun, 01 Nov 2026 11:05:40 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca26/live/ddbc05b0-d546-11f1-b69a-cfba30d5f3d4.jpg"/>
         </item>
         <item>
             <title><![CDATA[Senator Chris Murphy expected to make full recovery after stroke ]]></title>
@@ -277,7 +279,7 @@
             <link>https://www.bbc.co.uk/sport/football/articles/cvp8grpjk4leo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cvp8grpjk4leo#9</guid>
             <pubDate>Sun, 01 Nov 2026 21:00:26 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afa9/live/8fe2aac0-d63a-11f1-8c46-b5027fa7bde9.jpg"/>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/00f2/live/07c743d0-d685-11f1-946d-dfb48af589c2.jpg"/>
         </item>
         <item>
             <title><![CDATA[From Fleetwood embarrassment to 'magical' Anfield win 14 years in making ]]></title>
