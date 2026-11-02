@@ -5,7 +5,7 @@
         <atom:link href="https://rss.punchng.com" rel="self" type="application/rss+xml" />
         <link> https://rss.punchng.com </link>
         <description> Get the latest News in Nigeria </description>
-        <lastBuildDate> Mon, 02 Nov 2026 21:43:44 +0000</lastBuildDate>
+        <lastBuildDate> Mon, 02 Nov 2026 22:28:57 +0000</lastBuildDate>
         <language> en-US </language>
         <sy:updatePeriod> minutely	</sy:updatePeriod>
         <sy:updateFrequency> 5	</sy:updateFrequency>
@@ -13,6 +13,20 @@
         <generator>https://rss.punchng.com</generator>
 
         <item>
+                        <title>RCCG urges journalists to verify recycled images</title>
+                        <link>https://punchng.com/rccg-urges-journalists-to-verify-recycled-images/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
+                        <pubDate>Mon, 02 Nov 2026 23:07:25 +0000</pubDate>
+                        <dc:creator><![CDATA[Punch Newspapers]]></dc:creator>
+                        <category><![CDATA[]]></category>
+                        <guid isPermaLink='true'>https://punchng.com/rccg-urges-journalists-to-verify-recycled-images/?utm_source=rss.punchng.com&amp;utm_medium=web</guid>
+                        <description><![CDATA[
+
+The RCCG has urged journalists to verify the context of recycled images, citing a misleading photo of Pastor Adeboye from a 2020 prayer walk.
+
+Read More: https://punchng.com/rccg-urges-journalists-to-verify-recycled-images/]]></description>
+                        <enclosure url='https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png' length='342247' type='image/png'/>
+                    </item>
+                    <item>
                         <title>Super Falcons get $100,000 equivalent as Tinubu fulfils pledge</title>
                         <link>https://punchng.com/super-falcons-get-100000-equivalent-as-tinubu-fulfils-pledge/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
                         <pubDate>Mon, 02 Nov 2026 22:24:58 +0000</pubDate>
@@ -416,20 +430,6 @@ Read More: https://punchng.com/don-urges-fg-to-include-private-institutions-in-n
 The African Action Congress in Oyo State has urged opposition parties across Nigeria to consider boycotting the 2027 general elections if the Federal Government and security agencies fail to guarantee the safety of political actors and voters.
 
 Read More: https://punchng.com/violence-oyo-aac-urges-opposition-to-consider-2027-poll-boycott/]]></description>
-                        <enclosure url='https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png' length='342247' type='image/png'/>
-                    </item>
-                    <item>
-                        <title>Reps seek real estate regulator to curb fraud, boost housing investment</title>
-                        <link>https://punchng.com/reps-seek-real-estate-regulator-to-curb-fraud-boost-housing-investment/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
-                        <pubDate>Mon, 02 Nov 2026 17:58:18 +0000</pubDate>
-                        <dc:creator><![CDATA[Punch Newspapers]]></dc:creator>
-                        <category><![CDATA[]]></category>
-                        <guid isPermaLink='true'>https://punchng.com/reps-seek-real-estate-regulator-to-curb-fraud-boost-housing-investment/?utm_source=rss.punchng.com&amp;utm_medium=web</guid>
-                        <description><![CDATA[
-
-The House of Representatives has called for a comprehensive regulatory framework for Nigeria’s real estate sector to curb fraudulent practices, protect homebuyers and unlock investment in the country’s housing market.
-
-Read More: https://punchng.com/reps-seek-real-estate-regulator-to-curb-fraud-boost-housing-investment/]]></description>
                         <enclosure url='https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png' length='342247' type='image/png'/>
                     </item>
                         </channel>
