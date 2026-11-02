@@ -9,18 +9,18 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 02 Nov 2026 13:38:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Nov 2026 14:38:00 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
-            <title><![CDATA[Shop freezers in six European countries hit by suspected cyber-attack]]></title>
+            <title><![CDATA[Shop freezers in seven European countries hit by suspected cyber-attack]]></title>
             <description><![CDATA[The temperature of freezers in several shops across Europe reportedly rose to as high as 50C.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cq1kd1nee80eo#1</guid>
-            <pubDate>Mon, 02 Nov 2026 13:19:56 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b784/live/f4fabf40-d6be-11f1-a701-fddedf244c16.jpg"/>
+            <pubDate>Mon, 02 Nov 2026 14:11:13 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31c7/live/152ec730-d6c3-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
             <title><![CDATA[Mother told to book appointment to give birth to her baby who had died]]></title>
@@ -47,14 +47,6 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea87/live/855e5c00-d6be-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Chris Mason: Home secretary to face scrutiny over changes to rules for legal migrants]]></title>
-            <description><![CDATA[At the heart of the debate around legal migration are contested notions of fairness, our political editor writes.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/ck4g13zrm513o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ck4g13zrm513o#1</guid>
-            <pubDate>Mon, 02 Nov 2026 12:58:05 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9abb/live/8b4aef30-d6b3-11f1-b441-2b33b063138f.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Iran killed her teenage daughter - now she is facing up to the regime]]></title>
             <description><![CDATA[Samira's 16-year-old daughter Sevda was shot dead as they took part in mass protests in January.
 
@@ -65,28 +57,36 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81df/live/6c995b00-d45e-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Hunt for attackers after Halloween party stabbings]]></title>
-            <description><![CDATA[Three boys aged 16 and two aged 17 were taken to hospital with serious injuries on Saturday night.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c3j47g4kk1npo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c3j47g4kk1npo#1</guid>
-            <pubDate>Mon, 02 Nov 2026 12:14:27 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6951/live/33a82d00-d6aa-11f1-ac90-f7afd947062e.jpg"/>
+            <title><![CDATA[Channel 4 documentary and journalists 'poisoned the well' against Russell Brand, court hears]]></title>
+            <description><![CDATA[Brand's defence barrister told jurors that Brand "had an immense amount of sex", but that "none of it was unlawful".]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cwkg5dnypdn4o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwkg5dnypdn4o#1</guid>
+            <pubDate>Mon, 02 Nov 2026 13:29:48 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1386/live/e3326c40-d6a0-11f1-aabc-e9dc7201ad53.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Labour ends power-sharing with Greens in 11 councils over Zionism row]]></title>
+            <description><![CDATA[Labour's ruling National Executive Committee sets out where it is cutting ties with the Greens.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c63dj21yvjd3o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c63dj21yvjd3o#1</guid>
+            <pubDate>Mon, 02 Nov 2026 14:17:58 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b296/live/c09906d0-d45c-11f1-ab12-eb0c94f5b382.png"/>
         </item>
         <item>
             <title><![CDATA[Fake nuclear warnings issued after Ukrainian and Russian air alert apps hacked]]></title>
             <description><![CDATA[Neither government has confirmed who was responsible for the cyberattacks on Sunday evening. ]]></description>
             <link>https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo#1</guid>
-            <pubDate>Mon, 02 Nov 2026 12:44:48 GMT</pubDate>
+            <pubDate>Mon, 02 Nov 2026 14:35:01 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3608/live/1d2513e0-d646-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
-            <title><![CDATA[King to address slavery in Antigua as PM says he is open to possible UK apology]]></title>
-            <description><![CDATA[King Charles III will deliver a speech to the Commonwealth Heads of Government Meeting on Tuesday as he concludes his nine-day Caribbean tour. ]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cq398y0zj9rpo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cq398y0zj9rpo#1</guid>
-            <pubDate>Mon, 02 Nov 2026 02:46:55 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/958c/live/fcdd3a90-d6a9-11f1-a701-fddedf244c16.jpg"/>
+            <title><![CDATA[Nowak family say police failed them multiple times]]></title>
+            <description><![CDATA[The murdered student's family say they feel "manipulated" and "failed" by Hampshire Police.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cwvg0x7rd402o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwvg0x7rd402o#1</guid>
+            <pubDate>Mon, 02 Nov 2026 13:54:40 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8aa9/live/7159cc80-d60f-11f1-a701-fddedf244c16.png"/>
         </item>
         <item>
             <title><![CDATA[Lifestyle guru Martha Stewart says she 'really screwed up' with homeless Halloween costume]]></title>
@@ -95,14 +95,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c8zxle6qq4q0o#1</guid>
             <pubDate>Mon, 02 Nov 2026 09:36:45 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a899/live/180b3300-d69e-11f1-aabc-e9dc7201ad53.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Parents' concerns to trigger urgent checks in A&E]]></title>
-            <description><![CDATA[Concerns from staff, parents, carers or the child themselves will trigger an immediate escalation of care.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cw1m42zdnn3go?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cw1m42zdnn3go#1</guid>
-            <pubDate>Mon, 02 Nov 2026 08:52:08 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf78/live/46b4fd30-d473-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
             <title><![CDATA[A simple guide to the midterms]]></title>
@@ -121,6 +113,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/731d/live/ec723e90-d694-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
+            <title><![CDATA[A Paralympian vs a former TV news anchor - and other US Senate races to watch]]></title>
+            <description><![CDATA[All eyes are on a handful of Senate races that will decide control of the prized upper chamber. Here's a quick guide.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cqy7ljkprvjko?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqy7ljkprvjko#2</guid>
+            <pubDate>Mon, 02 Nov 2026 13:49:19 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a7ce/live/259c6b00-d1e5-11f1-a701-fddedf244c16.png"/>
+        </item>
+        <item>
             <title><![CDATA[North Carolina voters weigh up Trump's track record on cost of living]]></title>
             <description><![CDATA[The BBC's Clive Myrie found voters in the state were asking themselves whether they were better off than two years ago.]]></description>
             <link>https://www.bbc.co.uk/news/videos/cwly0eev3m44o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -129,12 +129,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/72fa/live/5f195450-d696-11f1-93e1-3b657b665bcf.png"/>
         </item>
         <item>
-            <title><![CDATA[What's at stake for Trump?]]></title>
-            <description><![CDATA[Anthony Zurcher explains how the results of the midterm elections could reshape the rest of Trump's presidency.]]></description>
-            <link>https://www.bbc.co.uk/news/videos/cq77pm2jmmd5o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cq77pm2jmmd5o#2</guid>
-            <pubDate>Fri, 30 Oct 2026 10:19:48 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2350/live/d5d81cc0-d6b9-11f1-93e1-3b657b665bcf.jpg"/>
+            <title><![CDATA[What we know about the alert app hack in Ukraine and Russia]]></title>
+            <description><![CDATA[Both Ukraine and Russia say their air raid alert apps were cyber-attacked - Joe Tidy explains what we know so far.]]></description>
+            <link>https://www.bbc.co.uk/news/videos/crq5n6204g20o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/crq5n6204g20o#3</guid>
+            <pubDate>Mon, 02 Nov 2026 14:24:25 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1cbd/live/ab9f8ec0-d6c8-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
             <title><![CDATA[How 20-year-old Kimi Antonelli 'blew everyone away' to make Formula 1 history]]></title>
@@ -161,52 +161,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c29/live/fb223b90-d692-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Why Scottish football is struggling to produce young talent]]></title>
-            <description><![CDATA[Scottish football is wrestling with a growing concern over the number of homegrown players who are making to the top of the game.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/crx23ejgz7j8o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/crx23ejgz7j8o#3</guid>
-            <pubDate>Mon, 02 Nov 2026 06:05:57 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e76/live/5f6d3a80-d442-11f1-97f9-27ebf08d99fe.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lindsay Clancy is back in court - where will her case go next?]]></title>
-            <description><![CDATA[The Massachusetts mother, accused of murdering her three children, is expected back in court as she awaits a decision on whether her case will be retried.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/ck3r5z3pw928o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ck3r5z3pw928o#3</guid>
-            <pubDate>Sun, 01 Nov 2026 17:29:08 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f436/live/1948f1a0-d255-11f1-bb20-4320a74e5db1.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ryanair says it may freeze workers' pay and raise airfares]]></title>
-            <description><![CDATA[The airline says fuel prices may rise by €2bn in 2028 unless there is an end to the US-Israel war with Iran.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cr0qkve1x224o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cr0qkve1x224o#5</guid>
-            <pubDate>Mon, 02 Nov 2026 12:22:10 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/895b/live/a85523b0-d691-11f1-8f56-0b6ab08f384e.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Train attacker said 'I am the baddest', trial hears]]></title>
-            <description><![CDATA[Police responded to fears about Anthony Williams on a train the day before the attack, jurors hear.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c65ynd5y102lo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c65ynd5y102lo#5</guid>
-            <pubDate>Mon, 02 Nov 2026 13:10:06 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a4b/live/1d35c680-d2f5-11f1-93e1-3b657b665bcf.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Binance users withdraw $3.6bn after largest-ever crypto hack]]></title>
-            <description><![CDATA[The exchange froze transactions following the incident which has been linked to a North Korean group.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwj34gdmnly4o#5</guid>
-            <pubDate>Mon, 02 Nov 2026 07:42:33 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a7f/live/ad865b20-d64f-11f1-a701-fddedf244c16.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Baby among four killed in bomb attack in western Colombia, official says]]></title>
-            <description><![CDATA[It is not yet clear who was behind the attack, which appears to have targeted a military base. ]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cqn06n30l406o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqn06n30l406o#5</guid>
-            <pubDate>Mon, 02 Nov 2026 13:16:10 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e32/live/fa815d50-d6b6-11f1-aacc-5b5f23abff4b.jpg"/>
+            <title><![CDATA[Drugs, cash and weapons found in raids as e-bikes 'blight' communities]]></title>
+            <description><![CDATA[A senior police officer says e-bikes and associated crimes are "blighting" communities across the UK.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cmn068ywr9e1o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmn068ywr9e1o#3</guid>
+            <pubDate>Mon, 02 Nov 2026 06:13:55 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97a9/live/206eb5c0-d2c6-11f1-8e79-5381b0a9d682.jpg"/>
         </item>
         <item>
             <title><![CDATA[Watch: King Charles III caught in torrential downpour at Antigua and Barbuda parade]]></title>
@@ -217,12 +177,36 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9153/live/f6a128d0-d6a9-11f1-ac90-f7afd947062e.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Bonnie Tyler Christmas single to be released as husband says he misses her every day]]></title>
-            <description><![CDATA[Bonnie Tyler's last studio recording will be released as a Christmas single on November 13. ]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cxly4enrvvzdo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cxly4enrvvzdo#5</guid>
-            <pubDate>Mon, 02 Nov 2026 09:58:01 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a135/live/c8585270-d6a7-11f1-b441-2b33b063138f.jpg"/>
+            <title><![CDATA[Parents' concerns to trigger urgent checks in A&E]]></title>
+            <description><![CDATA[Concerns from staff, parents, carers or the child themselves will trigger an immediate escalation of care.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cw1m42zdnn3go?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cw1m42zdnn3go#5</guid>
+            <pubDate>Mon, 02 Nov 2026 08:52:08 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf78/live/46b4fd30-d473-11f1-a701-fddedf244c16.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Huntingdon train attacker said 'I am the baddest', trial hears]]></title>
+            <description><![CDATA[Police responded to fears about Anthony Williams on a train the day before the attack, jurors hear.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c65ynd5y102lo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c65ynd5y102lo#5</guid>
+            <pubDate>Mon, 02 Nov 2026 13:10:06 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a4b/live/1d35c680-d2f5-11f1-93e1-3b657b665bcf.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hunt for attackers after Halloween party stabbings]]></title>
+            <description><![CDATA[Three boys aged 16 and two aged 17 were taken to hospital with serious injuries on Saturday night.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c3j47g4kk1npo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c3j47g4kk1npo#5</guid>
+            <pubDate>Mon, 02 Nov 2026 12:14:27 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6951/live/33a82d00-d6aa-11f1-ac90-f7afd947062e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Binance users withdraw $3.6bn after largest-ever crypto hack]]></title>
+            <description><![CDATA[The exchange froze transactions following the incident which has been linked to a North Korean group.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwj34gdmnly4o#5</guid>
+            <pubDate>Mon, 02 Nov 2026 07:42:33 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a7f/live/ad865b20-d64f-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
             <title><![CDATA[Download now]]></title>
@@ -247,6 +231,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/iplayer/episode/m0033vld?at_mid=Rz7rKyFuqA&amp;at_campaign=Oasis_Live_at_Manchester_City_Stadium&amp;at_medium=display_ad&amp;at_campaign_type=owned&amp;at_nation=NET&amp;at_audience_id=SS&amp;at_product=iplayer&amp;at_brand=m0033vld&amp;at_ptr_name=bbc&amp;at_ptr_type=media&amp;at_format=image&amp;at_objective=consumption&amp;at_link_title=Oasis_Live_at_Manchester_City_Stadium&amp;at_bbc_team=BBC#8</guid>
             <pubDate>Sun, 01 Nov 2026 00:07:28 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5696/live/e7cfeef0-d48c-11f1-93e1-3b657b665bcf.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[To dive or not to dive? Football's big dilemma]]></title>
+            <description><![CDATA[Liverpool feel Alexander Isak should have been awarded a penalty against Arsenal but with the striker not appealing for the decision and the VAR staying out of it, should he have made more of it? ]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/crvg69wn9490o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/crvg69wn9490o#9</guid>
+            <pubDate>Mon, 02 Nov 2026 14:06:47 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92ad/live/0f801aa0-d6be-11f1-aacc-5b5f23abff4b.jpg"/>
         </item>
         <item>
             <title><![CDATA[How Antonelli 'blew everyone away' to make F1 history]]></title>
@@ -279,14 +271,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/cwkg5z5jmye0o#9</guid>
             <pubDate>Mon, 02 Nov 2026 06:44:05 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0fc1/live/2ddcc930-c719-11f1-9a39-31b474234113.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Australia omit star pace trio for England series]]></title>
-            <description><![CDATA[Australia's star pace trio of Pat Cummins, Josh Hazlewood and Mitchell Starc will not feature in the upcoming white-ball series against England.]]></description>
-            <link>https://www.bbc.co.uk/sport/cricket/articles/cr5ynwddqpd6o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/cricket/articles/cr5ynwddqpd6o#9</guid>
-            <pubDate>Mon, 02 Nov 2026 10:59:01 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ebe/live/1d4c6070-d692-11f1-8f56-0b6ab08f384e.jpg"/>
         </item>
         <item>
             <title><![CDATA[Bottom club Sunderland to stick with manager Le Bris]]></title>
