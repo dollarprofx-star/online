@@ -9,11 +9,19 @@
             <link>https://www.bbc.co.uk/news/world</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 02 Nov 2026 12:24:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Nov 2026 13:38:28 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/world/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Fake nuclear warnings issued after Ukrainian and Russian air alert apps hacked]]></title>
+            <description><![CDATA[Neither government has confirmed who was responsible for the cyberattacks on Sunday evening. ]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo#0</guid>
+            <pubDate>Mon, 02 Nov 2026 12:44:48 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3608/live/1d2513e0-d646-11f1-b441-2b33b063138f.jpg"/>
+        </item>
         <item>
             <title><![CDATA[Iran killed her teenage daughter - now she is facing up to the regime]]></title>
             <description><![CDATA[Samira's 16-year-old daughter Sevda was shot dead as they took part in mass protests in January.
@@ -25,16 +33,16 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81df/live/6c995b00-d45e-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Supermarket freezers in Belgium, Sweden and Luxembourg hit by suspected cyber-attack]]></title>
-            <description><![CDATA[Stores in Sweden say temperatures for its freezers were raised to 50 C (122F).]]></description>
+            <title><![CDATA[Shop freezers in six European countries hit by suspected cyber-attack]]></title>
+            <description><![CDATA[The temperature of freezers in several shops across Europe reportedly rose to as high as 50C.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cq1kd1nee80eo#0</guid>
-            <pubDate>Mon, 02 Nov 2026 11:56:32 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0873/live/ecc62190-d6ad-11f1-ac90-f7afd947062e.jpg"/>
+            <pubDate>Mon, 02 Nov 2026 13:19:56 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b784/live/f4fabf40-d6be-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
             <title><![CDATA[Nine killed as small jet crashes on Florida street]]></title>
-            <description><![CDATA[Transportation Secretary Sean Duffy described the crash, which happened near President Trump's Mar-a-Lago resort, as a "horrific tragedy".]]></description>
+            <description><![CDATA[In air traffic audio, a crew member can be heard shouting: "We are going to crash into the ground."]]></description>
             <link>https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm369yy7lw73o#0</guid>
             <pubDate>Mon, 02 Nov 2026 09:10:19 GMT</pubDate>
