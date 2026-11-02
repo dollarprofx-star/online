@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/sport/football</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 02 Nov 2026 18:31:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Nov 2026 19:34:12 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -77,14 +77,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6jdm4n5l7rlo#0</guid>
             <pubDate>Mon, 02 Nov 2026 13:36:46 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a80/live/23487470-d6bd-11f1-aacc-5b5f23abff4b.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[From Fleetwood embarrassment to 'magical' Anfield win 14 years in making ]]></title>
-            <description><![CDATA[Arsenal bounce back from the low of defeat at League Two Fleetwood to secure their first win in 14 years at Anfield - and open up a three-point lead at the top of the Premier League.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/c39wz2epven4o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c39wz2epven4o#0</guid>
-            <pubDate>Sun, 01 Nov 2026 20:16:46 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b4a/live/22768ba0-d653-11f1-bea1-17a011bac0d7.jpg"/>
         </item>
         <item>
             <title><![CDATA[Arsenal move clear at the top with a rare win at Liverpool]]></title>
@@ -167,12 +159,12 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a2b/live/d2cdad00-d6e7-11f1-a741-236ee91c2e25.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Are Celtic club in regression amid run of six defeats in 10?]]></title>
-            <description><![CDATA[Chris Sutton and Ian McCall weigh in on Celtic after a second league defeat of the season, but manager Martin O'Neill is defiant.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cmvg7d1xl8epo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmvg7d1xl8epo#2</guid>
-            <pubDate>Sun, 01 Nov 2026 17:34:12 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f85/live/92559140-d613-11f1-90fb-b3468681b3ba.jpg"/>
+            <title><![CDATA[BBC Women's Football Weekly]]></title>
+            <description><![CDATA[Unbeaten in all competitions, are Sonia Bompastor's side getting back to their best?]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/p0pkxggd?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0pkxggd#2</guid>
+            <pubDate>Mon, 02 Nov 2026 18:10:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0lz125l.jpg"/>
         </item>
         <item>
             <title><![CDATA[Boy, 14, hands himself in to police over Bradley Lowery video]]></title>
@@ -181,6 +173,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6z7x52w0r0zo#2</guid>
             <pubDate>Sun, 01 Nov 2026 20:15:52 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9407/live/2d7783d0-d624-11f1-8c22-ab38856653ce.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Are Celtic club in regression amid run of six defeats in 10?]]></title>
+            <description><![CDATA[Chris Sutton and Ian McCall weigh in on Celtic after a second league defeat of the season, but manager Martin O'Neill is defiant.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cmvg7d1xl8epo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmvg7d1xl8epo#3</guid>
+            <pubDate>Sun, 01 Nov 2026 17:34:12 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f85/live/92559140-d613-11f1-90fb-b3468681b3ba.jpg"/>
         </item>
         <item>
             <title><![CDATA[Man Utd eye Barcelona's Balde - Monday's gossip]]></title>
@@ -226,7 +226,7 @@
             <title><![CDATA[Rice rewarded, Wirtz must do more - Liverpool and Arsenal player ratings]]></title>
             <description><![CDATA[How Liverpool and Arsenal's players rated in their Premier League match at Anfield, as the champions of the past two seasons went head to head.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cqj9kgyww478o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqj9kgyww478o#3</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqj9kgyww478o#5</guid>
             <pubDate>Sun, 01 Nov 2026 18:38:45 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ebf/live/c61a5450-d62e-11f1-b441-2b33b063138f.png"/>
         </item>
@@ -247,14 +247,6 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c471/live/62195190-d55c-11f1-b937-61b94454a4cf.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Giant curiosity Hibs finally liberated from Hearts sucker punch]]></title>
-            <description><![CDATA[Hibernian, for once, avoid late heartbreak to set up League Cup final with Rangers, writes Tom English.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cxr5yjpnd31eo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cxr5yjpnd31eo#5</guid>
-            <pubDate>Sun, 01 Nov 2026 18:45:49 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70d1/live/12fd5df0-d623-11f1-8b43-9d133992838c.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Football Daily]]></title>
             <description><![CDATA[Rick Edwards is joined by Luke Kempner to reflect on Arsenal’s 1-0 win at Anfield.]]></description>
             <link>https://www.bbc.co.uk/sounds/play/p0pks2xb?at_medium=RSS&amp;at_campaign=rss</link>
@@ -271,20 +263,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8dcb/live/b1d511d0-d6bd-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Giant curiosity Hibs finally liberated from Hearts sucker punch]]></title>
+            <description><![CDATA[Hibernian, for once, avoid late heartbreak to set up League Cup final with Rangers, writes Tom English.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cxr5yjpnd31eo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cxr5yjpnd31eo#6</guid>
+            <pubDate>Sun, 01 Nov 2026 18:45:49 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70d1/live/12fd5df0-d623-11f1-8b43-9d133992838c.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Retired Sheff Utd legend Sharp signs for Rushden]]></title>
             <description><![CDATA[Former Sheffield United and Doncaster Rovers striker Billy Sharp comes out of retirement to join Northern Premier League side AFC Rushden & Diamonds as they prepare for their FA Cup match against Burton Albion.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/c820vylvxwxlo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c820vylvxwxlo#6</guid>
             <pubDate>Sun, 01 Nov 2026 16:51:07 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/35f1/live/61412250-d612-11f1-90fb-b3468681b3ba.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Are De Zerbi's Spurs finding elusive consistency?]]></title>
-            <description><![CDATA[Are Spurs finally finding elusive consistency under Roberto de Zerbi after a third successive Premier League win, asks chief football writer Phil McNulty?]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/c6n04v897qe4o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6n04v897qe4o#6</guid>
-            <pubDate>Sat, 31 Oct 2026 21:16:11 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8e1/live/13b64ef0-d579-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
             <title><![CDATA['Everyone saw it' - Iraola confused by Isak penalty decision]]></title>
@@ -535,12 +527,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0pks27w.jpg"/>
         </item>
         <item>
-            <title><![CDATA['Dundee Utd want permanent Cameron signing' - gossip]]></title>
-            <description><![CDATA[Dundee United are reportedly keen to keep Rangers' Lyall Cameron permanently, while Scott McKenna looks certain to miss Scotland's next Nations League games through injury.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cmgqwj54vjg1o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmgqwj54vjg1o#16</guid>
-            <pubDate>Mon, 02 Nov 2026 07:50:54 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b579/live/c06da850-d691-11f1-93e1-3b657b665bcf.png"/>
+            <title><![CDATA[Watch: Best of Scottish Championship & Leagues 1 & 2 action]]></title>
+            <description><![CDATA[Watch the best of the action from the weekend's action in the Scottish Championship, League 1 and League 2.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/videos/c8ly0qw3nee9o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/c8ly0qw3nee9o#16</guid>
+            <pubDate>Mon, 02 Nov 2026 08:01:32 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c4a/live/e4f14f40-cba8-11f1-9ee2-f74dfb8e54e5.jpg"/>
         </item>
         <item>
             <title><![CDATA[Defeat for London City - but is Europe a real possibility?]]></title>
@@ -549,6 +541,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cj93z2nk2694o#17</guid>
             <pubDate>Sun, 01 Nov 2026 15:49:47 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/340f/live/54e51be0-d61e-11f1-93e1-3b657b665bcf.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BBC Women's Football Weekly]]></title>
+            <description><![CDATA[Unbeaten in all competitions, are Sonia Bompastor's side getting back to their best?]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/p0pkxggd?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0pkxggd#17</guid>
+            <pubDate>Mon, 02 Nov 2026 18:10:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0lz125l.jpg"/>
         </item>
         <item>
             <title><![CDATA[Spence 'very proud' to break WSL appearance record]]></title>
