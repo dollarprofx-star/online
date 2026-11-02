@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news/world</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 02 Nov 2026 22:29:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Nov 2026 23:12:32 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/world/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -264,6 +264,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db6d/live/6afb9b70-d6cd-11f1-ac20-7783925c811f.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Indonesia's toxic haze is giving its neighbours a political headache]]></title>
+            <description><![CDATA[Governments in Singapore and Malaysia are split between anxious citizens and an irascible neighbour.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c3dxwzjn2gw8o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c3dxwzjn2gw8o#3</guid>
+            <pubDate>Mon, 02 Nov 2026 23:02:01 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/302a/live/febcfd60-d293-11f1-9453-5fe901b3e69e.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[US midterms campaign 'shattering' spending records to be most expensive ever]]></title>
             <description><![CDATA[The 2026 campaign is projected to cost nearly $12bn - BBC Verify looks into where all that money has come from.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cqkgk64z7p58o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -288,14 +296,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmg47p3edv4do#3</guid>
             <pubDate>Mon, 02 Nov 2026 00:25:12 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/731d/live/ec723e90-d694-11f1-a701-fddedf244c16.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[A Paralympian vs a former TV news anchor - and other US Senate races to watch]]></title>
-            <description><![CDATA[All eyes are on a handful of Senate races that will decide control of the prized upper chamber. Here's a quick guide.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cqy7ljkprvjko?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqy7ljkprvjko#3</guid>
-            <pubDate>Mon, 02 Nov 2026 13:49:19 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a7ce/live/259c6b00-d1e5-11f1-a701-fddedf244c16.png"/>
         </item>
     </channel>
 </rss>
