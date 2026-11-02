@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news/world</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 02 Nov 2026 20:24:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Nov 2026 21:06:15 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/world/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -47,6 +47,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5be/live/174cc760-d6d2-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Legal challenge to Australia's social media ban to start in High Court]]></title>
+            <description><![CDATA[A rights group will argue the world-leading policy robs under-16s of their right to free communication.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/ck79py02p1jlo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ck79py02p1jlo#0</guid>
+            <pubDate>Mon, 02 Nov 2026 19:12:59 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7af5/live/6a1bb4a0-d67e-11f1-ac3d-edfeb9f7d0aa.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Man guilty of stealing cash from farm owned by South African president]]></title>
             <description><![CDATA[The case, part of the "Farmgate" scandal, has left President Cyril Ramaphosa mired in an impeachment saga.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c9vgrvpk4l6eo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -58,7 +66,7 @@
             <title><![CDATA[Dutch police offer record €2m reward in hunt for drug lord]]></title>
             <description><![CDATA[Jos Leijdekkers has been found guilty in absentia of cocaine smuggling and is believed to be in Sierra Leone.]]></description>
             <link>https://www.bbc.co.uk/news/articles/ckly0v2q2yxlo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckly0v2q2yxlo#0</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckly0v2q2yxlo#1</guid>
             <pubDate>Mon, 02 Nov 2026 17:29:49 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/055d/live/20e151f0-d6dd-11f1-b2be-0146bf989691.jpg"/>
         </item>
@@ -208,14 +216,6 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7152/live/9f9230c0-d564-11f1-b3d5-e70aafec92c6.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot]]></title>
-            <description><![CDATA[The incumbent Republican running for re-election and allies have accused the Democrats of trying to confuse voters by recruiting a second Dan Sullivan to also stand in the race.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo#1</guid>
-            <pubDate>Sun, 01 Nov 2026 00:46:12 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4570/live/1ef80da0-d46e-11f1-93e1-3b657b665bcf.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[What Florida jet audio and flight data tells us about its final moments]]></title>
             <description><![CDATA[A private jet crashed in Florida on Sunday, killing all nine people on board, according to US authorities.
 
@@ -266,6 +266,14 @@ BBC Verify has used air traffic control audio and flight tracking data to recons
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db6d/live/6afb9b70-d6cd-11f1-ac20-7783925c811f.jpg"/>
         </item>
         <item>
+            <title><![CDATA[US midterms campaign 'shattering' spending records to be most expensive ever]]></title>
+            <description><![CDATA[The 2026 campaign is projected to cost nearly $12bn - BBC Verify looks into where all that money has come from.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cqkgk64z7p58o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqkgk64z7p58o#3</guid>
+            <pubDate>Mon, 02 Nov 2026 20:54:44 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7007/live/c8ea35c0-d6f5-11f1-b441-2b33b063138f.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Iran killed her teenage daughter - now she is facing up to the regime]]></title>
             <description><![CDATA[Samira's 16-year-old daughter Sevda was shot dead as they took part in mass protests in January.
 
@@ -290,22 +298,6 @@ BBC Verify has used air traffic control audio and flight tracking data to recons
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqy7ljkprvjko#3</guid>
             <pubDate>Mon, 02 Nov 2026 13:49:19 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a7ce/live/259c6b00-d1e5-11f1-a701-fddedf244c16.png"/>
-        </item>
-        <item>
-            <title><![CDATA[Antonelli - the boy 'born in a garage' who became world champion]]></title>
-            <description><![CDATA[Kimi Antonelli was a natural driver at the age of three, according to his dad. Here's how he developed to become the F1 champion at the age of 20. ]]></description>
-            <link>https://www.bbc.co.uk/sport/formula1/articles/c0rdvxdwwwwo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/formula1/articles/c0rdvxdwwwwo#3</guid>
-            <pubDate>Sun, 01 Nov 2026 22:25:01 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c15/live/b16a1f00-94a6-11f1-afe9-fb1a837ec5d9.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[How the downfall of Serbia's Vučiċ mirrored that of Hungary's Orbán]]></title>
-            <description><![CDATA[Defeat for Serbia's Aleksandar Vučiċ in last weekend's vote was a carbon copy of Viktor Orbán's fall in Hungary. ]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c893z699q401o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c893z699q401o#3</guid>
-            <pubDate>Sun, 01 Nov 2026 00:55:06 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b724/live/db1d9120-d456-11f1-906a-add2117fe3e6.jpg"/>
         </item>
     </channel>
 </rss>
