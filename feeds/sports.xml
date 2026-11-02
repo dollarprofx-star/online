@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/sport/football</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 02 Nov 2026 08:20:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Nov 2026 09:30:42 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -55,12 +55,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ebf/live/c61a5450-d62e-11f1-b441-2b33b063138f.png"/>
         </item>
         <item>
-            <title><![CDATA[The pathway promise: Why Scottish football is struggling to produce young talent]]></title>
-            <description><![CDATA[Scottish football is wrestling with a growing concern over the number of homegrown players who are making to the top of the game.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/crx23ejgz7j8o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/crx23ejgz7j8o#0</guid>
-            <pubDate>Mon, 02 Nov 2026 06:05:57 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e76/live/5f6d3a80-d442-11f1-97f9-27ebf08d99fe.jpg"/>
+            <title><![CDATA[Falkirk brick wall Bain boosts Scotland chances]]></title>
+            <description><![CDATA[Scott Bain proved unbeatable as he helped Falkirk defeat his former club, Celtic, just in time for the goalkeeper to push his case for inclusion in the latest Scotland squad.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/c65ynz5ve125o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c65ynz5ve125o#0</guid>
+            <pubDate>Mon, 02 Nov 2026 08:22:20 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/926b/live/2c541140-d60a-11f1-a790-6f04ef4f8c74.jpg"/>
         </item>
         <item>
             <title><![CDATA[Giant curiosity Hibs finally liberated from Hearts sucker punch]]></title>
@@ -143,6 +143,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f434/live/50cc1ac0-d62a-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
+            <title><![CDATA[The pathway promise: Why Scottish football is struggling to produce young talent]]></title>
+            <description><![CDATA[Scottish football is wrestling with a growing concern over the number of homegrown players who are making to the top of the game.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/crx23ejgz7j8o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/crx23ejgz7j8o#2</guid>
+            <pubDate>Mon, 02 Nov 2026 06:05:57 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e76/live/5f6d3a80-d442-11f1-97f9-27ebf08d99fe.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Who am I? Plus today's other quizzes]]></title>
             <description><![CDATA[Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cx30erg1d2rjo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -159,20 +167,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/849b/live/b532dde0-d630-11f1-b862-ff7106b70f88.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Football Daily]]></title>
-            <description><![CDATA[Rick Edwards is joined by Luke Kempner to reflect on Arsenal’s 1-0 win at Anfield.]]></description>
-            <link>https://www.bbc.co.uk/sounds/play/p0pks2xb?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0pks2xb#2</guid>
-            <pubDate>Mon, 02 Nov 2026 00:59:00 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0pgvdbk.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Are Manchester United really at risk of a relegation scrap?]]></title>
             <description><![CDATA[Manchester United's current tally of seven points from nine games would not even get them 30 points if it was continued for the full season.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/c8g47wl06vkqo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c8g47wl06vkqo#3</guid>
             <pubDate>Sat, 31 Oct 2026 23:52:28 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c471/live/62195190-d55c-11f1-b937-61b94454a4cf.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Football Daily]]></title>
+            <description><![CDATA[Rick Edwards is joined by Luke Kempner to reflect on Arsenal’s 1-0 win at Anfield.]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/p0pks2xb?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0pks2xb#3</guid>
+            <pubDate>Mon, 02 Nov 2026 00:59:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0pgvdbk.jpg"/>
         </item>
         <item>
             <title><![CDATA[Spence 'very proud' to break WSL appearance record]]></title>
@@ -194,7 +202,7 @@
             <title><![CDATA[Retired Sheff Utd legend Sharp signs for Rushden]]></title>
             <description><![CDATA[Former Sheffield United and Doncaster Rovers striker Billy Sharp comes out of retirement to join Northern Premier League side AFC Rushden & Diamonds as they prepare for their FA Cup match against Burton Albion.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/c820vylvxwxlo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c820vylvxwxlo#3</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c820vylvxwxlo#5</guid>
             <pubDate>Sun, 01 Nov 2026 16:51:07 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/35f1/live/61412250-d612-11f1-90fb-b3468681b3ba.jpg"/>
         </item>
@@ -218,7 +226,7 @@
             <title><![CDATA[Maresca's big test is to address mounting Man City issues]]></title>
             <description><![CDATA[Enzo Maresca enjoyed a flawless start as Manchester City manager, winning his first seven Premier League games in charge, but the honeymoon period is now over.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cve8rkd8r302o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cve8rkd8r302o#5</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cve8rkd8r302o#6</guid>
             <pubDate>Sat, 31 Oct 2026 19:05:41 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9843/live/a24ea490-d557-11f1-b937-61b94454a4cf.jpg"/>
         </item>
@@ -479,6 +487,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e76/live/5f6d3a80-d442-11f1-97f9-27ebf08d99fe.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Falkirk brick wall Bain boosts Scotland chances]]></title>
+            <description><![CDATA[Scott Bain proved unbeatable as he helped Falkirk defeat his former club, Celtic, just in time for the goalkeeper to push his case for inclusion in the latest Scotland squad.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/c65ynz5ve125o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c65ynz5ve125o#16</guid>
+            <pubDate>Mon, 02 Nov 2026 08:22:20 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/926b/live/2c541140-d60a-11f1-a790-6f04ef4f8c74.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Listen: Derby delight for Hibs, fresh questions for Celtic]]></title>
             <description><![CDATA[A huge weekend of League Cup drama and a significant twist in the Premiership title race.]]></description>
             <link>https://www.bbc.co.uk/sounds/play/p0pks275?at_medium=RSS&amp;at_campaign=rss</link>
@@ -515,16 +531,8 @@
             <description><![CDATA[Extended highlights of Falkirk v Celtic, and a look back at Saturday's action.]]></description>
             <link>https://www.bbc.co.uk/iplayer/episode/m0033wbj?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/iplayer/episode/m0033wbj#16</guid>
-            <pubDate>Sun, 01 Nov 2026 19:45:14 GMT</pubDate>
+            <pubDate>Sun, 01 Nov 2026 19:45:11 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0pkrcp5.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Watch: Best of Scottish Championship & Leagues 1 & 2 action]]></title>
-            <description><![CDATA[Watch the best of the action from the weekend's action in the Scottish Championship, League 1 and League 2.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/videos/c8ly0qw3nee9o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/c8ly0qw3nee9o#16</guid>
-            <pubDate>Mon, 02 Nov 2026 08:01:32 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c4a/live/e4f14f40-cba8-11f1-9ee2-f74dfb8e54e5.jpg"/>
         </item>
         <item>
             <title><![CDATA[Defeat for London City - but is Europe a real possibility?]]></title>
