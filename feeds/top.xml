@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 02 Nov 2026 04:47:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Nov 2026 05:48:52 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -31,20 +31,12 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9fb5/live/43875670-d640-11f1-be6d-936c6c4b19c2.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Thousands of jobs at Virgin Media O2 to be cut]]></title>
-            <description><![CDATA[The broadband provider has not finalised the number of roles to be axed but it will likely be a sizeable chunk of its workforce, the BBC understands.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c6rry8x9d9qko?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6rry8x9d9qko#1</guid>
-            <pubDate>Sun, 01 Nov 2026 16:57:14 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac17/live/9ec7c8b0-d610-11f1-bdc5-33a5057f63d4.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts]]></title>
-            <description><![CDATA[The move by Haley Stevens, who lost out on the Democratic Senate nomination to Abdul El-Sayed, was called a "despicable betrayal" by one top Democrat. ]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c95ynzv88n68o#1</guid>
-            <pubDate>Mon, 02 Nov 2026 01:45:42 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/228a/live/b46d8f40-d676-11f1-93e1-3b657b665bcf.jpg"/>
+            <title><![CDATA[How a Democrat in Michigan rocked the party days before the US midterms]]></title>
+            <description><![CDATA[BBC's Nada Tawfik visited Detroit, Michigan where the party spat unfolded.]]></description>
+            <link>https://www.bbc.co.uk/news/videos/cqvgjljj74n8o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cqvgjljj74n8o#1</guid>
+            <pubDate>Mon, 02 Nov 2026 04:40:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8c3/live/4a47a4d0-d66b-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
             <title><![CDATA[Democrats have high hopes for midterms, but polls have let them down before]]></title>
@@ -53,6 +45,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmg47p3edv4do#1</guid>
             <pubDate>Mon, 02 Nov 2026 00:25:12 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae1b/live/eaba2bb0-d48e-11f1-9a20-f717db279e3e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Binance users withdraw $3.6bn after record crypto hack]]></title>
+            <description><![CDATA[The exchange froze transactions in the wake of the incident, which impacted $6.3bn worth of digital assets.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwj34gdmnly4o#1</guid>
+            <pubDate>Mon, 02 Nov 2026 03:32:14 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a7f/live/ad865b20-d64f-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
             <title><![CDATA[Antonelli becomes world champion as Verstappen wins in Mexico]]></title>
@@ -79,14 +79,6 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/98d2/live/7c6766b0-d613-11f1-90fb-b3468681b3ba.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Tributes to 'inspirational' Olympian Ciara Mageean after death at 34]]></title>
-            <description><![CDATA[The former European 1500m champion had bowel cancer and died just three weeks after marrying her partner.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cj3vqy1g3eygo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cj3vqy1g3eygo#1</guid>
-            <pubDate>Sun, 01 Nov 2026 23:31:31 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0552/live/19da7760-d633-11f1-9ca7-b72124134595.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[After a 28-year trek around the world, homebound Karl Bushby crosses the Humber Bridge]]></title>
             <description><![CDATA[The British adventurer is due to complete his 31,000-mile challenge in Hull on Monday.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c9146yve236lo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -95,12 +87,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eda7/live/fe7b2e30-d61c-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Binance users withdraw $3.6bn after record crypto hack]]></title>
-            <description><![CDATA[The exchange froze transactions in the wake of the incident, which impacted $6.3bn worth of digital assets.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwj34gdmnly4o#1</guid>
-            <pubDate>Mon, 02 Nov 2026 03:32:14 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a7f/live/ad865b20-d64f-11f1-a701-fddedf244c16.jpg"/>
+            <title><![CDATA[Tributes to 'inspirational' Olympian Ciara Mageean after death at 34]]></title>
+            <description><![CDATA[The former European 1500m champion had bowel cancer and died just three weeks after marrying her partner.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cj3vqy1g3eygo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cj3vqy1g3eygo#1</guid>
+            <pubDate>Sun, 01 Nov 2026 23:31:31 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0552/live/19da7760-d633-11f1-9ca7-b72124134595.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Thousands of jobs at Virgin Media O2 to be cut]]></title>
+            <description><![CDATA[The broadband provider has not finalised the number of roles to be axed but it will likely be a sizeable chunk of its workforce, the BBC understands.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c6rry8x9d9qko?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6rry8x9d9qko#1</guid>
+            <pubDate>Sun, 01 Nov 2026 16:57:14 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac17/live/9ec7c8b0-d610-11f1-bdc5-33a5057f63d4.jpg"/>
         </item>
         <item>
             <title><![CDATA[Don't get caught out by new Buy Now Pay Later rules]]></title>
@@ -175,6 +175,15 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ddba/live/33355510-d488-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
+            <title><![CDATA[France launches attempted murder investigation after petrol bomb thrown at police]]></title>
+            <description><![CDATA[There were hundreds of arrests as protesters took to the streets in cities across France for the third weekend in a row. 
+]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cwvg05z184j0o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwvg05z184j0o#4</guid>
+            <pubDate>Mon, 02 Nov 2026 00:15:30 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/30b9/live/175c0e10-d62c-11f1-b085-b9e65bc8bfff.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[China state broadcaster pulls Real Madrid match over Mbappé joke]]></title>
             <description><![CDATA[China Media Group, which acknowledged Mbappé's apology, has not said how long the blackout will last.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cq78pypg0800o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -207,12 +216,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca26/live/ddbc05b0-d546-11f1-b69a-cfba30d5f3d4.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Police probe video of officer hitting youth with handcuffs]]></title>
-            <description><![CDATA[A video which shows an officer hitting a youth is a "small part of the incident", police say.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cme8rkgpjk5ko?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cme8rkgpjk5ko#4</guid>
-            <pubDate>Sun, 01 Nov 2026 13:48:45 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/11e1/live/f50d1300-d5f3-11f1-a6a8-6dc45e4fc351.png"/>
+            <title><![CDATA[Senator Chris Murphy expected to make full recovery after stroke ]]></title>
+            <description><![CDATA[The Connecticut Democrat had been campaigning around the country for Democrats on the ballot this midterm election. ]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cw78pyy73d4xo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cw78pyy73d4xo#4</guid>
+            <pubDate>Mon, 02 Nov 2026 04:53:20 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/23b2/live/64a26fc0-d654-11f1-983c-1351d47f9642.jpg"/>
         </item>
         <item>
             <title><![CDATA[Israeli strikes in Gaza kill eight including child, hospitals say]]></title>
@@ -221,14 +230,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmqln14rrzxvo#4</guid>
             <pubDate>Sun, 01 Nov 2026 17:06:32 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c922/live/4fe4c8d0-d5fa-11f1-a701-fddedf244c16.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[More than 300 arrests at Palestine Action support protest outside US embassy]]></title>
-            <description><![CDATA[More than 4,000 people have been arrested for supporting the group since it was proscribed in July 2025.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c98rz23ed781o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c98rz23ed781o#4</guid>
-            <pubDate>Sun, 01 Nov 2026 13:41:00 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c2da/live/12dda4f0-d5f7-11f1-a6a8-6dc45e4fc351.jpg"/>
         </item>
         <item>
             <title><![CDATA[Download now]]></title>
