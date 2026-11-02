@@ -9,17 +9,17 @@
             <link>https://www.bbc.co.uk/news/world</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 02 Nov 2026 21:06:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Nov 2026 21:47:27 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/world/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
             <title><![CDATA[Russian bombing kills 26 people at Ukraine aid centre, Kyiv says]]></title>
-            <description><![CDATA[Local officials say more had been missing after at least nine 3,000kg aerial bombs hit a village in southern Ukraine. ]]></description>
+            <description><![CDATA[Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the president called an "utterly horrific" attack.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cjy56dndlyz0o#0</guid>
-            <pubDate>Mon, 02 Nov 2026 20:23:12 GMT</pubDate>
+            <pubDate>Mon, 02 Nov 2026 21:10:04 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee1e/live/8480acc0-d6eb-11f1-a741-236ee91c2e25.png"/>
         </item>
         <item>
@@ -217,9 +217,7 @@
         </item>
         <item>
             <title><![CDATA[What Florida jet audio and flight data tells us about its final moments]]></title>
-            <description><![CDATA[A private jet crashed in Florida on Sunday, killing all nine people on board, according to US authorities.
-
-BBC Verify has used air traffic control audio and flight tracking data to reconstruct the final moments before the plane crashed. ]]></description>
+            <description><![CDATA[A private jet crashed in Florida on Sunday, killing all nine people on board, according to US authorities.]]></description>
             <link>https://www.bbc.co.uk/news/videos/c52e9lgxjz82o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/c52e9lgxjz82o#2</guid>
             <pubDate>Mon, 02 Nov 2026 19:49:22 GMT</pubDate>
