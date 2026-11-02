@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/sport/football</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 02 Nov 2026 19:34:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Nov 2026 20:24:13 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -21,6 +21,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c933x04ryz4do#0</guid>
             <pubDate>Mon, 02 Nov 2026 16:00:07 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/925e/live/560b7790-d6db-11f1-b441-2b33b063138f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fifa to share confidential World Cup sell-off plan documents]]></title>
+            <description><![CDATA[Fifa has informed members of its Council that they will be granted access to view some documents related to president Gianni Infantino's failed plan to sell off stakes in the World Cup to private investors.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/c6vgj0p4ey17o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6vgj0p4ey17o#0</guid>
+            <pubDate>Mon, 02 Nov 2026 20:23:55 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3134/live/d6604cd0-d6eb-11f1-a741-236ee91c2e25.jpg"/>
         </item>
         <item>
             <title><![CDATA[To dive or not to dive? Football's big dilemma]]></title>
@@ -95,14 +103,6 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd5c/live/03c10590-d6cc-11f1-ac20-7783925c811f.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Hibs toast win over Hearts - but will they kick on before cup final?]]></title>
-            <description><![CDATA[Hibernian buried their Hampden hoodoo against city rivals Heart of Midlothian on Sunday, but will they build on their Premier Sports Cup semi-final triumph?]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cmje5gjp5ezgo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmje5gjp5ezgo#0</guid>
-            <pubDate>Mon, 02 Nov 2026 11:39:41 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65ab/live/53172fe0-d6b1-11f1-b5fb-3b1e7f14caa9.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Every goal from the Women's Super League - matchweek eight]]></title>
             <description><![CDATA[Watch every goal from across the WSL in match week eight, from Chelsea's thrashing to Arsenal's late equaliser, in an eventful weekend of action.]]></description>
             <link>https://www.bbc.co.uk/sport/football/videos/c6rmy008xmzxo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -143,6 +143,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4707/live/d5373530-d632-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Hibs toast win over Hearts - but will they kick on before cup final?]]></title>
+            <description><![CDATA[Hibernian buried their Hampden hoodoo against city rivals Heart of Midlothian on Sunday, but will they build on their Premier Sports Cup semi-final triumph?]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cmje5gjp5ezgo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmje5gjp5ezgo#2</guid>
+            <pubDate>Mon, 02 Nov 2026 11:39:41 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65ab/live/53172fe0-d6b1-11f1-b5fb-3b1e7f14caa9.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Falkirk brick wall Bain boosts Scotland chances]]></title>
             <description><![CDATA[Scott Bain proved unbeatable as he helped Falkirk defeat his former club, Celtic, just in time for the goalkeeper to push his case for inclusion in the latest Scotland squad.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/c65ynz5ve125o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -167,20 +175,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0lz125l.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Boy, 14, hands himself in to police over Bradley Lowery video]]></title>
-            <description><![CDATA[A 14-year-old has handed himself into West Midlands Police after Coventry City said they were investigating a video appearing to show a fan taunting Sunderland supporters with a picture of Bradley Lowery.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/c6z7x52w0r0zo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6z7x52w0r0zo#2</guid>
-            <pubDate>Sun, 01 Nov 2026 20:15:52 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9407/live/2d7783d0-d624-11f1-8c22-ab38856653ce.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Are Celtic club in regression amid run of six defeats in 10?]]></title>
             <description><![CDATA[Chris Sutton and Ian McCall weigh in on Celtic after a second league defeat of the season, but manager Martin O'Neill is defiant.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cmvg7d1xl8epo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmvg7d1xl8epo#3</guid>
             <pubDate>Sun, 01 Nov 2026 17:34:12 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f85/live/92559140-d613-11f1-90fb-b3468681b3ba.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Boy, 14, hands himself in to police over Bradley Lowery video]]></title>
+            <description><![CDATA[A 14-year-old has handed himself into West Midlands Police after Coventry City said they were investigating a video appearing to show a fan taunting Sunderland supporters with a picture of Bradley Lowery.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/c6z7x52w0r0zo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6z7x52w0r0zo#3</guid>
+            <pubDate>Sun, 01 Nov 2026 20:15:52 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9407/live/2d7783d0-d624-11f1-8c22-ab38856653ce.jpg"/>
         </item>
         <item>
             <title><![CDATA[Man Utd eye Barcelona's Balde - Monday's gossip]]></title>
@@ -255,20 +263,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0pgvdbk.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Non-league clubs tackle teen trouble at matches]]></title>
-            <description><![CDATA[Stones thrown at away fans and a kit man punched as some grounds ban unaccompanied under-16s.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cm4g1jk8we42o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm4g1jk8we42o#5</guid>
-            <pubDate>Mon, 02 Nov 2026 06:13:37 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8dcb/live/b1d511d0-d6bd-11f1-93e1-3b657b665bcf.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Giant curiosity Hibs finally liberated from Hearts sucker punch]]></title>
             <description><![CDATA[Hibernian, for once, avoid late heartbreak to set up League Cup final with Rangers, writes Tom English.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cxr5yjpnd31eo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cxr5yjpnd31eo#6</guid>
             <pubDate>Sun, 01 Nov 2026 18:45:49 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70d1/live/12fd5df0-d623-11f1-8b43-9d133992838c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Non-league clubs tackle teen trouble at matches]]></title>
+            <description><![CDATA[Stones thrown at away fans and a kit man punched as some grounds ban unaccompanied under-16s.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cm4g1jk8we42o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm4g1jk8we42o#6</guid>
+            <pubDate>Mon, 02 Nov 2026 06:13:37 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8dcb/live/b1d511d0-d6bd-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
             <title><![CDATA[Retired Sheff Utd legend Sharp signs for Rushden]]></title>
