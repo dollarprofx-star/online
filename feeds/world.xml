@@ -9,17 +9,17 @@
             <link>https://www.bbc.co.uk/news/world</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 02 Nov 2026 14:38:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Nov 2026 15:33:43 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/world/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
-            <title><![CDATA[Shop freezers in seven European countries hit by suspected cyber-attack]]></title>
+            <title><![CDATA[Shop freezers in seven European countries hit by cyber-attack]]></title>
             <description><![CDATA[The temperature of freezers in several shops across Europe reportedly rose to as high as 50C.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cq1kd1nee80eo#0</guid>
-            <pubDate>Mon, 02 Nov 2026 14:11:13 GMT</pubDate>
+            <pubDate>Mon, 02 Nov 2026 15:12:22 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31c7/live/152ec730-d6c3-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
@@ -28,17 +28,7 @@
             <link>https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo#0</guid>
             <pubDate>Mon, 02 Nov 2026 14:35:01 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3608/live/1d2513e0-d646-11f1-b441-2b33b063138f.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Iran killed her teenage daughter - now she is facing up to the regime]]></title>
-            <description><![CDATA[Samira's 16-year-old daughter Sevda was shot dead as they took part in mass protests in January.
-
-]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c3qjn8117kwjo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c3qjn8117kwjo#0</guid>
-            <pubDate>Mon, 02 Nov 2026 06:00:54 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81df/live/6c995b00-d45e-11f1-93e1-3b657b665bcf.jpg"/>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07ec/live/ca38c7e0-d6cb-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
             <title><![CDATA[Nine killed as small jet crashes on Florida street]]></title>
@@ -57,10 +47,18 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d521/live/c93db920-d696-11f1-8052-913cc7942a17.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Wizz Air flight from Luton in emergency landing after bomb threat]]></title>
+            <description><![CDATA[A Hungarian fighter jet escorted the aircraft to Budapest after the threat was received mid-air.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c6rryvwre0p5o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6rryvwre0p5o#0</guid>
+            <pubDate>Mon, 02 Nov 2026 14:35:38 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4189/live/0af88b20-d6c8-11f1-ac20-7783925c811f.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Ryanair says it may freeze workers' pay and raise airfares]]></title>
             <description><![CDATA[The airline says fuel prices may rise by €2bn in 2028 unless there is an end to the US-Israel war with Iran.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cr0qkve1x224o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cr0qkve1x224o#0</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cr0qkve1x224o#1</guid>
             <pubDate>Mon, 02 Nov 2026 12:22:10 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/895b/live/a85523b0-d691-11f1-8f56-0b6ab08f384e.jpg"/>
         </item>
@@ -74,7 +72,7 @@
         </item>
         <item>
             <title><![CDATA[Uganda begins withdrawing troops from Somalia after 20 years]]></title>
-            <description><![CDATA[The country was the first to contribute troops to the AU mission established to stabilise Somalia in 2007.]]></description>
+            <description><![CDATA[Uganda has been helping Somalia battle an insurgency led by the al-Shabab militant group since 2007.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c8zxlqxwed4do?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c8zxlqxwed4do#1</guid>
             <pubDate>Mon, 02 Nov 2026 12:05:34 GMT</pubDate>
@@ -186,36 +184,46 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5071/live/dc9ee270-d531-11f1-866a-b522399149a0.jpg"/>
         </item>
         <item>
-            <title><![CDATA[North Carolina voters weigh up Trump's track record on cost of living]]></title>
-            <description><![CDATA[The BBC's Clive Myrie found voters in the state were asking themselves whether they were better off than two years ago.]]></description>
-            <link>https://www.bbc.co.uk/news/videos/cwly0eev3m44o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cwly0eev3m44o#2</guid>
-            <pubDate>Sun, 01 Nov 2026 22:25:51 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/72fa/live/5f195450-d696-11f1-93e1-3b657b665bcf.png"/>
+            <title><![CDATA[What we know about the alert app hack in Ukraine and Russia]]></title>
+            <description><![CDATA[Both Ukraine and Russia say their air raid alert apps were cyber-attacked - Joe Tidy explains what we know so far.]]></description>
+            <link>https://www.bbc.co.uk/news/videos/crq5n6204g20o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/crq5n6204g20o#2</guid>
+            <pubDate>Mon, 02 Nov 2026 14:24:25 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1cbd/live/ab9f8ec0-d6c8-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Peaceful protests in Germany spiral into violence and looting]]></title>
-            <description><![CDATA[Thousands joined largely orderly demonstrations earlier in the day, before violence erupted in Frankfurt, Berlin, Cologne and Hamburg.]]></description>
-            <link>https://www.bbc.co.uk/news/videos/cqgm0der7zkmo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cqgm0der7zkmo#2</guid>
-            <pubDate>Sun, 01 Nov 2026 18:51:56 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c8f/live/e077e4c0-d61f-11f1-beec-49c9509fcdec.jpg"/>
+            <title><![CDATA['I couldn't be silent': Iranian teen's mother seeking justice after daughter shot dead]]></title>
+            <description><![CDATA[BBC Panorama follows grieving Samira who - after the killing of Sevda - faces up to the Tehran regime.]]></description>
+            <link>https://www.bbc.co.uk/news/videos/cwjdmp25mem9o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cwjdmp25mem9o#2</guid>
+            <pubDate>Mon, 02 Nov 2026 06:05:34 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83a4/live/9b45be10-d474-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Watch: Heidi Klum as giant severed hand for Halloween bash]]></title>
-            <description><![CDATA[The supermodel and TV host provided a gory new shock at her New York event.]]></description>
-            <link>https://www.bbc.co.uk/news/videos/cj040yd1xdrlo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cj040yd1xdrlo#2</guid>
-            <pubDate>Sun, 01 Nov 2026 05:26:02 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be5b/live/57cc5ff0-d5b3-11f1-93e1-3b657b665bcf.jpg"/>
+            <title><![CDATA[What are Americans voting for in this election?]]></title>
+            <description><![CDATA[The BBC's Maddie Gerber explains what's on the ballot in the 2026 midterm elections in the United States.]]></description>
+            <link>https://www.bbc.co.uk/news/videos/cjly0p753dxxo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cjly0p753dxxo#2</guid>
+            <pubDate>Mon, 02 Nov 2026 09:22:55 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea87/live/855e5c00-d6be-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Thousands demonstrate in Paris as protests spread across Europe]]></title>
-            <description><![CDATA[More than 320,000 people demonstrated across France against the rising cost of living and poor public services, with clashes between some protesters and police.]]></description>
-            <link>https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/ck0j0y87j303o#2</guid>
-            <pubDate>Sat, 31 Oct 2026 21:29:01 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d3a/live/6230e120-d570-11f1-93e1-3b657b665bcf.jpg"/>
+            <title><![CDATA[Americast]]></title>
+            <description><![CDATA[Will this stop the Democrats taking back the Senate?]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/p0pkt7t5?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0pkt7t5#2</guid>
+            <pubDate>Mon, 02 Nov 2026 06:58:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0j72y80.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Iran killed her teenage daughter - now she is facing up to the regime]]></title>
+            <description><![CDATA[Samira's 16-year-old daughter Sevda was shot dead as they took part in mass protests in January.
+
+]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c3qjn8117kwjo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c3qjn8117kwjo#3</guid>
+            <pubDate>Mon, 02 Nov 2026 06:00:54 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81df/live/6c995b00-d45e-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
             <title><![CDATA[Democrats have high hopes for midterms - but are the polls right?]]></title>
@@ -226,20 +234,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/731d/live/ec723e90-d694-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
+            <title><![CDATA[A Paralympian vs a former TV news anchor - and other US Senate races to watch]]></title>
+            <description><![CDATA[All eyes are on a handful of Senate races that will decide control of the prized upper chamber. Here's a quick guide.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cqy7ljkprvjko?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqy7ljkprvjko#3</guid>
+            <pubDate>Mon, 02 Nov 2026 13:49:19 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a7ce/live/259c6b00-d1e5-11f1-a701-fddedf244c16.png"/>
+        </item>
+        <item>
             <title><![CDATA[Antonelli - the boy 'born in a garage' who became world champion]]></title>
             <description><![CDATA[Kimi Antonelli was a natural driver at the age of three, according to his dad. Here's how he developed to become the F1 champion at the age of 20. ]]></description>
             <link>https://www.bbc.co.uk/sport/formula1/articles/c0rdvxdwwwwo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/formula1/articles/c0rdvxdwwwwo#3</guid>
             <pubDate>Sun, 01 Nov 2026 22:25:01 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c15/live/b16a1f00-94a6-11f1-afe9-fb1a837ec5d9.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lindsay Clancy is back in court - where will her case go next?]]></title>
-            <description><![CDATA[The Massachusetts mother, accused of murdering her three children, is expected back in court as she awaits a decision on whether her case will be retried.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/ck3r5z3pw928o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ck3r5z3pw928o#3</guid>
-            <pubDate>Sun, 01 Nov 2026 17:29:08 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f436/live/1948f1a0-d255-11f1-bb20-4320a74e5db1.jpg"/>
         </item>
         <item>
             <title><![CDATA[How the downfall of Serbia's Vučiċ mirrored that of Hungary's Orbán]]></title>
