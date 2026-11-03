@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news/world</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 03 Nov 2026 21:23:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Nov 2026 22:11:34 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/world/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -19,7 +19,7 @@
             <description><![CDATA[At least 69 people were killed and dozens injured in the collision south of the capital, Madrid.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo#0</guid>
-            <pubDate>Tue, 03 Nov 2026 21:19:57 GMT</pubDate>
+            <pubDate>Tue, 03 Nov 2026 22:04:09 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d61f/live/6dc1cd30-d7c6-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
@@ -39,12 +39,12 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b517/live/8d68c970-d7a0-11f1-84dd-e55f4bec0ecd.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital]]></title>
-            <description><![CDATA[At least 38 people are killed in 24 hours and Ukraine's Volodymyr Zelensky warns dozens more could be trapped under rubble.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c65ynez5y599o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c65ynez5y599o#0</guid>
-            <pubDate>Tue, 03 Nov 2026 16:57:41 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a5b/live/6de1e2e0-d7c7-11f1-a719-bf3dc3a3d5b5.jpg"/>
+            <title><![CDATA[NTSB says crucial plane parts found three miles from Florida crash site]]></title>
+            <description><![CDATA[The NTSB said because the parts were found far from the accident site, they fell off before the crash. ]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c9e8lk5dpj7no?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c9e8lk5dpj7no#0</guid>
+            <pubDate>Tue, 03 Nov 2026 21:53:38 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c38/live/b5b1d720-d7cb-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
             <title><![CDATA[Libya's top religious authority rules against wearing Nike clothes]]></title>
@@ -61,6 +61,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwy8lm1m59mvo#0</guid>
             <pubDate>Tue, 03 Nov 2026 13:55:47 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a890/live/d92739f0-d778-11f1-9539-05485195b558.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital]]></title>
+            <description><![CDATA[At least 38 people are killed in 24 hours and Ukraine's Volodymyr Zelensky warns dozens more could be trapped under rubble.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c65ynez5y599o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c65ynez5y599o#1</guid>
+            <pubDate>Tue, 03 Nov 2026 16:57:41 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a5b/live/6de1e2e0-d7c7-11f1-a719-bf3dc3a3d5b5.jpg"/>
         </item>
         <item>
             <title><![CDATA[US strikes Iranian island ahead of midterm elections]]></title>
@@ -181,14 +189,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6rey4v53exgo#1</guid>
             <pubDate>Tue, 03 Nov 2026 08:33:20 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a90/live/75145840-d727-11f1-b237-93d5595d4291.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Man guilty of stealing cash from farm owned by South African president]]></title>
-            <description><![CDATA[The case, part of the "Farmgate" scandal, has left President Cyril Ramaphosa mired in an impeachment saga.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c9vgrvpk4l6eo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c9vgrvpk4l6eo#1</guid>
-            <pubDate>Mon, 02 Nov 2026 20:08:51 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee6f/live/1399f160-d6fa-11f1-b983-c357054e4d1e.jpg"/>
         </item>
         <item>
             <title><![CDATA[Film star Ranbir Kapoor on AI, movies and fatherhood]]></title>
