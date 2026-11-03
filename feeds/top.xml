@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 03 Nov 2026 15:25:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Nov 2026 16:20:22 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -23,20 +23,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/50a9/live/ece0d370-d787-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Spanish footballer dies after collision with goalkeeper during match]]></title>
-            <description><![CDATA[Tenerife striker Jesus de Miguel has died after the 30-year-old suffered a serious injury during a Spanish second-division match.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo#1</guid>
-            <pubDate>Tue, 03 Nov 2026 09:09:18 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ae3/live/76b91180-d77d-11f1-b441-2b33b063138f.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Celebrity loses injunction bid but will stay anonymous pending appeal]]></title>
             <description><![CDATA[The unnamed man asked for an injunction to stop his identity being reported in connection with allegations against him.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cqglwjdgg045o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqglwjdgg045o#1</guid>
             <pubDate>Tue, 03 Nov 2026 14:33:14 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b716/live/ea4a32c0-d776-11f1-9539-05485195b558.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Spanish footballer dies after collision with goalkeeper during match]]></title>
+            <description><![CDATA[Tenerife striker Jesus de Miguel has died after the 30-year-old suffered a serious injury during a Spanish second-division match.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo#1</guid>
+            <pubDate>Tue, 03 Nov 2026 09:09:18 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ae3/live/76b91180-d77d-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
             <title><![CDATA[Watch: Why is 'Mogging' the word of the year?]]></title>
@@ -51,7 +51,7 @@
             <description><![CDATA[The Crown Prosecution Service has charged George Madgwick with 35 offences, including 12 counts of rape.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c63elky79np7o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c63elky79np7o#1</guid>
-            <pubDate>Tue, 03 Nov 2026 15:16:53 GMT</pubDate>
+            <pubDate>Tue, 03 Nov 2026 16:18:21 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7348/live/ba0862c0-ac57-11f1-be57-03729df1d736.jpg"/>
         </item>
         <item>
@@ -59,7 +59,7 @@
             <description><![CDATA[MI5 chief Sir Ken McCallum welcomed the court's decision and says its judgment "underlines MI5's serious failures in this case".]]></description>
             <link>https://www.bbc.co.uk/news/articles/cq5yn64wn2y7o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cq5yn64wn2y7o#1</guid>
-            <pubDate>Tue, 03 Nov 2026 11:02:47 GMT</pubDate>
+            <pubDate>Tue, 03 Nov 2026 15:28:47 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3541/live/9f5eefc0-7ae3-11f1-bee8-53ce494e1abc.png"/>
         </item>
         <item>
@@ -103,7 +103,7 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e286/live/58c44510-d6d2-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
-            <title><![CDATA[A Paralympian vs a former TV news anchor - and other US Senate races to watch]]></title>
+            <title><![CDATA[The key US Senate races to watch]]></title>
             <description><![CDATA[All eyes are on a handful of Senate races that will decide control of the prized upper chamber. Here's a quick guide.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cqy7ljkprvjko?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqy7ljkprvjko#2</guid>
@@ -143,6 +143,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5666/live/b5686c80-d793-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
+            <title><![CDATA[How sporting events are being impacted by Middle East conflict]]></title>
+            <description><![CDATA[BBC Sport takes a look at how the ongoing conflict in the Middle East has affected sporting events in Saudi Arabia, Qatar, Bahrain and the wider area.]]></description>
+            <link>https://www.bbc.co.uk/sport/articles/ck0j0l65nzlvo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/articles/ck0j0l65nzlvo#3</guid>
+            <pubDate>Tue, 03 Nov 2026 16:01:24 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/754d/live/85ccd330-d798-11f1-801d-cf196dc7232c.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Scientists detect signals from the zeptoverse - the smallest scale of nature ever explored]]></title>
             <description><![CDATA[Researchers have detected signals from the smallest distances ever probed.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c5pvgxkkv4dzo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -175,20 +183,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb7f/live/0436c4d0-d75b-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
-            <title><![CDATA[If hackers can take control of a supermarket freezer, how vulnerable is other tech?]]></title>
-            <description><![CDATA[Dozens of shops across European countries have been hit by a cyber-attack affecting their fridges.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/ckpqg8lve73go?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckpqg8lve73go#3</guid>
-            <pubDate>Mon, 02 Nov 2026 18:25:01 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db6d/live/6afb9b70-d6cd-11f1-ac20-7783925c811f.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Jet may have broken apart before Florida crash, officials say, as family named among victims]]></title>
             <description><![CDATA[Adam Robinson, Helen Sharp, and their two children - Emma, four, and Charlie, two - died after the plane nosedived.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cm9wz01dx8xro?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm9wz01dx8xro#5</guid>
             <pubDate>Tue, 03 Nov 2026 13:44:44 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5fb6/live/93e34d90-d70d-11f1-a0eb-498100a176c1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jewellery sold as sterling silver on Amazon and Temu found to contain toxic chemicals]]></title>
+            <description><![CDATA[An investigation by Watchdog analysed 25 items bought from Amazon, Etsy, Temu, eBay and OnBuy.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cm62yjx4dl0jo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm62yjx4dl0jo#5</guid>
+            <pubDate>Tue, 03 Nov 2026 16:13:45 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d9c/live/1d134c40-d6d8-11f1-a701-fddedf244c16.png"/>
         </item>
         <item>
             <title><![CDATA[UK meat industry hit by cyber-attack which targeted European supermarket freezers ]]></title>
@@ -229,14 +237,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cx240mrm3g8vo#5</guid>
             <pubDate>Tue, 03 Nov 2026 11:33:33 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/935d/live/479e54b0-d745-11f1-b441-2b33b063138f.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Indian tourist killed after two helicopters collide near Everest base camp]]></title>
-            <description><![CDATA[The two aircraft crashed just metres from the ground after trying to land at the same spot.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cmqlnx7z1549o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmqlnx7z1549o#5</guid>
-            <pubDate>Tue, 03 Nov 2026 11:51:08 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/029f/live/4eb51590-d772-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
             <title><![CDATA[Download now]]></title>
@@ -287,12 +287,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80ee/live/13b430e0-d78e-11f1-9440-953b82c8f55a.jpg"/>
         </item>
         <item>
-            <title><![CDATA[RFL backs Wilkin's £30m funding plea to Burnham]]></title>
-            <description><![CDATA[The new head of English rugby league backs a call for Prime Minister Andy Burnham to approve a £30m community funding plan for the sport.]]></description>
-            <link>https://www.bbc.co.uk/sport/rugby-league/articles/cqn06nk1rx4xo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/rugby-league/articles/cqn06nk1rx4xo#9</guid>
-            <pubDate>Tue, 03 Nov 2026 14:48:52 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47c6/live/c711ea50-d758-11f1-93e1-3b657b665bcf.jpg"/>
+            <title><![CDATA[How sporting events are being impacted by Middle East conflict]]></title>
+            <description><![CDATA[BBC Sport takes a look at how the ongoing conflict in the Middle East has affected sporting events in Saudi Arabia, Qatar, Bahrain and the wider area.]]></description>
+            <link>https://www.bbc.co.uk/sport/articles/ck0j0l65nzlvo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/articles/ck0j0l65nzlvo#9</guid>
+            <pubDate>Tue, 03 Nov 2026 16:01:24 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/754d/live/85ccd330-d798-11f1-801d-cf196dc7232c.jpg"/>
         </item>
         <item>
             <title><![CDATA[McTominay returns as Penrice earns first Scotland call]]></title>
