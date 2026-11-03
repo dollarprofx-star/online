@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 03 Nov 2026 16:20:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Nov 2026 17:21:41 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -23,11 +23,19 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/50a9/live/ece0d370-d787-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
+            <title><![CDATA[King calls slave trade a 'shameful chapter' during Commonwealth address]]></title>
+            <description><![CDATA[The speech comes after calls for the UK government to issue a formal apology for Britain's historic role in the trade.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cr89znnnn7dno?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cr89znnnn7dno#1</guid>
+            <pubDate>Tue, 03 Nov 2026 17:04:02 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e80d/live/1a61d4e0-d7a9-11f1-b441-2b33b063138f.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Celebrity loses injunction bid but will stay anonymous pending appeal]]></title>
             <description><![CDATA[The unnamed man asked for an injunction to stop his identity being reported in connection with allegations against him.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cqglwjdgg045o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqglwjdgg045o#1</guid>
-            <pubDate>Tue, 03 Nov 2026 14:33:14 GMT</pubDate>
+            <pubDate>Tue, 03 Nov 2026 16:34:33 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b716/live/ea4a32c0-d776-11f1-9539-05485195b558.jpg"/>
         </item>
         <item>
@@ -39,7 +47,7 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ae3/live/76b91180-d77d-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Watch: Why is 'Mogging' the word of the year?]]></title>
+            <title><![CDATA[Watch: Why is 'mogging' the word of the year?]]></title>
             <description><![CDATA[The slang word has become popular among members of Generations Z and Alpha - both online and in everyday conversation.]]></description>
             <link>https://www.bbc.co.uk/news/videos/cm3wv029jlxyo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cm3wv029jlxyo#1</guid>
@@ -47,28 +55,28 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/24e3/live/d3f5d1b0-d789-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital]]></title>
+            <description><![CDATA[At least 38 people are killed in 24 hours and Ukraine's Volodymyr Zelensky warns dozens more could be trapped under rubble.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c65ynez5y599o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c65ynez5y599o#1</guid>
+            <pubDate>Tue, 03 Nov 2026 16:57:41 GMT</pubDate>
+            <media:thumbnail width="240" height="160" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3eae/live/d2df48e0-d79a-11f1-b441-2b33b063138f.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Reform UK councillor charged with rape and sexual assault]]></title>
             <description><![CDATA[The Crown Prosecution Service has charged George Madgwick with 35 offences, including 12 counts of rape.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c63elky79np7o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c63elky79np7o#1</guid>
-            <pubDate>Tue, 03 Nov 2026 16:18:21 GMT</pubDate>
+            <pubDate>Tue, 03 Nov 2026 16:43:50 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7348/live/ba0862c0-ac57-11f1-be57-03729df1d736.jpg"/>
         </item>
         <item>
-            <title><![CDATA[MI5 will not face contempt of court charges despite admitting its evidence was a lie]]></title>
-            <description><![CDATA[MI5 chief Sir Ken McCallum welcomed the court's decision and says its judgment "underlines MI5's serious failures in this case".]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cq5yn64wn2y7o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cq5yn64wn2y7o#1</guid>
-            <pubDate>Tue, 03 Nov 2026 15:28:47 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3541/live/9f5eefc0-7ae3-11f1-bee8-53ce494e1abc.png"/>
-        </item>
-        <item>
-            <title><![CDATA[Jury in Russell Brand rape trial begins considering verdicts]]></title>
-            <description><![CDATA[The media personality has been on trial for three weeks, after pleading not guilty to all charges.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/ckly4ed521emo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckly4ed521emo#1</guid>
-            <pubDate>Tue, 03 Nov 2026 14:50:06 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d509/live/f1e01d40-d778-11f1-9539-05485195b558.jpg"/>
+            <title><![CDATA[Binance says fake job interviews used as part of $6.3bn crypto hack]]></title>
+            <description><![CDATA[An engineer was contacted through a legitimate job-hunting platform and invited to bogus job interviews with fake company representatives, Binance says.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o#1</guid>
+            <pubDate>Tue, 03 Nov 2026 16:19:29 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b517/live/8d68c970-d7a0-11f1-84dd-e55f4bec0ecd.jpg"/>
         </item>
         <item>
             <title><![CDATA[Third teen arrested after Halloween party stabbings]]></title>
@@ -183,22 +191,6 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb7f/live/0436c4d0-d75b-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Jet may have broken apart before Florida crash, officials say, as family named among victims]]></title>
-            <description><![CDATA[Adam Robinson, Helen Sharp, and their two children - Emma, four, and Charlie, two - died after the plane nosedived.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cm9wz01dx8xro?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm9wz01dx8xro#5</guid>
-            <pubDate>Tue, 03 Nov 2026 13:44:44 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5fb6/live/93e34d90-d70d-11f1-a0eb-498100a176c1.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jewellery sold as sterling silver on Amazon and Temu found to contain toxic chemicals]]></title>
-            <description><![CDATA[An investigation by Watchdog analysed 25 items bought from Amazon, Etsy, Temu, eBay and OnBuy.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cm62yjx4dl0jo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm62yjx4dl0jo#5</guid>
-            <pubDate>Tue, 03 Nov 2026 16:13:45 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d9c/live/1d134c40-d6d8-11f1-a701-fddedf244c16.png"/>
-        </item>
-        <item>
             <title><![CDATA[UK meat industry hit by cyber-attack which targeted European supermarket freezers ]]></title>
             <description><![CDATA[Supermarkets in countries including Ireland, Sweden  and Belgium reported fridges being hiked in temperature on Monday.]]></description>
             <link>https://www.bbc.co.uk/news/articles/ckq6ndq8l6v0o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -207,12 +199,28 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3db/live/57d6aa20-d769-11f1-a956-ff083523ef77.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Alton Towers closes World of David Walliams]]></title>
-            <description><![CDATA[The closure comes following a "regular review of rides and attractions", Alton Towers says.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cx8dznljndyzo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cx8dznljndyzo#5</guid>
-            <pubDate>Tue, 03 Nov 2026 11:57:19 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c72/live/29953380-d777-11f1-9539-05485195b558.jpg"/>
+            <title><![CDATA[Jet may have broken apart before Florida crash, officials say, as family named among victims]]></title>
+            <description><![CDATA[Adam Robinson, Helen Sharp, and their two children - Emma, four, and Charlie, two - died after the plane nosedived.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cm9wz01dx8xro?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm9wz01dx8xro#5</guid>
+            <pubDate>Tue, 03 Nov 2026 13:44:44 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5fb6/live/93e34d90-d70d-11f1-a0eb-498100a176c1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MI5 will not face contempt of court charges despite admitting its evidence was a lie]]></title>
+            <description><![CDATA[MI5 chief Sir Ken McCallum welcomed the court's decision and says its judgment "underlines MI5's serious failures in this case".]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cq5yn64wn2y7o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cq5yn64wn2y7o#5</guid>
+            <pubDate>Tue, 03 Nov 2026 15:28:47 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3541/live/9f5eefc0-7ae3-11f1-bee8-53ce494e1abc.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Jury in Russell Brand rape trial begins considering verdicts]]></title>
+            <description><![CDATA[The media personality has been on trial for three weeks, after pleading not guilty to all charges.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/ckly4ed521emo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckly4ed521emo#5</guid>
+            <pubDate>Tue, 03 Nov 2026 14:50:06 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d509/live/f1e01d40-d778-11f1-9539-05485195b558.jpg"/>
         </item>
         <item>
             <title><![CDATA[Girl who rescued injured boy from bonfire acted 'on instinct']]></title>
@@ -283,7 +291,7 @@
             <description><![CDATA[Scrum-half Alex Mitchell has been ruled out of the whole of England's Nations Championship after suffering his fourth hamstring injury of the year.]]></description>
             <link>https://www.bbc.co.uk/sport/rugby-union/articles/c6n4endjxqnko?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/rugby-union/articles/c6n4endjxqnko#9</guid>
-            <pubDate>Tue, 03 Nov 2026 14:31:28 GMT</pubDate>
+            <pubDate>Tue, 03 Nov 2026 17:16:16 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80ee/live/13b430e0-d78e-11f1-9440-953b82c8f55a.jpg"/>
         </item>
         <item>
@@ -295,12 +303,20 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/754d/live/85ccd330-d798-11f1-801d-cf196dc7232c.jpg"/>
         </item>
         <item>
-            <title><![CDATA[McTominay returns as Penrice earns first Scotland call]]></title>
-            <description><![CDATA[Scott McTominay, Kieran Tierney and Che Adams return to the Scotland squad, while there is a first call for James Penrice for the remaining Nations League matches against North Macedonia and Switzerland.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/c6wyvr870d8do?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6wyvr870d8do#9</guid>
-            <pubDate>Tue, 03 Nov 2026 11:29:06 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8424/live/2b4a2160-d775-11f1-a956-ff083523ef77.jpg"/>
+            <title><![CDATA[Pocognoli focus on Scotland tidy-up as Euros loom]]></title>
+            <description><![CDATA[The Scotland head coach insists radical change is not required to improve his team after a mixed maiden camp.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cknv0n96er9po?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cknv0n96er9po#9</guid>
+            <pubDate>Tue, 03 Nov 2026 16:54:35 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a643/live/cf56f660-d7a3-11f1-84dd-e55f4bec0ecd.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lionesses to face France and Portugal in Nations League]]></title>
+            <description><![CDATA[England have been drawn to face France, Austria and Portugal in next year's Women's Nations League.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/c3vgx8qxge7zo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c3vgx8qxge7zo#9</guid>
+            <pubDate>Tue, 03 Nov 2026 15:39:21 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/24d2/live/417598b0-d799-11f1-801d-cf196dc7232c.jpg"/>
         </item>
     </channel>
 </rss>

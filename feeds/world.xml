@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news/world</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 03 Nov 2026 16:20:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Nov 2026 17:21:42 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/world/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -53,6 +53,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwy8lm1m59mvo#0</guid>
             <pubDate>Tue, 03 Nov 2026 13:55:47 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a890/live/d92739f0-d778-11f1-9539-05485195b558.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Irish Olympian Ciara Mageean was a 'talented and inspirational human being']]></title>
+            <description><![CDATA[The former European champion and two-time Olympic runner had been diagnosed with stage four bowel cancer.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cw62ye1030njo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cw62ye1030njo#1</guid>
+            <pubDate>Tue, 03 Nov 2026 17:07:28 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0120/live/ab031c10-d796-11f1-801d-cf196dc7232c.jpg"/>
         </item>
         <item>
             <title><![CDATA[US urges Venezuela to release remaining political prisoners]]></title>
