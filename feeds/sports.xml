@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/sport/football</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 03 Nov 2026 11:30:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Nov 2026 12:31:49 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -24,11 +24,19 @@
         </item>
         <item>
             <title><![CDATA[Tenerife striker De Miguel dies after on-field collision ]]></title>
-            <description><![CDATA[Tenerife forward Jesus de Miguel dies after suffering an on-field collision during a Spanish second-division match. ]]></description>
+            <description><![CDATA[Tenerife forward Jesus de Miguel dies aged 30 after an on-field collision during a Spanish second-division match.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo#0</guid>
             <pubDate>Tue, 03 Nov 2026 09:09:18 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/71f9/live/08251a60-d779-11f1-9539-05485195b558.png"/>
+        </item>
+        <item>
+            <title><![CDATA[McTominay returns as Penrice earns first Scotland call]]></title>
+            <description><![CDATA[Scott McTominay, Kieran Tierney and Che Adams return to the Scotland squad, while there is a first call for James Penrice for the remaining Nations League matches against North Macedonia and Switzerland.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/c6wyvr870d8do?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6wyvr870d8do#0</guid>
+            <pubDate>Tue, 03 Nov 2026 11:29:06 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8424/live/2b4a2160-d775-11f1-a956-ff083523ef77.jpg"/>
         </item>
         <item>
             <title><![CDATA[The referee who became a role model after bouncing back from Diaz error]]></title>
@@ -37,6 +45,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cdj4z0lwjzlo#0</guid>
             <pubDate>Tue, 03 Nov 2026 06:41:31 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93d8/live/3adfa190-ade0-11f1-9a5c-a7a4083eb832.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Shaw among big names to miss out on FifPro World XI]]></title>
+            <description><![CDATA[Eyebrows are raised at the announcement of the FifPro Women's World XI shortlist with several big names missing.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/c8dx37gxzvgyo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c8dx37gxzvgyo#0</guid>
+            <pubDate>Tue, 03 Nov 2026 12:28:26 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/687e/live/cbd9c2e0-d769-11f1-a956-ff083523ef77.jpg"/>
         </item>
         <item>
             <title><![CDATA[Jeers again as home woes continue - Jaissle has big problems at Newcastle]]></title>
@@ -63,14 +79,6 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b3b/live/6ea98870-d6f2-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
-            <title><![CDATA[From nightmare debut season to Everton hero - Barry's revival]]></title>
-            <description><![CDATA[Last season Thierno Barry scored eight goals in 41 appearances. This season it's taken him just 12 games to match that tally.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cqj346rvg3pzo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqj346rvg3pzo#0</guid>
-            <pubDate>Mon, 02 Nov 2026 23:28:17 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d41/live/6a2a24f0-d76d-11f1-b441-2b33b063138f.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[From teenage limbo and Mangotsfield United to Champions League dream]]></title>
             <description><![CDATA[In just two and a half years, Miguel Freckleton has gone from non-league to Champions League and being a fully fledged international.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cxj0led3jnj4o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -92,7 +100,7 @@
             <link>https://www.bbc.co.uk/sport/football/articles/c5ev3m9ddzgmo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c5ev3m9ddzgmo#0</guid>
             <pubDate>Tue, 03 Nov 2026 07:33:17 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/006a/live/84fb8ca0-d6ec-11f1-a741-236ee91c2e25.jpg"/>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d73/live/73b081e0-d77c-11f1-9539-05485195b558.jpg"/>
         </item>
         <item>
             <title><![CDATA[Carrick says it's 'crazy' but he's looking forward to Roma game]]></title>
@@ -101,14 +109,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c933x04ryz4do#0</guid>
             <pubDate>Mon, 02 Nov 2026 16:00:07 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/925e/live/560b7790-d6db-11f1-b441-2b33b063138f.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Fifa to share 'key documents' over World Cup sell-off plan]]></title>
-            <description><![CDATA[Council members will need to travel to Fifa's headquarters in Zurich to see the documents, and will be subject to "strict review protocols".]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/c6vgj0p4ey17o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6vgj0p4ey17o#0</guid>
-            <pubDate>Mon, 02 Nov 2026 20:23:55 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3134/live/d6604cd0-d6eb-11f1-a741-236ee91c2e25.jpg"/>
         </item>
         <item>
             <title><![CDATA[Everton hold off Newcastle to move into seventh ]]></title>
@@ -151,6 +151,22 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/035d/live/adb0c650-d62a-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
+            <title><![CDATA[From nightmare debut season to Everton hero - Barry's revival]]></title>
+            <description><![CDATA[Last season Thierno Barry scored eight goals in 41 appearances. This season it's taken him just 12 games to match that tally.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cqj346rvg3pzo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqj346rvg3pzo#2</guid>
+            <pubDate>Mon, 02 Nov 2026 23:28:17 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d41/live/6a2a24f0-d76d-11f1-b441-2b33b063138f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fifa to share 'key documents' over World Cup sell-off plan]]></title>
+            <description><![CDATA[Council members will need to travel to Fifa's headquarters in Zurich to see the documents, and will be subject to "strict review protocols".]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/c6vgj0p4ey17o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6vgj0p4ey17o#2</guid>
+            <pubDate>Mon, 02 Nov 2026 20:23:55 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3134/live/d6604cd0-d6eb-11f1-a741-236ee91c2e25.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Who has made Troy's Premier League team of the week?]]></title>
             <description><![CDATA[After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/c8dx37n11kv2o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -175,18 +191,10 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb6d/live/5575bbe0-d70a-11f1-81b9-c76bd127a61a.png"/>
         </item>
         <item>
-            <title><![CDATA[Kane would swap Ballon d'Or for Champions League victory]]></title>
-            <description><![CDATA[Bayern Munich striker Harry Kane says he would swap his Ballon d'Or trophy for a Champions League winner's medal. ]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/c6gr875l1095o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6gr875l1095o#2</guid>
-            <pubDate>Mon, 02 Nov 2026 21:46:42 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2230/live/193b93b0-d701-11f1-91df-b96ca3dbd380.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Who am I? Plus today's other quizzes]]></title>
             <description><![CDATA[Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cqx286dvr4jgo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqx286dvr4jgo#2</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqx286dvr4jgo#3</guid>
             <pubDate>Tue, 03 Nov 2026 06:12:20 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"/>
         </item>
@@ -194,17 +202,17 @@
             <title><![CDATA[Asian Cup postponed in wake of attacks on Saudi Arabia]]></title>
             <description><![CDATA[The 2027 Asian Cup in Saudi Arabia is postponed because of a series of deadly attacks on the host country.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/c6y0e79yjg44o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6y0e79yjg44o#2</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6y0e79yjg44o#3</guid>
             <pubDate>Tue, 03 Nov 2026 07:15:17 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9647/live/0ce22d10-d754-11f1-8bf4-5f3ca896096e.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Key questions as Pocognoli prepares to name Scotland squad]]></title>
-            <description><![CDATA[Sebastien Pocognoli names his second Scotland squad on Tuesday, with various dilemmas to address.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/ckpqg82yxqgyo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ckpqg82yxqgyo#2</guid>
-            <pubDate>Mon, 02 Nov 2026 17:35:14 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f10/live/6c28a7c0-d6e3-11f1-a741-236ee91c2e25.jpg"/>
+            <title><![CDATA[Kane would swap Ballon d'Or for Champions League victory]]></title>
+            <description><![CDATA[Bayern Munich striker Harry Kane says he would swap his Ballon d'Or trophy for a Champions League winner's medal. ]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/c6gr875l1095o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6gr875l1095o#3</guid>
+            <pubDate>Mon, 02 Nov 2026 21:46:42 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2230/live/193b93b0-d701-11f1-91df-b96ca3dbd380.jpg"/>
         </item>
         <item>
             <title><![CDATA[How to follow the Champions League on the BBC]]></title>
@@ -231,14 +239,6 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b785/live/99523b00-d6af-11f1-ac90-f7afd947062e.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Who produced the kind of performance Moyes loves? - player ratings]]></title>
-            <description><![CDATA[Newcastle United and Everton's players rated following their Premier League match.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cmglwjxx45gjo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmglwjxx45gjo#3</guid>
-            <pubDate>Mon, 02 Nov 2026 22:08:43 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d401/live/ade2a8b0-d70f-11f1-93e1-3b657b665bcf.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Bottom club Sunderland to stick with manager Le Bris]]></title>
             <description><![CDATA[Sunderland manager Regis le Bris is set to be given more time to turn things around despite his side's poor start to the Premier League season.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cj75pglrq794o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -247,10 +247,18 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93de/live/1def3f10-d6b1-11f1-b5fb-3b1e7f14caa9.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Who produced the kind of performance Moyes loves? - player ratings]]></title>
+            <description><![CDATA[Newcastle United and Everton's players rated following their Premier League match.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cmglwjxx45gjo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmglwjxx45gjo#5</guid>
+            <pubDate>Mon, 02 Nov 2026 22:08:43 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d401/live/ade2a8b0-d70f-11f1-93e1-3b657b665bcf.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Hellberg unsure of 'brilliant' Lankshear's England chances]]></title>
             <description><![CDATA[Head coach Kim Hellberg hails Will Lankshear a "brilliant lad" as the goals keep coming, raising questions of a possible England call-up.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/c6jdm4n5l7rlo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6jdm4n5l7rlo#3</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6jdm4n5l7rlo#5</guid>
             <pubDate>Mon, 02 Nov 2026 13:36:46 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a80/live/23487470-d6bd-11f1-aacc-5b5f23abff4b.jpg"/>
         </item>
@@ -269,14 +277,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0pkyhnx#5</guid>
             <pubDate>Mon, 02 Nov 2026 21:20:00 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0pkyhpf.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Are Celtic club in regression amid run of six defeats in 10?]]></title>
-            <description><![CDATA[Chris Sutton and Ian McCall weigh in on Celtic after a second league defeat of the season, but manager Martin O'Neill is defiant.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cmvg7d1xl8epo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmvg7d1xl8epo#5</guid>
-            <pubDate>Sun, 01 Nov 2026 17:34:12 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f85/live/92559140-d613-11f1-90fb-b3468681b3ba.jpg"/>
         </item>
         <item>
             <title><![CDATA[BBC Women's Football Weekly]]></title>
@@ -298,15 +298,23 @@
             <title><![CDATA[Worst in the EFL - the team with a penalty problem]]></title>
             <description><![CDATA[Newport County have scored just two from nine penalties across the past two seasons in all competitions, so what's going wrong?]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cred3pgyyl53o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cred3pgyyl53o#5</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cred3pgyyl53o#6</guid>
             <pubDate>Mon, 02 Nov 2026 13:56:37 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e871/live/b312df70-d6b1-11f1-93e1-3b657b665bcf.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Are Celtic club in regression amid run of six defeats in 10?]]></title>
+            <description><![CDATA[Chris Sutton and Ian McCall weigh in on Celtic after a second league defeat of the season, but manager Martin O'Neill is defiant.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cmvg7d1xl8epo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmvg7d1xl8epo#6</guid>
+            <pubDate>Sun, 01 Nov 2026 17:34:12 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f85/live/92559140-d613-11f1-90fb-b3468681b3ba.jpg"/>
         </item>
         <item>
             <title><![CDATA[Why Scottish football is struggling to produce young talent]]></title>
             <description><![CDATA[Scottish football is wrestling with a growing concern over the number of homegrown players who are making to the top of the game.]]></description>
             <link>https://www.bbc.co.uk/news/articles/crx23ejgz7j8o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/crx23ejgz7j8o#5</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/crx23ejgz7j8o#6</guid>
             <pubDate>Mon, 02 Nov 2026 06:05:57 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e76/live/5f6d3a80-d442-11f1-97f9-27ebf08d99fe.jpg"/>
         </item>
@@ -333,14 +341,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cxr5yjpnd31eo#6</guid>
             <pubDate>Sun, 01 Nov 2026 18:45:49 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70d1/live/12fd5df0-d623-11f1-8b43-9d133992838c.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warnock hid seizures from Liverpool as a youngster]]></title>
-            <description><![CDATA[Former Premier League footballer Stephen Warnock says he hid seizures from Liverpool as a youngster because he feared he would be released.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/c6rry8pxwkdpo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6rry8pxwkdpo#6</guid>
-            <pubDate>Sun, 01 Nov 2026 20:32:44 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/849b/live/b532dde0-d630-11f1-b862-ff7106b70f88.jpg"/>
         </item>
         <item>
             <title><![CDATA[Were Arsenal 'lucky' not to concede penalty at Liverpool?]]></title>
@@ -471,6 +471,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aec0/live/fd14b290-e25e-11ef-a819-277e390a7a08.jpg"/>
         </item>
         <item>
+            <title><![CDATA[The iconic 2005 Oasis concert from the City of Manchester Stadium]]></title>
+            <description><![CDATA[One of the world's biggest touring bands pulls out all the stops on their 2005 world tour.]]></description>
+            <link>https://www.bbc.co.uk/iplayer/episode/m0033vld?at_mid=Rz7rKyFuqA&amp;at_campaign=Oasis_Live_at_Manchester_City_Stadium&amp;at_medium=display_ad&amp;at_campaign_type=owned&amp;at_nation=NET&amp;at_audience_id=SS&amp;at_product=iplayer&amp;at_brand=m0033vld&amp;at_ptr_name=bbc&amp;at_ptr_type=media&amp;at_format=image&amp;at_objective=consumption&amp;at_link_title=Oasis_Live_at_Manchester_City_Stadium&amp;at_bbc_team=BBC</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/iplayer/episode/m0033vld?at_mid=Rz7rKyFuqA&amp;at_campaign=Oasis_Live_at_Manchester_City_Stadium&amp;at_medium=display_ad&amp;at_campaign_type=owned&amp;at_nation=NET&amp;at_audience_id=SS&amp;at_product=iplayer&amp;at_brand=m0033vld&amp;at_ptr_name=bbc&amp;at_ptr_type=media&amp;at_format=image&amp;at_objective=consumption&amp;at_link_title=Oasis_Live_at_Manchester_City_Stadium&amp;at_bbc_team=BBC#12</guid>
+            <pubDate>Sun, 01 Nov 2026 00:07:28 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5696/live/e7cfeef0-d48c-11f1-93e1-3b657b665bcf.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Which Premier League players are set for yellow card suspensions?]]></title>
             <description><![CDATA[Hull City's Matt Crooks and Aston Villa's Matty Cash are the first players to receive a one-match ban for accumulating five yellow cards in the 2025-26 Premier League season.]]></description>
             <link>https://www.bbc.co.uk/sport/articles/cr3wj7wg35pxo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -543,14 +551,6 @@
             <media:thumbnail url="https://ichef.bbci.co.uk/images/ic/480xn/p0pcy7f1.png"/>
         </item>
         <item>
-            <title><![CDATA[Ten unusual jobs in football]]></title>
-            <description><![CDATA[What are some of the lesser known jobs in football? BBC Bitesize Careers finds out!]]></description>
-            <link>https://www.bbc.co.uk/bitesize/articles/z8t4b7h?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/bitesize/articles/z8t4b7h#15</guid>
-            <pubDate>Mon, 21 Sep 2026 20:12:31 GMT</pubDate>
-            <media:thumbnail url="https://ichef.bbci.co.uk/images/ic/480xn/p0pcy5zl.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[McTominay returns as Penrice earns first Scotland call]]></title>
             <description><![CDATA[Scott McTominay, Kieran Tierney and Che Adams return to the Scotland squad, while there is a first call for James Penrice for the remaining Nations League matches against North Macedonia and Switzerland.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/c6wyvr870d8do?at_medium=RSS&amp;at_campaign=rss</link>
@@ -605,6 +605,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cw62ye7y6v57o#16</guid>
             <pubDate>Mon, 02 Nov 2026 18:31:54 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6508/live/64421d80-d6e7-11f1-a741-236ee91c2e25.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Shaw among big names to miss out on FifPro World XI]]></title>
+            <description><![CDATA[Eyebrows are raised at the announcement of the FifPro Women's World XI shortlist with several big names missing.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/c8dx37gxzvgyo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c8dx37gxzvgyo#17</guid>
+            <pubDate>Tue, 03 Nov 2026 12:28:26 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/687e/live/cbd9c2e0-d769-11f1-a956-ff083523ef77.jpg"/>
         </item>
         <item>
             <title><![CDATA[Defeat for London City - but is Europe a real possibility?]]></title>
