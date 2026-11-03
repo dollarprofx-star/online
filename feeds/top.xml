@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 03 Nov 2026 22:11:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Nov 2026 22:53:21 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -27,7 +27,7 @@
             <description><![CDATA[At least 69 people were killed and dozens injured in the collision south of the capital, Madrid.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo#1</guid>
-            <pubDate>Tue, 03 Nov 2026 22:04:09 GMT</pubDate>
+            <pubDate>Tue, 03 Nov 2026 22:45:59 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d61f/live/6dc1cd30-d7c6-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
@@ -247,14 +247,6 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0l7jnbt.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Tenerife striker De Miguel dies after on-field collision ]]></title>
-            <description><![CDATA[Tenerife forward Jesus de Miguel dies aged 30 after an on-field collision during a Spanish second-division match.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo#9</guid>
-            <pubDate>Tue, 03 Nov 2026 09:09:18 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/71f9/live/08251a60-d779-11f1-9539-05485195b558.png"/>
-        </item>
-        <item>
             <title><![CDATA[England's Mitchell ruled out of Nations Championship]]></title>
             <description><![CDATA[Scrum-half Alex Mitchell has been ruled out of the whole of England's Nations Championship after suffering his fourth hamstring injury of the year.]]></description>
             <link>https://www.bbc.co.uk/sport/rugby-union/articles/c6n4endjxqnko?at_medium=RSS&amp;at_campaign=rss</link>
@@ -263,12 +255,28 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80ee/live/13b430e0-d78e-11f1-9440-953b82c8f55a.jpg"/>
         </item>
         <item>
-            <title><![CDATA[How sporting events are being impacted by Middle East conflict]]></title>
-            <description><![CDATA[BBC Sport takes a look at how the ongoing conflict in the Middle East has affected sporting events in Saudi Arabia, Qatar, Bahrain and the wider area.]]></description>
-            <link>https://www.bbc.co.uk/sport/articles/ck0j0l65nzlvo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/articles/ck0j0l65nzlvo#9</guid>
-            <pubDate>Tue, 03 Nov 2026 16:01:24 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/754d/live/85ccd330-d798-11f1-801d-cf196dc7232c.jpg"/>
+            <title><![CDATA['We don't need to save anyone's job,' says Man Utd captain Fernandes]]></title>
+            <description><![CDATA[Bruno Fernandes says Manchester United's players "don't need to save anyone's job" after their improbable comeback win against Roma.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cqkg5dgvygr1o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqkg5dgvygr1o#9</guid>
+            <pubDate>Tue, 03 Nov 2026 22:37:49 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60bc/live/f12e0680-d7d4-11f1-b441-2b33b063138f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Death threats for Briton Burrage on WTA Tour return]]></title>
+            <description><![CDATA[Britain's Jodie Burrage receives death threats and abuse on social media after she is beaten in her first WTA Tour singles match proper for 16 months.]]></description>
+            <link>https://www.bbc.co.uk/sport/tennis/articles/cq62y9yzgzgeo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/cq62y9yzgzgeo#9</guid>
+            <pubDate>Tue, 03 Nov 2026 20:26:12 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d944/live/a85b4610-d7c1-11f1-a719-bf3dc3a3d5b5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tenerife striker De Miguel dies after on-field collision ]]></title>
+            <description><![CDATA[Tenerife forward Jesus de Miguel dies aged 30 after an on-field collision during a Spanish second-division match.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo#9</guid>
+            <pubDate>Tue, 03 Nov 2026 09:09:18 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/71f9/live/08251a60-d779-11f1-9539-05485195b558.png"/>
         </item>
     </channel>
 </rss>

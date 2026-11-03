@@ -9,11 +9,19 @@
             <link>https://www.bbc.co.uk/sport/football</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 03 Nov 2026 22:11:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Nov 2026 22:53:25 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA['We don't need to save anyone's job,' says Man Utd captain Fernandes]]></title>
+            <description><![CDATA[Bruno Fernandes says Manchester United's players "don't need to save anyone's job" after their improbable comeback win against Roma.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cqkg5dgvygr1o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqkg5dgvygr1o#0</guid>
+            <pubDate>Tue, 03 Nov 2026 22:37:49 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60bc/live/f12e0680-d7d4-11f1-b441-2b33b063138f.jpg"/>
+        </item>
         <item>
             <title><![CDATA[Tenerife striker De Miguel dies after on-field collision ]]></title>
             <description><![CDATA[Tenerife forward Jesus de Miguel dies aged 30 after an on-field collision during a Spanish second-division match.]]></description>
@@ -103,20 +111,20 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/24d2/live/417598b0-d799-11f1-801d-cf196dc7232c.jpg"/>
         </item>
         <item>
-            <title><![CDATA[McTominay returns as Penrice earns first Scotland call]]></title>
-            <description><![CDATA[Scott McTominay, Kieran Tierney and Che Adams return to the Scotland squad, while there is a first call for James Penrice for the remaining Nations League matches against North Macedonia and Switzerland.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/c6wyvr870d8do?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6wyvr870d8do#2</guid>
-            <pubDate>Tue, 03 Nov 2026 11:29:06 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8424/live/2b4a2160-d775-11f1-a956-ff083523ef77.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[How sporting events are being impacted by Middle East conflict]]></title>
             <description><![CDATA[BBC Sport takes a look at how the ongoing conflict in the Middle East has affected sporting events in Saudi Arabia, Qatar, Bahrain and the wider area.]]></description>
             <link>https://www.bbc.co.uk/sport/articles/ck0j0l65nzlvo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/articles/ck0j0l65nzlvo#3</guid>
             <pubDate>Tue, 03 Nov 2026 16:01:24 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/754d/live/85ccd330-d798-11f1-801d-cf196dc7232c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[McTominay returns as Penrice earns first Scotland call]]></title>
+            <description><![CDATA[Scott McTominay, Kieran Tierney and Che Adams return to the Scotland squad, while there is a first call for James Penrice for the remaining Nations League matches against North Macedonia and Switzerland.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/c6wyvr870d8do?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6wyvr870d8do#3</guid>
+            <pubDate>Tue, 03 Nov 2026 11:29:06 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8424/live/2b4a2160-d775-11f1-a956-ff083523ef77.jpg"/>
         </item>
         <item>
             <title><![CDATA[Palace launch Mateta red card appeal]]></title>
@@ -130,7 +138,7 @@
             <title><![CDATA[The referee who became a role model after bouncing back from Diaz error]]></title>
             <description><![CDATA[Referee Darren England shares how he has moved on from the VAR error that stalled his career to the FA Cup final and the Champions League. ]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cdj4z0lwjzlo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cdj4z0lwjzlo#3</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cdj4z0lwjzlo#5</guid>
             <pubDate>Tue, 03 Nov 2026 06:41:31 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93d8/live/3adfa190-ade0-11f1-9a5c-a7a4083eb832.jpg"/>
         </item>
@@ -138,7 +146,7 @@
             <title><![CDATA[Kenny's background 'not that important' to O'Neill]]></title>
             <description><![CDATA[Northern Ireland manager Michael O'Neill says new call-up Eoin Kenny's family connection to the Republic of Ireland is not something he considered before bringing him into the senior squad for this month's Nations League fixtures against Ukraine and Hungary. ]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/ckqxn7pzrxyro?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ckqxn7pzrxyro#3</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ckqxn7pzrxyro#5</guid>
             <pubDate>Tue, 03 Nov 2026 18:26:55 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5b0/live/f8037c40-d78b-11f1-9440-953b82c8f55a.jpg"/>
         </item>
@@ -159,28 +167,12 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/687e/live/cbd9c2e0-d769-11f1-a956-ff083523ef77.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Boy arrested following Bradley Lowery taunt]]></title>
-            <description><![CDATA[Police are investigating an incident at Coventry's Premier League match with Sunderland on Saturday.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/ck5ynr531xlvo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ck5ynr531xlvo#5</guid>
-            <pubDate>Tue, 03 Nov 2026 09:21:56 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7de/live/dcbcdef0-d627-11f1-a947-0507737f09b2.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[How Arteta is getting the best from Rice]]></title>
             <description><![CDATA[Declan Rice was a key cog in Arsenal winning the Premier League title - so how is Mikel Arteta getting even more from him this season?]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/ckeq3erv529po?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ckeq3erv529po#5</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ckeq3erv529po#6</guid>
             <pubDate>Tue, 03 Nov 2026 08:18:04 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b3b/live/6ea98870-d6f2-11f1-93e1-3b657b665bcf.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mee and Kenny handed first Northern Ireland call-ups]]></title>
-            <description><![CDATA[Manchester United goalkeeper Dermot Mee and Portsmouth's Eoin Kenny are handed their first Northern Ireland call-ups for November's Nations League games with Ukraine and Hungary.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cwkg5dl4d3l8o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cwkg5dl4d3l8o#5</guid>
-            <pubDate>Tue, 03 Nov 2026 10:07:54 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09fe/live/2b3da270-d76e-11f1-b441-2b33b063138f.png"/>
         </item>
         <item>
             <title><![CDATA[How to follow the Champions League on the BBC]]></title>
@@ -189,6 +181,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c5yw79e4zgdo#6</guid>
             <pubDate>Tue, 03 Nov 2026 16:11:06 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/291a/live/f0a04d80-aac6-11f1-8881-75c1b8a858c8.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mee and Kenny handed first Northern Ireland call-ups]]></title>
+            <description><![CDATA[Manchester United goalkeeper Dermot Mee and Portsmouth's Eoin Kenny are handed their first Northern Ireland call-ups for November's Nations League games with Ukraine and Hungary.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cwkg5dl4d3l8o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cwkg5dl4d3l8o#6</guid>
+            <pubDate>Tue, 03 Nov 2026 10:07:54 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09fe/live/2b3da270-d76e-11f1-b441-2b33b063138f.png"/>
         </item>
         <item>
             <title><![CDATA[Wrexham suffer 'significant' Smith injury blow]]></title>
@@ -205,30 +205,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqx286dvr4jgo#6</guid>
             <pubDate>Tue, 03 Nov 2026 06:12:20 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"/>
-        </item>
-        <item>
-            <title><![CDATA[Jeers again as home woes continue - Jaissle has big problems at Newcastle]]></title>
-            <description><![CDATA[Three months into a four-year contract, the problems are mounting for Newcastle boss Matthias Jaissle as his side are booed off the pitch by fans following another defeat. ]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cmly05n114gjo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmly05n114gjo#6</guid>
-            <pubDate>Mon, 02 Nov 2026 23:53:46 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/342b/live/53db6f00-d719-11f1-93e1-3b657b665bcf.png"/>
-        </item>
-        <item>
-            <title><![CDATA[From nightmare debut season to Everton hero - Barry's revival]]></title>
-            <description><![CDATA[Last season Thierno Barry scored eight goals in 41 appearances. This season it's taken him just 12 games to match that tally.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cqj346rvg3pzo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqj346rvg3pzo#6</guid>
-            <pubDate>Mon, 02 Nov 2026 23:28:17 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d41/live/6a2a24f0-d76d-11f1-b441-2b33b063138f.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Grealish can still have Everton future - Moyes]]></title>
-            <description><![CDATA[Everton boss David Moyes says there is a way back for Jack Grealish at the club - but does not know when he might return to the team.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cm70pgrd22x4o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cm70pgrd22x4o#6</guid>
-            <pubDate>Mon, 02 Nov 2026 23:14:27 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f4e/live/f69cc0c0-d711-11f1-b19c-4d0080e30e42.jpg"/>
         </item>
         <item>
             <title><![CDATA[Green backs 'proven' Parker for Hammers job]]></title>
@@ -487,14 +463,6 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7cb3/live/a8fb5520-9dc0-11ef-82c3-45a801b7330b.png"/>
         </item>
         <item>
-            <title><![CDATA[Podcast: Dunfermline arrive in Championship title race]]></title>
-            <description><![CDATA[Dunfermline impress as the Championship heats up and County set the pace in League one.]]></description>
-            <link>https://www.bbc.co.uk/sounds/play/p0pl02gr?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0pl02gr#16</guid>
-            <pubDate>Tue, 03 Nov 2026 08:00:00 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0pl02h4.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Celtic track teenager Doumbia - gossip]]></title>
             <description><![CDATA[Celtic monitor Ivory Coast teenager playing in Sweden as one of their Europa League opponents seek a new manager.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cmjwexlyn611o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -509,6 +477,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmje5gjp5ezgo#16</guid>
             <pubDate>Mon, 02 Nov 2026 11:39:41 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65ab/live/53172fe0-d6b1-11f1-b5fb-3b1e7f14caa9.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why Scottish football is struggling to produce young talent]]></title>
+            <description><![CDATA[Scottish football is wrestling with a growing concern over the number of homegrown players who are making to the top of the game.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/crx23ejgz7j8o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/crx23ejgz7j8o#16</guid>
+            <pubDate>Mon, 02 Nov 2026 06:05:57 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e76/live/5f6d3a80-d442-11f1-97f9-27ebf08d99fe.jpg"/>
         </item>
         <item>
             <title><![CDATA[Lionesses to face France and Portugal in Nations League]]></title>
