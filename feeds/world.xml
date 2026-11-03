@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news/world</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 03 Nov 2026 00:34:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Nov 2026 01:44:09 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/world/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -61,6 +61,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ck79py02p1jlo#0</guid>
             <pubDate>Mon, 02 Nov 2026 23:37:31 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7af5/live/6a1bb4a0-d67e-11f1-ac3d-edfeb9f7d0aa.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[North Korea denies being behind record $6.3bn Binance hack]]></title>
+            <description><![CDATA[US government agencies and cyber analysts have blamed Pyongyang for the record-breaking heist.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6rey4v53exgo#1</guid>
+            <pubDate>Tue, 03 Nov 2026 01:23:03 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a90/live/75145840-d727-11f1-b237-93d5595d4291.jpg"/>
         </item>
         <item>
             <title><![CDATA[Man guilty of stealing cash from farm owned by South African president]]></title>
@@ -208,12 +216,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e52/live/ccbb9490-d53e-11f1-93de-81de9e959fac.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Judge dismisses Trump's lawsuit against Wall Street Journal over Epstein birthday book]]></title>
-            <description><![CDATA[Trump had sued the media outlet after it published a letter to Epstein purportedly written and signed by the president as part of a birthday book.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cwr5yj2lj9myo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwr5yj2lj9myo#1</guid>
-            <pubDate>Sun, 01 Nov 2026 00:41:24 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5cde/live/f5e426a0-d586-11f1-a6a4-9b195a139571.jpg"/>
+            <title><![CDATA[Indian film star Ranbir Kapoor on AI, movies and fatherhood]]></title>
+            <description><![CDATA[The film star plays the leading role in a major new adaptation of the Indian epic Ramayana.]]></description>
+            <link>https://www.bbc.co.uk/news/videos/cmvg9w5w2p1no?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cmvg9w5w2p1no#2</guid>
+            <pubDate>Tue, 03 Nov 2026 00:09:13 GMT</pubDate>
+            <media:thumbnail width="240" height="160" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73de/live/7abdffc0-d700-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
             <title><![CDATA[What Florida jet audio and flight data tells us about its final moments]]></title>
@@ -246,14 +254,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cwjdmp25mem9o#2</guid>
             <pubDate>Mon, 02 Nov 2026 06:05:34 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83a4/live/9b45be10-d474-11f1-b441-2b33b063138f.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[What are Americans voting for in this election?]]></title>
-            <description><![CDATA[The BBC's Maddie Gerber explains what's on the ballot in the 2026 midterm elections in the United States.]]></description>
-            <link>https://www.bbc.co.uk/news/videos/cjly0p753dxxo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cjly0p753dxxo#2</guid>
-            <pubDate>Mon, 02 Nov 2026 09:22:55 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea87/live/855e5c00-d6be-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
             <title><![CDATA[If hackers can take control of a supermarket freezer, how vulnerable is other tech?]]></title>
