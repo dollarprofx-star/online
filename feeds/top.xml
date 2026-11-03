@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 03 Nov 2026 18:59:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Nov 2026 19:47:33 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -20,7 +20,7 @@
             <link>https://www.bbc.co.uk/news/articles/cq78pgn7em34o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cq78pgn7em34o#1</guid>
             <pubDate>Tue, 03 Nov 2026 10:32:56 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/50a9/live/ece0d370-d787-11f1-b441-2b33b063138f.jpg"/>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c3a9/live/24cee420-d7bf-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
             <title><![CDATA[Seven flights across Europe targeted by suspected bomb threats]]></title>
@@ -52,7 +52,7 @@
             <link>https://www.bbc.co.uk/news/articles/c65ynez5y599o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c65ynez5y599o#1</guid>
             <pubDate>Tue, 03 Nov 2026 16:57:41 GMT</pubDate>
-            <media:thumbnail width="240" height="160" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3eae/live/d2df48e0-d79a-11f1-b441-2b33b063138f.jpg"/>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/617d/live/6d097ab0-d7bb-11f1-8a3d-5320e3fab176.jpg"/>
         </item>
         <item>
             <title><![CDATA[Jewellery sold as sterling silver on Amazon and Temu found to contain toxic chemicals]]></title>
@@ -83,7 +83,7 @@
             <description><![CDATA[The Crown Prosecution Service has charged George Madgwick with 35 offences, including 12 counts of rape.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c63elky79np7o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c63elky79np7o#1</guid>
-            <pubDate>Tue, 03 Nov 2026 16:43:50 GMT</pubDate>
+            <pubDate>Tue, 03 Nov 2026 19:09:56 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7348/live/ba0862c0-ac57-11f1-be57-03729df1d736.jpg"/>
         </item>
         <item>
@@ -207,14 +207,6 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3db/live/57d6aa20-d769-11f1-a956-ff083523ef77.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Speeding driver jailed for fatal Lamborghini crash]]></title>
-            <description><![CDATA[Humaira Batool, 26, is sentenced for causing for the death of 20-year-old Mohammed Shaan Hussain.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c6dxw8r7rd1go?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6dxw8r7rd1go#5</guid>
-            <pubDate>Tue, 03 Nov 2026 17:27:43 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/75aa/live/495fc600-ac5f-11f1-be57-03729df1d736.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Jet may have broken apart before Florida crash, officials say, as family named among victims]]></title>
             <description><![CDATA[Adam Robinson, Helen Sharp, and their two children - Emma, four, and Charlie, two - died after the plane nosedived.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cm9wz01dx8xro?at_medium=RSS&amp;at_campaign=rss</link>
@@ -223,12 +215,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5fb6/live/93e34d90-d70d-11f1-a0eb-498100a176c1.jpg"/>
         </item>
         <item>
-            <title><![CDATA[MI5 will not face contempt of court charges despite admitting its evidence was a lie]]></title>
-            <description><![CDATA[MI5 chief Sir Ken McCallum welcomed the court's decision and says its judgment "underlines MI5's serious failures in this case".]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cq5yn64wn2y7o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cq5yn64wn2y7o#5</guid>
-            <pubDate>Tue, 03 Nov 2026 17:35:41 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3541/live/9f5eefc0-7ae3-11f1-bee8-53ce494e1abc.png"/>
+            <title><![CDATA[Lorry driver electrocuted after vehicle hit overhead power line]]></title>
+            <description><![CDATA[Andy Lloyd was electrocuted when he got out of the cab and came into contact with the metal step.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cm70pggn49ldo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm70pggn49ldo#5</guid>
+            <pubDate>Tue, 03 Nov 2026 18:58:58 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/928d/live/185b0200-d7a1-11f1-84dd-e55f4bec0ecd.png"/>
         </item>
         <item>
             <title><![CDATA[Jury in Russell Brand rape trial begins considering verdicts]]></title>
@@ -237,6 +229,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckly4ed521emo#5</guid>
             <pubDate>Tue, 03 Nov 2026 14:50:06 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d509/live/f1e01d40-d778-11f1-9539-05485195b558.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Speeding driver jailed for fatal Lamborghini crash]]></title>
+            <description><![CDATA[Humaira Batool, 26, is sentenced for causing for the death of 20-year-old Mohammed Shaan Hussain.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c6dxw8r7rd1go?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6dxw8r7rd1go#5</guid>
+            <pubDate>Tue, 03 Nov 2026 17:27:43 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/75aa/live/495fc600-ac5f-11f1-be57-03729df1d736.jpg"/>
         </item>
         <item>
             <title><![CDATA[Drivers may get compensation offers before car finance saga ends]]></title>
@@ -279,6 +279,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/71f9/live/08251a60-d779-11f1-9539-05485195b558.png"/>
         </item>
         <item>
+            <title><![CDATA[England's Mitchell ruled out of Nations Championship]]></title>
+            <description><![CDATA[Scrum-half Alex Mitchell has been ruled out of the whole of England's Nations Championship after suffering his fourth hamstring injury of the year.]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-union/articles/c6n4endjxqnko?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/rugby-union/articles/c6n4endjxqnko#9</guid>
+            <pubDate>Tue, 03 Nov 2026 17:16:16 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80ee/live/13b430e0-d78e-11f1-9440-953b82c8f55a.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Saliba's back for Arsenal - how does Arteta solve his defensive dilemma?]]></title>
             <description><![CDATA[William Saliba returning to first-team training before Arsenal's game with Slavia Prague in the Champions League is a huge boost for the club but now presents Mikel Arteta with a selection headache. ]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cxj0l3pd9jy7o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -295,28 +303,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/005e/live/4825efe0-d774-11f1-b441-2b33b063138f.png"/>
         </item>
         <item>
-            <title><![CDATA[England's Mitchell ruled out of Nations Championship]]></title>
-            <description><![CDATA[Scrum-half Alex Mitchell has been ruled out of the whole of England's Nations Championship after suffering his fourth hamstring injury of the year.]]></description>
-            <link>https://www.bbc.co.uk/sport/rugby-union/articles/c6n4endjxqnko?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/rugby-union/articles/c6n4endjxqnko#9</guid>
-            <pubDate>Tue, 03 Nov 2026 17:16:16 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80ee/live/13b430e0-d78e-11f1-9440-953b82c8f55a.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[How sporting events are being impacted by Middle East conflict]]></title>
             <description><![CDATA[BBC Sport takes a look at how the ongoing conflict in the Middle East has affected sporting events in Saudi Arabia, Qatar, Bahrain and the wider area.]]></description>
             <link>https://www.bbc.co.uk/sport/articles/ck0j0l65nzlvo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/articles/ck0j0l65nzlvo#9</guid>
             <pubDate>Tue, 03 Nov 2026 16:01:24 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/754d/live/85ccd330-d798-11f1-801d-cf196dc7232c.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pocognoli focus on Scotland tidy-up as Euros loom]]></title>
-            <description><![CDATA[The Scotland head coach insists radical change is not required to improve his team after a mixed maiden camp.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cknv0n96er9po?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cknv0n96er9po#9</guid>
-            <pubDate>Tue, 03 Nov 2026 16:54:35 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a643/live/cf56f660-d7a3-11f1-84dd-e55f4bec0ecd.jpg"/>
         </item>
     </channel>
 </rss>
