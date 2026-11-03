@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 03 Nov 2026 14:42:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Nov 2026 15:25:54 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -31,12 +31,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ae3/live/76b91180-d77d-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
-            <title><![CDATA[MI5 will not face contempt of court charges despite admitting its evidence was a lie]]></title>
-            <description><![CDATA[MI5 chief Sir Ken McCallum welcomed the court's decision and says its judgment "underlines MI5's serious failures in this case".]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cq5yn64wn2y7o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cq5yn64wn2y7o#1</guid>
-            <pubDate>Tue, 03 Nov 2026 11:02:47 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3541/live/9f5eefc0-7ae3-11f1-bee8-53ce494e1abc.png"/>
+            <title><![CDATA[Celebrity loses injunction bid but will stay anonymous pending appeal]]></title>
+            <description><![CDATA[The unnamed man asked for an injunction to stop his identity being reported in connection with allegations against him.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cqglwjdgg045o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqglwjdgg045o#1</guid>
+            <pubDate>Tue, 03 Nov 2026 14:33:14 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b716/live/ea4a32c0-d776-11f1-9539-05485195b558.jpg"/>
         </item>
         <item>
             <title><![CDATA[Watch: Why is 'Mogging' the word of the year?]]></title>
@@ -47,28 +47,28 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/24e3/live/d3f5d1b0-d789-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Celebrity loses injunction bid but will stay anonymous pending appeal]]></title>
-            <description><![CDATA[The unnamed man asked for an injunction to stop his identity being reported in connection with allegations against him.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cqglwjdgg045o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqglwjdgg045o#1</guid>
-            <pubDate>Tue, 03 Nov 2026 14:33:14 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b716/live/ea4a32c0-d776-11f1-9539-05485195b558.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mahmood refuses to put cost on care worker settlement climbdown]]></title>
-            <description><![CDATA[The home secretary says the full cost of dropping plans to extend the wait for settlement will be laid out in future.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cm75pgqdyzldo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm75pgqdyzldo#1</guid>
-            <pubDate>Tue, 03 Nov 2026 11:03:45 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7457/live/a8002b30-d768-11f1-a956-ff083523ef77.png"/>
-        </item>
-        <item>
             <title><![CDATA[Reform UK councillor charged with rape and sexual assault]]></title>
-            <description><![CDATA[The Crown Prosecution Service (CPS) said on Tuesday that it had charged George Madgwick with 35 offences.]]></description>
+            <description><![CDATA[The Crown Prosecution Service has charged George Madgwick with 35 offences, including 12 counts of rape.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c63elky79np7o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c63elky79np7o#1</guid>
-            <pubDate>Tue, 03 Nov 2026 14:35:04 GMT</pubDate>
+            <pubDate>Tue, 03 Nov 2026 15:16:53 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7348/live/ba0862c0-ac57-11f1-be57-03729df1d736.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MI5 will not face contempt of court charges despite admitting its evidence was a lie]]></title>
+            <description><![CDATA[MI5 chief Sir Ken McCallum welcomed the court's decision and says its judgment "underlines MI5's serious failures in this case".]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cq5yn64wn2y7o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cq5yn64wn2y7o#1</guid>
+            <pubDate>Tue, 03 Nov 2026 11:02:47 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3541/live/9f5eefc0-7ae3-11f1-bee8-53ce494e1abc.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Jury in Russell Brand rape trial begins considering verdicts]]></title>
+            <description><![CDATA[The media personality has been on trial for three weeks, after pleading not guilty to all charges.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/ckly4ed521emo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckly4ed521emo#1</guid>
+            <pubDate>Tue, 03 Nov 2026 14:50:06 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d509/live/f1e01d40-d778-11f1-9539-05485195b558.jpg"/>
         </item>
         <item>
             <title><![CDATA[Third teen arrested after Halloween party stabbings]]></title>
@@ -79,12 +79,12 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b427/live/5b5c5f40-d689-11f1-b7fe-13bd08d80ad6.jpg"/>
         </item>
         <item>
-            <title><![CDATA[UK meat industry hit by cyber-attack which targeted European supermarket freezers ]]></title>
-            <description><![CDATA[Supermarkets in countries including Ireland, Sweden  and Belgium reported fridges being hiked in temperature on Monday.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/ckq6ndq8l6v0o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckq6ndq8l6v0o#1</guid>
-            <pubDate>Tue, 03 Nov 2026 13:07:00 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3db/live/57d6aa20-d769-11f1-a956-ff083523ef77.jpg"/>
+            <title><![CDATA[Mahmood refuses to put cost on care worker settlement climbdown]]></title>
+            <description><![CDATA[The home secretary says the full cost of dropping plans to extend the wait for settlement will be laid out in future.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cm75pgqdyzldo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm75pgqdyzldo#1</guid>
+            <pubDate>Tue, 03 Nov 2026 11:03:45 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7457/live/a8002b30-d768-11f1-a956-ff083523ef77.png"/>
         </item>
         <item>
             <title><![CDATA[A simple guide to the midterms]]></title>
@@ -191,12 +191,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5fb6/live/93e34d90-d70d-11f1-a0eb-498100a176c1.jpg"/>
         </item>
         <item>
-            <title><![CDATA[UK and EU agree draft deal to scrap Brexit red tape over food exports]]></title>
-            <description><![CDATA[The food deal, ahead of a UK-EU summit later this month, is the most significant part of the so-called Brexit reset agreed so far.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmp3grwre9xdo#5</guid>
-            <pubDate>Tue, 03 Nov 2026 12:07:59 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a94/live/6d035ba0-d778-11f1-a701-fddedf244c16.jpg"/>
+            <title><![CDATA[UK meat industry hit by cyber-attack which targeted European supermarket freezers ]]></title>
+            <description><![CDATA[Supermarkets in countries including Ireland, Sweden  and Belgium reported fridges being hiked in temperature on Monday.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/ckq6ndq8l6v0o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckq6ndq8l6v0o#5</guid>
+            <pubDate>Tue, 03 Nov 2026 13:07:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3db/live/57d6aa20-d769-11f1-a956-ff083523ef77.jpg"/>
         </item>
         <item>
             <title><![CDATA[Alton Towers closes World of David Walliams]]></title>
@@ -263,6 +263,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/71f9/live/08251a60-d779-11f1-9539-05485195b558.png"/>
         </item>
         <item>
+            <title><![CDATA[Saliba's back for Arsenal - how does Arteta solve his defensive dilemma?]]></title>
+            <description><![CDATA[William Saliba returning to first-team training before Arsenal's game with Slavia Prague in the Champions League is a huge boost for the club but now presents Mikel Arteta with a selection headache. ]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cxj0l3pd9jy7o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cxj0l3pd9jy7o#9</guid>
+            <pubDate>Tue, 03 Nov 2026 15:07:49 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ba0/live/6e227780-d789-11f1-9440-953b82c8f55a.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[West Ham approach Parker after sacking boss Nuno]]></title>
             <description><![CDATA[West Ham United sack head coach Nuno Espirito Santo and are said to be in talks with Scott Parker as his replacement.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/c63dj3zpl85go?at_medium=RSS&amp;at_campaign=rss</link>
@@ -283,7 +291,7 @@
             <description><![CDATA[The new head of English rugby league backs a call for Prime Minister Andy Burnham to approve a £30m community funding plan for the sport.]]></description>
             <link>https://www.bbc.co.uk/sport/rugby-league/articles/cqn06nk1rx4xo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/rugby-league/articles/cqn06nk1rx4xo#9</guid>
-            <pubDate>Tue, 03 Nov 2026 14:02:47 GMT</pubDate>
+            <pubDate>Tue, 03 Nov 2026 14:48:52 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47c6/live/c711ea50-d758-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
@@ -293,14 +301,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6wyvr870d8do#9</guid>
             <pubDate>Tue, 03 Nov 2026 11:29:06 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8424/live/2b4a2160-d775-11f1-a956-ff083523ef77.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The referee who became a role model after bouncing back from Diaz error]]></title>
-            <description><![CDATA[Referee Darren England shares how he has moved on from the VAR error that stalled his career to the FA Cup final and the Champions League. ]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cdj4z0lwjzlo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cdj4z0lwjzlo#9</guid>
-            <pubDate>Tue, 03 Nov 2026 06:41:31 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93d8/live/3adfa190-ade0-11f1-9a5c-a7a4083eb832.jpg"/>
         </item>
     </channel>
 </rss>
