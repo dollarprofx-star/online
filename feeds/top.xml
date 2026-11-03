@@ -9,19 +9,11 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 03 Nov 2026 03:21:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Nov 2026 04:19:33 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
-        <item>
-            <title><![CDATA[Mahmood scraps settlement plans for migrant care workers]]></title>
-            <description><![CDATA[The home secretary laid out a revised proposal for changing when migrants can claim permanent residency.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c6lye8g4w7g1o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6lye8g4w7g1o#1</guid>
-            <pubDate>Mon, 02 Nov 2026 22:32:31 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f63e/live/cc23f870-d6ff-11f1-a701-fddedf244c16.jpg"/>
-        </item>
         <item>
             <title><![CDATA[UK and EU agree draft deal to scrap Brexit red tape over food exports]]></title>
             <description><![CDATA[The food deal, ahead of a UK-EU summit later this month, is the most significant part of the so-called Brexit reset agreed so far.]]></description>
@@ -29,6 +21,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmp3grwre9xdo#1</guid>
             <pubDate>Tue, 03 Nov 2026 02:11:13 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/665c/live/802099e0-d6de-11f1-b2be-0146bf989691.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[US strikes Iran ahead of midterm elections]]></title>
+            <description><![CDATA[US officials described the attacks on Qeshm Island as limited and defensive, according to CBS, the BBC's US partner. ]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cx240mrm3g8vo#1</guid>
+            <pubDate>Tue, 03 Nov 2026 03:39:08 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b14/live/7d50c580-d735-11f1-8523-e7796527683a.jpg"/>
         </item>
         <item>
             <title><![CDATA[Thousands of European troops to rehearse Ukraine deployment in event of peace]]></title>
@@ -39,6 +39,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4086/live/4322ff00-d6f3-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Mahmood scraps settlement plans for migrant care workers]]></title>
+            <description><![CDATA[The home secretary laid out a revised proposal for changing when migrants can claim permanent residency.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c6lye8g4w7g1o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6lye8g4w7g1o#1</guid>
+            <pubDate>Mon, 02 Nov 2026 22:32:31 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f63e/live/cc23f870-d6ff-11f1-a701-fddedf244c16.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[PM plans debt re-set for Commonwealth nations as slavery apology talks begin]]></title>
             <description><![CDATA[The move comes as the prime minister begins talks about the UK issuing a formal apology for the slave trade in the next year.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c58jzn1ve0kjo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -47,20 +55,20 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d9b/live/e575c5c0-d712-11f1-b19c-4d0080e30e42.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Jewellery sold as sterling silver on Amazon and Temu found to contain toxic chemicals]]></title>
-            <description><![CDATA[An investigation by Watchdog analysed 25 items bought from Amazon, Etsy, Temu, eBay and OnBuy.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cm62yjx4dl0jo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm62yjx4dl0jo#1</guid>
-            <pubDate>Tue, 03 Nov 2026 01:49:49 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d9c/live/1d134c40-d6d8-11f1-a701-fddedf244c16.png"/>
-        </item>
-        <item>
             <title><![CDATA[Plane may have broken apart ahead of deadly Florida jet crash, say investigators ]]></title>
             <description><![CDATA[The National Transportation Safety Board also believes weather could have been a factor in the crash, but warns it is too early to determine the cause. ]]></description>
             <link>https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm369yy7lw73o#1</guid>
             <pubDate>Tue, 03 Nov 2026 00:08:14 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b940/live/17a71660-d714-11f1-b19c-4d0080e30e42.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jewellery sold as sterling silver on Amazon and Temu found to contain toxic chemicals]]></title>
+            <description><![CDATA[An investigation by Watchdog analysed 25 items bought from Amazon, Etsy, Temu, eBay and OnBuy.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cm62yjx4dl0jo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm62yjx4dl0jo#1</guid>
+            <pubDate>Tue, 03 Nov 2026 01:49:49 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d9c/live/1d134c40-d6d8-11f1-a701-fddedf244c16.png"/>
         </item>
         <item>
             <title><![CDATA[Shop freezers in seven European countries hit by cyber-attack]]></title>
@@ -119,12 +127,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7007/live/c8ea35c0-d6f5-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Democrats have high hopes - but are the polls right?]]></title>
-            <description><![CDATA[Polls have been predicting a Democratic surge, but last-minute deciders and sampling issues mean there's no guarantee. ]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cmg47p3edv4do?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmg47p3edv4do#2</guid>
-            <pubDate>Mon, 02 Nov 2026 00:25:12 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/731d/live/ec723e90-d694-11f1-a701-fddedf244c16.jpg"/>
+            <title><![CDATA[Supreme Court rejects Trump's request to stop California counting disputed votes]]></title>
+            <description><![CDATA[The ruling, which comes on the eve of the midterm elections, essentially ends the Trump administration's bid to disqualify the ballots in the state. ]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cm5ynekkn5qko?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm5ynekkn5qko#2</guid>
+            <pubDate>Tue, 03 Nov 2026 03:32:36 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c3e/live/cffa1c00-d726-11f1-b237-93d5595d4291.jpg"/>
         </item>
         <item>
             <title><![CDATA[A Paralympian vs a former TV news anchor - and other US Senate races to watch]]></title>
