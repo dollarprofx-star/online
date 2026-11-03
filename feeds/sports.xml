@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/sport/football</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 03 Nov 2026 05:21:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Nov 2026 06:19:20 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -103,12 +103,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb6d/live/5575bbe0-d70a-11f1-81b9-c76bd127a61a.png"/>
         </item>
         <item>
-            <title><![CDATA[Villa drop legal action threat against Carragher ]]></title>
-            <description><![CDATA[Aston Villa will not move forward with any legal action towards Jamie Carragher. ]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cmx285n4l81lo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmx285n4l81lo#0</guid>
-            <pubDate>Mon, 02 Nov 2026 11:49:05 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b785/live/99523b00-d6af-11f1-ac90-f7afd947062e.jpg"/>
+            <title><![CDATA[Who am I? Plus today's other quizzes]]></title>
+            <description><![CDATA[Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cqx286dvr4jgo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqx286dvr4jgo#0</guid>
+            <pubDate>Tue, 03 Nov 2026 06:12:20 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"/>
         </item>
         <item>
             <title><![CDATA['He's unavailable' - Moyes tight-lipped on Grealish]]></title>
@@ -159,12 +159,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f10/live/6c28a7c0-d6e3-11f1-a741-236ee91c2e25.jpg"/>
         </item>
         <item>
-            <title><![CDATA[I'll tell my players to dive in future - Iraola]]></title>
-            <description><![CDATA[Andoni Iraola says that he will tell his players to go down in future after Liverpool were denied a penalty in Sunday's defeat by Arsenal.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cvp8grpjk4leo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cvp8grpjk4leo#2</guid>
-            <pubDate>Sun, 01 Nov 2026 21:00:26 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/00f2/live/07c743d0-d685-11f1-946d-dfb48af589c2.jpg"/>
+            <title><![CDATA[Villa drop legal action threat against Carragher ]]></title>
+            <description><![CDATA[Aston Villa will not move forward with any legal action towards Jamie Carragher. ]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cmx285n4l81lo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmx285n4l81lo#2</guid>
+            <pubDate>Mon, 02 Nov 2026 11:49:05 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b785/live/99523b00-d6af-11f1-ac90-f7afd947062e.jpg"/>
         </item>
         <item>
             <title><![CDATA[Bottom club Sunderland to stick with manager Le Bris]]></title>
@@ -263,6 +263,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e76/live/5f6d3a80-d442-11f1-97f9-27ebf08d99fe.jpg"/>
         </item>
         <item>
+            <title><![CDATA[I'll tell my players to dive in future - Iraola]]></title>
+            <description><![CDATA[Andoni Iraola says that he will tell his players to go down in future after Liverpool were denied a penalty in Sunday's defeat by Arsenal.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cvp8grpjk4leo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cvp8grpjk4leo#5</guid>
+            <pubDate>Sun, 01 Nov 2026 21:00:26 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/00f2/live/07c743d0-d685-11f1-946d-dfb48af589c2.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Boy, 14, hands himself in to police over Bradley Lowery video]]></title>
             <description><![CDATA[A 14-year-old has handed himself into West Midlands Police after Coventry City said they were investigating a video appearing to show a fan taunting Sunderland supporters with a picture of Bradley Lowery.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/c6z7x52w0r0zo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -287,28 +295,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ebf/live/c61a5450-d62e-11f1-b441-2b33b063138f.png"/>
         </item>
         <item>
-            <title><![CDATA[Warnock hid seizures from Liverpool as a youngster]]></title>
-            <description><![CDATA[Former Premier League footballer Stephen Warnock says he hid seizures from Liverpool as a youngster because he feared he would be released.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/c6rry8pxwkdpo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6rry8pxwkdpo#5</guid>
-            <pubDate>Sun, 01 Nov 2026 20:32:44 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/849b/live/b532dde0-d630-11f1-b862-ff7106b70f88.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Are Manchester United really at risk of a relegation scrap?]]></title>
-            <description><![CDATA[Manchester United's current tally of seven points from nine games would not even get them 30 points if it was continued for the full season.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/c8g47wl06vkqo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c8g47wl06vkqo#6</guid>
-            <pubDate>Sat, 31 Oct 2026 23:52:28 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c471/live/62195190-d55c-11f1-b937-61b94454a4cf.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Giant curiosity Hibs finally liberated from Hearts sucker punch]]></title>
             <description><![CDATA[Hibernian, for once, avoid late heartbreak to set up League Cup final with Rangers, writes Tom English.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cxr5yjpnd31eo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cxr5yjpnd31eo#6</guid>
             <pubDate>Sun, 01 Nov 2026 18:45:49 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70d1/live/12fd5df0-d623-11f1-8b43-9d133992838c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Warnock hid seizures from Liverpool as a youngster]]></title>
+            <description><![CDATA[Former Premier League footballer Stephen Warnock says he hid seizures from Liverpool as a youngster because he feared he would be released.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/c6rry8pxwkdpo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6rry8pxwkdpo#6</guid>
+            <pubDate>Sun, 01 Nov 2026 20:32:44 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/849b/live/b532dde0-d630-11f1-b862-ff7106b70f88.jpg"/>
         </item>
         <item>
             <title><![CDATA[Football Daily]]></title>
@@ -391,12 +391,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4858/live/af032900-d600-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
-            <title><![CDATA[More goals for Lankshear, home woes for Hammers - Aaron McLean's EFL Takeaways]]></title>
-            <description><![CDATA[BBC Final Score pundit Aaron McLean looks at the weekend's talking points in the EFL, including Middlesbrough and West Ham United. ]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cv369yp2451lo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cv369yp2451lo#10</guid>
-            <pubDate>Sat, 31 Oct 2026 20:24:50 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5df/live/6baa95e0-d569-11f1-a701-fddedf244c16.png"/>
+            <title><![CDATA[Are Manchester United really at risk of a relegation scrap?]]></title>
+            <description><![CDATA[Manchester United's current tally of seven points from nine games would not even get them 30 points if it was continued for the full season.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/c8g47wl06vkqo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c8g47wl06vkqo#10</guid>
+            <pubDate>Sat, 31 Oct 2026 23:52:28 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c471/live/62195190-d55c-11f1-b937-61b94454a4cf.jpg"/>
         </item>
         <item>
             <title><![CDATA[Kane beat Mbappe to Ballon d'Or by just 28 points]]></title>
@@ -415,20 +415,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81ef/live/feb3d0b0-d477-11f1-9dda-1ba6fcc7d159.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Sutton's predictions v Bad Day At The Office star John Hannah]]></title>
-            <description><![CDATA[BBC Sport football expert Chris Sutton takes on Bad Day At The Office star John Hannah, plus the BBC readers and AI with his predictions for this weekend's Premier League fixtures.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cq1m4j79x50jo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cq1m4j79x50jo#10</guid>
-            <pubDate>Thu, 29 Oct 2026 19:55:24 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/089f/live/2e6abec0-d245-11f1-a701-fddedf244c16.png"/>
-        </item>
-        <item>
             <title><![CDATA[Is double drop from the Premier League becoming more common?]]></title>
             <description><![CDATA[Back-to-back relegations to the third tier of English football are becoming more common and this season Burnley could make it a hat-trick after Luton Town and Leicester.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cv2d6ze63gk2o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cv2d6ze63gk2o#10</guid>
             <pubDate>Thu, 29 Oct 2026 13:19:52 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/660e/live/5ff58e70-d1ff-11f1-b30f-21253679b290.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Are De Zerbi's Spurs finding elusive consistency?]]></title>
+            <description><![CDATA[Are Spurs finally finding elusive consistency under Roberto de Zerbi after a third successive Premier League win, asks chief football writer Phil McNulty?]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/c6n04v897qe4o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6n04v897qe4o#10</guid>
+            <pubDate>Sat, 31 Oct 2026 21:16:11 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8e1/live/13b64ef0-d579-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
             <title><![CDATA[Manager ins and outs - 2026-27]]></title>

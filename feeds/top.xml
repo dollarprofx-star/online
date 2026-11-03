@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 03 Nov 2026 05:21:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Nov 2026 06:19:19 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -39,14 +39,6 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/665c/live/802099e0-d6de-11f1-b2be-0146bf989691.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Thousands of European troops to rehearse Ukraine deployment in event of peace]]></title>
-            <description><![CDATA[Western officials stress that any force sent to Ukraine would not take part in any offensive operations.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cm3wv085ne6po?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm3wv085ne6po#1</guid>
-            <pubDate>Tue, 03 Nov 2026 00:07:05 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4086/live/4322ff00-d6f3-11f1-93e1-3b657b665bcf.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[PM plans debt re-set for Commonwealth nations as slavery apology talks begin]]></title>
             <description><![CDATA[The move comes as the prime minister begins talks about the UK issuing a formal apology for the slave trade in the next year.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c58jzn1ve0kjo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -55,12 +47,20 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d9b/live/e575c5c0-d712-11f1-b19c-4d0080e30e42.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Plane may have broken apart ahead of deadly Florida jet crash, say investigators ]]></title>
-            <description><![CDATA[The National Transportation Safety Board also believes weather could have been a factor in the crash, but warns it is too early to determine the cause. ]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm369yy7lw73o#1</guid>
-            <pubDate>Tue, 03 Nov 2026 00:08:14 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b940/live/17a71660-d714-11f1-b19c-4d0080e30e42.jpg"/>
+            <title><![CDATA[Thousands of European troops to rehearse Ukraine deployment in event of peace]]></title>
+            <description><![CDATA[Western officials stress that any force sent to Ukraine would not take part in any offensive operations.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cm3wv085ne6po?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm3wv085ne6po#1</guid>
+            <pubDate>Tue, 03 Nov 2026 00:07:05 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4086/live/4322ff00-d6f3-11f1-93e1-3b657b665bcf.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Scientists detect signals at the smallest scale ever explored]]></title>
+            <description><![CDATA[Researchers have detected signals from the smallest distances ever probed.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c5pvgxkkv4dzo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c5pvgxkkv4dzo#1</guid>
+            <pubDate>Tue, 03 Nov 2026 06:01:23 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eca0/live/1ab4cfb0-d2ef-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
             <title><![CDATA[Jewellery sold as sterling silver on Amazon and Temu found to contain toxic chemicals]]></title>
@@ -79,12 +79,12 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f63e/live/cc23f870-d6ff-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
-            <title><![CDATA[North Korea denies being behind record $6.3bn Binance hack]]></title>
-            <description><![CDATA[US government agencies and cyber analysts have blamed Pyongyang for the record-breaking heist.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6rey4v53exgo#1</guid>
-            <pubDate>Tue, 03 Nov 2026 01:23:03 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a90/live/75145840-d727-11f1-b237-93d5595d4291.jpg"/>
+            <title><![CDATA[Plane may have broken apart ahead of deadly Florida jet crash, say investigators ]]></title>
+            <description><![CDATA[The National Transportation Safety Board also believes weather could have been a factor in the crash, but warns it is too early to determine the cause. ]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm369yy7lw73o#1</guid>
+            <pubDate>Tue, 03 Nov 2026 00:08:14 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b940/live/17a71660-d714-11f1-b19c-4d0080e30e42.jpg"/>
         </item>
         <item>
             <title><![CDATA['Mogging' is Collins' word of the year... but do you know what it means?]]></title>
@@ -95,20 +95,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f668/live/3bd75400-d6dd-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
+            <title><![CDATA[North Korea denies being behind record $6.3bn Binance hack]]></title>
+            <description><![CDATA[US government agencies and cyber analysts have blamed Pyongyang for the record-breaking heist.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6rey4v53exgo#1</guid>
+            <pubDate>Tue, 03 Nov 2026 01:23:03 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a90/live/75145840-d727-11f1-b237-93d5595d4291.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[King's former horse wins prestigious Melbourne Cup]]></title>
             <description><![CDATA[Point of Law ridden by Ethan Brown has won Australia's "race that stops a nation".]]></description>
             <link>https://www.bbc.co.uk/sport/horse-racing/articles/cr3wv0476z5do?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/horse-racing/articles/cr3wv0476z5do#1</guid>
             <pubDate>Tue, 03 Nov 2026 05:15:11 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6718/live/8b889960-d740-11f1-9ecd-137d429a1395.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Christmas 2026 stamps unveiled by Royal Mail]]></title>
-            <description><![CDATA[The annual Christmas collection of five stamps feature scenes from the Nativity.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cw62yeq7958ro?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cw62yeq7958ro#1</guid>
-            <pubDate>Tue, 03 Nov 2026 02:27:50 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/122a/live/04bfac10-d728-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
             <title><![CDATA[A simple guide to the midterms]]></title>
@@ -215,6 +215,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b2b/live/05d33ff0-d71d-11f1-b723-458a2ded4fa2.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Christmas 2026 stamps unveiled by Royal Mail]]></title>
+            <description><![CDATA[The annual Christmas collection of five stamps feature scenes from the Nativity.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cw62yeq7958ro?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cw62yeq7958ro#5</guid>
+            <pubDate>Tue, 03 Nov 2026 02:27:50 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/122a/live/04bfac10-d728-11f1-93e1-3b657b665bcf.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Dry and chilly start to November after wet but sunny October]]></title>
             <description><![CDATA[Provisional Met Office figures just released show the UK had a warmer, wetter and sunnier October than average but quieter weather has now arrived.]]></description>
             <link>https://www.bbc.co.uk/weather/articles/cr5ynw8np52vo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -231,28 +239,20 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b427/live/5b5c5f40-d689-11f1-b7fe-13bd08d80ad6.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Legal challenge to Australia's social media ban to start in High Court]]></title>
-            <description><![CDATA[A rights group will argue the world-leading policy robs under-16s of their right to free communication.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/ck79py02p1jlo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ck79py02p1jlo#5</guid>
-            <pubDate>Mon, 02 Nov 2026 23:37:31 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7af5/live/6a1bb4a0-d67e-11f1-ac3d-edfeb9f7d0aa.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Shop freezers in seven European countries hit by cyber-attack]]></title>
-            <description><![CDATA[The temperature of freezers in several shops across Europe reportedly rose to as high as 50C.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cq1kd1nee80eo#5</guid>
-            <pubDate>Mon, 02 Nov 2026 17:38:11 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31c7/live/152ec730-d6c3-11f1-93e1-3b657b665bcf.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Prosecutors hint at retrial for Lindsay Clancy on murder charges]]></title>
             <description><![CDATA[Judge William Sullivan said if the case is headed to a retrial, that could happen as soon as March 2027.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cjly0rgk34y2o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cjly0rgk34y2o#5</guid>
             <pubDate>Mon, 02 Nov 2026 19:23:07 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/72a8/live/8b822d30-d6f2-11f1-8f53-6322e2737253.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Legal challenge to Australia's social media ban to start in High Court]]></title>
+            <description><![CDATA[A rights group will argue the world-leading policy robs under-16s of their right to free communication.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/ck79py02p1jlo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ck79py02p1jlo#5</guid>
+            <pubDate>Mon, 02 Nov 2026 23:37:31 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7af5/live/6a1bb4a0-d67e-11f1-ac3d-edfeb9f7d0aa.jpg"/>
         </item>
         <item>
             <title><![CDATA[Download now]]></title>
