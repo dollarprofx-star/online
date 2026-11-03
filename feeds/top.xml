@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 03 Nov 2026 20:35:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Nov 2026 21:23:02 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -23,20 +23,28 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c3a9/live/24cee420-d7bf-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Seven flights across Europe targeted by suspected bomb threats]]></title>
-            <description><![CDATA[Planes in Poland, Spain, Bulgaria and Italy have been checked for explosives following separate threats.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo#1</guid>
-            <pubDate>Tue, 03 Nov 2026 17:56:03 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db91/live/79069d70-d79d-11f1-84dd-e55f4bec0ecd.png"/>
+            <title><![CDATA[Spanish transport minister resigns days after deadly train crash]]></title>
+            <description><![CDATA[At least 69 people were killed and dozens injured in the collision south of the capital, Madrid.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo#1</guid>
+            <pubDate>Tue, 03 Nov 2026 21:19:57 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d61f/live/6dc1cd30-d7c6-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
             <title><![CDATA[King calls slave trade a 'shameful chapter' during Commonwealth address]]></title>
             <description><![CDATA[The speech comes after calls for the UK government to issue a formal apology for Britain's historic role in the trade.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cr89znnnn7dno?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cr89znnnn7dno#1</guid>
-            <pubDate>Tue, 03 Nov 2026 17:04:02 GMT</pubDate>
+            <pubDate>Tue, 03 Nov 2026 20:38:38 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3cf3/live/42789f10-d7c0-11f1-b441-2b33b063138f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Seven flights across Europe targeted by suspected bomb threats]]></title>
+            <description><![CDATA[Planes in Poland, Spain, Bulgaria and Italy have been checked for explosives following separate threats.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo#1</guid>
+            <pubDate>Tue, 03 Nov 2026 20:42:47 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db91/live/79069d70-d79d-11f1-84dd-e55f4bec0ecd.png"/>
         </item>
         <item>
             <title><![CDATA[Celebrity loses injunction bid but will stay anonymous pending appeal]]></title>
@@ -68,7 +76,7 @@
             <link>https://www.bbc.co.uk/news/articles/c65ynez5y599o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c65ynez5y599o#1</guid>
             <pubDate>Tue, 03 Nov 2026 16:57:41 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/617d/live/6d097ab0-d7bb-11f1-8a3d-5320e3fab176.jpg"/>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a5b/live/6de1e2e0-d7c7-11f1-a719-bf3dc3a3d5b5.jpg"/>
         </item>
         <item>
             <title><![CDATA[Binance says fake job interviews used as part of $6.3bn crypto hack]]></title>
