@@ -9,14 +9,22 @@
             <link>https://www.bbc.co.uk/sport/football</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 03 Nov 2026 06:19:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Nov 2026 07:40:23 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
+            <title><![CDATA[The referee who became a role model after bouncing back from Diaz error]]></title>
+            <description><![CDATA[Referee Darren England shares how he has moved on from the VAR error that stalled his career to the FA Cup final and the Champions League. ]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cdj4z0lwjzlo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cdj4z0lwjzlo#0</guid>
+            <pubDate>Tue, 03 Nov 2026 06:41:31 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93d8/live/3adfa190-ade0-11f1-9a5c-a7a4083eb832.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Jeers again as home woes continue - Jaissle has big problems at Newcastle]]></title>
-            <description><![CDATA[Three months into a four-year contract, the problems are mounting for Newcastle boss Matthias Jaissle after his side were booed off the pitch by their own fans following another defeat. ]]></description>
+            <description><![CDATA[Three months into a four-year contract, the problems are mounting for Newcastle boss Matthias Jaissle as his side are booed off the pitch by fans following another defeat. ]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cmly05n114gjo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmly05n114gjo#0</guid>
             <pubDate>Mon, 02 Nov 2026 23:53:46 GMT</pubDate>
@@ -45,6 +53,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c8dx37n11kv2o#0</guid>
             <pubDate>Mon, 02 Nov 2026 23:09:36 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf47/live/e05ef5c0-d6f4-11f1-93e1-3b657b665bcf.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Emery looks to show Villa can compete with elite]]></title>
+            <description><![CDATA[Aston Villa are looking to become the first English team to win at the Nou Camp in almost 20 years.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/c5ev3m9ddzgmo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c5ev3m9ddzgmo#0</guid>
+            <pubDate>Tue, 03 Nov 2026 07:33:17 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/006a/live/84fb8ca0-d6ec-11f1-a741-236ee91c2e25.jpg"/>
         </item>
         <item>
             <title><![CDATA[Carrick says it's 'crazy' but he's looking forward to Roma game]]></title>
@@ -87,28 +103,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2230/live/193b93b0-d701-11f1-91df-b96ca3dbd380.jpg"/>
         </item>
         <item>
-            <title><![CDATA[To dive or not to dive? Football's big dilemma]]></title>
-            <description><![CDATA[Liverpool feel Alexander Isak should have been awarded a penalty against Arsenal but with the striker not appealing for the decision and the VAR staying out of it, should he have made more of it? ]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/crvg69wn9490o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/crvg69wn9490o#0</guid>
-            <pubDate>Mon, 02 Nov 2026 14:06:47 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92ad/live/0f801aa0-d6be-11f1-aacc-5b5f23abff4b.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Arsenal want Kroupi in January - Tuesday's gossip]]></title>
             <description><![CDATA[Arsenal want to boost their striking options with Bournemouth's Eli Junior Kroupi, Manchester United scout Borussia Dortmund quartet, plus more.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cmy83eppjzp4o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmy83eppjzp4o#0</guid>
             <pubDate>Mon, 02 Nov 2026 22:24:56 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb6d/live/5575bbe0-d70a-11f1-81b9-c76bd127a61a.png"/>
-        </item>
-        <item>
-            <title><![CDATA[Who am I? Plus today's other quizzes]]></title>
-            <description><![CDATA[Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cqx286dvr4jgo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqx286dvr4jgo#0</guid>
-            <pubDate>Tue, 03 Nov 2026 06:12:20 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"/>
         </item>
         <item>
             <title><![CDATA['He's unavailable' - Moyes tight-lipped on Grealish]]></title>
@@ -151,12 +151,36 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6cdf/live/7301a9f0-d62c-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Who am I? Plus today's other quizzes]]></title>
+            <description><![CDATA[Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cqx286dvr4jgo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqx286dvr4jgo#2</guid>
+            <pubDate>Tue, 03 Nov 2026 06:12:20 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Asian Cup postponed in wake of attacks on Saudi Arabia]]></title>
+            <description><![CDATA[The 2027 Asian Cup in Saudi Arabia is postponed because of a series of deadly attacks on the host country.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/c6y0e79yjg44o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6y0e79yjg44o#2</guid>
+            <pubDate>Tue, 03 Nov 2026 07:15:17 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9647/live/0ce22d10-d754-11f1-8bf4-5f3ca896096e.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Key questions as Pocognoli prepares to name Scotland squad]]></title>
             <description><![CDATA[Sebastien Pocognoli names his second Scotland squad on Tuesday, with various dilemmas to address.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/ckpqg82yxqgyo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ckpqg82yxqgyo#2</guid>
             <pubDate>Mon, 02 Nov 2026 17:35:14 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f10/live/6c28a7c0-d6e3-11f1-a741-236ee91c2e25.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[To dive or not to dive? Football's big dilemma]]></title>
+            <description><![CDATA[Liverpool feel Alexander Isak should have been awarded a penalty against Arsenal but with the striker not appealing for the decision and the VAR staying out of it, should he have made more of it? ]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/crvg69wn9490o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/crvg69wn9490o#2</guid>
+            <pubDate>Mon, 02 Nov 2026 14:06:47 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92ad/live/0f801aa0-d6be-11f1-aacc-5b5f23abff4b.jpg"/>
         </item>
         <item>
             <title><![CDATA[Villa drop legal action threat against Carragher ]]></title>
@@ -178,25 +202,9 @@
             <title><![CDATA[Hellberg unsure of 'brilliant' Lankshear's England chances]]></title>
             <description><![CDATA[Head coach Kim Hellberg hails Will Lankshear a "brilliant lad" as the goals keep coming, raising questions of a possible England call-up.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/c6jdm4n5l7rlo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6jdm4n5l7rlo#2</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6jdm4n5l7rlo#3</guid>
             <pubDate>Mon, 02 Nov 2026 13:36:46 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a80/live/23487470-d6bd-11f1-aacc-5b5f23abff4b.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Trailing 8-0 & down to six players - abandoned game labelled a 'farce']]></title>
-            <description><![CDATA[A non-league game abandoned after one team was reduced to six players while trailing 8-0 is labelled "a complete farce".]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cvj6j3k6yjppo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cvj6j3k6yjppo#2</guid>
-            <pubDate>Mon, 02 Nov 2026 13:32:20 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd5c/live/03c10590-d6cc-11f1-ac20-7783925c811f.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Football Daily]]></title>
-            <description><![CDATA[Are Villa being hindered, should Carragher have apologised, & can Serie A succeed again?]]></description>
-            <link>https://www.bbc.co.uk/sounds/play/p0pkyhnx?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0pkyhnx#2</guid>
-            <pubDate>Mon, 02 Nov 2026 21:20:00 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0pkyhpf.jpg"/>
         </item>
         <item>
             <title><![CDATA[Hibs toast win over Hearts - but will they kick on before cup final?]]></title>
@@ -205,6 +213,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmje5gjp5ezgo#3</guid>
             <pubDate>Mon, 02 Nov 2026 11:39:41 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65ab/live/53172fe0-d6b1-11f1-b5fb-3b1e7f14caa9.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Football Daily]]></title>
+            <description><![CDATA[Are Villa being hindered, should Carragher have apologised, & can Serie A succeed again?]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/p0pkyhnx?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0pkyhnx#3</guid>
+            <pubDate>Mon, 02 Nov 2026 21:20:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0pkyhpf.jpg"/>
         </item>
         <item>
             <title><![CDATA[Tenerife player in intensive care with injury]]></title>
@@ -242,7 +258,7 @@
             <title><![CDATA[Are Celtic club in regression amid run of six defeats in 10?]]></title>
             <description><![CDATA[Chris Sutton and Ian McCall weigh in on Celtic after a second league defeat of the season, but manager Martin O'Neill is defiant.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cmvg7d1xl8epo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmvg7d1xl8epo#3</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmvg7d1xl8epo#5</guid>
             <pubDate>Sun, 01 Nov 2026 17:34:12 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f85/live/92559140-d613-11f1-90fb-b3468681b3ba.jpg"/>
         </item>
@@ -250,7 +266,7 @@
             <title><![CDATA[Worst in the EFL - the team with a penalty problem]]></title>
             <description><![CDATA[Newport County have scored just two from nine penalties across the past two seasons in all competitions, so what's going wrong?]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cred3pgyyl53o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cred3pgyyl53o#3</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cred3pgyyl53o#5</guid>
             <pubDate>Mon, 02 Nov 2026 13:56:37 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e871/live/b312df70-d6b1-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
@@ -317,14 +333,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0pks2xb#6</guid>
             <pubDate>Mon, 02 Nov 2026 00:59:00 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0pgvdbk.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Non-league clubs tackle teen trouble at matches]]></title>
-            <description><![CDATA[Stones thrown at away fans and a kit man punched as some grounds ban unaccompanied under-16s.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cm4g1jk8we42o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm4g1jk8we42o#6</guid>
-            <pubDate>Mon, 02 Nov 2026 06:13:37 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8dcb/live/b1d511d0-d6bd-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
             <title><![CDATA[Rice is a rounded midfielder, but could be more selfish - Murphy]]></title>
