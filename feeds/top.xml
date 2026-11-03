@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 03 Nov 2026 02:29:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Nov 2026 03:21:41 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -23,12 +23,12 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f63e/live/cc23f870-d6ff-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Shop freezers in seven European countries hit by cyber-attack]]></title>
-            <description><![CDATA[The temperature of freezers in several shops across Europe reportedly rose to as high as 50C.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cq1kd1nee80eo#1</guid>
-            <pubDate>Mon, 02 Nov 2026 17:38:11 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31c7/live/152ec730-d6c3-11f1-93e1-3b657b665bcf.jpg"/>
+            <title><![CDATA[UK and EU agree draft deal to scrap Brexit red tape over food exports]]></title>
+            <description><![CDATA[The food deal, ahead of a UK-EU summit later this month, is the most significant part of the so-called Brexit reset agreed so far.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmp3grwre9xdo#1</guid>
+            <pubDate>Tue, 03 Nov 2026 02:11:13 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/665c/live/802099e0-d6de-11f1-b2be-0146bf989691.jpg"/>
         </item>
         <item>
             <title><![CDATA[Thousands of European troops to rehearse Ukraine deployment in event of peace]]></title>
@@ -63,20 +63,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b940/live/17a71660-d714-11f1-b19c-4d0080e30e42.jpg"/>
         </item>
         <item>
-            <title><![CDATA[What Florida jet audio and flight data tells us about its final moments]]></title>
-            <description><![CDATA[A private jet crashed in Florida on Sunday, killing all nine people on board, according to US authorities.]]></description>
-            <link>https://www.bbc.co.uk/news/videos/c52e9lgxjz82o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/c52e9lgxjz82o#1</guid>
-            <pubDate>Mon, 02 Nov 2026 19:49:22 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d14/live/f2671810-d6ea-11f1-b441-2b33b063138f.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Russian bombing kills 26 people at Ukraine aid centre, Kyiv says]]></title>
-            <description><![CDATA[Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the president called an "utterly horrific" attack.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cjy56dndlyz0o#1</guid>
-            <pubDate>Tue, 03 Nov 2026 01:56:27 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee1e/live/8480acc0-d6eb-11f1-a741-236ee91c2e25.png"/>
+            <title><![CDATA[Shop freezers in seven European countries hit by cyber-attack]]></title>
+            <description><![CDATA[The temperature of freezers in several shops across Europe reportedly rose to as high as 50C.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cq1kd1nee80eo#1</guid>
+            <pubDate>Mon, 02 Nov 2026 17:38:11 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31c7/live/152ec730-d6c3-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
             <title><![CDATA[North Korea denies being behind record $6.3bn Binance hack]]></title>
@@ -87,6 +79,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a90/live/75145840-d727-11f1-b237-93d5595d4291.jpg"/>
         </item>
         <item>
+            <title><![CDATA['Mogging' is Collins' word of the year... but do you know what it means?]]></title>
+            <description><![CDATA[The slang term, which relates to outshining or upstaging someone, is one of 10 words celebrated.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cve8rp085zzjo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cve8rp085zzjo#1</guid>
+            <pubDate>Tue, 03 Nov 2026 01:52:28 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f668/live/3bd75400-d6dd-11f1-a701-fddedf244c16.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Apple unsure when more foldable iPhones will be available after selling out]]></title>
             <description><![CDATA[Apple’s foldable iPhone Duo was a hit with people willing to spend $2,000 on a new mobile.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c6n8dn457ypko?at_medium=RSS&amp;at_campaign=rss</link>
@@ -95,12 +95,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b2b/live/05d33ff0-d71d-11f1-b723-458a2ded4fa2.jpg"/>
         </item>
         <item>
-            <title><![CDATA['Mogging' is Collins' word of the year... but do you know what it means?]]></title>
-            <description><![CDATA[The slang term, which relates to outshining or upstaging someone, is one of 10 words celebrated.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cve8rp085zzjo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cve8rp085zzjo#1</guid>
-            <pubDate>Tue, 03 Nov 2026 01:52:28 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f668/live/3bd75400-d6dd-11f1-a701-fddedf244c16.jpg"/>
+            <title><![CDATA[Christmas 2026 stamps unveiled by Royal Mail]]></title>
+            <description><![CDATA[The annual Christmas collection of five stamps feature scenes from the Nativity.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cw62yeq7958ro?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cw62yeq7958ro#1</guid>
+            <pubDate>Tue, 03 Nov 2026 02:27:50 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/122a/live/04bfac10-d728-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
             <title><![CDATA[A simple guide to the midterms]]></title>
@@ -151,28 +151,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e31b/live/a3f9acd0-d715-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
+            <title><![CDATA[What Florida jet audio and flight data tells us about its final moments]]></title>
+            <description><![CDATA[A private jet crashed in Florida on Sunday, killing all nine people on board, according to US authorities.]]></description>
+            <link>https://www.bbc.co.uk/news/videos/c52e9lgxjz82o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/c52e9lgxjz82o#3</guid>
+            <pubDate>Mon, 02 Nov 2026 19:49:22 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d14/live/f2671810-d6ea-11f1-b441-2b33b063138f.jpg"/>
+        </item>
+        <item>
             <title><![CDATA['We grew up around this historic Delhi mosque - now we have been forced out']]></title>
             <description><![CDATA[Authorities have razed hundreds of houses in a neighbourhood in central Delhi, saying they were built on government land.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cwp9gljmp3kdo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwp9gljmp3kdo#3</guid>
             <pubDate>Tue, 03 Nov 2026 00:20:50 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70ed/live/39e7bed0-d676-11f1-a806-e976ee8757a1.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[If hackers can take control of a supermarket freezer, how vulnerable is other tech?]]></title>
-            <description><![CDATA[Dozens of shops across European countries have been hit by a cyber-attack affecting their fridges.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/ckpqg8lve73go?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckpqg8lve73go#3</guid>
-            <pubDate>Mon, 02 Nov 2026 18:25:01 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db6d/live/6afb9b70-d6cd-11f1-ac20-7783925c811f.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Fake nuclear warning from hacked app sparks unease but not panic in Ukraine]]></title>
-            <description><![CDATA[Many Ukrainians, who have faced years of Russian attacks, did not take the messages seriously and doubted their veracity.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cwx28mngxz8do?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwx28mngxz8do#3</guid>
-            <pubDate>Mon, 02 Nov 2026 18:34:24 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b47a/live/2a240410-d6c9-11f1-ac20-7783925c811f.jpg"/>
         </item>
         <item>
             <title><![CDATA[Labour MPs pull their punches on immigration changes]]></title>
@@ -191,6 +183,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ffe/live/f76751a0-d6ee-11f1-93e1-3b657b665bcf.png"/>
         </item>
         <item>
+            <title><![CDATA[Fake nuclear warning from hacked app sparks unease but not panic in Ukraine]]></title>
+            <description><![CDATA[Many Ukrainians, who have faced years of Russian attacks, did not take the messages seriously and doubted their veracity.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cwx28mngxz8do?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwx28mngxz8do#3</guid>
+            <pubDate>Mon, 02 Nov 2026 18:34:24 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b47a/live/2a240410-d6c9-11f1-ac20-7783925c811f.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Prosecutors hint at retrial for Lindsay Clancy on murder charges]]></title>
             <description><![CDATA[Judge William Sullivan said if the case is headed to a retrial, that could happen as soon as March 2027.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cjly0rgk34y2o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -207,12 +207,28 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7af5/live/6a1bb4a0-d67e-11f1-ac3d-edfeb9f7d0aa.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Dry and chilly start to November after wet but sunny October]]></title>
+            <description><![CDATA[Provisional Met Office figures just released show the UK had a warmer, wetter and sunnier October than average but quieter weather has now arrived.]]></description>
+            <link>https://www.bbc.co.uk/weather/articles/cr5ynw8np52vo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/weather/articles/cr5ynw8np52vo#5</guid>
+            <pubDate>Tue, 03 Nov 2026 02:50:42 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fd3/live/068bc9e0-d6c2-11f1-ac20-7783925c811f.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Two boys arrested after Halloween party stabbings]]></title>
             <description><![CDATA[Two teenage boys, both from Southampton, have been arrested on suspicion of attempted murder.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cked3j229j43o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cked3j229j43o#5</guid>
             <pubDate>Mon, 02 Nov 2026 20:20:11 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b427/live/5b5c5f40-d689-11f1-b7fe-13bd08d80ad6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Russian bombing kills 26 people at Ukraine aid centre, Kyiv says]]></title>
+            <description><![CDATA[Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the president called an "utterly horrific" attack.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cjy56dndlyz0o#5</guid>
+            <pubDate>Tue, 03 Nov 2026 01:56:27 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee1e/live/8480acc0-d6eb-11f1-a741-236ee91c2e25.png"/>
         </item>
         <item>
             <title><![CDATA[Channel 4 documentary and journalists 'poisoned the well' against Russell Brand, court hears]]></title>
@@ -229,22 +245,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm87zn1vy28zo#5</guid>
             <pubDate>Mon, 02 Nov 2026 18:17:31 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fafa/live/fc5b9ac0-d6e6-11f1-a741-236ee91c2e25.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Man caught in car with £14k of drugs as a lamb ate chips in the back seat avoids jail]]></title>
-            <description><![CDATA[Police officers found the animal in the back seat of John McNeil's car on the M74 in Glasgow.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c6rmyrnwylwzo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6rmyrnwylwzo#5</guid>
-            <pubDate>Mon, 02 Nov 2026 13:05:15 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/588d/live/b4fe5790-d6b8-11f1-b441-2b33b063138f.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Wizz Air flight from Luton makes emergency landing with fighter jet escort after bomb threat]]></title>
-            <description><![CDATA[A Hungarian fighter jet escorted the aircraft to Budapest after the threat was received mid-air.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c6rryvwre0p5o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6rryvwre0p5o#5</guid>
-            <pubDate>Mon, 02 Nov 2026 14:35:38 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4189/live/0af88b20-d6c8-11f1-ac20-7783925c811f.jpg"/>
         </item>
         <item>
             <title><![CDATA[Download now]]></title>
