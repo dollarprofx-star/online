@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/sport/football</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 03 Nov 2026 17:21:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Nov 2026 18:11:01 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -28,7 +28,7 @@
             <link>https://www.bbc.co.uk/sport/football/articles/cxj0l3pd9jy7o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cxj0l3pd9jy7o#0</guid>
             <pubDate>Tue, 03 Nov 2026 15:07:49 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ba0/live/6e227780-d789-11f1-9440-953b82c8f55a.jpg"/>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b088/live/3590cf00-d7ae-11f1-9092-abeae3cab3b1.jpg"/>
         </item>
         <item>
             <title><![CDATA[West Ham approach Parker after sacking boss Nuno]]></title>
@@ -103,6 +103,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/342b/live/53db6f00-d719-11f1-93e1-3b657b665bcf.png"/>
         </item>
         <item>
+            <title><![CDATA[Boy arrested following Bradley Lowery taunt]]></title>
+            <description><![CDATA[Police are investigating an incident at Coventry's Premier League match with Sunderland on Saturday.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/ck5ynr531xlvo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ck5ynr531xlvo#0</guid>
+            <pubDate>Tue, 03 Nov 2026 09:21:56 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7de/live/dcbcdef0-d627-11f1-a947-0507737f09b2.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Everton hold off Newcastle to move into seventh ]]></title>
             <description><![CDATA[Thierno Barry scores against Newcastle United for the second time in five days as his Everton side earn a narrow win at St James' Park in the Premier League.]]></description>
             <link>https://www.bbc.co.uk/sport/football/videos/cq5ynd70vlx3o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -143,12 +151,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/035d/live/adb0c650-d62a-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Boy arrested following Bradley Lowery taunt]]></title>
-            <description><![CDATA[Police are investigating an incident at Coventry's Premier League match with Sunderland on Saturday.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/ck5ynr531xlvo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ck5ynr531xlvo#2</guid>
-            <pubDate>Tue, 03 Nov 2026 09:21:56 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7de/live/dcbcdef0-d627-11f1-a947-0507737f09b2.jpg"/>
+            <title><![CDATA[Emery looks to show Villa can compete with elite]]></title>
+            <description><![CDATA[Aston Villa are looking to become the first English team to win at the Nou Camp in almost 20 years.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/c5ev3m9ddzgmo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c5ev3m9ddzgmo#2</guid>
+            <pubDate>Tue, 03 Nov 2026 07:33:17 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d73/live/73b081e0-d77c-11f1-9539-05485195b558.jpg"/>
         </item>
         <item>
             <title><![CDATA[How Arteta is getting the best from Rice]]></title>
@@ -181,14 +189,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cwkg5dl4d3l8o#2</guid>
             <pubDate>Tue, 03 Nov 2026 10:07:54 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09fe/live/2b3da270-d76e-11f1-b441-2b33b063138f.png"/>
-        </item>
-        <item>
-            <title><![CDATA[Emery looks to show Villa can compete with elite]]></title>
-            <description><![CDATA[Aston Villa are looking to become the first English team to win at the Nou Camp in almost 20 years.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/c5ev3m9ddzgmo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c5ev3m9ddzgmo#3</guid>
-            <pubDate>Tue, 03 Nov 2026 07:33:17 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d73/live/73b081e0-d77c-11f1-9539-05485195b558.jpg"/>
         </item>
         <item>
             <title><![CDATA[Arsenal want Kroupi in January - Tuesday's gossip]]></title>
@@ -242,7 +242,7 @@
             <title><![CDATA[Who am I? Plus today's other quizzes]]></title>
             <description><![CDATA[Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cqx286dvr4jgo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqx286dvr4jgo#5</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqx286dvr4jgo#3</guid>
             <pubDate>Tue, 03 Nov 2026 06:12:20 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"/>
         </item>
@@ -341,6 +341,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c65ynz5ve125o#6</guid>
             <pubDate>Mon, 02 Nov 2026 08:22:20 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/926b/live/2c541140-d60a-11f1-a790-6f04ef4f8c74.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why Scottish football is struggling to produce young talent]]></title>
+            <description><![CDATA[Scottish football is wrestling with a growing concern over the number of homegrown players who are making to the top of the game.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/crx23ejgz7j8o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/crx23ejgz7j8o#6</guid>
+            <pubDate>Mon, 02 Nov 2026 06:05:57 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e76/live/5f6d3a80-d442-11f1-97f9-27ebf08d99fe.jpg"/>
         </item>
         <item>
             <title><![CDATA[Were Arsenal 'lucky' not to concede penalty at Liverpool?]]></title>
