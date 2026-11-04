@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/sport/football</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 04 Nov 2026 07:55:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Nov 2026 08:47:18 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -471,6 +471,22 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/827c/live/b919b670-d81c-11f1-a9b6-0f4245e849b7.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Recovering Murray hopes to earn Dundee deal - gossip]]></title>
+            <description><![CDATA[Veteran Scottish Premiership striker targets new contract on long road back to fitness as former Celtic player has advice on how to get the best out of record signing...]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cwj0l628dvmeo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cwj0l628dvmeo#16</guid>
+            <pubDate>Wed, 04 Nov 2026 08:14:53 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a572/live/438686d0-d827-11f1-a701-fddedf244c16.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Scottish Football Podcast]]></title>
+            <description><![CDATA[Leaky defences, the enigma of Kasper Høgh and can Pogcognoli get his system to work?]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/p0pl78bz?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0pl78bz#16</guid>
+            <pubDate>Wed, 04 Nov 2026 08:00:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0pl78cc.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[McTominay returns as Penrice earns first Scotland call]]></title>
             <description><![CDATA[Scott McTominay, Kieran Tierney and Che Adams return to the Scotland squad, while there is a first call for James Penrice for the remaining Nations League matches against North Macedonia and Switzerland.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/c6wyvr870d8do?at_medium=RSS&amp;at_campaign=rss</link>
@@ -493,22 +509,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c9vgrvjj0162o#16</guid>
             <pubDate>Tue, 03 Nov 2026 15:10:54 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7cb3/live/a8fb5520-9dc0-11ef-82c3-45a801b7330b.png"/>
-        </item>
-        <item>
-            <title><![CDATA[Hibs toast win over Hearts - but will they kick on before cup final?]]></title>
-            <description><![CDATA[Hibernian buried their Hampden hoodoo against city rivals Heart of Midlothian on Sunday, but will they build on their Premier Sports Cup semi-final triumph?]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cmje5gjp5ezgo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmje5gjp5ezgo#16</guid>
-            <pubDate>Mon, 02 Nov 2026 11:39:41 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65ab/live/53172fe0-d6b1-11f1-b5fb-3b1e7f14caa9.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Why Scottish football is struggling to produce young talent]]></title>
-            <description><![CDATA[Scottish football is wrestling with a growing concern over the number of homegrown players who are making to the top of the game.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/crx23ejgz7j8o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/crx23ejgz7j8o#16</guid>
-            <pubDate>Mon, 02 Nov 2026 06:05:57 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e76/live/5f6d3a80-d442-11f1-97f9-27ebf08d99fe.jpg"/>
         </item>
         <item>
             <title><![CDATA[Lionesses to face France and Portugal in Nations League]]></title>
