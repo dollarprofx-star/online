@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 04 Nov 2026 15:44:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Nov 2026 16:36:52 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -71,7 +71,7 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/11e3/live/4ea6f3a0-d855-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Time to focus on cost of living, says PM after US election results]]></title>
+            <title><![CDATA[World must 'unite' to ease cost of living pressure, PM Burnham says after US midterms]]></title>
             <description><![CDATA[Andy Burnham says prices won't come down until the US's conflict with Iran is resolved.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c6kgl0xk8en9o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6kgl0xk8en9o#2</guid>
@@ -79,20 +79,20 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5caa/live/138c7900-d85c-11f1-94f3-cf7d1e52bb8c.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Russian hacktivists say they were behind freezer hacks, but speculation remains]]></title>
-            <description><![CDATA[Noname and Z-Pentest Alliance are claiming responsibility - but this is being met with scepticism.]]></description>
+            <title><![CDATA[French blood supplies impacted by freezer hacks as theories swirl about culprits]]></title>
+            <description><![CDATA[The French Blood Establishment (EFS) said cold rooms storing blood were impacted by hackers.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro#2</guid>
-            <pubDate>Wed, 04 Nov 2026 15:19:46 GMT</pubDate>
+            <pubDate>Wed, 04 Nov 2026 16:26:15 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3538/live/e551bd50-d862-11f1-85ab-b3cc3b5498c6.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Celebrity hairstylist John Frieda dies aged 75]]></title>
-            <description><![CDATA[He was stylist to the stars in the 1960s and 1970s before creating a global range of hair products.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/crlykl5gl3x4o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/crlykl5gl3x4o#2</guid>
-            <pubDate>Wed, 04 Nov 2026 10:52:39 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed3c/live/4c8a3020-d83f-11f1-93e1-3b657b665bcf.jpg"/>
+            <title><![CDATA[Zelensky gives Melania Trump Ukraine's highest award after Oleshky ceasefire]]></title>
+            <description><![CDATA[Russian and Ukrainian delegations will meet the US first lady at the White House on Thursday.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cm87zvpzwq0no?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm87zvpzwq0no#2</guid>
+            <pubDate>Wed, 04 Nov 2026 15:01:10 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8de/live/70270390-d859-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
             <title><![CDATA[Goalkeeper Owono 'would never intentionally hurt anyone', team-mate says after De Miguel death]]></title>
@@ -100,7 +100,7 @@
             <link>https://www.bbc.co.uk/sport/football/articles/c6zxjz40l280o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6zxjz40l280o#2</guid>
             <pubDate>Wed, 04 Nov 2026 11:40:57 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/71f9/live/08251a60-d779-11f1-9539-05485195b558.png"/>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4710/live/c7840d60-d866-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
             <title><![CDATA[Kellogg's admits snap, crackle and pop is quieter after uproar over Rice Krispies recipe change]]></title>
@@ -151,20 +151,28 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5bf4/live/9fa4f600-d844-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Zelensky gives Melania Trump Ukraine's highest award after Oleshky ceasefire]]></title>
-            <description><![CDATA[Russian and Ukrainian delegations will meet the US first lady at the White House on Thursday.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cm87zvpzwq0no?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm87zvpzwq0no#5</guid>
-            <pubDate>Wed, 04 Nov 2026 15:01:10 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8de/live/70270390-d859-11f1-93e1-3b657b665bcf.jpg"/>
+            <title><![CDATA[Police launch inquiry after two inmates die in prison]]></title>
+            <description><![CDATA[The Ministry of Justice (MoJ) confirmed two men died in custody on Wednesday.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c51kdx83y11lo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c51kdx83y11lo#5</guid>
+            <pubDate>Wed, 04 Nov 2026 16:00:45 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed99/live/16936510-34ec-11f0-8947-7d6241f9fce9.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Miliband says slavery apology will not bring cost for UK taxpayers]]></title>
-            <description><![CDATA[Speaking to BBC's Newscast, the foreign secretary says Britain cannot sweep its past "under the carpet".]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cm8ezneewr9lo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm8ezneewr9lo#5</guid>
-            <pubDate>Wed, 04 Nov 2026 02:14:45 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/77a6/live/48039560-d825-11f1-b441-2b33b063138f.jpg"/>
+            <title><![CDATA[Israel's president begins consultations with parties after election deadlock]]></title>
+            <description><![CDATA[Herzog warns politicians that "not every commitment and promise can be fulfilled" if they want to avoid another election.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c6z98z5z91ppo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6z98z5z91ppo#5</guid>
+            <pubDate>Wed, 04 Nov 2026 16:18:21 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc51/live/4104b7f0-d869-11f1-93e1-3b657b665bcf.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Celebrity hairstylist John Frieda dies aged 75]]></title>
+            <description><![CDATA[He was stylist to the stars in the 1960s and 1970s before creating a global range of hair products.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/crlykl5gl3x4o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/crlykl5gl3x4o#5</guid>
+            <pubDate>Wed, 04 Nov 2026 10:52:39 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed3c/live/4c8a3020-d83f-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
             <title><![CDATA[Mother of Ghanaian boy killed in US 'wants justice' as she flies for funeral]]></title>
@@ -183,12 +191,12 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78aa/live/0f3dca10-d835-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Fourth arrest after Halloween party stabbings]]></title>
-            <description><![CDATA[All five boys who were injured had been invited to attend the supervised party on Saturday night.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c39wz4lv85v8o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c39wz4lv85v8o#5</guid>
-            <pubDate>Wed, 04 Nov 2026 11:48:32 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7359/live/19a05d90-d841-11f1-9a87-07a62b4549a2.jpg"/>
+            <title><![CDATA[Secret police files released in Hungary, 47 years after fall of communism]]></title>
+            <description><![CDATA[Critics say the move comes too late, that the files themselves are incomplete, and the move risks sowing division and causing unnecessary anguish.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c977p01kgmmko?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c977p01kgmmko#5</guid>
+            <pubDate>Wed, 04 Nov 2026 15:28:18 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65b3/live/39dbf5e0-d861-11f1-85ab-b3cc3b5498c6.png"/>
         </item>
         <item>
             <title><![CDATA[Children spending too long on maths app TT Rockstars, MP warns]]></title>
@@ -197,14 +205,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c64g1vyxq4j5o#5</guid>
             <pubDate>Wed, 04 Nov 2026 11:31:39 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a82/live/2ae71260-d83c-11f1-87c3-29e1cdce63c6.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Stonehaven train derailment could have been avoided if drain built correctly, says sheriff]]></title>
-            <description><![CDATA[Three men died when a train derailed near Stonehaven in Aberdeenshire following heavy rain in 2020.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c20y0922wg3o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c20y0922wg3o#5</guid>
-            <pubDate>Wed, 04 Nov 2026 12:49:34 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1bdf/live/24a9c100-f222-11f0-b5f7-49f0357294ff.jpg"/>
         </item>
         <item>
             <title><![CDATA[Download now]]></title>
@@ -221,6 +221,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0pkvymx?at_mid=YcTUBVVTdo&amp;at_campaign=Newsnight_The_Draft_UK_EU_Deal_To_Scrap_Brexit_Red_Tape_news_rail&amp;at_medium=display_ad&amp;at_campaign_type=owned&amp;at_nation=NET&amp;at_audience_id=SS&amp;at_product=iplayer&amp;at_brand=b006mk25&amp;at_ptr_name=bbc&amp;at_ptr_type=media&amp;at_format=image&amp;at_objective=consumption&amp;at_link_title=Newsnight_The_Draft_UK_EU_Deal_To_Scrap_Brexit_Red_Tape_news_rail&amp;at_bbc_team=BBC&amp;at_creation=News#7</guid>
             <pubDate>Sun, 25 Oct 2026 00:00:00 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0l7jnbt.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why Man Utd's Roma comeback has echoes of Mourinho and Solskjaer]]></title>
+            <description><![CDATA[After their memorable comeback victory against Roma, can Manchester United avoid a repeat of the past and follow that up with a successive victory?]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cqx28zjxdxxzo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqx28zjxdxxzo#9</guid>
+            <pubDate>Wed, 04 Nov 2026 16:12:46 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/37d4/live/9ead2680-d85a-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
             <title><![CDATA[Real Madrid reach verbal agreement to sign Gabriel]]></title>
@@ -244,7 +252,7 @@
             <link>https://www.bbc.co.uk/sport/football/articles/c6zxjz40l280o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6zxjz40l280o#9</guid>
             <pubDate>Wed, 04 Nov 2026 11:40:57 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/71f9/live/08251a60-d779-11f1-9539-05485195b558.png"/>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4710/live/c7840d60-d866-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
             <title><![CDATA[Could Hyrox's Olympic ambition spell the end for triathlon?]]></title>
@@ -261,22 +269,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cq3dj37m1kddo#9</guid>
             <pubDate>Wed, 04 Nov 2026 11:54:59 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9c1/live/c06b7600-d7b0-11f1-9092-abeae3cab3b1.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LIV aimed to 'destroy the European Tour' - McIlroy]]></title>
-            <description><![CDATA[Six-time major winner Rory McIlroy says those connected to LIV Golf were expressing an ambition to "destroy the European Tour" at the 2026 Masters, only months before the league filed for bankruptcy protection.]]></description>
-            <link>https://www.bbc.co.uk/sport/golf/articles/ck78p0epe0y8o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/golf/articles/ck78p0epe0y8o#9</guid>
-            <pubDate>Wed, 04 Nov 2026 11:52:36 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9cea/live/376d3fa0-d83c-11f1-9a87-07a62b4549a2.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nadal set to join Real Madrid board of directors]]></title>
-            <description><![CDATA[Tennis great Rafael Nadal is set to join the board of Spanish football giants Real Madrid.]]></description>
-            <link>https://www.bbc.co.uk/sport/articles/cmy56zekeneqo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/articles/cmy56zekeneqo#9</guid>
-            <pubDate>Wed, 04 Nov 2026 13:21:01 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c75e/live/2dfb0e80-d84f-11f1-b870-55415e6a9944.jpg"/>
         </item>
     </channel>
 </rss>
