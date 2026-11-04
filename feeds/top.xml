@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 04 Nov 2026 16:36:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Nov 2026 17:31:27 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -59,16 +59,16 @@
             <description><![CDATA[The first person who was attacked also says he asked hospital staff "am I going to die today?".]]></description>
             <link>https://www.bbc.co.uk/news/articles/cq8ez378661xo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cq8ez378661xo#2</guid>
-            <pubDate>Wed, 04 Nov 2026 15:36:15 GMT</pubDate>
+            <pubDate>Wed, 04 Nov 2026 17:20:59 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab34/live/9333f510-d85d-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
-            <title><![CDATA['Multi-cancer' blood tests coming to some GP surgeries in England]]></title>
-            <description><![CDATA[The aim is to detect hard-to-diagnose abdominal cancers, including liver, ovarian and pancreatic cancer, much sooner.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cm9qz93ew22no?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm9qz93ew22no#2</guid>
-            <pubDate>Wed, 04 Nov 2026 00:04:28 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/11e3/live/4ea6f3a0-d855-11f1-93e1-3b657b665bcf.jpg"/>
+            <title><![CDATA[Brigitte Bardot inheritance row deepens after private letter to partner leaked]]></title>
+            <description><![CDATA[In the letter, the late French actress says her partner Bernard de Chiara was "incapable" of giving "support, a tenderness, a presence".]]></description>
+            <link>https://www.bbc.co.uk/news/articles/ck1ex56e5q8wo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ck1ex56e5q8wo#2</guid>
+            <pubDate>Wed, 04 Nov 2026 16:31:14 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c5a/live/e353adf0-d863-11f1-85ab-b3cc3b5498c6.jpg"/>
         </item>
         <item>
             <title><![CDATA[World must 'unite' to ease cost of living pressure, PM Burnham says after US midterms]]></title>
@@ -79,7 +79,23 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5caa/live/138c7900-d85c-11f1-94f3-cf7d1e52bb8c.jpg"/>
         </item>
         <item>
-            <title><![CDATA[French blood supplies impacted by freezer hacks as theories swirl about culprits]]></title>
+            <title><![CDATA[UK national tests positive for Ebola virus in DR Congo]]></title>
+            <description><![CDATA[A British government spokesperson says the risk to the UK public from Ebola remains low.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/crq8nj7xqdv9o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/crq8nj7xqdv9o#2</guid>
+            <pubDate>Wed, 04 Nov 2026 17:09:49 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b714/live/371f2960-d86d-11f1-85ab-b3cc3b5498c6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Most difficult days of my life,' says goalkeeper Owono after Tenerife player's death]]></title>
+            <description><![CDATA[FC Andorra goalkeeper Jesus Owono puts out a statement through his club, expressing his sorrow and pain after Tenerife forward Jesus de Miguel's death.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/c6zxjz40l280o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6zxjz40l280o#2</guid>
+            <pubDate>Wed, 04 Nov 2026 16:40:38 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8bd/live/9677ecc0-d86e-11f1-85ab-b3cc3b5498c6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[French blood storage impacted by freezer hacks as theories swirl about culprits]]></title>
             <description><![CDATA[The French Blood Establishment (EFS) said cold rooms storing blood were impacted by hackers.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro#2</guid>
@@ -93,22 +109,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm87zvpzwq0no#2</guid>
             <pubDate>Wed, 04 Nov 2026 15:01:10 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8de/live/70270390-d859-11f1-93e1-3b657b665bcf.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Goalkeeper Owono 'would never intentionally hurt anyone', team-mate says after De Miguel death]]></title>
-            <description><![CDATA[Andorra goalkeeper Jesus Owono "would never intentionally hurt anyone" and is "deeply affected" by the death of Tenerife forward Jesus de Miguel, his team-mate said on Wednesday.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/c6zxjz40l280o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6zxjz40l280o#2</guid>
-            <pubDate>Wed, 04 Nov 2026 11:40:57 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4710/live/c7840d60-d866-11f1-b441-2b33b063138f.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kellogg's admits snap, crackle and pop is quieter after uproar over Rice Krispies recipe change]]></title>
-            <description><![CDATA[The cereal giant has changed the recipes for Rice Krispies and Coco Pops, sparking a backlash online.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo#2</guid>
-            <pubDate>Wed, 04 Nov 2026 15:13:14 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dfad/live/fe845730-d7e3-11f1-8a01-8d54cbcf7487.jpg"/>
         </item>
         <item>
             <title><![CDATA[Why Kim Kardashian came back to 'the worst TV drama ever']]></title>
@@ -155,7 +155,7 @@
             <description><![CDATA[The Ministry of Justice (MoJ) confirmed two men died in custody on Wednesday.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c51kdx83y11lo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c51kdx83y11lo#5</guid>
-            <pubDate>Wed, 04 Nov 2026 16:00:45 GMT</pubDate>
+            <pubDate>Wed, 04 Nov 2026 17:23:06 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed99/live/16936510-34ec-11f0-8947-7d6241f9fce9.jpg"/>
         </item>
         <item>
@@ -167,31 +167,31 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc51/live/4104b7f0-d869-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Celebrity hairstylist John Frieda dies aged 75]]></title>
-            <description><![CDATA[He was stylist to the stars in the 1960s and 1970s before creating a global range of hair products.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/crlykl5gl3x4o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/crlykl5gl3x4o#5</guid>
-            <pubDate>Wed, 04 Nov 2026 10:52:39 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed3c/live/4c8a3020-d83f-11f1-93e1-3b657b665bcf.jpg"/>
+            <title><![CDATA[Kellogg's admits snap, crackle and pop is quieter after uproar over Rice Krispies recipe change]]></title>
+            <description><![CDATA[The cereal giant has changed the recipes for Rice Krispies and Coco Pops, sparking a backlash online.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo#5</guid>
+            <pubDate>Wed, 04 Nov 2026 15:13:14 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dfad/live/fe845730-d7e3-11f1-8a01-8d54cbcf7487.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Mother of Ghanaian boy killed in US 'wants justice' as she flies for funeral]]></title>
-            <description><![CDATA[Police have not made any arrests and an investigation is ongoing as authorities search for three teenage boys.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cq62yjnmg4ego?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cq62yjnmg4ego#5</guid>
-            <pubDate>Wed, 04 Nov 2026 15:18:03 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dbb9/live/c954f440-d84f-11f1-b710-b15e87d8ef65.jpg"/>
+            <title><![CDATA['Multi-cancer' blood tests coming to some GP surgeries in England]]></title>
+            <description><![CDATA[The aim is to detect hard-to-diagnose abdominal cancers, including liver, ovarian and pancreatic cancer, much sooner.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cm9qz93ew22no?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm9qz93ew22no#5</guid>
+            <pubDate>Wed, 04 Nov 2026 00:04:28 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/11e3/live/4ea6f3a0-d855-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
-            <title><![CDATA[GB's Stojsavljevic, 17, claims first WTA Tour win despite short notice]]></title>
-            <description><![CDATA[British teenager Mika Stojsavljevic beats former Australian Open champion Sofia Kenin for her first WTA Tour main-draw win.]]></description>
-            <link>https://www.bbc.co.uk/sport/tennis/articles/cvglw70n41d7o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/cvglw70n41d7o#5</guid>
-            <pubDate>Wed, 04 Nov 2026 10:06:10 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78aa/live/0f3dca10-d835-11f1-a701-fddedf244c16.jpg"/>
+            <title><![CDATA[Educating Cardiff teacher given suspended sentence after sexually assaulting teenager]]></title>
+            <description><![CDATA[During a trial, Gareth Ritter, 44, changed his plea to guilty on the sexual assault charge.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/ckz7xz09rwldo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckz7xz09rwldo#5</guid>
+            <pubDate>Wed, 04 Nov 2026 16:24:16 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ff3/live/a868ff40-d851-11f1-b710-b15e87d8ef65.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Secret police files released in Hungary, 47 years after fall of communism]]></title>
+            <title><![CDATA[Secret police files released in Hungary, 37 years after fall of communism]]></title>
             <description><![CDATA[Critics say the move comes too late, that the files themselves are incomplete, and the move risks sowing division and causing unnecessary anguish.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c977p01kgmmko?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c977p01kgmmko#5</guid>
@@ -199,12 +199,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65b3/live/39dbf5e0-d861-11f1-85ab-b3cc3b5498c6.png"/>
         </item>
         <item>
-            <title><![CDATA[Children spending too long on maths app TT Rockstars, MP warns]]></title>
-            <description><![CDATA[The makers of the popular times table game say they are bringing in curfews and limits to screen time.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c64g1vyxq4j5o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c64g1vyxq4j5o#5</guid>
-            <pubDate>Wed, 04 Nov 2026 11:31:39 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a82/live/2ae71260-d83c-11f1-87c3-29e1cdce63c6.jpg"/>
+            <title><![CDATA[Celebrity hairstylist John Frieda dies aged 75]]></title>
+            <description><![CDATA[He was stylist to the stars in the 1960s and 1970s before creating a global range of hair products.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/crlykl5gl3x4o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/crlykl5gl3x4o#5</guid>
+            <pubDate>Wed, 04 Nov 2026 10:52:39 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed3c/live/4c8a3020-d83f-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
             <title><![CDATA[Download now]]></title>
@@ -223,6 +223,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0l7jnbt.jpg"/>
         </item>
         <item>
+            <title><![CDATA['Most difficult days of my life' for Owono after De Miguel death]]></title>
+            <description><![CDATA[FC Andorra goalkeeper Jesus Owono puts out a statement through his club, expressing his sorrow and pain after Tenerife forward Jesus de Miguel's death.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/c6zxjz40l280o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6zxjz40l280o#9</guid>
+            <pubDate>Wed, 04 Nov 2026 16:40:38 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8bd/live/9677ecc0-d86e-11f1-85ab-b3cc3b5498c6.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Why Man Utd's Roma comeback has echoes of Mourinho and Solskjaer]]></title>
             <description><![CDATA[After their memorable comeback victory against Roma, can Manchester United avoid a repeat of the past and follow that up with a successive victory?]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cqx28zjxdxxzo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -239,6 +247,14 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bef8/live/b0d4e5f0-d828-11f1-be97-417dbcdedd32.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Zverev annoyed by reaction to becoming world number one]]></title>
+            <description><![CDATA[After a defeat at the Paris Masters, Alexander Zverev complains that he is the only player who has had "to explain why it's OK" for him to be top of the rankings.]]></description>
+            <link>https://www.bbc.co.uk/sport/tennis/articles/ckpdg01pq55eo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/ckpdg01pq55eo#9</guid>
+            <pubDate>Wed, 04 Nov 2026 17:08:45 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad32/live/e02203c0-d868-11f1-85ab-b3cc3b5498c6.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Ocon dropped - is it the end of his F1 career?]]></title>
             <description><![CDATA[Esteban Ocon's career as a Formula 1 race driver is over - at least for the foreseeable future - after falling out with Haas. Andrew Benson looks at what the future holds for the Frenchman.]]></description>
             <link>https://www.bbc.co.uk/sport/formula1/articles/c59vz9gdllxlo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -247,28 +263,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3822/live/1d503240-d859-11f1-94f3-cf7d1e52bb8c.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Keeper Owono 'would never intentionally hurt anyone']]></title>
-            <description><![CDATA[Andorra goalkeeper Jesus Owono "would never intentionally hurt anyone" and is "deeply affected" by the death of Tenerife forward Jesus de Miguel, his team-mate said on Wednesday.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/c6zxjz40l280o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6zxjz40l280o#9</guid>
-            <pubDate>Wed, 04 Nov 2026 11:40:57 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4710/live/c7840d60-d866-11f1-b441-2b33b063138f.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Could Hyrox's Olympic ambition spell the end for triathlon?]]></title>
-            <description><![CDATA[BBC Sport speaks to several triathletes about what World Triathlon's Hyrox partnership means for the future of the sport.]]></description>
-            <link>https://www.bbc.co.uk/sport/triathlon/articles/cwp9ge311n91o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/triathlon/articles/cwp9ge311n91o#9</guid>
-            <pubDate>Wed, 04 Nov 2026 11:52:19 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/721d/live/b2f25070-d864-11f1-93e1-3b657b665bcf.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[West Ham confirm Parker as boss]]></title>
-            <description><![CDATA[West Ham confirm the appointment of former midfielder Scott Parker as their head coach on a two-and-a-half-year deal.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cq3dj37m1kddo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cq3dj37m1kddo#9</guid>
-            <pubDate>Wed, 04 Nov 2026 11:54:59 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9c1/live/c06b7600-d7b0-11f1-9092-abeae3cab3b1.jpg"/>
+            <title><![CDATA[Sweeney demands discipline from card-happy England ]]></title>
+            <description><![CDATA[England are the second-best side in the world when they can keep 15 players on the pitch, says Rugby Football Union chief executive Bill Sweeney.]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-union/articles/c6z98zkn2w7zo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/rugby-union/articles/c6z98zkn2w7zo#9</guid>
+            <pubDate>Wed, 04 Nov 2026 17:00:15 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f621/live/8f153db0-d860-11f1-85ab-b3cc3b5498c6.jpg"/>
         </item>
     </channel>
 </rss>
