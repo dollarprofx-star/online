@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/sport/football</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 04 Nov 2026 06:39:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Nov 2026 07:55:53 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -45,6 +45,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c64g1dg0d84ko#0</guid>
             <pubDate>Tue, 03 Nov 2026 23:25:20 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15a9/live/08b380a0-d7da-11f1-8cb0-d304936875f3.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Who am I? Plus today's other quizzes]]></title>
+            <description><![CDATA[Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/c6jdmg9mkg8mo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6jdmg9mkg8mo#0</guid>
+            <pubDate>Wed, 04 Nov 2026 07:06:19 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"/>
         </item>
         <item>
             <title><![CDATA[Football world mourns Tenerife striker De Miguel]]></title>
@@ -229,14 +237,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cwkg5dl4d3l8o#6</guid>
             <pubDate>Tue, 03 Nov 2026 10:07:54 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09fe/live/2b3da270-d76e-11f1-b441-2b33b063138f.png"/>
-        </item>
-        <item>
-            <title><![CDATA[Wrexham suffer 'significant' Smith injury blow]]></title>
-            <description><![CDATA[Wrexham forward Sam Smith faces a "significant" spell out of action due to a knee injury, manager Phil Parkinson confirms.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cqrmyr0m3ydxo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqrmyr0m3ydxo#6</guid>
-            <pubDate>Tue, 03 Nov 2026 15:20:23 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e14/live/90c22740-d798-11f1-801d-cf196dc7232c.jpg"/>
         </item>
         <item>
             <title><![CDATA[Were Arsenal 'lucky' not to concede penalty at Liverpool?]]></title>
@@ -463,6 +463,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a643/live/cf56f660-d7a3-11f1-84dd-e55f4bec0ecd.jpg"/>
         </item>
         <item>
+            <title><![CDATA[New strategy launched to transform Scottish women's football over 10 years]]></title>
+            <description><![CDATA[The strategy aims to double the number of registered female players in Scotland, while also quadrupling attendances and audiences for matches.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c6ly05y2jwzdo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6ly05y2jwzdo#16</guid>
+            <pubDate>Wed, 04 Nov 2026 07:03:05 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/827c/live/b919b670-d81c-11f1-a9b6-0f4245e849b7.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[McTominay returns as Penrice earns first Scotland call]]></title>
             <description><![CDATA[Scott McTominay, Kieran Tierney and Che Adams return to the Scotland squad, while there is a first call for James Penrice for the remaining Nations League matches against North Macedonia and Switzerland.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/c6wyvr870d8do?at_medium=RSS&amp;at_campaign=rss</link>
@@ -485,14 +493,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c9vgrvjj0162o#16</guid>
             <pubDate>Tue, 03 Nov 2026 15:10:54 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7cb3/live/a8fb5520-9dc0-11ef-82c3-45a801b7330b.png"/>
-        </item>
-        <item>
-            <title><![CDATA[Celtic track teenager Doumbia - gossip]]></title>
-            <description><![CDATA[Celtic monitor Ivory Coast teenager playing in Sweden as one of their Europa League opponents seek a new manager.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cmjwexlyn611o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmjwexlyn611o#16</guid>
-            <pubDate>Tue, 03 Nov 2026 08:04:45 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c30d/live/3df2ee50-d75c-11f1-b441-2b33b063138f.png"/>
         </item>
         <item>
             <title><![CDATA[Hibs toast win over Hearts - but will they kick on before cup final?]]></title>
