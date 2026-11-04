@@ -9,11 +9,19 @@
             <link>https://www.bbc.co.uk/news/world</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 04 Nov 2026 02:55:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Nov 2026 03:39:04 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/world/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Democratic rising star Ossoff projected to hold Georgia seat]]></title>
+            <description><![CDATA[Ossoff is seen as a potential leading contender for the Democratic nomination for president in 2028 if he throws his hat in the ring.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cqwyrmm2k4mpo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqwyrmm2k4mpo#0</guid>
+            <pubDate>Wed, 04 Nov 2026 02:38:07 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b5f5/live/9c21ceb0-d7c0-11f1-a719-bf3dc3a3d5b5.jpg"/>
+        </item>
         <item>
             <title><![CDATA[Spanish transport minister resigns days after deadly train crash]]></title>
             <description><![CDATA[At least 69 people were killed and dozens injured in the collision south of the capital, Madrid.]]></description>
@@ -47,20 +55,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c38/live/b5b1d720-d7cb-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Libya's top religious authority rules against wearing Nike clothes]]></title>
-            <description><![CDATA[The US company was named after the Greek goddess of victory, so the Dar al-Ifta said displaying its logo was unIslamic.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c5djv0p0re2no?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c5djv0p0re2no#0</guid>
-            <pubDate>Tue, 03 Nov 2026 14:56:46 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a365/live/15a45a60-d789-11f1-9440-953b82c8f55a.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Europe on alert after supermarket freezers hit by cyber-attacks in 10 countries]]></title>
             <description><![CDATA[Supermarkets have reported problems from Estonia and Sweden to Portugal and Italy and many retainers have been forced to discard food.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cwy8lm1m59mvo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwy8lm1m59mvo#0</guid>
             <pubDate>Tue, 03 Nov 2026 13:55:47 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a890/live/d92739f0-d778-11f1-9539-05485195b558.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Libya's top religious authority rules against wearing Nike clothes]]></title>
+            <description><![CDATA[The US company was named after the Greek goddess of victory, so the Dar al-Ifta said displaying its logo was unIslamic.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c5djv0p0re2no?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c5djv0p0re2no#1</guid>
+            <pubDate>Tue, 03 Nov 2026 14:56:46 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a365/live/15a45a60-d789-11f1-9440-953b82c8f55a.jpg"/>
         </item>
         <item>
             <title><![CDATA[Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital]]></title>
@@ -183,14 +191,6 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ab0/live/69114010-d75b-11f1-8f6b-d71817972456.jpg"/>
         </item>
         <item>
-            <title><![CDATA[North Korea denies being behind record $6.3bn Binance hack]]></title>
-            <description><![CDATA[US government agencies and cyber analysts have blamed Pyongyang for the record-breaking heist.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6rey4v53exgo#1</guid>
-            <pubDate>Tue, 03 Nov 2026 08:33:20 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a90/live/75145840-d727-11f1-b237-93d5595d4291.jpg"/>
-        </item>
-        <item>
             <title><![CDATA['I'm not a quitter': Kim Kardashian on retaking the bar exam]]></title>
             <description><![CDATA[The All's Fair star tells the BBC she has not given up, but will be "more quiet" about her journey to become a lawyer.]]></description>
             <link>https://www.bbc.co.uk/news/videos/cmy4x59kdknwo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -231,6 +231,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1cbd/live/ab9f8ec0-d6c8-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Anthony Zurcher: Democrats surge deep into Republican territory with historic wins]]></title>
+            <description><![CDATA[Two Senate races that a year ago were thought to be battlegrounds turned out to be slam-dunks for the Democrats.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cwz0v5lv30lyo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwz0v5lv30lyo#3</guid>
+            <pubDate>Wed, 04 Nov 2026 03:34:58 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb44/live/543807b0-d7fa-11f1-a701-fddedf244c16.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[ANC under pressure to reverse South Africa decline]]></title>
             <description><![CDATA[As South Africans vote in local elections, residents tell the BBC they are tired of the poor quality of services they get.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -261,14 +269,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c3dxwzjn2gw8o#3</guid>
             <pubDate>Mon, 02 Nov 2026 23:02:01 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/302a/live/febcfd60-d293-11f1-9453-5fe901b3e69e.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Democrats have high hopes for midterms - but are the polls right?]]></title>
-            <description><![CDATA[Polls have been predicting a Democratic surge, but last-minute deciders and sampling issues mean there's no guarantee. ]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cmg47p3edv4do?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmg47p3edv4do#3</guid>
-            <pubDate>Mon, 02 Nov 2026 00:25:12 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/731d/live/ec723e90-d694-11f1-a701-fddedf244c16.jpg"/>
         </item>
     </channel>
 </rss>
