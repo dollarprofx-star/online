@@ -9,26 +9,26 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 04 Nov 2026 17:31:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Nov 2026 18:31:28 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
-            <title><![CDATA['This is a disaster': Angry Republicans blame Trump for midterms defeat]]></title>
-            <description><![CDATA[Some Republicans tell the BBC the president's focus on his legacy and indifference to voter concerns cost them.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c6x29rr8djy3o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6x29rr8djy3o#1</guid>
-            <pubDate>Wed, 04 Nov 2026 13:33:30 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5315/live/41e364b0-d854-11f1-94f3-cf7d1e52bb8c.jpg"/>
+            <title><![CDATA[The last time a Kansas Democrat was in the Senate, the Wizard of Oz was in cinemas]]></title>
+            <description><![CDATA[Adam Hamilton, a pastor, has made history as the first Kansas Democrat to win the Senate in almost 100 years.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cqx29rxkld84o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqx29rxkld84o#1</guid>
+            <pubDate>Wed, 04 Nov 2026 17:21:32 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05f8/live/10a6e110-d863-11f1-85ab-b3cc3b5498c6.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Anthony Zurcher: Democrats push deep into Trump heartland on historic night]]></title>
-            <description><![CDATA[Two Senate races that a year ago were thought to be battlegrounds turned out to be slam-dunks for the Democrats.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cwz0v5lv30lyo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwz0v5lv30lyo#1</guid>
-            <pubDate>Wed, 04 Nov 2026 06:53:56 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4923/live/c29a9fb0-d82c-11f1-a701-fddedf244c16.jpg"/>
+            <title><![CDATA[Democrats won Congress in a blue wave. Now comes the hard part.]]></title>
+            <description><![CDATA[Democrats can vote legislation through. But Trump still has veto power.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cq1kdgnn2xdeo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cq1kdgnn2xdeo#1</guid>
+            <pubDate>Wed, 04 Nov 2026 18:01:27 GMT</pubDate>
+            <media:thumbnail width="240" height="162" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09b9/live/4db96180-d864-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
             <title><![CDATA[Five reasons why Republicans lost so badly]]></title>
@@ -63,6 +63,14 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab34/live/9333f510-d85d-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Ukraine says bodycam video shows deadly Russian double-tap bombing]]></title>
+            <description><![CDATA[At least 40 people were killed and another 30 may still be under the rubble after Monday's attack on a Ukrainian village, Kyiv says. ]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c98rz6penv86o#2</guid>
+            <pubDate>Wed, 04 Nov 2026 17:45:58 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6512/live/e94a10e0-d873-11f1-a364-a1fce50dd192.png"/>
+        </item>
+        <item>
             <title><![CDATA[Brigitte Bardot inheritance row deepens after private letter to partner leaked]]></title>
             <description><![CDATA[In the letter, the late French actress says her partner Bernard de Chiara was "incapable" of giving "support, a tenderness, a presence".]]></description>
             <link>https://www.bbc.co.uk/news/articles/ck1ex56e5q8wo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -83,7 +91,7 @@
             <description><![CDATA[A British government spokesperson says the risk to the UK public from Ebola remains low.]]></description>
             <link>https://www.bbc.co.uk/news/articles/crq8nj7xqdv9o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/crq8nj7xqdv9o#2</guid>
-            <pubDate>Wed, 04 Nov 2026 17:09:49 GMT</pubDate>
+            <pubDate>Wed, 04 Nov 2026 18:26:02 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b714/live/371f2960-d86d-11f1-85ab-b3cc3b5498c6.jpg"/>
         </item>
         <item>
@@ -95,20 +103,12 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8bd/live/9677ecc0-d86e-11f1-85ab-b3cc3b5498c6.jpg"/>
         </item>
         <item>
-            <title><![CDATA[French blood storage impacted by freezer hacks as theories swirl about culprits]]></title>
-            <description><![CDATA[The French Blood Establishment (EFS) said cold rooms storing blood were impacted by hackers.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro#2</guid>
-            <pubDate>Wed, 04 Nov 2026 16:26:15 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3538/live/e551bd50-d862-11f1-85ab-b3cc3b5498c6.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Zelensky gives Melania Trump Ukraine's highest award after Oleshky ceasefire]]></title>
-            <description><![CDATA[Russian and Ukrainian delegations will meet the US first lady at the White House on Thursday.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cm87zvpzwq0no?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm87zvpzwq0no#2</guid>
-            <pubDate>Wed, 04 Nov 2026 15:01:10 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8de/live/70270390-d859-11f1-93e1-3b657b665bcf.jpg"/>
+            <title><![CDATA[Palestine Action ban undermined confidence in anti-terror laws, Supreme Court told]]></title>
+            <description><![CDATA[Co-founder of Palestine Action, Huda Ammori, is challenging the government's decision to proscribe the group.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cmr4yvel29keo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmr4yvel29keo#2</guid>
+            <pubDate>Wed, 04 Nov 2026 17:55:53 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b1a1/live/68632510-d874-11f1-a364-a1fce50dd192.jpg"/>
         </item>
         <item>
             <title><![CDATA[Why Kim Kardashian came back to 'the worst TV drama ever']]></title>
@@ -151,12 +151,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5bf4/live/9fa4f600-d844-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Police launch inquiry after two inmates die in prison]]></title>
-            <description><![CDATA[The Ministry of Justice (MoJ) confirmed two men died in custody on Wednesday.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c51kdx83y11lo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c51kdx83y11lo#5</guid>
-            <pubDate>Wed, 04 Nov 2026 17:23:06 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed99/live/16936510-34ec-11f0-8947-7d6241f9fce9.jpg"/>
+            <title><![CDATA[Cocaine overtakes heroin as leading cause of drug deaths in England and Wales]]></title>
+            <description><![CDATA[The number of deaths linked to cocaine use in England and Wales has nearly quadrupled in a decade.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cmdxw051np9jo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmdxw051np9jo#5</guid>
+            <pubDate>Wed, 04 Nov 2026 17:58:59 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32e4/live/bcaf3470-d878-11f1-a364-a1fce50dd192.jpg"/>
         </item>
         <item>
             <title><![CDATA[Israel's president begins consultations with parties after election deadlock]]></title>
@@ -175,20 +175,28 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dfad/live/fe845730-d7e3-11f1-8a01-8d54cbcf7487.jpg"/>
         </item>
         <item>
-            <title><![CDATA['Multi-cancer' blood tests coming to some GP surgeries in England]]></title>
-            <description><![CDATA[The aim is to detect hard-to-diagnose abdominal cancers, including liver, ovarian and pancreatic cancer, much sooner.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cm9qz93ew22no?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm9qz93ew22no#5</guid>
-            <pubDate>Wed, 04 Nov 2026 00:04:28 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/11e3/live/4ea6f3a0-d855-11f1-93e1-3b657b665bcf.jpg"/>
+            <title><![CDATA[Zelensky gives Melania Trump Ukraine's highest award after Oleshky ceasefire]]></title>
+            <description><![CDATA[Russian and Ukrainian delegations will meet the US first lady at the White House on Thursday.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cm87zvpzwq0no?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm87zvpzwq0no#5</guid>
+            <pubDate>Wed, 04 Nov 2026 15:01:10 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8de/live/70270390-d859-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Educating Cardiff teacher given suspended sentence after sexually assaulting teenager]]></title>
-            <description><![CDATA[During a trial, Gareth Ritter, 44, changed his plea to guilty on the sexual assault charge.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/ckz7xz09rwldo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckz7xz09rwldo#5</guid>
-            <pubDate>Wed, 04 Nov 2026 16:24:16 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ff3/live/a868ff40-d851-11f1-b710-b15e87d8ef65.jpg"/>
+            <title><![CDATA[French blood storage impacted by freezer hacks as theories swirl about culprits]]></title>
+            <description><![CDATA[The French Blood Establishment (EFS) said cold rooms storing blood were impacted by hackers.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro#5</guid>
+            <pubDate>Wed, 04 Nov 2026 16:26:15 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3538/live/e551bd50-d862-11f1-85ab-b3cc3b5498c6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mugabe's son arrested over 'assault' during luxury car smuggling probe]]></title>
+            <description><![CDATA[The son of late former president Robert Mugabe will appear in court on 5 November with four other men.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cqd098d471ppo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqd098d471ppo#5</guid>
+            <pubDate>Wed, 04 Nov 2026 17:50:00 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/320e/live/4774cb60-3a4f-11f1-a5de-8146db4c6e12.jpg"/>
         </item>
         <item>
             <title><![CDATA[Secret police files released in Hungary, 37 years after fall of communism]]></title>
@@ -197,14 +205,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c977p01kgmmko#5</guid>
             <pubDate>Wed, 04 Nov 2026 15:28:18 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65b3/live/39dbf5e0-d861-11f1-85ab-b3cc3b5498c6.png"/>
-        </item>
-        <item>
-            <title><![CDATA[Celebrity hairstylist John Frieda dies aged 75]]></title>
-            <description><![CDATA[He was stylist to the stars in the 1960s and 1970s before creating a global range of hair products.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/crlykl5gl3x4o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/crlykl5gl3x4o#5</guid>
-            <pubDate>Wed, 04 Nov 2026 10:52:39 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed3c/live/4c8a3020-d83f-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
             <title><![CDATA[Download now]]></title>
@@ -255,20 +255,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad32/live/e02203c0-d868-11f1-85ab-b3cc3b5498c6.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Defeat ends Djokovic's hopes of making ATP Finals]]></title>
+            <description><![CDATA[Novak Djokovic is out of the race to qualify for the ATP Finals in Turin after a second-round defeat by qualifier Rinky Hijikata at the Paris Masters.]]></description>
+            <link>https://www.bbc.co.uk/sport/tennis/articles/ckn8we5p1ydeo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/ckn8we5p1ydeo#9</guid>
+            <pubDate>Wed, 04 Nov 2026 18:22:16 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b352/live/8e03e830-d875-11f1-b441-2b33b063138f.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Ocon dropped - is it the end of his F1 career?]]></title>
             <description><![CDATA[Esteban Ocon's career as a Formula 1 race driver is over - at least for the foreseeable future - after falling out with Haas. Andrew Benson looks at what the future holds for the Frenchman.]]></description>
             <link>https://www.bbc.co.uk/sport/formula1/articles/c59vz9gdllxlo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/formula1/articles/c59vz9gdllxlo#9</guid>
             <pubDate>Wed, 04 Nov 2026 15:00:26 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3822/live/1d503240-d859-11f1-94f3-cf7d1e52bb8c.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sweeney demands discipline from card-happy England ]]></title>
-            <description><![CDATA[England are the second-best side in the world when they can keep 15 players on the pitch, says Rugby Football Union chief executive Bill Sweeney.]]></description>
-            <link>https://www.bbc.co.uk/sport/rugby-union/articles/c6z98zkn2w7zo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/rugby-union/articles/c6z98zkn2w7zo#9</guid>
-            <pubDate>Wed, 04 Nov 2026 17:00:15 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f621/live/8f153db0-d860-11f1-85ab-b3cc3b5498c6.jpg"/>
         </item>
     </channel>
 </rss>
