@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/sport/football</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 04 Nov 2026 20:28:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Nov 2026 21:18:34 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -162,7 +162,7 @@
             <title><![CDATA[What are rules on loan players in Champions League?]]></title>
             <description><![CDATA[BBC Sport's Ask Me Anything team explains the Champions League rules on loan players facing their parent clubs ]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cmp8g4jy2pgpo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmp8g4jy2pgpo#2</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmp8g4jy2pgpo#3</guid>
             <pubDate>Wed, 04 Nov 2026 16:02:08 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/202f/live/46fd4a90-d2e3-11f1-8af5-e1db7ad65222.jpg"/>
         </item>
@@ -173,14 +173,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6q8n98y4023o#3</guid>
             <pubDate>Wed, 04 Nov 2026 00:27:37 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a8e8/live/5bf089a0-d7e1-11f1-a701-fddedf244c16.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ex-Burnley striker Rodriguez announces retirement]]></title>
-            <description><![CDATA[Former Burnley striker Jay Rodriguez announces his retirement from playing career.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cjvgxyn49rq4o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cjvgxyn49rq4o#3</guid>
-            <pubDate>Wed, 04 Nov 2026 17:28:52 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aee2/live/8c1cffc0-d875-11f1-a364-a1fce50dd192.jpg"/>
         </item>
         <item>
             <title><![CDATA[Palace lose appeal against Mateta red card]]></title>
@@ -229,6 +221,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c3vgx8qkqx4jo#5</guid>
             <pubDate>Tue, 03 Nov 2026 22:55:00 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/48a5/live/464eefe0-d7ca-11f1-a719-bf3dc3a3d5b5.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Ex-Burnley striker Rodriguez announces retirement]]></title>
+            <description><![CDATA[Former Burnley striker Jay Rodriguez announces his retirement from playing career.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cjvgxyn49rq4o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cjvgxyn49rq4o#5</guid>
+            <pubDate>Wed, 04 Nov 2026 17:28:52 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aee2/live/8c1cffc0-d875-11f1-a364-a1fce50dd192.jpg"/>
         </item>
         <item>
             <title><![CDATA[Saliba's back for Arsenal - how does Arteta solve his defensive dilemma?]]></title>
