@@ -9,11 +9,27 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 04 Nov 2026 02:04:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Nov 2026 02:55:09 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Democratic rising star Ossoff projected to hold Georgia seat]]></title>
+            <description><![CDATA[Ossoff is seen as a potential leading contender for the Democratic nomination for president in 2028 if he throws his hat in the ring.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cqwyrmm2k4mpo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqwyrmm2k4mpo#1</guid>
+            <pubDate>Wed, 04 Nov 2026 02:38:07 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b5f5/live/9c21ceb0-d7c0-11f1-a719-bf3dc3a3d5b5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[US voters name economy and state of democracy as top issues, poll says]]></title>
+            <description><![CDATA[A major election day survey suggests voters are the most unhappy with the economy.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c39wz0970eypo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c39wz0970eypo#1</guid>
+            <pubDate>Wed, 04 Nov 2026 02:47:37 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf83/live/f3608b00-d7e1-11f1-89b6-117585343da2.jpg"/>
+        </item>
         <item>
             <title><![CDATA[When will we know the results?]]></title>
             <description><![CDATA[The first polls have closed, but it is possible the results will not be projected for several hours, days or even weeks.]]></description>
@@ -21,30 +37,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cq20321y2nlyo#1</guid>
             <pubDate>Wed, 04 Nov 2026 00:56:05 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e286/live/58c44510-d6d2-11f1-b441-2b33b063138f.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[US voters name economy and state of democracy as top issues, poll says]]></title>
-            <description><![CDATA[A major election day survey suggests voters are the most unhappy with the economy.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c39wz0970eypo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c39wz0970eypo#1</guid>
-            <pubDate>Wed, 04 Nov 2026 01:47:35 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf83/live/f3608b00-d7e1-11f1-89b6-117585343da2.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[How the US midterm results could unfold - as millions of Americans head to the polls]]></title>
-            <description><![CDATA[The BBC's North America correspondent considers three different scenarios, and what they would mean for the country.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cq78pgn7em34o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cq78pgn7em34o#1</guid>
-            <pubDate>Tue, 03 Nov 2026 10:32:56 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c3a9/live/24cee420-d7bf-11f1-b441-2b33b063138f.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Democratic rising star Ossoff projected to hold Georgia seat]]></title>
-            <description><![CDATA[Ossoff is seen as a potential leading contender for the Democratic nomination for president in 2028 if he throws his hat in the ring.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cqwyrmm2k4mpo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqwyrmm2k4mpo#1</guid>
-            <pubDate>Wed, 04 Nov 2026 01:55:33 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b5f5/live/9c21ceb0-d7c0-11f1-a719-bf3dc3a3d5b5.jpg"/>
         </item>
         <item>
             <title><![CDATA[The key US Senate races to watch]]></title>
@@ -55,20 +47,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a7ce/live/259c6b00-d1e5-11f1-a701-fddedf244c16.png"/>
         </item>
         <item>
-            <title><![CDATA[Spanish transport minister resigns days after deadly train crash]]></title>
-            <description><![CDATA[At least 69 people were killed and dozens injured in the collision south of the capital, Madrid.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo#2</guid>
-            <pubDate>Tue, 03 Nov 2026 22:45:59 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d61f/live/6dc1cd30-d7c6-11f1-a701-fddedf244c16.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[King calls slave trade a 'shameful chapter' during Commonwealth address]]></title>
-            <description><![CDATA[The speech comes after calls for the UK government to issue a formal apology for Britain's historic role in the trade.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cr89znnnn7dno?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cr89znnnn7dno#2</guid>
-            <pubDate>Tue, 03 Nov 2026 20:38:38 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3cf3/live/42789f10-d7c0-11f1-b441-2b33b063138f.jpg"/>
+            <title><![CDATA[Miliband says slavery apology will not bring cost for UK taxpayers]]></title>
+            <description><![CDATA[Speaking to BBC's Newscast, the foreign secretary says Britain cannot sweep its past "under the carpet".]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cm8ezneewr9lo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm8ezneewr9lo#2</guid>
+            <pubDate>Wed, 04 Nov 2026 02:14:45 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/775f/live/b94b9cb0-d7ec-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
             <title><![CDATA['Multi-cancer' blood tests coming to some GP surgeries soon]]></title>
@@ -77,6 +61,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm9qz93ew22no#2</guid>
             <pubDate>Wed, 04 Nov 2026 00:04:28 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e57b/live/5bce4a50-d78e-11f1-9440-953b82c8f55a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Spanish transport minister resigns days after deadly train crash]]></title>
+            <description><![CDATA[At least 69 people were killed and dozens injured in the collision south of the capital, Madrid.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo#2</guid>
+            <pubDate>Tue, 03 Nov 2026 22:45:59 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d61f/live/6dc1cd30-d7c6-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
             <title><![CDATA[Celebrity loses injunction bid but will stay anonymous pending appeal]]></title>
@@ -183,14 +175,6 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0eb/live/d96c4fe0-d791-11f1-801d-cf196dc7232c.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Seven flights across Europe targeted by suspected bomb threats]]></title>
-            <description><![CDATA[Planes in Poland, Spain, Bulgaria and Italy have been checked for explosives following separate threats.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo#5</guid>
-            <pubDate>Tue, 03 Nov 2026 20:42:47 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db91/live/79069d70-d79d-11f1-84dd-e55f4bec0ecd.png"/>
-        </item>
-        <item>
             <title><![CDATA[Young NYC Marathon runner collapses and dies two miles from finish line]]></title>
             <description><![CDATA[The city medical examiner's office said it is still investigating Rachel Apa's cause of death. ]]></description>
             <link>https://www.bbc.co.uk/news/articles/c59vz44epvk9o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -207,6 +191,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b66/live/97a4b9a0-d6d1-11f1-ac20-7783925c811f.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Seven flights across Europe targeted by suspected bomb threats]]></title>
+            <description><![CDATA[Planes in Poland, Spain, Bulgaria and Italy have been checked for explosives following separate threats.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo#5</guid>
+            <pubDate>Tue, 03 Nov 2026 20:42:47 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db91/live/79069d70-d79d-11f1-84dd-e55f4bec0ecd.png"/>
+        </item>
+        <item>
             <title><![CDATA[UK meat industry hit by cyber-attack which targeted European supermarket freezers ]]></title>
             <description><![CDATA[Supermarkets in countries including Ireland, Sweden  and Belgium reported fridges being hiked in temperature on Monday.]]></description>
             <link>https://www.bbc.co.uk/news/articles/ckq6ndq8l6v0o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -215,12 +207,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3db/live/57d6aa20-d769-11f1-a956-ff083523ef77.jpg"/>
         </item>
         <item>
-            <title><![CDATA['Quiet quitting' could be hitting the economy - here's why]]></title>
-            <description><![CDATA[Britons have become less engaged with the jobs they do and are less willing to put in extra effort, a report has found.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cw23d5z87drpo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cw23d5z87drpo#5</guid>
-            <pubDate>Tue, 03 Nov 2026 11:15:51 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5666/live/b5686c80-d793-11f1-a701-fddedf244c16.jpg"/>
+            <title><![CDATA[Killer who escaped Tennessee prison captured after week-long manhunt]]></title>
+            <description><![CDATA[Jacob Allen Morley was serving a life sentence for murder before he escaped over a prison fence.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cmq8nj23v8qqo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmq8nj23v8qqo#5</guid>
+            <pubDate>Wed, 04 Nov 2026 02:11:40 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/35c5/live/aa0e52d0-d7f9-11f1-afc1-71ff3c391379.jpg"/>
         </item>
         <item>
             <title><![CDATA[Download now]]></title>
