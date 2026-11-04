@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news/world</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 04 Nov 2026 03:39:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Nov 2026 04:34:20 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/world/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -20,7 +20,7 @@
             <link>https://www.bbc.co.uk/news/articles/cqwyrmm2k4mpo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqwyrmm2k4mpo#0</guid>
             <pubDate>Wed, 04 Nov 2026 02:38:07 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b5f5/live/9c21ceb0-d7c0-11f1-a719-bf3dc3a3d5b5.jpg"/>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7dde/live/6d838380-d7f9-11f1-afc1-71ff3c391379.jpg"/>
         </item>
         <item>
             <title><![CDATA[Spanish transport minister resigns days after deadly train crash]]></title>
@@ -231,7 +231,7 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1cbd/live/ab9f8ec0-d6c8-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Anthony Zurcher: Democrats surge deep into Republican territory with historic wins]]></title>
+            <title><![CDATA[Anthony Zurcher: Democrats push deep into Republican territory with historic wins]]></title>
             <description><![CDATA[Two Senate races that a year ago were thought to be battlegrounds turned out to be slam-dunks for the Democrats.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cwz0v5lv30lyo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwz0v5lv30lyo#3</guid>
