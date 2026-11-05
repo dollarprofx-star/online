@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/sport/football</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 05 Nov 2026 06:28:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Nov 2026 07:48:03 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -31,12 +31,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f703/live/769378b0-d89c-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Arsenal survive late Slavia scare for hard-fought win]]></title>
-            <description><![CDATA[Arsenal earn their third win from four in the Champions League as goals from Noni Madueke and Victor Gyokeres are too much for Slavia Prague, despite a valiant late fight from the hosts to get back into the game.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/videos/cq4g1jwnzmyro?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cq4g1jwnzmyro#0</guid>
-            <pubDate>Wed, 04 Nov 2026 22:10:07 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7297/live/bfc6bfc0-d89b-11f1-b441-2b33b063138f.jpg"/>
+            <title><![CDATA[World record 53 red cards shown in Brazilian youth game]]></title>
+            <description><![CDATA[A world record of 43 players, eight members of staff and two board members were sent off during an under-20 championship match between Uberlandia and Mamore in Brazil. ]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cmy0rz7741ywo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmy0rz7741ywo#0</guid>
+            <pubDate>Thu, 05 Nov 2026 07:23:08 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ba3/live/0108aa50-d8a3-11f1-9765-23c244b34f98.png"/>
         </item>
         <item>
             <title><![CDATA[Emery in line for new Villa deal - Thursday's gossip]]></title>
@@ -47,6 +47,30 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9208/live/3a26e3f0-d895-11f1-bffe-b94c467713ac.png"/>
         </item>
         <item>
+            <title><![CDATA[Meet the people set for key role in deciding Man City fate]]></title>
+            <description><![CDATA[The five individuals at the Premier League set to play a key role in the fate of Manchester City.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cw62ym8r113vo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cw62ym8r113vo#0</guid>
+            <pubDate>Thu, 05 Nov 2026 06:26:11 GMT</pubDate>
+            <media:thumbnail width="240" height="136" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/944a/live/733de250-c978-11f1-a64c-550be9e3c66b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[A must pick or unreliable? Tuchel's Palmer dilemma]]></title>
+            <description><![CDATA[Will Thomas Tuchel pick Cole Palmer for his next England squad as the competition to be England's number 10 continues.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/c65yne3912jeo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c65yne3912jeo#0</guid>
+            <pubDate>Thu, 05 Nov 2026 07:17:20 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e2fd/live/76eb2240-d6b2-11f1-aacc-5b5f23abff4b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arsenal survive late Slavia scare for hard-fought win]]></title>
+            <description><![CDATA[Arsenal earn their third win from four in the Champions League as goals from Noni Madueke and Victor Gyokeres are too much for Slavia Prague, despite a valiant late fight from the hosts to get back into the game.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/videos/cq4g1jwnzmyro?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cq4g1jwnzmyro#0</guid>
+            <pubDate>Wed, 04 Nov 2026 22:10:07 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7297/live/bfc6bfc0-d89b-11f1-b441-2b33b063138f.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Liverpool crumble at Kuyt's Fenerbahce]]></title>
             <description><![CDATA[Liverpool are defeated by Turkish side Fenerbahce, who twice fought back from behind to seal a famous victory, ending the Reds' perfect start to this year's Champions League after four games.]]></description>
             <link>https://www.bbc.co.uk/sport/football/videos/cqy7ljmzx6d6o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -55,12 +79,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42bc/live/f62b49e0-d888-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
-            <title><![CDATA[World record 51 red cards shown in Brazilian youth game]]></title>
-            <description><![CDATA[A world record of 43 players and eight members of staff were sent off during an under-20 championship match between Uberlandia and Mamore in Brazil. ]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cmy0rz7741ywo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmy0rz7741ywo#0</guid>
-            <pubDate>Wed, 04 Nov 2026 23:22:27 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ba3/live/0108aa50-d8a3-11f1-9765-23c244b34f98.png"/>
+            <title><![CDATA[Who am I? Plus today's other quizzes]]></title>
+            <description><![CDATA[Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/c6y4xznww9xpo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6y4xznww9xpo#0</guid>
+            <pubDate>Thu, 05 Nov 2026 06:30:52 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"/>
         </item>
         <item>
             <title><![CDATA[Como score nine to make Champions League history]]></title>
@@ -111,30 +135,6 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6896/live/80cda3d0-d880-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Why Man Utd's Roma comeback has echoes of Mourinho and Solskjaer]]></title>
-            <description><![CDATA[After their memorable comeback victory against Roma, can Manchester United avoid a repeat of the past and follow that up with a successive victory?]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cqx28zjxdxxzo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqx28zjxdxxzo#2</guid>
-            <pubDate>Wed, 04 Nov 2026 16:12:46 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/37d4/live/9ead2680-d85a-11f1-a701-fddedf244c16.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Real Madrid reach verbal agreement to sign Gabriel]]></title>
-            <description><![CDATA[Real Madrid are confident of winning the race to sign Manchester United forward JJ Gabriel after reaching a verbal agreement with the teenager. ]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cq146dnrn541o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cq146dnrn541o#2</guid>
-            <pubDate>Wed, 04 Nov 2026 11:49:23 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bef8/live/b0d4e5f0-d828-11f1-be97-417dbcdedd32.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[How landmark Everton compensation prevented Burnley record loss]]></title>
-            <description><![CDATA[Burnley have published promising financial results, but under the hood is a payment from Everton which makes the picture look far less positive.  ]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/c893zeq4eln1o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c893zeq4eln1o#2</guid>
-            <pubDate>Wed, 04 Nov 2026 17:48:19 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c056/live/b36294e0-d858-11f1-94f3-cf7d1e52bb8c.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Bayern continue unbeaten CL start with win at Atletico]]></title>
             <description><![CDATA[Bayern Munich continued their unbeaten start to the Champions League season with an assured 2-0 victory at Atletico Madrid.]]></description>
             <link>https://www.bbc.co.uk/sport/football/videos/cxm23ry19n9po?at_medium=RSS&amp;at_campaign=rss</link>
@@ -183,12 +183,36 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f84/live/1a2cfac0-d710-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Why Man Utd's Roma comeback has echoes of Mourinho and Solskjaer]]></title>
+            <description><![CDATA[After their memorable comeback victory against Roma, can Manchester United avoid a repeat of the past and follow that up with a successive victory?]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cqx28zjxdxxzo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqx28zjxdxxzo#4</guid>
+            <pubDate>Wed, 04 Nov 2026 16:12:46 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/37d4/live/9ead2680-d85a-11f1-a701-fddedf244c16.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Scotland U21 boss hails Donovan, Miller and Wilson attitude]]></title>
             <description><![CDATA[Under-21s head coach Tony Docherty is delighted with the buy-in from the three players who have dropped down from Scotland's senior squad.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/ckyvrzgl9dqgo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ckyvrzgl9dqgo#4</guid>
             <pubDate>Wed, 04 Nov 2026 23:18:03 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/448d/live/a1e6d8a0-d8a5-11f1-93e1-3b657b665bcf.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Real Madrid reach verbal agreement to sign Gabriel]]></title>
+            <description><![CDATA[Real Madrid are confident of winning the race to sign Manchester United forward JJ Gabriel after reaching a verbal agreement with the teenager. ]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cq146dnrn541o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cq146dnrn541o#4</guid>
+            <pubDate>Wed, 04 Nov 2026 11:49:23 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bef8/live/b0d4e5f0-d828-11f1-be97-417dbcdedd32.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How landmark Everton compensation prevented Burnley record loss]]></title>
+            <description><![CDATA[Burnley have published promising financial results, but under the hood is a payment from Everton which makes the picture look far less positive.  ]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/c893zeq4eln1o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c893zeq4eln1o#4</guid>
+            <pubDate>Wed, 04 Nov 2026 17:48:19 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c056/live/b36294e0-d858-11f1-94f3-cf7d1e52bb8c.jpg"/>
         </item>
         <item>
             <title><![CDATA['Most difficult days of my life' for Owono after De Miguel death]]></title>
@@ -223,26 +247,26 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e1e1/live/ea0b03a0-d836-11f1-87c3-29e1cdce63c6.png"/>
         </item>
         <item>
-            <title><![CDATA[Nadal set to join Real Madrid board of directors]]></title>
-            <description><![CDATA[Tennis great Rafael Nadal is set to join the board of Spanish football giants Real Madrid.]]></description>
-            <link>https://www.bbc.co.uk/sport/articles/cmy56zekeneqo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/articles/cmy56zekeneqo#6</guid>
-            <pubDate>Wed, 04 Nov 2026 13:21:01 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c75e/live/2dfb0e80-d84f-11f1-b870-55415e6a9944.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[A half-time speech, a retaken penalty - and a win to save Carrick's job?]]></title>
             <description><![CDATA[At 2-0 down Michael Carrick's position as Manchester United head coach looked terminal - but will the win over Roma prove a turning point?]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/c6q8n98y4023o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6q8n98y4023o#6</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6q8n98y4023o#7</guid>
             <pubDate>Wed, 04 Nov 2026 00:27:37 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a8e8/live/5bf089a0-d7e1-11f1-a701-fddedf244c16.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nadal set to join Real Madrid board of directors]]></title>
+            <description><![CDATA[Tennis great Rafael Nadal is set to join the board of Spanish football giants Real Madrid.]]></description>
+            <link>https://www.bbc.co.uk/sport/articles/cmy56zekeneqo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/articles/cmy56zekeneqo#7</guid>
+            <pubDate>Wed, 04 Nov 2026 13:21:01 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c75e/live/2dfb0e80-d84f-11f1-b870-55415e6a9944.jpg"/>
         </item>
         <item>
             <title><![CDATA[Rangers' McInnes eager for Penrice deal]]></title>
             <description><![CDATA[Rangers boss Derek McInnes stresses his desire to sign James Penrice on a permanent deal, with the full-back's impact leading to a first Scotland call.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cwly45r47917o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cwly45r47917o#6</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cwly45r47917o#7</guid>
             <pubDate>Wed, 04 Nov 2026 16:38:41 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f333/live/266cb230-d85a-11f1-94f3-cf7d1e52bb8c.jpg"/>
         </item>
@@ -277,30 +301,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cj0406qvzqd3o#7</guid>
             <pubDate>Wed, 04 Nov 2026 19:00:49 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d24/live/c007e640-d881-11f1-a364-a1fce50dd192.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Who am I? Plus today's other quizzes]]></title>
-            <description><![CDATA[Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/c6jdmg9mkg8mo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6jdmg9mkg8mo#7</guid>
-            <pubDate>Wed, 04 Nov 2026 07:06:19 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"/>
-        </item>
-        <item>
-            <title><![CDATA[Ex-Burnley striker Rodriguez announces retirement]]></title>
-            <description><![CDATA[Former Burnley striker Jay Rodriguez announces his retirement from playing career.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cjvgxyn49rq4o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cjvgxyn49rq4o#7</guid>
-            <pubDate>Wed, 04 Nov 2026 17:28:52 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aee2/live/8c1cffc0-d875-11f1-a364-a1fce50dd192.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[What are rules on loan players in Champions League?]]></title>
-            <description><![CDATA[BBC Sport's Ask Me Anything team explains the Champions League rules on loan players facing their parent clubs ]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cmp8g4jy2pgpo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmp8g4jy2pgpo#7</guid>
-            <pubDate>Wed, 04 Nov 2026 16:02:08 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/202f/live/46fd4a90-d2e3-11f1-8af5-e1db7ad65222.jpg"/>
         </item>
         <item>
             <title><![CDATA[Who has made Troy's Premier League team of the week?]]></title>
@@ -447,28 +447,20 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f333/live/266cb230-d85a-11f1-94f3-cf7d1e52bb8c.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Ferguson harbours Rangers ambition - gossip]]></title>
+            <description><![CDATA[Midfielder expects Rangers move one day as Celtic willing to sell right-back.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/c699zd2g5343o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c699zd2g5343o#16</guid>
+            <pubDate>Thu, 05 Nov 2026 07:27:38 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc93/live/73d27590-d8ec-11f1-93e1-3b657b665bcf.png"/>
+        </item>
+        <item>
             <title><![CDATA[Scotland U21 boss hails Donovan, Miller and Wilson attitude]]></title>
             <description><![CDATA[Under-21s head coach Tony Docherty is delighted with the buy-in from the three players who have dropped down from Scotland's senior squad.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/ckyvrzgl9dqgo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ckyvrzgl9dqgo#16</guid>
             <pubDate>Wed, 04 Nov 2026 23:18:03 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/448d/live/a1e6d8a0-d8a5-11f1-93e1-3b657b665bcf.png"/>
-        </item>
-        <item>
-            <title><![CDATA[New strategy launched to transform Scottish women's football over 10 years]]></title>
-            <description><![CDATA[The strategy aims to double the number of registered female players in Scotland, while also quadrupling attendances and audiences for matches.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c6ly05y2jwzdo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6ly05y2jwzdo#16</guid>
-            <pubDate>Wed, 04 Nov 2026 07:03:05 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/827c/live/b919b670-d81c-11f1-a9b6-0f4245e849b7.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hearts record £2.4m loss in Bloom's first year]]></title>
-            <description><![CDATA[Heart of Midlothian record a loss of £2.4m for the year ending 30 June, despite a turnover of more than £23m the first 12 months of Brighton owner Tony Bloom's involvement.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/ckqxnve3jplxo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ckqxnve3jplxo#16</guid>
-            <pubDate>Wed, 04 Nov 2026 17:00:49 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ddd/live/81fb7340-d871-11f1-85ab-b3cc3b5498c6.jpg"/>
         </item>
         <item>
             <title><![CDATA[How Carpenter has become Chelsea's surprise star]]></title>
