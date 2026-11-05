@@ -9,18 +9,34 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 05 Nov 2026 14:50:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Nov 2026 15:47:25 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
-            <title><![CDATA[The Russell Brand I saw in court was not the flamboyant character most people will know]]></title>
-            <description><![CDATA[Brand stood upright in the dock as the verdicts were read out in court - ending this sometimes surreal trial.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cwvgdjyg6qrqo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwvgdjyg6qrqo#1</guid>
-            <pubDate>Thu, 05 Nov 2026 14:37:14 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c88f/live/f6ed5000-d8f9-11f1-9c68-d767468fa269.jpg"/>
+            <title><![CDATA[Russell Brand is being investigated over two new rape complaints, police say]]></title>
+            <description><![CDATA[Det Supt Andy Furphy said he hoped other potential victims would gain "courage" and "confidence" from the guilty verdicts. ]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c6vgx8q09gg4o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6vgx8q09gg4o#1</guid>
+            <pubDate>Thu, 05 Nov 2026 15:44:49 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2986/live/b469d860-d92c-11f1-b441-2b33b063138f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: How rapist Brand was never far from controversy]]></title>
+            <description><![CDATA[BBC correspondent Sima Kotecha explains how the trial unfolded.]]></description>
+            <link>https://www.bbc.co.uk/news/videos/c9dr8713zjgyo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/c9dr8713zjgyo#1</guid>
+            <pubDate>Thu, 05 Nov 2026 14:28:21 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/883d/live/edb5a1f0-d92f-11f1-b441-2b33b063138f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Interest rates hiked to 4% in first increase in over three years]]></title>
+            <description><![CDATA[Most analysts expected the increase from 3.75% to 4%. ]]></description>
+            <link>https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo#1</guid>
+            <pubDate>Thu, 05 Nov 2026 14:36:26 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e8c/live/91074120-d849-11f1-b870-55415e6a9944.jpg"/>
         </item>
         <item>
             <title><![CDATA[Married at First Sight UK cancelled after BBC revealed rape allegations]]></title>
@@ -31,12 +47,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c79/live/85630fb0-7602-11f1-b976-0b9c15b0ccfc.png"/>
         </item>
         <item>
-            <title><![CDATA[Could this be the last Bonfire Night for noisy fireworks at home?]]></title>
-            <description><![CDATA[About 20 million people enjoy fireworks at home every year, but some campaigners want quieter displays.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/crp3gk07850zo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/crp3gk07850zo#1</guid>
-            <pubDate>Thu, 05 Nov 2026 13:24:26 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8cc/live/415a77d0-d913-11f1-b441-2b33b063138f.jpg"/>
+            <title><![CDATA[A bitter end for Ronaldo - the icon who transformed Portugal announces international retirement]]></title>
+            <description><![CDATA[As Cristiano Ronaldo retires from international football, Guillem Balague looks at why and what is next for the Portugal legend. ]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/ckn9rwr2zzpvo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ckn9rwr2zzpvo#1</guid>
+            <pubDate>Thu, 05 Nov 2026 14:29:40 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3cf5/live/dfdded40-d915-11f1-a81d-35e942472442.jpg"/>
         </item>
         <item>
             <title><![CDATA[Watch: Was an Italian chef really fired over refusal to put pineapple on pizza?]]></title>
@@ -47,27 +63,19 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/272e/live/d04750e0-d903-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Cristiano Ronaldo retires from international football]]></title>
-            <description><![CDATA[Portugal legend Cristiano Ronaldo says "the day has come for me to hand back the number seven shirt".]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cme8rxx2e1w9o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cme8rxx2e1w9o#1</guid>
-            <pubDate>Thu, 05 Nov 2026 12:28:01 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a945/live/90c224f0-d911-11f1-b441-2b33b063138f.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Pitt and ER are similar enough for lawsuit to proceed, judge rules]]></title>
-            <description><![CDATA[The widow of ER creator Michael Crichton argues The Pitt is effectively a reboot of the 1990s series.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cq4g1r42jx00o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cq4g1r42jx00o#1</guid>
-            <pubDate>Thu, 05 Nov 2026 11:21:35 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a84/live/13273f90-d901-11f1-a701-fddedf244c16.jpg"/>
+            <title><![CDATA[Could this be the last Bonfire Night for noisy fireworks at home?]]></title>
+            <description><![CDATA[About 20 million people enjoy fireworks at home every year, but some campaigners want quieter displays.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/crp3gk07850zo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/crp3gk07850zo#1</guid>
+            <pubDate>Thu, 05 Nov 2026 13:24:26 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8cc/live/415a77d0-d913-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
             <title><![CDATA[Football fan tried to stop Huntingdon train attack, jury hears]]></title>
             <description><![CDATA[Stephen Crean says his grapple with the attacker was "like Come Dancing, we were all over the place".]]></description>
             <link>https://www.bbc.co.uk/news/articles/c6ly37727nk3o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6ly37727nk3o#1</guid>
-            <pubDate>Thu, 05 Nov 2026 12:51:58 GMT</pubDate>
+            <pubDate>Thu, 05 Nov 2026 15:34:46 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b9f4/live/51ee5660-d919-11f1-ad94-e17fee4cd332.jpg"/>
         </item>
         <item>
@@ -87,8 +95,8 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a463/live/2d078ab0-d8e7-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Democrats won on affordability - how much can they actually deliver?]]></title>
-            <description><![CDATA[Democrats will hold Congress but President Donald Trump still has the power to block their plans.]]></description>
+            <title><![CDATA[Food, fuel and taxes – can the Democrats actually make life cheaper?]]></title>
+            <description><![CDATA[Their message on cost of living resonated with voters. Now they must show they can deliver.]]></description>
             <link>https://www.bbc.co.uk/news/articles/ck1ex50x5q46o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ck1ex50x5q46o#2</guid>
             <pubDate>Thu, 05 Nov 2026 06:01:05 GMT</pubDate>
@@ -101,6 +109,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/crkg7wj8g201o#2</guid>
             <pubDate>Wed, 04 Nov 2026 18:35:07 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0587/live/4724b8f0-d8e7-11f1-93e1-3b657b665bcf.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Russell Brand I saw in court was not the flamboyant character most people will know]]></title>
+            <description><![CDATA[Brand stood upright in the dock as the verdicts were read out in court - ending this sometimes surreal trial.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cwvgdjyg6qrqo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwvgdjyg6qrqo#3</guid>
+            <pubDate>Thu, 05 Nov 2026 14:37:14 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/74e2/live/3a920d20-d92a-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
             <title><![CDATA[Three ways the interest rate rise could affect you]]></title>
@@ -135,14 +151,6 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/30ea/live/eaa602a0-d75b-11f1-8f6b-d71817972456.jpg"/>
         </item>
         <item>
-            <title><![CDATA[The NHS is relying more on charities - and that might be creating problems for patients]]></title>
-            <description><![CDATA[Is it symptom a health service at breaking point - or a positive way of involving the public?]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c65yn75g9d18o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c65yn75g9d18o#3</guid>
-            <pubDate>Thu, 05 Nov 2026 00:12:30 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2be5/live/eed75af0-d845-11f1-b441-2b33b063138f.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Why a US-funded vaccine trial on babies was cancelled in Guinea-Bissau]]></title>
             <description><![CDATA[The trial was condemned as "unethical" and "neocolonial" because half of the babies would not be given the vaccine.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cm0rlxq08ejko?at_medium=RSS&amp;at_campaign=rss</link>
@@ -157,6 +165,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmn068j9z4w3o#3</guid>
             <pubDate>Thu, 05 Nov 2026 06:07:19 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8890/live/9649af60-d8f3-11f1-b441-2b33b063138f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Pitt and ER are similar enough for lawsuit to proceed, judge rules]]></title>
+            <description><![CDATA[The widow of ER creator Michael Crichton argues The Pitt is effectively a reboot of the 1990s series.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cq4g1r42jx00o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cq4g1r42jx00o#5</guid>
+            <pubDate>Thu, 05 Nov 2026 11:21:35 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a84/live/13273f90-d901-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
             <title><![CDATA[Pound rises to its highest level since the Brexit referendum]]></title>
@@ -183,14 +199,6 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7359/live/19a05d90-d841-11f1-9a87-07a62b4549a2.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Kenyan pharmacists warn against viral craze of using allergy drug for vaginal tightening]]></title>
-            <description><![CDATA[Women who have already tried inserting the tablets are advised to stop and seek medical attention if needed.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cm1dwl13zge7o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm1dwl13zge7o#5</guid>
-            <pubDate>Thu, 05 Nov 2026 11:23:22 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f45/live/3ce96da0-d909-11f1-b72c-d16cdc75f35f.png"/>
-        </item>
-        <item>
             <title><![CDATA['You've had a wonderful life Tommy, but it's over' - Sir Tom feared he was dying]]></title>
             <description><![CDATA[The singer from Pontypridd told the audience just how serious his "bad case of the flu" was.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c8qlnwng5pzwo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -203,7 +211,7 @@
             <description><![CDATA[A consultation will consider fines and other ways to clamp down on dangerous e-bike riders.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cmze4zk4d789o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmze4zk4d789o#5</guid>
-            <pubDate>Thu, 05 Nov 2026 10:04:51 GMT</pubDate>
+            <pubDate>Thu, 05 Nov 2026 15:27:09 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bcfc/live/126e9360-d900-11f1-9c68-d767468fa269.jpg"/>
         </item>
         <item>
@@ -247,6 +255,22 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/503c/live/c9e2baa0-d926-11f1-ad94-e17fee4cd332.png"/>
         </item>
         <item>
+            <title><![CDATA[What new Kane deal means for England and the Premier League record]]></title>
+            <description><![CDATA[Harry Kane's new deal at Bayern Munich may end his Premier League career but offers fresh hope he can lead England to glory, writes Phil McNulty.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cm93zvzzl33zo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cm93zvzzl33zo#9</guid>
+            <pubDate>Thu, 05 Nov 2026 14:44:34 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2669/live/3768f3a0-d91d-11f1-ad94-e17fee4cd332.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Everton's Grealish unavailable again after 'breach of discipline']]></title>
+            <description><![CDATA[Jack Grealish remains unavailable for Everton's Premier League clash with Coventry on Friday, manager David Moyes confirms.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cm79p020d9yvo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cm79p020d9yvo#9</guid>
+            <pubDate>Thu, 05 Nov 2026 15:28:37 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c782/live/445b20c0-d92b-11f1-b441-2b33b063138f.jpg"/>
+        </item>
+        <item>
             <title><![CDATA['Taking people for fools' - Gloucestershire to rebrand as Bristol for T20 Blast]]></title>
             <description><![CDATA[Gloucestershire will compete under the name of Bristol in the T20 Blast from next season in a big to attract new audiences and address falling revenue.]]></description>
             <link>https://www.bbc.co.uk/sport/cricket/articles/ckd7q9l0n7dyo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -263,28 +287,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/01bb/live/71a39df0-d908-11f1-93e1-3b657b665bcf.png"/>
         </item>
         <item>
-            <title><![CDATA[Kane signs new Bayern contract]]></title>
-            <description><![CDATA[England captain Harry Kane signs a new deal with Bayern Munich that runs until 2029.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cmjweqpv8vj1o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmjweqpv8vj1o#9</guid>
-            <pubDate>Thu, 05 Nov 2026 08:39:18 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca43/live/85f91730-d8f4-11f1-a701-fddedf244c16.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Former F1 champion Jones dies aged 80]]></title>
             <description><![CDATA[Alan Jones, the last Australian and first Williams driver to win the Formula 1 world title, dies at the age of 80.]]></description>
             <link>https://www.bbc.co.uk/sport/formula1/articles/cmd9345vdy8do?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/formula1/articles/cmd9345vdy8do#9</guid>
             <pubDate>Thu, 05 Nov 2026 09:46:51 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a3f/live/0b723ee0-d900-11f1-9c68-d767468fa269.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Who could be the next England debutant and who are the potential recalls?]]></title>
-            <description><![CDATA[It's the last international break of the year and England have some big games in the Nations League coming up. Thomas Tuchel has big decisions to make on his next squad selection.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cw4g1rdn2nl8o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cw4g1rdn2nl8o#9</guid>
-            <pubDate>Thu, 05 Nov 2026 13:13:41 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e32/live/146d4c00-d870-11f1-85ab-b3cc3b5498c6.png"/>
         </item>
     </channel>
 </rss>
