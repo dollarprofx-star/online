@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news/world</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 05 Nov 2026 05:28:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Nov 2026 06:27:58 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/world/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -119,6 +119,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c75e/live/2dfb0e80-d84f-11f1-b870-55415e6a9944.jpg"/>
         </item>
         <item>
+            <title><![CDATA['Hopefully things get done': Americans react to historic political shift]]></title>
+            <description><![CDATA[The BBC spoke to voters from different states for their reaction to Democrats taking control of both the Senate and the House of Representatives.]]></description>
+            <link>https://www.bbc.co.uk/news/videos/cwj0l61e2927o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cwj0l61e2927o#2</guid>
+            <pubDate>Wed, 04 Nov 2026 22:34:08 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61e6/live/144f7f70-d89f-11f1-a701-fddedf244c16.jpg"/>
+        </item>
+        <item>
             <title><![CDATA['I'm not a quitter': Kim Kardashian on retaking the bar exam]]></title>
             <description><![CDATA[The All's Fair star tells the BBC she has not given up, but will be "more quiet" about her journey to become a lawyer.]]></description>
             <link>https://www.bbc.co.uk/news/videos/cmy4x59kdknwo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -133,14 +141,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cmvg9w5w2p1no#2</guid>
             <pubDate>Tue, 03 Nov 2026 00:09:13 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34a0/live/de5f6350-d743-11f1-93df-c3d1391a27f8.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[What Florida jet audio and flight data tells us about its final moments]]></title>
-            <description><![CDATA[A private jet crashed in Florida on Sunday, killing all nine people on board, according to US authorities.]]></description>
-            <link>https://www.bbc.co.uk/news/videos/c52e9lgxjz82o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/c52e9lgxjz82o#2</guid>
-            <pubDate>Mon, 02 Nov 2026 19:49:22 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d14/live/f2671810-d6ea-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
             <title><![CDATA['All this food is now useless': Piles of rubbish after shop freezers hit by cyber-attack]]></title>

@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/sport/football</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 05 Nov 2026 05:28:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Nov 2026 06:28:02 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -39,6 +39,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7297/live/bfc6bfc0-d89b-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Emery in line for new Villa deal - Thursday's gossip]]></title>
+            <description><![CDATA[Manager Unai Emery is in line for a new contract with Aston Villa, Trey Nyoni to stay with Liverpool and Leeds target Harvey Elliott, plus more.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cwkgjv582vj0o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cwkgjv582vj0o#0</guid>
+            <pubDate>Wed, 04 Nov 2026 21:41:04 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9208/live/3a26e3f0-d895-11f1-bffe-b94c467713ac.png"/>
+        </item>
+        <item>
             <title><![CDATA[Liverpool crumble at Kuyt's Fenerbahce]]></title>
             <description><![CDATA[Liverpool are defeated by Turkish side Fenerbahce, who twice fought back from behind to seal a famous victory, ending the Reds' perfect start to this year's Champions League after four games.]]></description>
             <link>https://www.bbc.co.uk/sport/football/videos/cqy7ljmzx6d6o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -53,14 +61,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmy0rz7741ywo#0</guid>
             <pubDate>Wed, 04 Nov 2026 23:22:27 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ba3/live/0108aa50-d8a3-11f1-9765-23c244b34f98.png"/>
-        </item>
-        <item>
-            <title><![CDATA[Emery in line for new Villa deal - Thursday's gossip]]></title>
-            <description><![CDATA[Manager Unai Emery is in line for a new contract with Aston Villa, Trey Nyoni to stay with Liverpool and Leeds target Harvey Elliott, plus more.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cwkgjv582vj0o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cwkgjv582vj0o#0</guid>
-            <pubDate>Wed, 04 Nov 2026 21:41:04 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9208/live/3a26e3f0-d895-11f1-bffe-b94c467713ac.png"/>
         </item>
         <item>
             <title><![CDATA[Como score nine to make Champions League history]]></title>
