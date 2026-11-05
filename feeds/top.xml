@@ -9,64 +9,16 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 05 Nov 2026 00:21:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Nov 2026 01:39:08 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
-            <title><![CDATA[Five reasons why Republicans lost so badly]]></title>
-            <description><![CDATA[From angry voters to an unpopular president, here is why Americans in traditional Republican areas turned to Democrats.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cqkgjvr00zmyo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqkgjvr00zmyo#1</guid>
-            <pubDate>Thu, 05 Nov 2026 00:07:19 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af16/live/b7f5b9f0-d84a-11f1-b870-55415e6a9944.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bowen: Trump's loss limits powers at home, but it will likely be different abroad]]></title>
-            <description><![CDATA[After bruising midterm results, President Trump will want to show he can still shake the world, the BBC's international editor writes.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/crkg7wj8g201o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/crkg7wj8g201o#1</guid>
-            <pubDate>Wed, 04 Nov 2026 18:35:07 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b1c3/live/ed878090-d880-11f1-a701-fddedf244c16.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[How America voted in maps and charts]]></title>
-            <description><![CDATA[See the maps and charts that show how America voted in the US midterm elections.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cm4g1j0n92qdo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm4g1j0n92qdo#1</guid>
-            <pubDate>Wed, 04 Nov 2026 09:53:18 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/125b/live/b5cca010-d6e4-11f1-93e1-3b657b665bcf.png"/>
-        </item>
-        <item>
-            <title><![CDATA[What Democrats can and can't do with their new power after taking Congress]]></title>
-            <description><![CDATA[Democrats can vote legislation through. But Trump still has veto power.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cq1kdgnn2xdeo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cq1kdgnn2xdeo#1</guid>
-            <pubDate>Wed, 04 Nov 2026 18:01:27 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f375/live/faf00870-d889-11f1-b441-2b33b063138f.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[How voter shifts in Texas helped elect a Democratic senator and governor]]></title>
-            <description><![CDATA[The BBC's Ros Atkins looks at the state's long track record of voting Republican and what was different in this year's election.]]></description>
-            <link>https://www.bbc.co.uk/news/videos/cmy4xz081kxyo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cmy4xz081kxyo#1</guid>
-            <pubDate>Wed, 04 Nov 2026 20:21:14 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f49/live/c7c73110-d88b-11f1-b441-2b33b063138f.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ukraine says bodycam video shows deadly Russian double-tap bombing]]></title>
-            <description><![CDATA[At least 40 people were killed and another 30 may still be under the rubble after Monday's attack on a Ukrainian village, Kyiv says. ]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c98rz6penv86o#2</guid>
-            <pubDate>Wed, 04 Nov 2026 22:48:43 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f23/live/c9877cb0-d8a1-11f1-93e1-3b657b665bcf.png"/>
-        </item>
-        <item>
-            <title><![CDATA[Chris Mason: The US elections will change Trump – how will Burnham react?]]></title>
+            <title><![CDATA[Chris Mason: The US elections will change Trump - how will Burnham react?]]></title>
             <description><![CDATA[The big question for the British government is does defeat at home make it more likely that President Trump gets angrier abroad?]]></description>
             <link>https://www.bbc.co.uk/news/articles/c615j8pw1y81o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c615j8pw1y81o#2</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c615j8pw1y81o#1</guid>
             <pubDate>Wed, 04 Nov 2026 21:02:58 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e43/live/52316300-d88e-11f1-a97c-0fc6527f3052.jpg"/>
         </item>
@@ -74,81 +26,121 @@
             <title><![CDATA[Pound rises to its highest level since the Brexit referendum]]></title>
             <description><![CDATA[Pound reaches highest level against a basket of currencies since the Brexit referendum a decade ago]]></description>
             <link>https://www.bbc.co.uk/news/articles/c6lykq2qjn2vo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6lykq2qjn2vo#2</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6lykq2qjn2vo#1</guid>
             <pubDate>Wed, 04 Nov 2026 23:30:28 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d226/live/51085d40-d897-11f1-bffe-b94c467713ac.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Typhoons batter East Asia as El Niño makes Pacific 'burn with fever']]></title>
-            <description><![CDATA[Even for countries where typhoons are a way of life, the last few months have brought unusually wild weather.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cw33kgj7nkemo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cw33kgj7nkemo#2</guid>
-            <pubDate>Wed, 04 Nov 2026 23:12:47 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/30ea/live/eaa602a0-d75b-11f1-8f6b-d71817972456.jpg"/>
         </item>
         <item>
             <title><![CDATA[The NHS is relying more on charities - and that might be creating problems for patients]]></title>
             <description><![CDATA[Is it symptom a health service at breaking point - or a positive way of involving the public?]]></description>
             <link>https://www.bbc.co.uk/news/articles/c65yn75g9d18o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c65yn75g9d18o#2</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c65yn75g9d18o#1</guid>
             <pubDate>Thu, 05 Nov 2026 00:12:30 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2be5/live/eed75af0-d845-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
-            <title><![CDATA[British man infected with Ebola in DR Congo to be flown back to UK]]></title>
-            <description><![CDATA[The wider risk to the UK public from the deadly virus remains low, a government spokesperson says.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/crq8nj7xqdv9o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/crq8nj7xqdv9o#2</guid>
-            <pubDate>Wed, 04 Nov 2026 18:34:19 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b714/live/371f2960-d86d-11f1-85ab-b3cc3b5498c6.jpg"/>
+            <title><![CDATA[Ukraine says bodycam video shows deadly Russian double-tap bombing]]></title>
+            <description><![CDATA[At least 40 people were killed and another 30 may still be under the rubble after Monday's attack on a Ukrainian village, Kyiv says. ]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c98rz6penv86o#1</guid>
+            <pubDate>Wed, 04 Nov 2026 22:48:43 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f23/live/c9877cb0-d8a1-11f1-93e1-3b657b665bcf.png"/>
         </item>
         <item>
             <title><![CDATA[Interest rates expected to rise for first time in over three years]]></title>
             <description><![CDATA[Most analysts are predicting an increase from 3.75% to 4%, the first increase in more than three years.]]></description>
             <link>https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo#2</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo#1</guid>
             <pubDate>Thu, 05 Nov 2026 00:00:09 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e8c/live/91074120-d849-11f1-b870-55415e6a9944.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Brigitte Bardot inheritance row deepens after private letter to partner leaked]]></title>
-            <description><![CDATA[In the letter, the late French actress says her partner Bernard de Chiara was "incapable" of giving "support, a tenderness, a presence".]]></description>
-            <link>https://www.bbc.co.uk/news/articles/ck1ex56e5q8wo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ck1ex56e5q8wo#2</guid>
-            <pubDate>Wed, 04 Nov 2026 16:31:14 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c5a/live/e353adf0-d863-11f1-85ab-b3cc3b5498c6.jpg"/>
+            <title><![CDATA[British man infected with Ebola in DR Congo to be flown back to UK]]></title>
+            <description><![CDATA[The wider risk to the UK public from the deadly virus remains low, a government spokesperson says.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/crq8nj7xqdv9o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/crq8nj7xqdv9o#1</guid>
+            <pubDate>Wed, 04 Nov 2026 18:34:19 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b714/live/371f2960-d86d-11f1-85ab-b3cc3b5498c6.jpg"/>
         </item>
         <item>
-            <title><![CDATA[LIV Golf to wind down after backers withdraw support]]></title>
-            <description><![CDATA[LIV Golf is set to announce on Thursday it will wind down after a financing firm retracted its support.]]></description>
-            <link>https://www.bbc.co.uk/sport/golf/articles/cq70pdjjgy5no?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/golf/articles/cq70pdjjgy5no#2</guid>
-            <pubDate>Wed, 04 Nov 2026 22:33:17 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/241b/live/33625a90-d890-11f1-a701-fddedf244c16.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mother and daughter die after suspected grizzly bear attack in Canada]]></title>
-            <description><![CDATA[Authorities in British Columbia say evidence suggests an animal may have been involved in the women's deaths. ]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cqvgry8k5d01o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqvgry8k5d01o#2</guid>
-            <pubDate>Wed, 04 Nov 2026 23:50:40 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e75/live/6fd142d0-d8a3-11f1-b29d-fbcd9d61c58e.jpg"/>
+            <title><![CDATA[Typhoons batter East Asia as El Niño makes Pacific 'burn with fever']]></title>
+            <description><![CDATA[Even for countries where typhoons are a way of life, the last few months have brought unusually wild weather.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cw33kgj7nkemo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cw33kgj7nkemo#1</guid>
+            <pubDate>Wed, 04 Nov 2026 23:12:47 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/30ea/live/eaa602a0-d75b-11f1-8f6b-d71817972456.jpg"/>
         </item>
         <item>
             <title><![CDATA[Police in Scotland to escort fire crews in latest crackdown on Bonfire Night disorder]]></title>
             <description><![CDATA[As many as 1,700 officers could be deployed in the biggest Police Scotland operation since last year's visit by President Trump.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cj93zv4dv9rro?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cj93zv4dv9rro#2</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cj93zv4dv9rro#1</guid>
             <pubDate>Wed, 04 Nov 2026 22:53:26 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1cf9/live/b4ad07b0-d883-11f1-a364-a1fce50dd192.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why a US-funded vaccine trial on babies was cancelled in Guinea-Bissau]]></title>
+            <description><![CDATA[The trial was condemned as "unethical" and "neocolonial" because half of the babies would not be given the vaccine.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cm0rlxq08ejko?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm0rlxq08ejko#1</guid>
+            <pubDate>Thu, 05 Nov 2026 00:30:37 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c4bf/live/d304fb40-d848-11f1-b870-55415e6a9944.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mother and daughter die after suspected grizzly bear attack in Canada]]></title>
+            <description><![CDATA[Authorities in British Columbia say evidence suggests an animal may have been involved in the women's deaths. ]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cqvgry8k5d01o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqvgry8k5d01o#1</guid>
+            <pubDate>Wed, 04 Nov 2026 23:50:40 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e75/live/6fd142d0-d8a3-11f1-b29d-fbcd9d61c58e.jpg"/>
         </item>
         <item>
             <title><![CDATA[World record 51 red cards shown in Brazilian youth game]]></title>
             <description><![CDATA[A world record of 43 players and eight members of staff were sent off during an under-20 championship match between Uberlandia and Mamore in Brazil. ]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cmy0rz7741ywo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmy0rz7741ywo#2</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmy0rz7741ywo#1</guid>
             <pubDate>Wed, 04 Nov 2026 23:22:27 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ba3/live/0108aa50-d8a3-11f1-9765-23c244b34f98.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Five reasons why Republicans lost so badly]]></title>
+            <description><![CDATA[From angry voters to an unpopular president, here is why Americans in traditional Republican areas turned to Democrats.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cqkgjvr00zmyo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqkgjvr00zmyo#2</guid>
+            <pubDate>Thu, 05 Nov 2026 00:07:19 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cdbb/live/b9988eb0-d8b1-11f1-93e1-3b657b665bcf.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bowen: Trump's loss limits powers at home, but it will likely be different abroad]]></title>
+            <description><![CDATA[After bruising midterm results, President Trump will want to show he can still shake the world, the BBC's international editor writes.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/crkg7wj8g201o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/crkg7wj8g201o#2</guid>
+            <pubDate>Wed, 04 Nov 2026 18:35:07 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b1c3/live/ed878090-d880-11f1-a701-fddedf244c16.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How America voted in maps and charts]]></title>
+            <description><![CDATA[See the maps and charts that show how America voted in the US midterm elections.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cm4g1j0n92qdo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm4g1j0n92qdo#2</guid>
+            <pubDate>Wed, 04 Nov 2026 09:53:18 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/125b/live/b5cca010-d6e4-11f1-93e1-3b657b665bcf.png"/>
+        </item>
+        <item>
+            <title><![CDATA[What Democrats can and can't do with their new power after taking Congress]]></title>
+            <description><![CDATA[Democrats can vote legislation through. But Trump still has veto power.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cq1kdgnn2xdeo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cq1kdgnn2xdeo#2</guid>
+            <pubDate>Wed, 04 Nov 2026 18:01:27 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f375/live/faf00870-d889-11f1-b441-2b33b063138f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How voter shifts in Texas helped elect a Democratic senator and governor]]></title>
+            <description><![CDATA[The BBC's Ros Atkins looks at the state's long track record of voting Republican and what was different in this year's election.]]></description>
+            <link>https://www.bbc.co.uk/news/videos/cmy4xz081kxyo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cmy4xz081kxyo#2</guid>
+            <pubDate>Wed, 04 Nov 2026 20:21:14 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f49/live/c7c73110-d88b-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
             <title><![CDATA[An island in mourning: Tenerife processes death of De Miguel]]></title>
@@ -157,6 +149,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ckx2qz97gz3no#3</guid>
             <pubDate>Wed, 04 Nov 2026 18:51:21 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6896/live/80cda3d0-d880-11f1-a701-fddedf244c16.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Papers: 'Crushing midterm rebuke' and 'Trumped']]></title>
+            <description><![CDATA[The Democrats sweep in the US midterm elections is the focus of Thursday's papers.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cqn06j94jlrxo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqn06j94jlrxo#3</guid>
+            <pubDate>Thu, 05 Nov 2026 01:07:55 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e7b/live/bb88ed00-d8b1-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
             <title><![CDATA[Surreal moment Tarantino and Kylie Minogue came to my hometown to star in my new film]]></title>
@@ -175,14 +175,6 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/721d/live/b2f25070-d864-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Why Kim Kardashian came back to 'the worst TV drama ever']]></title>
-            <description><![CDATA[The media personality and businesswoman says she's worked on her acting for series two of All's Fair.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cxvgd4drmevro?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cxvgd4drmevro#3</guid>
-            <pubDate>Wed, 04 Nov 2026 00:52:19 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8325/live/8fce9a20-d785-11f1-9440-953b82c8f55a.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Kellogg's admits snap, crackle and pop is quieter after uproar over Rice Krispies recipe change]]></title>
             <description><![CDATA[The cereal giant has changed the recipes for Rice Krispies and Coco Pops, sparking a backlash online.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -191,12 +183,36 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dfad/live/fe845730-d7e3-11f1-8a01-8d54cbcf7487.jpg"/>
         </item>
         <item>
+            <title><![CDATA[LIV Golf to wind down after backers withdraw support]]></title>
+            <description><![CDATA[LIV Golf is set to announce on Thursday it will wind down after a financing firm retracted its support.]]></description>
+            <link>https://www.bbc.co.uk/sport/golf/articles/cq70pdjjgy5no?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/golf/articles/cq70pdjjgy5no#5</guid>
+            <pubDate>Wed, 04 Nov 2026 22:33:17 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/241b/live/33625a90-d890-11f1-a701-fddedf244c16.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Brigitte Bardot inheritance row deepens after private letter to partner leaked]]></title>
+            <description><![CDATA[In the letter, the late French actress says her partner Bernard de Chiara was "incapable" of giving "support, a tenderness, a presence".]]></description>
+            <link>https://www.bbc.co.uk/news/articles/ck1ex56e5q8wo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ck1ex56e5q8wo#5</guid>
+            <pubDate>Wed, 04 Nov 2026 16:31:14 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c5a/live/e353adf0-d863-11f1-85ab-b3cc3b5498c6.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[£200m taxpayer-funded trains sit barely used for three years]]></title>
             <description><![CDATA[The final piece in a £2bn rail project is late, with less than half of the trains tested.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cv62kwg0k038o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cv62kwg0k038o#5</guid>
             <pubDate>Wed, 04 Nov 2026 22:59:28 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2063/live/d22e3000-d858-11f1-94f3-cf7d1e52bb8c.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Australia's oldest department store David Jones collapses after 188 years]]></title>
+            <description><![CDATA[The brand's 38 physical stores and online site will continue to operate while receivers review its operations.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cky93z5y0171o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cky93z5y0171o#5</guid>
+            <pubDate>Thu, 05 Nov 2026 00:59:22 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e5e/live/f37ce860-d8ac-11f1-8b97-dd854ec90424.jpg"/>
         </item>
         <item>
             <title><![CDATA[Cocaine overtakes heroin as leading cause of drug deaths in England and Wales]]></title>
@@ -213,14 +229,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmr4yvel29keo#5</guid>
             <pubDate>Wed, 04 Nov 2026 17:55:53 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b1a1/live/68632510-d874-11f1-a364-a1fce50dd192.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[UK government to outlaw new North Sea drilling]]></title>
-            <description><![CDATA[Labour ministers have published legislation that would end the granting of new oil and gas licences.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cqn734d24l0go?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqn734d24l0go#5</guid>
-            <pubDate>Wed, 04 Nov 2026 16:28:03 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9fe8/live/e0d51c90-d867-11f1-85ab-b3cc3b5498c6.jpg"/>
         </item>
         <item>
             <title><![CDATA[Tributes paid to drummer with dozens of number ones]]></title>
