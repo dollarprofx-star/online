@@ -5,7 +5,7 @@
         <atom:link href="https://rss.punchng.com" rel="self" type="application/rss+xml" />
         <link> https://rss.punchng.com </link>
         <description> Get the latest News in Nigeria </description>
-        <lastBuildDate> Thu, 05 Nov 2026 04:28:30 +0000</lastBuildDate>
+        <lastBuildDate> Thu, 05 Nov 2026 05:28:40 +0000</lastBuildDate>
         <language> en-US </language>
         <sy:updatePeriod> minutely	</sy:updatePeriod>
         <sy:updateFrequency> 5	</sy:updateFrequency>
@@ -13,6 +13,20 @@
         <generator>https://rss.punchng.com</generator>
 
         <item>
+                        <title>How Moniepoint customers can check eligibility for FG’s ₦50,000 relief support</title>
+                        <link>https://punchng.com/how-moniepoint-customers-can-check-eligibility-for-fgs-%e2%82%a650000/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
+                        <pubDate>Thu, 05 Nov 2026 06:25:45 +0000</pubDate>
+                        <dc:creator><![CDATA[Punch Newspapers]]></dc:creator>
+                        <category><![CDATA[]]></category>
+                        <guid isPermaLink='true'>https://punchng.com/how-moniepoint-customers-can-check-eligibility-for-fgs-%e2%82%a650000/?utm_source=rss.punchng.com&amp;utm_medium=web</guid>
+                        <description><![CDATA[
+
+Moniepoint Microfinance Bank has released a USSD code for eligible customers to check their status and access the Federal Government’s ₦50,000 relief suppo
+
+Read More: https://punchng.com/how-moniepoint-customers-can-check-eligibility-for-fgs-%e2%82%a650000/]]></description>
+                        <enclosure url='https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png' length='342247' type='image/png'/>
+                    </item>
+                    <item>
                         <title>Osun puts Oluwo under watch over inflammatory remarks</title>
                         <link>https://punchng.com/osun-puts-oluwo-under-watch-over-inflammatory-remarks/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
                         <pubDate>Thu, 05 Nov 2026 05:23:14 +0000</pubDate>
@@ -413,23 +427,9 @@ Read More: https://punchng.com/boi-ifc-sign-50m-loan-deal-to-boost-msme-financin
                         <guid isPermaLink='true'>https://punchng.com/4000-workers-to-fill-identified-gaps-eno/?utm_source=rss.punchng.com&amp;utm_medium=web</guid>
                         <description><![CDATA[
 
-Akwa Ibom State Governor, Umo Eno, says the recruitment of 4,000 new workers was to fill gaps identified after a verification exercise uncovered ghost work
+Akwa Ibom State Governor, Umo Eno, says the recruitment of 4,000 new workers is to fill gaps identified after a verification exercise uncovered 2,000 ghost
 
 Read More: https://punchng.com/4000-workers-to-fill-identified-gaps-eno/]]></description>
-                        <enclosure url='https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png' length='342247' type='image/png'/>
-                    </item>
-                    <item>
-                        <title>UN, LEAP Africa urge greater youth inclusion in governance</title>
-                        <link>https://punchng.com/un-leap-africa-urge-greater-youth-inclusion-in-governance/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
-                        <pubDate>Thu, 05 Nov 2026 00:40:37 +0000</pubDate>
-                        <dc:creator><![CDATA[Punch Newspapers]]></dc:creator>
-                        <category><![CDATA[]]></category>
-                        <guid isPermaLink='true'>https://punchng.com/un-leap-africa-urge-greater-youth-inclusion-in-governance/?utm_source=rss.punchng.com&amp;utm_medium=web</guid>
-                        <description><![CDATA[
-
-The UN, LEAP Africa, and the Nigerian Youth Futures Fund have called for greater youth inclusion in governance and economic decision-making in Nigeria.
-
-Read More: https://punchng.com/un-leap-africa-urge-greater-youth-inclusion-in-governance/]]></description>
                         <enclosure url='https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png' length='342247' type='image/png'/>
                     </item>
                         </channel>
