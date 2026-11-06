@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 06 Nov 2026 17:16:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Nov 2026 18:09:15 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -95,7 +95,7 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d4b/live/2f491270-d938-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Burnham responds to BBC question over Labour's links to Brand]]></title>
+            <title><![CDATA[Burnham responds to BBC question over Labour's past links to Brand]]></title>
             <description><![CDATA[The prime minister says that Labour politicians courting the comedian a decade ago had not been aware of his crimes.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cjkgee4yw3xno?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cjkgee4yw3xno#2</guid>
@@ -159,20 +159,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5589/live/461d3e00-d879-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Spain's rail authorities face European fraud probe after Urda rail disaster]]></title>
+            <description><![CDATA[Prosecutors begin investigating EU funds meant for upgrading the Spanish railway line where a train crash killed 69 people.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c6x2wwnz5445o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6x2wwnz5445o#5</guid>
+            <pubDate>Fri, 06 Nov 2026 17:44:02 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26ed/live/81d3a0d0-d9ee-11f1-bbe5-797ee05bee69.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Judge blocks construction of Trump's massive arch after federal agency approval]]></title>
             <description><![CDATA[The Trump administration had hoped the construction of the 250-foot arch could begin as early as this week.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cq99zd93ryvko?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cq99zd93ryvko#5</guid>
             <pubDate>Fri, 06 Nov 2026 15:30:42 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afb3/live/7b472130-d956-11f1-b7f4-8bd3c0617693.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Childminder who left more than 20 children alone in her home jailed]]></title>
-            <description><![CDATA[Amanda Mathewson was caught neglecting children at her home in Dunfermline after being spied on by parents.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c8qlnne7x9y1o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c8qlnne7x9y1o#5</guid>
-            <pubDate>Fri, 06 Nov 2026 14:19:50 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dcbc/live/14f4a550-d9ed-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
             <title><![CDATA[Man investigated for leaving 17-year-old on Germany's highest mountain]]></title>
@@ -183,6 +183,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a16/live/dd2f48f0-d9ce-11f1-9e5a-c30c5e3d8c85.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Huntingdon train attack victim thought 'this is what it feels like to die', court told]]></title>
+            <description><![CDATA[Scott Bletcher says he found police and told them 'am I glad to see you, I've been stabbed".]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c9zrdd60zxk2o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c9zrdd60zxk2o#5</guid>
+            <pubDate>Fri, 06 Nov 2026 16:30:41 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0aeb/live/13711af0-d9df-11f1-b441-2b33b063138f.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Firms should publish salaries in job adverts ahead of new law, says PM]]></title>
             <description><![CDATA[The government argues the change will help jobseekers and could help to prevent pay discrimination.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cmd9343z3zw2o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -191,28 +199,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04d2/live/40c46130-d9f6-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Train worker recalls repelling Huntingdon attacker with frying pan]]></title>
-            <description><![CDATA[Scott Bletcher says he found police and told them 'am I glad to see you, I've been stabbed".]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c9zrdd60zxk2o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c9zrdd60zxk2o#5</guid>
-            <pubDate>Fri, 06 Nov 2026 16:30:41 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0aeb/live/13711af0-d9df-11f1-b441-2b33b063138f.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['Clicky Ponting' cheating scandal cricketer banned from sport for two years]]></title>
-            <description><![CDATA[An amateur cricketer is banned for two years for his role in the ‘Clicky Ponting’ cheating scandal that made headlines across the globe.]]></description>
-            <link>https://www.bbc.co.uk/sport/cricket/articles/c62keenz7dzjo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/cricket/articles/c62keenz7dzjo#5</guid>
-            <pubDate>Fri, 06 Nov 2026 12:00:21 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8850/live/cc8c8630-d9dc-11f1-a701-fddedf244c16.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Tube drivers to stage strikes in Christmas run-up]]></title>
             <description><![CDATA[The union is in dispute with London Underground over working arrangements for drivers.]]></description>
             <link>https://www.bbc.co.uk/news/articles/ck7vpplgvrjqo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ck7vpplgvrjqo#5</guid>
             <pubDate>Fri, 06 Nov 2026 16:50:22 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95f0/live/1836d5d0-d9de-11f1-93e1-3b657b665bcf.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Childminder who left more than 20 children alone in her home jailed]]></title>
+            <description><![CDATA[Amanda Mathewson was caught neglecting children at her home in Dunfermline after being spied on by parents.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c8qlnne7x9y1o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c8qlnne7x9y1o#5</guid>
+            <pubDate>Fri, 06 Nov 2026 14:19:50 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dcbc/live/14f4a550-d9ed-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
             <title><![CDATA[Download now]]></title>
