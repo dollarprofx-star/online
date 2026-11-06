@@ -9,26 +9,18 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 06 Nov 2026 03:15:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Nov 2026 04:21:57 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
-        <item>
-            <title><![CDATA[Russell Brand found guilty of rape and sexual assault]]></title>
-            <description><![CDATA[Brand is told to expect a prison sentence "of some length" and faces more rape allegations, it can now be reported. ]]></description>
-            <link>https://www.bbc.co.uk/news/articles/ckyvrze96y70o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckyvrze96y70o#1</guid>
-            <pubDate>Fri, 06 Nov 2026 02:21:20 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2478/live/e8f58d90-d94a-11f1-a701-fddedf244c16.jpg"/>
-        </item>
         <item>
             <title><![CDATA[Global tech stocks plunge as US midterms add to AI slowdown fears]]></title>
             <description><![CDATA[Investors have reacted to possible tougher scrutiny of data centre construction and the AI industry.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmn04705rd8jo#1</guid>
             <pubDate>Fri, 06 Nov 2026 02:57:24 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e01/live/e1c54f70-d958-11f1-a800-d9dce9e5aa21.jpg"/>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7da8/live/a5c551d0-d996-11f1-9e72-375d6b1d1f05.jpg"/>
         </item>
         <item>
             <title><![CDATA[Met chief warns policing 'heading for failure' without reform]]></title>
@@ -37,6 +29,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cvglww2r307ko#1</guid>
             <pubDate>Fri, 06 Nov 2026 01:13:53 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a50/live/01328a20-d94b-11f1-b2ee-87d22b17ac74.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Russell Brand found guilty of rape and sexual assault]]></title>
+            <description><![CDATA[Brand is told to expect a prison sentence "of some length" and faces more rape allegations, it can now be reported. ]]></description>
+            <link>https://www.bbc.co.uk/news/articles/ckyvrze96y70o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckyvrze96y70o#1</guid>
+            <pubDate>Fri, 06 Nov 2026 02:21:20 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2478/live/e8f58d90-d94a-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
             <title><![CDATA[Firms told to publish salaries in job adverts ahead of new law]]></title>
@@ -64,7 +64,7 @@
         </item>
         <item>
             <title><![CDATA[White House denies Hegseth and Rubio to leave jobs after Republican election losses]]></title>
-            <description><![CDATA[The Trump administration has downplayed reports the pair could be on their way out after heavy Republicans election losses.]]></description>
+            <description><![CDATA[US media reports there are calls to replace Pete Hegseth, who also faces a possible impeachment vote, while Mark Rubio is rumoured to be eyeing a presidential run.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cqg7xxg4jdv5o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqg7xxg4jdv5o#1</guid>
             <pubDate>Fri, 06 Nov 2026 02:08:57 GMT</pubDate>
@@ -72,11 +72,19 @@
         </item>
         <item>
             <title><![CDATA[Trump signs order preventing future presidents from changing Oval Office ]]></title>
-            <description><![CDATA[The order comes after Trump made a series of big changes the Oval Office  decor and launched landmark construction projects across Washington. ]]></description>
+            <description><![CDATA[The order comes after Trump made a series of big changes to the decor of the Oval Office and tore down the White House East Wing.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmy0eeg101djo#1</guid>
-            <pubDate>Fri, 06 Nov 2026 01:20:01 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8beb/live/f899a990-d97f-11f1-bf3f-d5d9031d14b1.jpg"/>
+            <pubDate>Fri, 06 Nov 2026 03:33:25 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6593/live/d5c2e140-d991-11f1-9ebf-51ca702e24e1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Police car set alight in Glasgow amid Bonfire Night trouble]]></title>
+            <description><![CDATA[Seven arrests were made during disorder in parts of Scotland, with fireworks thrown at emergency workers, police say.  ]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cm0ldd8kyn36o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm0ldd8kyn36o#1</guid>
+            <pubDate>Fri, 06 Nov 2026 04:05:47 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c301/live/0662a3f0-d968-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
             <title><![CDATA[King relishes 'politically charged' deployments, Palace aide says]]></title>
@@ -101,14 +109,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cq398m8w41lyo#1</guid>
             <pubDate>Thu, 05 Nov 2026 18:22:46 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b8ac/live/89154780-d945-11f1-a701-fddedf244c16.png"/>
-        </item>
-        <item>
-            <title><![CDATA[UK doctor infected with Ebola being treated at London hospital]]></title>
-            <description><![CDATA[The doctor tested positive in DR Congo, where there is an outbreak. The government says the risk to the public remains low.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cqj34d3l0zlmo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqj34d3l0zlmo#1</guid>
-            <pubDate>Thu, 05 Nov 2026 21:26:09 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/923f/live/26c0cf50-d94f-11f1-b2ee-87d22b17ac74.jpg"/>
         </item>
         <item>
             <title><![CDATA[Watch: Met Police release Brand interview footage]]></title>
@@ -199,12 +199,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3dca/live/cb01af10-d8ed-11f1-b7ca-cbaa67b24b8c.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Police car set alight in Glasgow amid Bonfire Night trouble]]></title>
-            <description><![CDATA[The car was torched after officers answered reports of an injured man in the Provanmill area of Glasgow.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cm0ldd8kyn36o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm0ldd8kyn36o#5</guid>
-            <pubDate>Thu, 05 Nov 2026 23:15:08 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c301/live/0662a3f0-d968-11f1-93e1-3b657b665bcf.jpg"/>
+            <title><![CDATA[UK doctor infected with Ebola being treated at London hospital]]></title>
+            <description><![CDATA[The doctor tested positive in DR Congo, where there is an outbreak. The government says the risk to the public remains low.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cqj34d3l0zlmo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqj34d3l0zlmo#5</guid>
+            <pubDate>Thu, 05 Nov 2026 21:26:09 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/923f/live/26c0cf50-d94f-11f1-b2ee-87d22b17ac74.jpg"/>
         </item>
         <item>
             <title><![CDATA[More Mandelson papers set to be published before Christmas]]></title>
@@ -237,14 +237,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c9p8g085mz07o#5</guid>
             <pubDate>Thu, 05 Nov 2026 19:08:08 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4b7/live/4ad22690-d955-11f1-b7f4-8bd3c0617693.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['Flawed' training contributed to officer's death]]></title>
-            <description><![CDATA[A coroner rules Second Lt Max George's death on Salisbury Plain was an accident. ]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cvj6j4425p3zo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cvj6j4425p3zo#5</guid>
-            <pubDate>Thu, 05 Nov 2026 15:39:20 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0407/live/fa562bb0-d131-11f1-be77-d1864d279cb0.png"/>
         </item>
         <item>
             <title><![CDATA[Download now]]></title>
