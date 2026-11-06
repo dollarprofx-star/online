@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/sport/football</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 06 Nov 2026 21:12:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Nov 2026 21:50:34 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -63,18 +63,10 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d88/live/2656a970-d86b-11f1-85ab-b3cc3b5498c6.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Sutton's predictions v Football Manager, the game]]></title>
-            <description><![CDATA[BBC Sport football expert Chris Sutton takes on the computer game Football Manager 27, plus the BBC readers and AI, with his predictions for this weekend's Premier League fixtures.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/ck5ynzry64p2o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ck5ynzry64p2o#1</guid>
-            <pubDate>Thu, 05 Nov 2026 18:02:15 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2355/live/30c520d0-d627-11f1-93e1-3b657b665bcf.png"/>
-        </item>
-        <item>
             <title><![CDATA[The Fifa hopeful hoping to take Infantino down with 'samurai spirit']]></title>
             <description><![CDATA[Gianni Infantino's first challenger for the presidency tells BBC Sport why he is standing in the election.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cmwyvv7pkqrno?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmwyvv7pkqrno#1</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmwyvv7pkqrno#0</guid>
             <pubDate>Fri, 06 Nov 2026 15:21:40 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d43/live/757ba1c0-d9e9-11f1-bbe5-797ee05bee69.jpg"/>
         </item>
@@ -82,9 +74,17 @@
             <title><![CDATA[James out for minimum of five games - Bompastor]]></title>
             <description><![CDATA[Sonia Bompastor says Lauren James is out for at least the next few weeks, casting doubt on her availability for England's World Cup qualifying play-off matches.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/crq5nnqn84zyo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/crq5nnqn84zyo#1</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/crq5nnqn84zyo#0</guid>
             <pubDate>Fri, 06 Nov 2026 16:44:44 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f5cf/live/b6d6f4d0-d9fd-11f1-84c1-dbcae60402d7.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sutton's predictions v Football Manager, the game]]></title>
+            <description><![CDATA[BBC Sport football expert Chris Sutton takes on the computer game Football Manager 27, plus the BBC readers and AI, with his predictions for this weekend's Premier League fixtures.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/ck5ynzry64p2o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ck5ynzry64p2o#1</guid>
+            <pubDate>Thu, 05 Nov 2026 18:02:15 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2355/live/30c520d0-d627-11f1-93e1-3b657b665bcf.png"/>
         </item>
         <item>
             <title><![CDATA[Talking points as Premiership prepares for international break]]></title>
@@ -117,6 +117,22 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c38xzkkgg7rpo#1</guid>
             <pubDate>Fri, 06 Nov 2026 09:22:00 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63e7/live/faa1da30-d9c2-11f1-a701-fddedf244c16.png"/>
+        </item>
+        <item>
+            <title><![CDATA[A bitter end for Ronaldo - the icon who transformed Portugal]]></title>
+            <description><![CDATA[As Cristiano Ronaldo retires from international football, Guillem Balague looks at why and what is next for the Portugal legend. ]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/ckn9rwr2zzpvo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ckn9rwr2zzpvo#1</guid>
+            <pubDate>Thu, 05 Nov 2026 14:29:40 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3cf5/live/dfdded40-d915-11f1-a81d-35e942472442.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Putting his doubters in their place' - Rooney lands pundit of year award]]></title>
+            <description><![CDATA[Former Manchester United and England captain Wayne Rooney is named pundit of the year at the prestigious Broadcast Sport Awards.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/ck4g1l4nj85zo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ck4g1l4nj85zo#1</guid>
+            <pubDate>Fri, 06 Nov 2026 06:22:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/968f/live/1d5335f0-d84d-11f1-b870-55415e6a9944.png"/>
         </item>
         <item>
             <title><![CDATA[Six tournaments, 11 goals - Ronaldo's World Cup legacy ]]></title>
@@ -169,22 +185,6 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c068/live/df157960-541c-11f1-8b8c-6d33e1d5abb6.jpg"/>
         </item>
         <item>
-            <title><![CDATA[A bitter end for Ronaldo - the icon who transformed Portugal]]></title>
-            <description><![CDATA[As Cristiano Ronaldo retires from international football, Guillem Balague looks at why and what is next for the Portugal legend. ]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/ckn9rwr2zzpvo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ckn9rwr2zzpvo#3</guid>
-            <pubDate>Thu, 05 Nov 2026 14:29:40 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3cf5/live/dfdded40-d915-11f1-a81d-35e942472442.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['Putting his doubters in their place' - Rooney lands pundit of year award]]></title>
-            <description><![CDATA[Former Manchester United and England captain Wayne Rooney is named pundit of the year at the prestigious Broadcast Sport Awards.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/ck4g1l4nj85zo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ck4g1l4nj85zo#3</guid>
-            <pubDate>Fri, 06 Nov 2026 06:22:00 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/968f/live/1d5335f0-d84d-11f1-b870-55415e6a9944.png"/>
-        </item>
-        <item>
             <title><![CDATA[Harborough sign 6ft 9in striker Hudlin before FA Cup tie]]></title>
             <description><![CDATA[Non-league Harborough Town sign striker Kyle Hudlin, one of the world's tallest professional players, in time for their FA Cup trip to Leyton Orient.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cxvgdd7q2dm3o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -217,18 +217,10 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a3c2/live/2cdec430-d96f-11f1-9fd0-cdf612d1539f.jpg"/>
         </item>
         <item>
-            <title><![CDATA['He'll regret it' - the day Ferguson quit Aberdeen for Man Utd]]></title>
-            <description><![CDATA[It's 40 years since the legendary manager left the Dons after eight trophy-laden years. ]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cmwy4edrdp02o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmwy4edrdp02o#5</guid>
-            <pubDate>Fri, 06 Nov 2026 06:17:13 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/726a/live/19839f00-d90b-11f1-b72c-d16cdc75f35f.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Who am I? Plus today's other quizzes]]></title>
             <description><![CDATA[Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cm78p02288epo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cm78p02288epo#5</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cm78p02288epo#3</guid>
             <pubDate>Fri, 06 Nov 2026 06:13:26 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"/>
         </item>
@@ -236,9 +228,17 @@
             <title><![CDATA[How to follow the FA Cup on the BBC this weekend]]></title>
             <description><![CDATA[Our Ask Me Anything experts explain how to follow the FA Cup first round on TV and radio this weekend.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/c3lyl52j0vg4o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c3lyl52j0vg4o#5</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c3lyl52j0vg4o#3</guid>
             <pubDate>Fri, 06 Nov 2026 07:47:46 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a50/live/eb177540-d6af-11f1-a701-fddedf244c16.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['He'll regret it' - the day Ferguson quit Aberdeen for Man Utd]]></title>
+            <description><![CDATA[It's 40 years since the legendary manager left the Dons after eight trophy-laden years. ]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cmwy4edrdp02o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmwy4edrdp02o#5</guid>
+            <pubDate>Fri, 06 Nov 2026 06:17:13 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/726a/live/19839f00-d90b-11f1-b72c-d16cdc75f35f.jpg"/>
         </item>
         <item>
             <title><![CDATA[Euro Leagues]]></title>
@@ -257,6 +257,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ba6/live/a3e114a0-8c89-11ef-8537-35d6ce5671fe.jpg"/>
         </item>
         <item>
+            <title><![CDATA['A void that is impossible to fill' - tributes paid at De Miguel funeral]]></title>
+            <description><![CDATA[Jesus de Miguel's family say "the mark he has left on so many people" is something they will always remember as the footballer's funeral takes place in Spain.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cr62y4yj39veo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cr62y4yj39veo#5</guid>
+            <pubDate>Thu, 05 Nov 2026 16:12:37 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7822/live/4d543600-d933-11f1-8bce-2396c9c50357.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Forest need balance between Woodstock and military - Glasner]]></title>
             <description><![CDATA[Oliver Glasner insists his Nottingham Forest side cannot survive on "flower power" as he tries to strike a balance between trust and respect at the club.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cwg5jj6nvmnyo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -265,28 +273,20 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a7ea/live/40bb5860-d965-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
+            <title><![CDATA[What new Kane deal means for England and the Premier League record]]></title>
+            <description><![CDATA[Harry Kane's new deal at Bayern Munich may end his Premier League career but offers fresh hope he can lead England to glory, writes Phil McNulty.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cm93zvzzl33zo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cm93zvzzl33zo#5</guid>
+            <pubDate>Thu, 05 Nov 2026 14:44:34 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2669/live/3768f3a0-d91d-11f1-ad94-e17fee4cd332.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[How much prize money can teams win in FA Cup?]]></title>
             <description><![CDATA[Our Ask Me Anything team look at what teams could be set to earn from the 2026-27 FA Cup.]]></description>
             <link>https://www.bbc.co.uk/sport/articles/cq8jzn88rejgo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/articles/cq8jzn88rejgo#6</guid>
             <pubDate>Fri, 06 Nov 2026 07:50:11 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8e4/live/5a50dcb0-d6cb-11f1-a701-fddedf244c16.png"/>
-        </item>
-        <item>
-            <title><![CDATA['A void that is impossible to fill' - tributes paid at De Miguel funeral]]></title>
-            <description><![CDATA[Jesus de Miguel's family say "the mark he has left on so many people" is something they will always remember as the footballer's funeral takes place in Spain.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cr62y4yj39veo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cr62y4yj39veo#6</guid>
-            <pubDate>Thu, 05 Nov 2026 16:12:37 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7822/live/4d543600-d933-11f1-8bce-2396c9c50357.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[What new Kane deal means for England and the Premier League record]]></title>
-            <description><![CDATA[Harry Kane's new deal at Bayern Munich may end his Premier League career but offers fresh hope he can lead England to glory, writes Phil McNulty.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cm93zvzzl33zo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cm93zvzzl33zo#6</guid>
-            <pubDate>Thu, 05 Nov 2026 14:44:34 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2669/live/3768f3a0-d91d-11f1-ad94-e17fee4cd332.jpg"/>
         </item>
         <item>
             <title><![CDATA[Emery close to agreeing new Aston Villa contract]]></title>
@@ -319,6 +319,22 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c8y56z50k95xo#6</guid>
             <pubDate>Thu, 05 Nov 2026 17:25:41 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/77ed/live/083fb410-d936-11f1-8bce-2396c9c50357.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[More than 60 flights in 11 months and away games in the Arctic Circle]]></title>
+            <description><![CDATA[English manager Laura Kaminski has won the Norwegian league and cup double - so will that open doors in her coaching career?]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cwm23qg6qy78o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cwm23qg6qy78o#6</guid>
+            <pubDate>Thu, 05 Nov 2026 12:38:34 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc10/live/642e8200-d8f6-11f1-9c68-d767468fa269.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Coleman in 'hybrid role' with Republic of Ireland]]></title>
+            <description><![CDATA[Republic of Ireland manager Heimir Hallgrimsson says it was "tempting" to include Seamus Coleman in his squad for this month's Nations League matches against Austria and Kosovo despite the defender having not played since June.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cmn9rwn7eyv4o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmn9rwn7eyv4o#6</guid>
+            <pubDate>Thu, 05 Nov 2026 13:03:43 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/244c/live/93c2f6f0-d913-11f1-a81d-35e942472442.jpg"/>
         </item>
         <item>
             <title><![CDATA[Every goal from the Women's Super League - matchweek eight]]></title>

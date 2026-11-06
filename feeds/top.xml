@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 06 Nov 2026 21:12:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Nov 2026 21:50:31 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -231,7 +231,7 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e997/live/d07a55f0-d88e-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Title race is over - but intrigue in F1 continues]]></title>
+            <title><![CDATA[Ferrari's Hamilton-Leclerc problem - and other F1 stories to follow]]></title>
             <description><![CDATA[This weekend's Sao Paulo Grand Prix is in many ways the first page of the first chapter of the next championship battle.]]></description>
             <link>https://www.bbc.co.uk/sport/formula1/articles/cm62y4283534o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/formula1/articles/cm62y4283534o#9</guid>
