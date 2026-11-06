@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/sport/football</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 06 Nov 2026 09:35:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Nov 2026 10:40:38 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -71,20 +71,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a3c2/live/2cdec430-d96f-11f1-9fd0-cdf612d1539f.jpg"/>
         </item>
         <item>
-            <title><![CDATA[From playing against Messi & Ronaldo to non-league]]></title>
+            <title><![CDATA[From playing against Messi and Ronaldo to non-league]]></title>
             <description><![CDATA[Fernando Forestieri, whose career has seen him play against Lionel Messi and Cristiano Ronaldo, is looking to inspire non-league Oxford City to a memorable FA Cup win over Leicester City.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cw054d7nmndzo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cw054d7nmndzo#0</guid>
             <pubDate>Fri, 06 Nov 2026 06:42:07 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c7d1/live/c26e86a0-d82c-11f1-be97-417dbcdedd32.png"/>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ab3/live/d631fc50-d9c9-11f1-bb8e-efaa31738708.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Deschamps not interested in Man Utd job - Friday's gossip]]></title>
-            <description><![CDATA[Didier Deschamps is not interested in becoming Manchester United's manager, Arsenal are interested in Club Brugge striker Nicolo Tresoldi, plus more.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/c9rky3g7e8zro?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c9rky3g7e8zro#0</guid>
-            <pubDate>Thu, 05 Nov 2026 22:49:23 GMT</pubDate>
-            <media:thumbnail width="240" height="133" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a7c/live/f8e97940-d969-11f1-93e1-3b657b665bcf.png"/>
+            <title><![CDATA[Championship preview: Contenders, pretenders and strugglers]]></title>
+            <description><![CDATA[BBC Sport highlights five things to look out for across Saturday's Championship action.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/c38xzkkgg7rpo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c38xzkkgg7rpo#0</guid>
+            <pubDate>Fri, 06 Nov 2026 09:22:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63e7/live/faa1da30-d9c2-11f1-a701-fddedf244c16.png"/>
         </item>
         <item>
             <title><![CDATA[Who am I? Plus today's other quizzes]]></title>
@@ -93,6 +93,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cm78p02288epo#1</guid>
             <pubDate>Fri, 06 Nov 2026 06:13:26 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Deschamps not interested in Man Utd job - Friday's gossip]]></title>
+            <description><![CDATA[Didier Deschamps is not interested in becoming Manchester United's manager, Arsenal are interested in Club Brugge striker Nicolo Tresoldi, plus more.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/c9rky3g7e8zro?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c9rky3g7e8zro#1</guid>
+            <pubDate>Thu, 05 Nov 2026 22:49:23 GMT</pubDate>
+            <media:thumbnail width="240" height="133" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a7c/live/f8e97940-d969-11f1-93e1-3b657b665bcf.png"/>
         </item>
         <item>
             <title><![CDATA[Forest need balance between Woodstock and military - Glasner]]></title>
@@ -109,14 +117,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cm93zvzzl33zo#1</guid>
             <pubDate>Thu, 05 Nov 2026 14:44:34 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2669/live/3768f3a0-d91d-11f1-ad94-e17fee4cd332.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[How to follow the FA Cup on the BBC this weekend]]></title>
-            <description><![CDATA[Our Ask Me Anything experts explain how to follow the FA Cup first round on TV and radio this weekend.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/c3lyl52j0vg4o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c3lyl52j0vg4o#1</guid>
-            <pubDate>Fri, 06 Nov 2026 07:47:46 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a50/live/eb177540-d6af-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
             <title><![CDATA[Six tournaments, 11 goals - Ronaldo's World Cup legacy ]]></title>
@@ -159,6 +159,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/c680zn5y19lgo#2</guid>
             <pubDate>Mon, 02 Nov 2026 23:01:13 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f84/live/1a2cfac0-d710-11f1-b441-2b33b063138f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How to follow the FA Cup on the BBC this weekend]]></title>
+            <description><![CDATA[Our Ask Me Anything experts explain how to follow the FA Cup first round on TV and radio this weekend.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/c3lyl52j0vg4o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c3lyl52j0vg4o#3</guid>
+            <pubDate>Fri, 06 Nov 2026 07:47:46 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a50/live/eb177540-d6af-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
             <title><![CDATA['He'll regret it' - the day Ferguson quit Aberdeen for Man Utd]]></title>
@@ -252,7 +260,7 @@
             <title><![CDATA[Everton's Grealish unavailable again after 'breach of discipline']]></title>
             <description><![CDATA[Jack Grealish remains unavailable for Everton's Premier League clash with Coventry on Friday, manager David Moyes confirms.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cm79p020d9yvo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cm79p020d9yvo#5</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cm79p020d9yvo#6</guid>
             <pubDate>Thu, 05 Nov 2026 15:28:37 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c782/live/445b20c0-d92b-11f1-b441-2b33b063138f.jpg"/>
         </item>
@@ -303,14 +311,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmn9rwn7eyv4o#6</guid>
             <pubDate>Thu, 05 Nov 2026 13:03:43 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/244c/live/93c2f6f0-d913-11f1-a81d-35e942472442.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[How to follow the Premier League on the BBC this weekend]]></title>
-            <description><![CDATA[Our Ask Me Anything team explains how to follow matches from week 10 of the Premier League season on the BBC this weekend.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cp30ggvqj0do?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cp30ggvqj0do#6</guid>
-            <pubDate>Thu, 05 Nov 2026 12:14:33 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d644/live/e6e3eb50-d83c-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
             <title><![CDATA[Every goal from the Women's Super League - matchweek eight]]></title>
@@ -377,6 +377,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9010/live/2011c5a0-d61c-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
+            <title><![CDATA[How to follow the Premier League on the BBC this weekend]]></title>
+            <description><![CDATA[Our Ask Me Anything team explains how to follow matches from week 10 of the Premier League season on the BBC this weekend.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cp30ggvqj0do?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cp30ggvqj0do#10</guid>
+            <pubDate>Thu, 05 Nov 2026 12:14:33 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d644/live/e6e3eb50-d83c-11f1-a701-fddedf244c16.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Who has made Troy's Premier League team of the week?]]></title>
             <description><![CDATA[After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/c8dx37n11kv2o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -391,14 +399,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqx28zjxdxxzo#10</guid>
             <pubDate>Wed, 04 Nov 2026 16:12:46 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/37d4/live/9ead2680-d85a-11f1-a701-fddedf244c16.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Worst in the EFL - the team with a penalty problem]]></title>
-            <description><![CDATA[Newport County have scored just two from nine penalties across the past two seasons in all competitions, so what's going wrong?]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cred3pgyyl53o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cred3pgyyl53o#10</guid>
-            <pubDate>Mon, 02 Nov 2026 13:56:37 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e871/live/b312df70-d6b1-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
             <title><![CDATA['Most difficult days of my life' for Owono after De Miguel death]]></title>
