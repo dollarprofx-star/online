@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news/world</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 06 Nov 2026 11:31:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Nov 2026 12:33:32 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/world/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -35,8 +35,16 @@
             <description><![CDATA[One child and one young adult were killed in the crash, local authorities say, with more injured.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmly00l4p3lwo#0</guid>
-            <pubDate>Fri, 06 Nov 2026 11:21:20 GMT</pubDate>
+            <pubDate>Fri, 06 Nov 2026 12:27:33 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5740/live/92c81290-d9cb-11f1-bb8e-efaa31738708.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kenyan doomsday cult leader given life sentence for murdering 191 people]]></title>
+            <description><![CDATA[Paul Mackenzie ordered his followers to starve their children to death in a forest so they could "meet Jesus".]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cm5yne5984l0o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm5yne5984l0o#0</guid>
+            <pubDate>Fri, 06 Nov 2026 12:19:41 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/819f/live/03fb9610-d857-11f1-8ac8-af8395a95d7d.jpg"/>
         </item>
         <item>
             <title><![CDATA[Pope begins lengthy trip to Latin America weeks after lung cancer surgery]]></title>
@@ -47,20 +55,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d5f5/live/a7b86be0-d96d-11f1-9fd0-cdf612d1539f.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Major construction ongoing near Iran missile bases, satellite images suggest]]></title>
-            <description><![CDATA[Evidence of digging and new buildings are visible in satellite imagery taken in November, satellite images suggest. ]]></description>
-            <link>https://www.bbc.co.uk/news/articles/ckjrwx1r2d5ro?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckjrwx1r2d5ro#0</guid>
-            <pubDate>Fri, 06 Nov 2026 07:33:41 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5589/live/461d3e00-d879-11f1-b441-2b33b063138f.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Tanzanian opposition leader found guilty of inciting unrest but acquitted of treason]]></title>
             <description><![CDATA[The 58-year-old, who has been detained since April last year, says the charges are politically motivated.]]></description>
             <link>https://www.bbc.co.uk/news/articles/ckp8g4pm0y4lo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckp8g4pm0y4lo#0</guid>
-            <pubDate>Fri, 06 Nov 2026 10:57:30 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c804/live/6a70d320-d8e7-11f1-8a29-751f921d505b.jpg"/>
+            <pubDate>Fri, 06 Nov 2026 11:36:14 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7bed/live/8fde0dd0-d9d2-11f1-9e5a-c30c5e3d8c85.jpg"/>
         </item>
         <item>
             <title><![CDATA[Elon Musk appears to signal the end of the road for Cybertruck]]></title>
@@ -77,6 +77,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c977ppnezep6o#1</guid>
             <pubDate>Fri, 06 Nov 2026 08:18:10 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/679b/live/77438af0-d9b1-11f1-bbc7-9574ed12e2df.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Major construction ongoing near Iran missile bases, satellite images suggest]]></title>
+            <description><![CDATA[Evidence of digging and new buildings are visible in satellite imagery taken in November, satellite images suggest. ]]></description>
+            <link>https://www.bbc.co.uk/news/articles/ckjrwx1r2d5ro?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckjrwx1r2d5ro#1</guid>
+            <pubDate>Fri, 06 Nov 2026 07:33:41 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5589/live/461d3e00-d879-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
             <title><![CDATA[California governor commutes sentences for state's 548 death row inmates]]></title>
