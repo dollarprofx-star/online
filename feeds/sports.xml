@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/sport/football</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 06 Nov 2026 08:37:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Nov 2026 09:35:53 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -79,14 +79,6 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c7d1/live/c26e86a0-d82c-11f1-be97-417dbcdedd32.png"/>
         </item>
         <item>
-            <title><![CDATA[Forest need balance between Woodstock and military - Glasner]]></title>
-            <description><![CDATA[Oliver Glasner insists his Nottingham Forest side cannot survive on "flower power" as he tries to strike a balance between trust and respect at the club.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cwg5jj6nvmnyo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cwg5jj6nvmnyo#0</guid>
-            <pubDate>Thu, 05 Nov 2026 22:30:07 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a7ea/live/40bb5860-d965-11f1-a701-fddedf244c16.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Deschamps not interested in Man Utd job - Friday's gossip]]></title>
             <description><![CDATA[Didier Deschamps is not interested in becoming Manchester United's manager, Arsenal are interested in Club Brugge striker Nicolo Tresoldi, plus more.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/c9rky3g7e8zro?at_medium=RSS&amp;at_campaign=rss</link>
@@ -103,20 +95,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"/>
         </item>
         <item>
+            <title><![CDATA[Forest need balance between Woodstock and military - Glasner]]></title>
+            <description><![CDATA[Oliver Glasner insists his Nottingham Forest side cannot survive on "flower power" as he tries to strike a balance between trust and respect at the club.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cwg5jj6nvmnyo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cwg5jj6nvmnyo#1</guid>
+            <pubDate>Thu, 05 Nov 2026 22:30:07 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a7ea/live/40bb5860-d965-11f1-a701-fddedf244c16.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[What new Kane deal means for England and the Premier League record]]></title>
             <description><![CDATA[Harry Kane's new deal at Bayern Munich may end his Premier League career but offers fresh hope he can lead England to glory, writes Phil McNulty.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cm93zvzzl33zo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cm93zvzzl33zo#1</guid>
             <pubDate>Thu, 05 Nov 2026 14:44:34 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2669/live/3768f3a0-d91d-11f1-ad94-e17fee4cd332.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Keep or sell Konsa? - FPL gameweek 10 dilemmas]]></title>
-            <description><![CDATA[BBC Sport's Fantasy Premier League expert FPL Heisenberg gives his answers to some of the biggest dilemmas facing managers in gameweek 10.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cm4g112qp051o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cm4g112qp051o#1</guid>
-            <pubDate>Thu, 05 Nov 2026 22:26:23 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa5b/live/fcfa5550-d963-11f1-b441-2b33b063138f.png"/>
         </item>
         <item>
             <title><![CDATA[How to follow the FA Cup on the BBC this weekend]]></title>
@@ -177,6 +169,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/726a/live/19839f00-d90b-11f1-b72c-d16cdc75f35f.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Keep or sell Konsa? - FPL gameweek 10 dilemmas]]></title>
+            <description><![CDATA[BBC Sport's Fantasy Premier League expert FPL Heisenberg gives his answers to some of the biggest dilemmas facing managers in gameweek 10.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cm4g112qp051o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cm4g112qp051o#3</guid>
+            <pubDate>Thu, 05 Nov 2026 22:26:23 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa5b/live/fcfa5550-d963-11f1-b441-2b33b063138f.png"/>
+        </item>
+        <item>
             <title><![CDATA[Ronaldo's most iconic moments as he retires from international football]]></title>
             <description><![CDATA[BBC Sport looks at some of the most iconic moments from the career of Cristiano Ronaldo as he retires from international football.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cew197l8l17o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -204,7 +204,7 @@
             <title><![CDATA['A void that is impossible to fill' - tributes paid at De Miguel funeral]]></title>
             <description><![CDATA[Jesus de Miguel's family say "the mark he has left on so many people" is something they will always remember as the footballer's funeral takes place in Spain.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cr62y4yj39veo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cr62y4yj39veo#3</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cr62y4yj39veo#5</guid>
             <pubDate>Thu, 05 Nov 2026 16:12:37 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7822/live/4d543600-d933-11f1-8bce-2396c9c50357.jpg"/>
         </item>
@@ -249,14 +249,6 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bea4/live/df3f4350-569f-11f1-82a8-f7509e7dd289.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Japan's Tashima to stand against Infantino for Fifa presidency]]></title>
-            <description><![CDATA[Japan's Kozo Tashima has announced his candidacy for Fifa's upcoming presidential election.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cwvgdyd80g9do?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cwvgdyd80g9do#5</guid>
-            <pubDate>Thu, 05 Nov 2026 12:55:13 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e88/live/38577680-d916-11f1-a81d-35e942472442.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Everton's Grealish unavailable again after 'breach of discipline']]></title>
             <description><![CDATA[Jack Grealish remains unavailable for Everton's Premier League clash with Coventry on Friday, manager David Moyes confirms.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cm79p020d9yvo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -265,12 +257,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c782/live/445b20c0-d92b-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
-            <title><![CDATA[A must pick or unreliable? Tuchel's Palmer dilemma]]></title>
-            <description><![CDATA[Will Thomas Tuchel pick Cole Palmer for his next England squad as the competition to be England's number 10 continues.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/c65yne3912jeo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c65yne3912jeo#6</guid>
-            <pubDate>Thu, 05 Nov 2026 07:17:20 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e2fd/live/76eb2240-d6b2-11f1-aacc-5b5f23abff4b.jpg"/>
+            <title><![CDATA[Japan's Tashima to stand against Infantino for Fifa presidency]]></title>
+            <description><![CDATA[Japan's Kozo Tashima has announced his candidacy for Fifa's upcoming presidential election.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cwvgdyd80g9do?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cwvgdyd80g9do#6</guid>
+            <pubDate>Thu, 05 Nov 2026 12:55:13 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e88/live/38577680-d916-11f1-a81d-35e942472442.jpg"/>
         </item>
         <item>
             <title><![CDATA[Football Daily]]></title>
@@ -281,7 +273,7 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0pldj09.jpg"/>
         </item>
         <item>
-            <title><![CDATA[English female coach Kaminski reaping rewards in Norway ]]></title>
+            <title><![CDATA[More than 60 flights in 11 months and away games in the Arctic Circle]]></title>
             <description><![CDATA[English manager Laura Kaminski has won the Norwegian league and cup double - so will that open doors in her coaching career?]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cwm23qg6qy78o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cwm23qg6qy78o#6</guid>
@@ -526,7 +518,7 @@
             <link>https://www.bbc.co.uk/sounds/play/p0pll0yb?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0pll0yb#16</guid>
             <pubDate>Fri, 06 Nov 2026 08:00:00 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0pll3p5.jpg"/>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0pll46p.jpg"/>
         </item>
         <item>
             <title><![CDATA[Goodwin keen but realistic over Cameron move - gossip]]></title>
@@ -561,7 +553,7 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44c9/live/16f59790-d8ff-11f1-b441-2b33b063138f.png"/>
         </item>
         <item>
-            <title><![CDATA[English female coach Kaminski reaping rewards in Norway ]]></title>
+            <title><![CDATA[More than 60 flights in 11 months and away games in the Arctic Circle]]></title>
             <description><![CDATA[English manager Laura Kaminski has won the Norwegian league and cup double - so will that open doors in her coaching career?]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cwm23qg6qy78o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cwm23qg6qy78o#17</guid>
