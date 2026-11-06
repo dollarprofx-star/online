@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 06 Nov 2026 22:28:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Nov 2026 23:10:01 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -63,14 +63,6 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2978/live/7451bc60-da18-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Watch: Is it the end of the road for Tesla's Cybertruck?]]></title>
-            <description><![CDATA[The car company's CEO Elon Musk has said production will halt in Texas, to focus on the firm's self-driving Cybercabs.]]></description>
-            <link>https://www.bbc.co.uk/news/videos/cv8ezz9ll7nyo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cv8ezz9ll7nyo#1</guid>
-            <pubDate>Fri, 06 Nov 2026 15:02:03 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fbf/live/c3a237d0-d9f1-11f1-bb10-cdca6001fbcf.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Child, 6, dies weeks after Waterford arson attack]]></title>
             <description><![CDATA[The attack happened last month at the family home on the outskirts of Waterford in the Republic of Ireland.
 
@@ -79,6 +71,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c62e99vm8ll7o#1</guid>
             <pubDate>Fri, 06 Nov 2026 21:53:38 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc8a/live/6921a380-c8a4-11f1-929c-0b57deb4f9df.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Is it the end of the road for Tesla's Cybertruck?]]></title>
+            <description><![CDATA[The car company's CEO Elon Musk has said production will halt in Texas, to focus on the firm's self-driving Cybercabs.]]></description>
+            <link>https://www.bbc.co.uk/news/videos/cv8ezz9ll7nyo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cv8ezz9ll7nyo#1</guid>
+            <pubDate>Fri, 06 Nov 2026 15:02:03 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fbf/live/c3a237d0-d9f1-11f1-bb10-cdca6001fbcf.jpg"/>
         </item>
         <item>
             <title><![CDATA[Manhunt after boy injured by sword, sparking Gloucester school lockdowns]]></title>
@@ -177,12 +177,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f23/live/39514eb0-d9f9-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Man investigated for leaving 17-year-old on Germany's highest mountain]]></title>
-            <description><![CDATA[The teenager was eventually rescued on Zugspitze and has since been discharged from hospital.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/ckx2dd91vz51o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckx2dd91vz51o#5</guid>
-            <pubDate>Fri, 06 Nov 2026 12:31:34 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a16/live/dd2f48f0-d9ce-11f1-9e5a-c30c5e3d8c85.jpg"/>
+            <title><![CDATA[Man, 35, charged with murder of Carrie Mullane ]]></title>
+            <description><![CDATA[Police say the last confirmed sighting of Carrie Mullane (Noonan) was on 10 October when she left Limerick to travel to Enniskillen.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c54g11430n7ro?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c54g11430n7ro#5</guid>
+            <pubDate>Fri, 06 Nov 2026 22:30:07 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e1d/live/6081d030-d7a2-11f1-b441-2b33b063138f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Cornell faculty pass no confidence vote over leadership's handling of Jane Doe allegations]]></title>
+            <description><![CDATA[Friday's resolution by academic staff is largely symbolic as they do not have the power to remove those in charge of the university.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c933xxl8yv0go?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c933xxl8yv0go#5</guid>
+            <pubDate>Fri, 06 Nov 2026 22:28:39 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4fd6/live/ad29b050-da2d-11f1-ab60-69d917fc430c.jpg"/>
         </item>
         <item>
             <title><![CDATA[Firms should publish salaries in job adverts ahead of new law, says PM]]></title>
@@ -191,6 +199,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmd9343z3zw2o#5</guid>
             <pubDate>Fri, 06 Nov 2026 15:25:43 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04d2/live/40c46130-d9f6-11f1-a701-fddedf244c16.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Man investigated for leaving 17-year-old on Germany's highest mountain]]></title>
+            <description><![CDATA[The teenager was eventually rescued on Zugspitze and has since been discharged from hospital.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/ckx2dd91vz51o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckx2dd91vz51o#5</guid>
+            <pubDate>Fri, 06 Nov 2026 12:31:34 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a16/live/dd2f48f0-d9ce-11f1-9e5a-c30c5e3d8c85.jpg"/>
         </item>
         <item>
             <title><![CDATA[Two dead after bus crashes in France, officials say]]></title>
@@ -257,12 +273,28 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/511a/live/712d8810-da0f-11f1-bbd1-cf41b7fd4e9b.jpg"/>
         </item>
         <item>
-            <title><![CDATA[England secure group top spot with Ireland win]]></title>
-            <description><![CDATA[England beat Ireland 68-32 to secure top spot in Pool A and book their place in the Wheelchair Rugby League World Cup semi-finals. They will face co-hosts Australia on Tuesday, after completing the group stage with a 100% record.]]></description>
-            <link>https://www.bbc.co.uk/sport/rugby-league/videos/cxly441nej84o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/rugby-league/videos/cxly441nej84o#9</guid>
-            <pubDate>Fri, 06 Nov 2026 13:42:25 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b15a/live/7ca6ef20-d9e1-11f1-93e1-3b657b665bcf.jpg"/>
+            <title><![CDATA[Keenan hat-trick as six-try Ireland beat Pumas]]></title>
+            <description><![CDATA[Hugo Keenan scores a hat-trick of tries as Ireland open the home leg of the Nations Championship with a commanding bonus-point win over Argentina in Dublin.]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-union/articles/cmgellz7dn52o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/rugby-union/articles/cmgellz7dn52o#9</guid>
+            <pubDate>Fri, 06 Nov 2026 22:06:12 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/300c/live/abdf7280-da2c-11f1-ab60-69d917fc430c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Barry scores twice as Everton fight back to beat Coventry]]></title>
+            <description><![CDATA[In-form Thierno Barry scores twice as Everton came from behind to beat Coventry as the Toffees move into fifth in the Premier League table.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/videos/c62l44geqvlyo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/c62l44geqvlyo#9</guid>
+            <pubDate>Fri, 06 Nov 2026 22:30:12 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e94/live/6dde44f0-da2e-11f1-a701-fddedf244c16.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[WTA chair apologises to Pegula for airing of 'diva' comment]]></title>
+            <description><![CDATA[WTA chair Valerie Camillo apologises to Jessica Pegula after her "diva" comment about Mirra Andreeva was live-streamed.]]></description>
+            <link>https://www.bbc.co.uk/sport/tennis/articles/ckpdgg87ye3po?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/ckpdgg87ye3po#9</guid>
+            <pubDate>Fri, 06 Nov 2026 22:28:43 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c9fc/live/18726650-da2d-11f1-ab60-69d917fc430c.jpg"/>
         </item>
         <item>
             <title><![CDATA[Is Palmer's England career over under Tuchel?]]></title>
@@ -271,14 +303,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c9e8ll62rp68o#9</guid>
             <pubDate>Fri, 06 Nov 2026 16:30:03 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bce3/live/a576c690-d9ec-11f1-bbe5-797ee05bee69.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Player-coach rift report will only galvanise England - George]]></title>
-            <description><![CDATA[England hooker Jamie George says the squad are "really upset" by a newspaper article claiming the end of their summer tour was marked by player unrest over Steve Borthwick's leadership.]]></description>
-            <link>https://www.bbc.co.uk/sport/rugby-union/articles/cmx2qqyz4p1po?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/rugby-union/articles/cmx2qqyz4p1po#9</guid>
-            <pubDate>Fri, 06 Nov 2026 18:30:57 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20db/live/d8475e40-da0a-11f1-bbd1-cf41b7fd4e9b.jpg"/>
         </item>
     </channel>
 </rss>

@@ -5,7 +5,7 @@
         <atom:link href="https://rss.punchng.com" rel="self" type="application/rss+xml" />
         <link> https://rss.punchng.com </link>
         <description> Get the latest News in Nigeria </description>
-        <lastBuildDate> Fri, 06 Nov 2026 22:25:21 +0000</lastBuildDate>
+        <lastBuildDate> Fri, 06 Nov 2026 23:05:28 +0000</lastBuildDate>
         <language> en-US </language>
         <sy:updatePeriod> minutely	</sy:updatePeriod>
         <sy:updateFrequency> 5	</sy:updateFrequency>
@@ -13,6 +13,20 @@
         <generator>https://rss.punchng.com</generator>
 
         <item>
+                        <title>EPL: Everton beat Coventry 3-1, climb fifth</title>
+                        <link>https://punchng.com/epl-everton-beat-coventry-3-1-climb-fifth/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
+                        <pubDate>Fri, 06 Nov 2026 23:26:39 +0000</pubDate>
+                        <dc:creator><![CDATA[Punch Newspapers]]></dc:creator>
+                        <category><![CDATA[]]></category>
+                        <guid isPermaLink='true'>https://punchng.com/epl-everton-beat-coventry-3-1-climb-fifth/?utm_source=rss.punchng.com&amp;utm_medium=web</guid>
+                        <description><![CDATA[
+
+Thierno Barry extended his red-hot streak with a double as Everton beat Coventry 3-1 to climb into fifth place in the Premier League on Friday. David Moyes&#8217;s side trailed to Yann Gboho&#8217;s goal early in the second half at the Hill Dickinson Stadium.
+
+Read More: https://punchng.com/epl-everton-beat-coventry-3-1-climb-fifth/]]></description>
+                        <enclosure url='https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png' length='342247' type='image/png'/>
+                    </item>
+                    <item>
                         <title>I&#8217;ve received no Nollywood royalties in 30 years — Omotola Jalade-Ekeinde</title>
                         <link>https://punchng.com/ive-received-no-nollywood-royalties-in-30-years-omotola-jalade-ekeinde/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
                         <pubDate>Fri, 06 Nov 2026 23:18:18 +0000</pubDate>
@@ -416,20 +430,6 @@ Read More: https://punchng.com/okpebholo-donates-n10m-for-edo-corps-members-feed
 Bilateral trade between Nigeria and the United Kingdom has risen to £7.3bn, reflecting growing economic ties between both countries, the British High Commission has said.
 
 Read More: https://punchng.com/nigeria-uk-trade-hits-7-3bn-british-envoy/]]></description>
-                        <enclosure url='https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png' length='342247' type='image/png'/>
-                    </item>
-                    <item>
-                        <title>Power crisis: Jigawa NYSC seeks 250kVA generator for orientation camp</title>
-                        <link>https://punchng.com/power-crisis-jigawa-nysc-seeks-250kva-generator-for-orientation-camp/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
-                        <pubDate>Fri, 06 Nov 2026 19:04:11 +0000</pubDate>
-                        <dc:creator><![CDATA[Punch Newspapers]]></dc:creator>
-                        <category><![CDATA[]]></category>
-                        <guid isPermaLink='true'>https://punchng.com/power-crisis-jigawa-nysc-seeks-250kva-generator-for-orientation-camp/?utm_source=rss.punchng.com&amp;utm_medium=web</guid>
-                        <description><![CDATA[
-
-The National Youth Service Corps in Jigawa State has commended Governor Umar Namadi for fulfilling promises made to the scheme while renewing its appeal for the provision of a promised 250KVA…
-
-Read More: https://punchng.com/power-crisis-jigawa-nysc-seeks-250kva-generator-for-orientation-camp/]]></description>
                         <enclosure url='https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png' length='342247' type='image/png'/>
                     </item>
                         </channel>
