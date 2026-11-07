@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 07 Nov 2026 15:03:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Nov 2026 15:44:18 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -19,7 +19,7 @@
             <description><![CDATA[The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules "a la carte".]]></description>
             <link>https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c9kgjj206nzpo#1</guid>
-            <pubDate>Sat, 07 Nov 2026 13:02:21 GMT</pubDate>
+            <pubDate>Sat, 07 Nov 2026 15:19:35 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44f1/live/699ff730-daab-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
@@ -32,10 +32,10 @@
         </item>
         <item>
             <title><![CDATA[Two men arrested after boy injured in sword attack]]></title>
-            <description><![CDATA[Police say a 17-year-old suffered a wound "believed to have been caused by a sword" in Gloucester on Friday.]]></description>
+            <description><![CDATA[A 17-year-old boy from Gloucester has also been arrested on suspicion of assisting an offender.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cmwy99yzd0v9o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmwy99yzd0v9o#1</guid>
-            <pubDate>Sat, 07 Nov 2026 10:38:21 GMT</pubDate>
+            <pubDate>Sat, 07 Nov 2026 15:10:54 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/acd6/live/c7e3b830-da98-11f1-8206-e519d24a9ca2.png"/>
         </item>
         <item>
@@ -53,14 +53,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c3ewev11g1e0o#1</guid>
             <pubDate>Sat, 07 Nov 2026 15:00:10 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3578/live/a76cb0d0-dab5-11f1-a701-fddedf244c16.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Russian strikes wound nine and damage Ukraine's power network ahead of talks]]></title>
-            <description><![CDATA[The attacks come before Ukrainian and Russian delegations are due to take part in trilateral talks in Abu Dhabi next week.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm4g1nq8158po#1</guid>
-            <pubDate>Sat, 07 Nov 2026 12:49:36 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0554/live/2786bc40-daa0-11f1-a523-f508a3e924cb.jpg"/>
         </item>
         <item>
             <title><![CDATA[Monty Don bids 'final goodbye' to Gardeners' World after two decades]]></title>
@@ -103,6 +95,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b60f/live/e776f170-da8a-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Russian strikes wound nine and damage Ukraine's power network ahead of talks]]></title>
+            <description><![CDATA[The attacks come before Ukrainian and Russian delegations are due to take part in trilateral talks in Abu Dhabi next week.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm4g1nq8158po#3</guid>
+            <pubDate>Sat, 07 Nov 2026 12:49:36 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0554/live/2786bc40-daa0-11f1-a523-f508a3e924cb.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[With Stephen Miller pick as new chief of staff, Trump readies for a battle]]></title>
             <description><![CDATA[The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress. ]]></description>
             <link>https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&amp;at_campaign=rss</link>
@@ -111,28 +111,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/492d/live/41326240-da17-11f1-bba7-b50f1faa7672.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Meghan's father Thomas Markle under house arrest after child sex abuse material charge]]></title>
-            <description><![CDATA[The 82-year-old appeared in court in Florida after the FBI searched two Los Angeles-area storage units he rented.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo#3</guid>
-            <pubDate>Sat, 07 Nov 2026 07:27:44 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97ed/live/4b09f660-da7c-11f1-a975-15a4138f9d40.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Boy, 4, dies after Range Rover crashes on country road]]></title>
-            <description><![CDATA[A 28-year-old man was driving the car when it crashed near Bathgate in West Lothian.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cr3ellge7qwjo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cr3ellge7qwjo#3</guid>
-            <pubDate>Sat, 07 Nov 2026 08:45:15 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ed5/live/f7ff2350-daa8-11f1-9da2-b11e4d68c08e.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Paraguay's president impeached after collapse of bank]]></title>
-            <description><![CDATA[Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o#3</guid>
-            <pubDate>Sat, 07 Nov 2026 07:20:00 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a65d/live/3fe15d20-da57-11f1-af22-a97b84c9ca63.jpg"/>
+            <title><![CDATA[Baxters fish soup cans recalled over fears they could 'swell and potentially rupture']]></title>
+            <description><![CDATA[A manufacturing fault could cause a batch of the Cullen Skink soup to spoil, and cans could swell and burst.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cm2l4590188ro?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm2l4590188ro#3</guid>
+            <pubDate>Sat, 07 Nov 2026 14:28:40 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a6b/live/1dd78550-dab7-11f1-8c3b-f3c0d6bd7c4f.jpg"/>
         </item>
         <item>
             <title><![CDATA[Knicks defend Taylor Swift after players name her 'fakest celebrity fan']]></title>
@@ -151,20 +135,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f16/live/79fab150-d764-11f1-a956-ff083523ef77.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Knitalian: Artist uses yarn to create Italian deli]]></title>
-            <description><![CDATA[From spaghetti to Parma ham, everything at a new Soho exhibition is knitted, crocheted or embroidered.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cvze4zy3ng10o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cvze4zy3ng10o#4</guid>
-            <pubDate>Thu, 05 Nov 2026 05:58:21 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f543/live/75a06090-d864-11f1-a701-fddedf244c16.jpg"/>
+            <title><![CDATA[How computer game Worms went from classroom to classic ]]></title>
+            <description><![CDATA[Creator Andy Davidson speaks to the BBC about how he created a game that sold 70 million copies.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cmp8gd6l03g3o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmp8gd6l03g3o#4</guid>
+            <pubDate>Fri, 06 Nov 2026 06:21:21 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e0a/live/89f1c130-d9bb-11f1-88eb-21fbf261176d.png"/>
         </item>
         <item>
-            <title><![CDATA[From scooters to shampoo - the people saving hundreds from dumpster diving]]></title>
-            <description><![CDATA[The men and women who rummage through commercial bins to take clothes and other items.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cm86zdp2ygqno?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm86zdp2ygqno#4</guid>
-            <pubDate>Tue, 03 Nov 2026 07:50:14 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb7f/live/0436c4d0-d75b-11f1-b441-2b33b063138f.jpg"/>
+            <title><![CDATA[Crochet novices create cascading poppy memorial]]></title>
+            <description><![CDATA[The friends took up crocheting a year ago before getting the whole village involved.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c6d7qwr12eg4o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6d7qwr12eg4o#4</guid>
+            <pubDate>Sun, 01 Nov 2026 12:47:32 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b992/live/7ebb0dc0-dac0-11f1-b441-2b33b063138f.png"/>
         </item>
         <item>
             <title><![CDATA[New pictures released ahead of The Other Bennet Sister Christmas special]]></title>
