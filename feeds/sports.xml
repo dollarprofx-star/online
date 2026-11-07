@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/sport/football</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 07 Nov 2026 20:13:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Nov 2026 20:49:15 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -175,6 +175,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7fce/live/948e65e0-dad7-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Maresca looking to understand Man City's 'lack of intensity']]></title>
+            <description><![CDATA[Enzo Maresca feels his side "lacked intensity" as Manchester City suffered their third Premier League defeat in a row, losing 3-1 to Nottingham Forest at the City Ground. ]]></description>
+            <link>https://www.bbc.co.uk/sport/football/videos/cmly0d6r6pggo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cmly0d6r6pggo#6</guid>
+            <pubDate>Sat, 07 Nov 2026 20:42:23 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2493/live/ae3a8830-daea-11f1-93e1-3b657b665bcf.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Bates double earns Dover upset win over Wealdstone]]></title>
             <description><![CDATA[Jack Bates' first-half brace gives National League South side Dover Athletic a 2-0 win over the National League's Wealdstone in the first round of the FA Cup.]]></description>
             <link>https://www.bbc.co.uk/sport/football/videos/cwvg027v5e5yo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -189,14 +197,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cmz98dpl3vjgo#6</guid>
             <pubDate>Sat, 07 Nov 2026 18:35:49 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/974c/live/c35cbec0-dabf-11f1-93e1-3b657b665bcf.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Salisbury put six past Sholing to advance to second round]]></title>
-            <description><![CDATA[National League South side Salisbury put six past Southern Premier League South club Sholing to advance to the second round of the FA Cup for the first time in their history. ]]></description>
-            <link>https://www.bbc.co.uk/sport/football/videos/c6jrwe4q1le1o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/c6jrwe4q1le1o#6</guid>
-            <pubDate>Sat, 07 Nov 2026 17:39:21 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8262/live/394015f0-dad0-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
             <title><![CDATA[I left Man City for my mental wellbeing - Trafford]]></title>
