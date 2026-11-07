@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/sport/football</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 07 Nov 2026 23:15:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Nov 2026 23:57:04 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -127,6 +127,14 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84ec/live/ac5b64c0-dae6-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
+            <title><![CDATA[York score after 10 seconds against Northampton following unique kick-off]]></title>
+            <description><![CDATA[Ollie Pearce scores after 10 seconds as York City see off Northampton Town in a 4-0  win to reach the second round of the FA Cup.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/videos/c893zrl4p7npo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/c893zrl4p7npo#2</guid>
+            <pubDate>Sat, 07 Nov 2026 23:38:38 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a54/live/c702b650-db01-11f1-a701-fddedf244c16.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Notts County beat Altrincham in incredible fog-filled spectacle ]]></title>
             <description><![CDATA[Notts County find a way to get past National League Altrincham in incredible conditions.]]></description>
             <link>https://www.bbc.co.uk/sport/football/videos/cq77p24myz4ro?at_medium=RSS&amp;at_campaign=rss</link>
@@ -159,14 +167,6 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/25c4/live/f37426e0-dafe-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Bowler's extra-time winner for Blackpool sinks 10-man Hornchurch]]></title>
-            <description><![CDATA[Blackpool survive a scare at Hornchurch, needing a 118th-minute winner from Josh Bowler to secure a 2-1 comeback victory at the Hornchurch Stadium.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/videos/cqm26j0x2xzlo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cqm26j0x2xzlo#2</guid>
-            <pubDate>Sat, 07 Nov 2026 18:11:12 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1349/live/3bebbbb0-dad5-11f1-a701-fddedf244c16.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Argentina set to go to Cas after Fifa rejects appeals]]></title>
             <description><![CDATA[The Argentina Football Association says it is planning to go to the Court of Arbitration for Sport over Fifa rejecting its appeals against World Cup punishments.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/crn4ekzyz8jlo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -183,6 +183,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05de/live/79243450-dace-11f1-bda8-29fb69dbc026.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Bowler's extra-time winner for Blackpool sinks 10-man Hornchurch]]></title>
+            <description><![CDATA[Blackpool survive a scare at Hornchurch, needing a 118th-minute winner from Josh Bowler to secure a 2-1 comeback victory at the Hornchurch Stadium.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/videos/cqm26j0x2xzlo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cqm26j0x2xzlo#6</guid>
+            <pubDate>Sat, 07 Nov 2026 18:11:12 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1349/live/3bebbbb0-dad5-11f1-a701-fddedf244c16.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Randall's last-gasp winner sends Chesterfield past Yeovil in seven-goal thriller]]></title>
             <description><![CDATA[Chesterfield fend off a Yeovil Town second-half fightback before scoring a late winner to secure a 4-3 victory in the first round of the FA Cup.
 
@@ -194,44 +202,36 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2157/live/cb33cbf0-daf8-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Port Vale defeat non-league Scunthorpe in FA Cup ]]></title>
-            <description><![CDATA[Last season's quarter-finalists Port Vale book their place in the FA Cup second round with victory over National League side Scunthorpe United at Vale Park.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/videos/cm78p29vp706o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cm78p29vp706o#6</guid>
-            <pubDate>Sat, 07 Nov 2026 21:53:36 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61e2/live/fda330a0-daf1-11f1-b441-2b33b063138f.jpg"/>
+            <title><![CDATA[Non-league Barrow beat League Two Gillingham with injury-time winner]]></title>
+            <description><![CDATA[Innes Cameron's 92nd minute goal sends National League side Barrow into the second round of the FA Cup, as they snatch a 1-0 victory at Gillingham.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/videos/cm5yn1xqv686o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cm5yn1xqv686o#6</guid>
+            <pubDate>Sat, 07 Nov 2026 23:15:30 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31db/live/3a5d9310-db00-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Rotherham end 10-game losing run with FA Cup win over Bromley ]]></title>
-            <description><![CDATA[Goals from Sonny Aljofree and Tom Bradshaw earn Rotherham a 2-0 victory over Bromley in the FA Cup first round.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/videos/cm93zr7lnqvko?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cm93zr7lnqvko#6</guid>
-            <pubDate>Sat, 07 Nov 2026 22:19:46 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c81/live/8c7b1590-daf7-11f1-b441-2b33b063138f.jpg"/>
+            <title><![CDATA[Wilshere's Luton into round two after win against Forest Green]]></title>
+            <description><![CDATA[Luton navigate their way into the FA Cup second round after seeing off National League side Forest Green Rovers 2-0 at Kenilworth Road.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/videos/cmlyl724508eo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cmlyl724508eo#6</guid>
+            <pubDate>Sat, 07 Nov 2026 23:44:28 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99e7/live/76a716d0-db04-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Shaw hat-trick gives five-star Man City dominant win over West Ham]]></title>
-            <description><![CDATA[Khadija Shaw's first Women's Super League hat-trick of the season helps Manchester City to a resounding 5-0 win over West Ham, as the reigning champions return to the top of the WSL table.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/videos/cqlyek7wpnl0o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cqlyek7wpnl0o#6</guid>
-            <pubDate>Sat, 07 Nov 2026 18:35:43 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/00cb/live/8640e3f0-dac8-11f1-93e1-3b657b665bcf.jpg"/>
+            <title><![CDATA[Pearce double fires York City past Northampton Town]]></title>
+            <description><![CDATA[York City captain Ollie Pearce scores after just 10 seconds followed by a second in the 13th minute, as his side cruise to a 4-0 FA Cup first round win at home to Northampton.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/videos/cqj34km75eydo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cqj34km75eydo#6</guid>
+            <pubDate>Sat, 07 Nov 2026 23:18:46 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d501/live/e7dfb730-daff-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
-            <title><![CDATA[National League Carlisle upset League Two leaders Salford]]></title>
-            <description><![CDATA[National League side Carlisle United defeat League Two leaders Salford City 1-0 to progress into the second round of the FA Cup.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/videos/cm1exw70d49po?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cm1exw70d49po#6</guid>
-            <pubDate>Sat, 07 Nov 2026 18:29:20 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26ab/live/9a9679e0-dad8-11f1-93e1-3b657b665bcf.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Maresca looking to understand Man City's 'lack of intensity']]></title>
-            <description><![CDATA[Enzo Maresca feels his side "lacked intensity" as Manchester City suffered their third Premier League defeat in a row, losing 3-1 to Nottingham Forest at the City Ground. ]]></description>
-            <link>https://www.bbc.co.uk/sport/football/videos/cmly0d6r6pggo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cmly0d6r6pggo#6</guid>
-            <pubDate>Sat, 07 Nov 2026 20:42:23 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2493/live/ae3a8830-daea-11f1-93e1-3b657b665bcf.jpg"/>
+            <title><![CDATA[Plymouth cruise past Alvechurch to reach FA Cup second round]]></title>
+            <description><![CDATA[League One Plymouth ease into the second round of the FA Cup second round with a 4-0 win against Southern League Premier Central side Alvechurch.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/videos/cwp9gdzj705lo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cwp9gdzj705lo#6</guid>
+            <pubDate>Sat, 07 Nov 2026 23:49:25 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/51d5/live/e8fd3850-db03-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
             <title><![CDATA[Okafor the difference despite Van Hecke defiance - Leeds v Spurs ratings]]></title>
@@ -413,8 +413,8 @@
         <item>
             <title><![CDATA[Watch Sportscene highlights of Saturday's Premiership action]]></title>
             <description><![CDATA[Action and reaction to Saturday's Scottish Premiership matches.]]></description>
-            <link>https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/iplayer/live/bbcone#17</guid>
+            <link>https://www.bbc.co.uk/iplayer/episode/m003465v?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/iplayer/episode/m003465v#17</guid>
             <pubDate>Sat, 07 Nov 2026 23:55:15 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0plvr9t.jpg"/>
         </item>
