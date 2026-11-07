@@ -9,11 +9,19 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 07 Nov 2026 12:55:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Nov 2026 13:41:22 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[UK cannot 'cherry pick' EU single market deal, Barnier tells BBC]]></title>
+            <description><![CDATA[The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules "a la carte".]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c9kgjj206nzpo#1</guid>
+            <pubDate>Sat, 07 Nov 2026 13:02:21 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44f1/live/699ff730-daab-11f1-93e1-3b657b665bcf.jpg"/>
+        </item>
         <item>
             <title><![CDATA[Victims in rape cases must not feel like they are on trial, Burnham says]]></title>
             <description><![CDATA[The PM was responding after a police chief said comments made during Russell Brand's trial came close to "victim blaming".]]></description>
@@ -39,12 +47,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0eec/live/692e5ed0-d9e9-11f1-bbe5-797ee05bee69.jpg"/>
         </item>
         <item>
-            <title><![CDATA[With Stephen Miller pick as new chief of staff, Trump readies for a battle]]></title>
-            <description><![CDATA[The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress. ]]></description>
-            <link>https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/crp3gg2z171go#1</guid>
-            <pubDate>Fri, 06 Nov 2026 23:24:15 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/492d/live/41326240-da17-11f1-bba7-b50f1faa7672.jpg"/>
+            <title><![CDATA[Ukraine's power network suffers further damage after fresh Russian strikes]]></title>
+            <description><![CDATA[The attacks come before Ukrainian and Russian delegations are due to take part in trilateral talks in Abu Dhabi next week.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm4g1nq8158po#1</guid>
+            <pubDate>Sat, 07 Nov 2026 12:49:36 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0554/live/2786bc40-daa0-11f1-a523-f508a3e924cb.jpg"/>
         </item>
         <item>
             <title><![CDATA[Monty Don bids 'final goodbye' to Gardeners' World after two decades]]></title>
@@ -53,14 +61,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6wyrrwj9xlro#1</guid>
             <pubDate>Sat, 07 Nov 2026 10:44:38 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8e7/live/d1af1d60-d9f7-11f1-84c1-dbcae60402d7.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Knicks defend Taylor Swift after players name her 'fakest celebrity fan']]></title>
-            <description><![CDATA[The pop superstar's appearances at NBA games were deemed "a little performative" by New York Knicks point guards Tyler Kolek and Miles McBride.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c6rmyymw1zz1o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6rmyymw1zz1o#1</guid>
-            <pubDate>Sat, 07 Nov 2026 10:09:07 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4450/live/950b9280-da92-11f1-8206-e519d24a9ca2.jpg"/>
         </item>
         <item>
             <title><![CDATA[Relief, tears and sadness: Married at First Sight UK cast react to show being axed]]></title>
@@ -95,12 +95,28 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b60f/live/e776f170-da8a-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
+            <title><![CDATA[With Stephen Miller pick as new chief of staff, Trump readies for a battle]]></title>
+            <description><![CDATA[The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress. ]]></description>
+            <link>https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/crp3gg2z171go#3</guid>
+            <pubDate>Fri, 06 Nov 2026 23:24:15 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/492d/live/41326240-da17-11f1-bba7-b50f1faa7672.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Meghan's father Thomas Markle under house arrest after child sex abuse material charge]]></title>
             <description><![CDATA[The 82-year-old appeared in court in Florida after the FBI searched two Los Angeles-area storage units he rented.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo#3</guid>
             <pubDate>Sat, 07 Nov 2026 07:27:44 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97ed/live/4b09f660-da7c-11f1-a975-15a4138f9d40.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Boy, 4, dies after Range Rover crashes on country road]]></title>
+            <description><![CDATA[A 28-year-old man was driving the car when it crashed near Bathgate in West Lothian.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cr3ellge7qwjo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cr3ellge7qwjo#3</guid>
+            <pubDate>Sat, 07 Nov 2026 08:45:15 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ed5/live/f7ff2350-daa8-11f1-9da2-b11e4d68c08e.jpg"/>
         </item>
         <item>
             <title><![CDATA[Paraguay's president impeached after collapse of bank]]></title>
@@ -111,36 +127,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a65d/live/3fe15d20-da57-11f1-af22-a97b84c9ca63.jpg"/>
         </item>
         <item>
-            <title><![CDATA[From young offender to resident doctor: 'I wrote a plan and stuck to it']]></title>
-            <description><![CDATA[Steven Beattie left Scotland's most violent prison 20 years ago vowing to turn his life around.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cm9qz9r8d9wlo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm9qz9r8d9wlo#3</guid>
-            <pubDate>Sat, 07 Nov 2026 09:23:39 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d5a1/live/faecd800-d9e5-11f1-93e1-3b657b665bcf.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pope in 'pretty good health' as he starts Latin America tour]]></title>
-            <description><![CDATA[Pope Leo travels to Uruguay just three weeks after having surgery for lung cancer.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c60e0001ve9wo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c60e0001ve9wo#3</guid>
-            <pubDate>Sat, 07 Nov 2026 06:59:48 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15d3/live/886b05a0-da75-11f1-85ad-fd31eff31154.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gladiator II stuntman sues over injuries from on-set explosion]]></title>
-            <description><![CDATA[Edward Sarsfield says he suffered "excruciating" burns while filming a scene on a burning ship.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/ck9dzwd85235o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ck9dzwd85235o#3</guid>
-            <pubDate>Sat, 07 Nov 2026 01:38:49 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93a3/live/d2421090-d9e1-11f1-bbe5-797ee05bee69.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Boy, 4, dies after Range Rover crashes on country road]]></title>
-            <description><![CDATA[A 28-year-old man was driving the car when it crashed near Bathgate in West Lothian.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cr3ellge7qwjo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cr3ellge7qwjo#3</guid>
-            <pubDate>Sat, 07 Nov 2026 08:45:15 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ed5/live/f7ff2350-daa8-11f1-9da2-b11e4d68c08e.jpg"/>
+            <title><![CDATA[Knicks defend Taylor Swift after players name her 'fakest celebrity fan']]></title>
+            <description><![CDATA[The pop superstar's appearances at NBA games were deemed "a little performative" by New York Knicks point guards Tyler Kolek and Miles McBride.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c6rmyymw1zz1o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6rmyymw1zz1o#3</guid>
+            <pubDate>Sat, 07 Nov 2026 13:03:57 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73dc/live/9f7d7c60-daab-11f1-9da2-b11e4d68c08e.jpg"/>
         </item>
         <item>
             <title><![CDATA[Secondary school teacher to crofter - life on the UK's most remote island]]></title>
@@ -208,28 +200,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bef3/live/6773ae50-da1c-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
+            <title><![CDATA[My dream is to win Ballon d'Or - Gabriel]]></title>
+            <description><![CDATA[Manchester United forward JJ Gabriel says his "dream is to win the Ballon d'Or", as he closes in on a move to Real Madrid.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cmy4x9yq3xg3o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmy4x9yq3xg3o#9</guid>
+            <pubDate>Sat, 07 Nov 2026 12:25:14 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a16/live/eaf4a7b0-daa4-11f1-9da2-b11e4d68c08e.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Whole Australia team knew of sandpaper use - Khawaja]]></title>
             <description><![CDATA[Usman Khawaja claims the entire Australia team knew about the use of sandpaper to tamper with the ball in the final Test of their 2018 series with South Africa.]]></description>
             <link>https://www.bbc.co.uk/sport/cricket/articles/cjdx33kyzk3lo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/cricket/articles/cjdx33kyzk3lo#9</guid>
             <pubDate>Fri, 06 Nov 2026 23:11:56 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7397/live/29b455a0-da27-11f1-a78c-49bd6dfbb9b5.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ponga-inspired New Zealand reach World Cup final]]></title>
-            <description><![CDATA[Kalyn Ponga returns from a broken arm to inspire New Zealand to victory in a pulsating encounter with Tonga as they reach their first World Cup final since 2013.]]></description>
-            <link>https://www.bbc.co.uk/sport/rugby-league/articles/cmvgx2e78xrro?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/rugby-league/articles/cmvgx2e78xrro#9</guid>
-            <pubDate>Sat, 07 Nov 2026 11:45:11 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/62e3/live/17b01dc0-da9b-11f1-a32a-3937f8587a2d.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Non-league's greatest giant-killers eye another scalp]]></title>
-            <description><![CDATA[Non-league Altrincham aim to make Notts County number 18 on their list of FA Cup scalps, and breathe new life into their tag of English football's ultimate giant-killers.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cqev332mv1lyo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqev332mv1lyo#9</guid>
-            <pubDate>Sat, 07 Nov 2026 06:45:56 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e68/live/669c60c0-d9d2-11f1-9e5a-c30c5e3d8c85.jpg"/>
         </item>
     </channel>
 </rss>

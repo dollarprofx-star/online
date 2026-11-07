@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/sport/football</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 07 Nov 2026 12:55:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Nov 2026 13:41:19 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -510,7 +510,7 @@
             <description><![CDATA[The most petty and ill-informed football show on radio.]]></description>
             <link>https://www.bbc.co.uk/sounds/play/live:bbc_radio_scotland_fm?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/live:bbc_radio_scotland_fm#16</guid>
-            <pubDate>Sat, 07 Nov 2026 14:00:00 GMT</pubDate>
+            <pubDate>Sat, 07 Nov 2026 13:30:00 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0d5ff0c.jpg"/>
         </item>
         <item>
@@ -520,6 +520,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6kg55rxxrzlo#16</guid>
             <pubDate>Sat, 07 Nov 2026 09:11:29 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c61a/live/efb2d560-da8b-11f1-a701-fddedf244c16.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Raith Rovers go top with Dunfermline draw]]></title>
+            <description><![CDATA[Watch highlights as Raith Rovers take over at the top of the Scottish Championship from Partick Thistle on goal difference, with visitors Dunfermline Athletic third on the same points as the Fife derby ends goalless.]]></description>
+            <link>https://www.bbc.co.uk/sport/videos/c3qjnnpr9xzno?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/videos/c3qjnnpr9xzno#16</guid>
+            <pubDate>Fri, 06 Nov 2026 22:06:01 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a43/live/23d437d0-da2d-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
             <title><![CDATA[Duran & Osmand spark Celtic into life - but where does that leave Hogh?]]></title>
@@ -536,14 +544,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmwy4edrdp02o#16</guid>
             <pubDate>Fri, 06 Nov 2026 06:17:13 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/726a/live/19839f00-d90b-11f1-b72c-d16cdc75f35f.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Watch: Raith Rovers go top with Dunfermline draw]]></title>
-            <description><![CDATA[Watch highlights as Raith Rovers take over at the top of the Scottish Championship from Partick Thistle on goal difference, with visitors Dunfermline Athletic third on the same points as the Fife derby ends goalless.]]></description>
-            <link>https://www.bbc.co.uk/sport/videos/c3qjnnpr9xzno?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/videos/c3qjnnpr9xzno#16</guid>
-            <pubDate>Fri, 06 Nov 2026 22:06:01 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a43/live/23d437d0-da2d-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
             <title><![CDATA[Podcast: After dramatic Euro comeback, have Celtic found spark? It's the SPFL weekend preview]]></title>
