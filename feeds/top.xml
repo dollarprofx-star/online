@@ -9,17 +9,17 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 07 Nov 2026 20:49:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Nov 2026 21:25:39 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
-            <title><![CDATA[What we know so far after Polish gunman opens fire in Krakow main square]]></title>
-            <description><![CDATA[At least six people were killed by a gunman in military fatigues who opened fire in Poland's second largest city.]]></description>
+            <title><![CDATA[What we know so far after three bodies found at home of Krakow gunman]]></title>
+            <description><![CDATA[Six people were killed in a random shooting in the city's main square, and three bodies were later found at his home.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmd7q15drwgeo#1</guid>
-            <pubDate>Sat, 07 Nov 2026 20:23:17 GMT</pubDate>
+            <pubDate>Sat, 07 Nov 2026 21:13:24 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f6c3/live/95455f00-dac5-11f1-bda8-29fb69dbc026.jpg"/>
         </item>
         <item>
@@ -51,7 +51,7 @@
             <description><![CDATA[The BBC has asked the White House and TKO Holdings, the parent company of UFC, for comment. ]]></description>
             <link>https://www.bbc.co.uk/news/articles/cvze47p9jeexo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cvze47p9jeexo#1</guid>
-            <pubDate>Sat, 07 Nov 2026 19:52:23 GMT</pubDate>
+            <pubDate>Sat, 07 Nov 2026 21:23:26 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f42/live/47f84090-dadf-11f1-88f9-d3c2139f8619.jpg"/>
         </item>
         <item>
@@ -191,20 +191,36 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e997/live/d07a55f0-d88e-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Maresca's dream start turns into nightmare as title hopes hit]]></title>
+            <description><![CDATA[Enzo Maresca left the City Ground on Saturday evening with chants of "can we play you every week?" ringing in his ears - the Italian's dream start as Manchester City manager is rapidly turning into a nightmare.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cm93z0l03n8vo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cm93z0l03n8vo#9</guid>
+            <pubDate>Sat, 07 Nov 2026 20:54:12 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f6a/live/bd923d40-daf0-11f1-827e-c7e7ee102257.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Another 1-0 for relentless Arsenal - but did Odegaard spare VAR blushes?]]></title>
             <description><![CDATA[Arsenal move six points clear at the top of the Premier League after beating Hull City - but did Martin Odegaard's goal save the blushes of the VAR?]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/c6rmyg7xpnj1o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6rmyg7xpnj1o#9</guid>
             <pubDate>Sat, 07 Nov 2026 19:34:32 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/57c7/live/371e4cc0-dae3-11f1-b441-2b33b063138f.jpg"/>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f07a/live/a49461b0-daf0-11f1-827e-c7e7ee102257.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Wales labour to bonus-point win against Japan]]></title>
-            <description><![CDATA[Wales resumed their Nations Championship campaign with an unconvincing bonus-point 28-21 victory against Japan at the Principality Stadium.]]></description>
-            <link>https://www.bbc.co.uk/sport/rugby-union/articles/crd6d1ygjv68o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/rugby-union/articles/crd6d1ygjv68o#9</guid>
-            <pubDate>Sat, 07 Nov 2026 18:43:59 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a3cb/live/47522870-dad2-11f1-bda8-29fb69dbc026.jpg"/>
+            <title><![CDATA[Norris takes pole in rain-delayed qualifying]]></title>
+            <description><![CDATA[McLaren's Lando Norris takes pole position for the Sao Paulo Grand Prix in a wet qualifying session at Interlagos delayed by nearly an hour and a half for heavy rain.]]></description>
+            <link>https://www.bbc.co.uk/sport/formula1/articles/c6gell5l7l3zo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/formula1/articles/c6gell5l7l3zo#9</guid>
+            <pubDate>Sat, 07 Nov 2026 20:48:40 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a242/live/05b66270-dae9-11f1-aac9-0789014bcc48.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Scotland's familiar frailties brutally exposed in All Blacks schooling]]></title>
+            <description><![CDATA[Hopes of a first-ever win over New Zealand were trampled along with Scotland's mission statement, writes Tom English.]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-union/articles/c60rlkzwwk27o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/rugby-union/articles/c60rlkzwwk27o#9</guid>
+            <pubDate>Sat, 07 Nov 2026 20:57:12 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/74d4/live/944d4e20-daeb-11f1-aac9-0789014bcc48.jpg"/>
         </item>
     </channel>
 </rss>
