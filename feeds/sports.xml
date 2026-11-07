@@ -9,11 +9,19 @@
             <link>https://www.bbc.co.uk/sport/football</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 07 Nov 2026 21:25:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Nov 2026 22:00:02 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Match of the Day]]></title>
+            <description><![CDATA[Highlights of the day's games, including pacesetters Arsenal and Man City.]]></description>
+            <link>https://www.bbc.co.uk/iplayer/episode/l00592bk?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/iplayer/episode/l00592bk#0</guid>
+            <pubDate>Sat, 07 Nov 2026 21:50:21 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0plpkcz.jpg"/>
+        </item>
         <item>
             <title><![CDATA[Delap double inspires Forest to stunning win over Man City]]></title>
             <description><![CDATA[Liam Delap scores a superb double as Nottingham Forest stun Manchester City 3-1 for their first Premier League win at the City Ground this season.]]></description>
@@ -71,6 +79,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f07a/live/a49461b0-daf0-11f1-827e-c7e7ee102257.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Glasner glee and Delap double - win could be lift-off for Forest]]></title>
+            <description><![CDATA[Oliver Glasner's celebrations and two goals for Liam Delap bode well for a Nottingham Forest team looking to kick on after their first home Premier League win of the season.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cvy0red8yl69o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cvy0red8yl69o#1</guid>
+            <pubDate>Sat, 07 Nov 2026 21:42:59 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dae0/live/7f01e480-daf1-11f1-827e-c7e7ee102257.png"/>
+        </item>
+        <item>
             <title><![CDATA[Tottenham set to complain to Pro Ref after Bogle escapes red card]]></title>
             <description><![CDATA[Tottenham are set to submit a formal complaint about the decision not to send off Jayden Bogle for his challenge on Mathys Tel during the defeat by Leeds.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/c39wz9llg255o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -95,20 +111,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d30/live/e8938990-dacd-11f1-bda8-29fb69dbc026.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Notts County beat Altrincham in incredible fog-filled spectacle ]]></title>
+            <description><![CDATA[Notts County find a way to get past National League Altrincham in incredible conditions.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/videos/cq77p24myz4ro?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cq77p24myz4ro#2</guid>
+            <pubDate>Sat, 07 Nov 2026 21:25:19 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6717/live/4e067140-daef-11f1-a701-fddedf244c16.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Highlights: Non-league Kidderminster shock League One Doncaster]]></title>
             <description><![CDATA[National League Kidderminster shock League One Doncaster to progress to the second round of the FA Cup.]]></description>
             <link>https://www.bbc.co.uk/sport/football/videos/ck9dz7l6exx3o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/ck9dz7l6exx3o#2</guid>
             <pubDate>Sat, 07 Nov 2026 17:23:20 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b477/live/b17159f0-dace-11f1-93e1-3b657b665bcf.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Altrincham take shock lead against Notts County]]></title>
-            <description><![CDATA[Lewis Banks scores from close range to put the National League's Altrincham 2-1 up against League One side Notts County in the first round of the FA Cup.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/videos/c8vgx29yyrw0o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/c8vgx29yyrw0o#2</guid>
-            <pubDate>Sat, 07 Nov 2026 19:08:23 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe96/live/f1922370-dadd-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
             <title><![CDATA[Bowler's extra-time winner for Blackpool sinks 10-man Hornchurch]]></title>
@@ -119,20 +135,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1349/live/3bebbbb0-dad5-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Port Vale ease past Scunthorpe at Vale Park]]></title>
+            <description><![CDATA[Last season's quarter-finalists Port Vale book their place in the FA Cup second round with victory over National League side Scunthorpe United at Vale Park.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/videos/cm78p29vp706o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cm78p29vp706o#2</guid>
+            <pubDate>Sat, 07 Nov 2026 21:53:36 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61e2/live/fda330a0-daf1-11f1-b441-2b33b063138f.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Shaw hat-trick gives five-star Man City dominant win over West Ham]]></title>
             <description><![CDATA[Khadija Shaw's first Women's Super League hat-trick of the season helps Manchester City to a resounding 5-0 win over West Ham, as the reigning champions return to the top of the WSL table.]]></description>
             <link>https://www.bbc.co.uk/sport/football/videos/cqlyek7wpnl0o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cqlyek7wpnl0o#2</guid>
             <pubDate>Sat, 07 Nov 2026 18:35:43 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/00cb/live/8640e3f0-dac8-11f1-93e1-3b657b665bcf.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[National League Carlisle upset League Two leaders Salford]]></title>
-            <description><![CDATA[National League side Carlisle United defeat League Two leaders Salford City 1-0 to progress into the second round of the FA Cup.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/videos/cm1exw70d49po?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cm1exw70d49po#2</guid>
-            <pubDate>Sat, 07 Nov 2026 18:29:20 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26ab/live/9a9679e0-dad8-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
             <title><![CDATA[Goal caps eye-catching Odegaard display - player ratings for Arsenal v Hull ]]></title>
@@ -149,6 +165,22 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/crn4ekzyz8jlo#4</guid>
             <pubDate>Sat, 07 Nov 2026 18:33:18 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4619/live/4e75a6e0-9d6f-11f1-bdcc-8926c4a74c43.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[National League Carlisle upset League Two leaders Salford]]></title>
+            <description><![CDATA[National League side Carlisle United defeat League Two leaders Salford City 1-0 to progress into the second round of the FA Cup.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/videos/cm1exw70d49po?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cm1exw70d49po#6</guid>
+            <pubDate>Sat, 07 Nov 2026 18:29:20 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26ab/live/9a9679e0-dad8-11f1-93e1-3b657b665bcf.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Maresca looking to understand Man City's 'lack of intensity']]></title>
+            <description><![CDATA[Enzo Maresca feels his side "lacked intensity" as Manchester City suffered their third Premier League defeat in a row, losing 3-1 to Nottingham Forest at the City Ground. ]]></description>
+            <link>https://www.bbc.co.uk/sport/football/videos/cmly0d6r6pggo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cmly0d6r6pggo#6</guid>
+            <pubDate>Sat, 07 Nov 2026 20:42:23 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2493/live/ae3a8830-daea-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
             <title><![CDATA[Powell and Phillips star as Bradford put seven past Marine]]></title>
@@ -183,22 +215,6 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7fce/live/948e65e0-dad7-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Maresca looking to understand Man City's 'lack of intensity']]></title>
-            <description><![CDATA[Enzo Maresca feels his side "lacked intensity" as Manchester City suffered their third Premier League defeat in a row, losing 3-1 to Nottingham Forest at the City Ground. ]]></description>
-            <link>https://www.bbc.co.uk/sport/football/videos/cmly0d6r6pggo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cmly0d6r6pggo#6</guid>
-            <pubDate>Sat, 07 Nov 2026 20:42:23 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2493/live/ae3a8830-daea-11f1-93e1-3b657b665bcf.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bates double earns Dover upset win over Wealdstone]]></title>
-            <description><![CDATA[Jack Bates' first-half brace gives National League South side Dover Athletic a 2-0 win over the National League's Wealdstone in the first round of the FA Cup.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/videos/cwvg027v5e5yo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cwvg027v5e5yo#6</guid>
-            <pubDate>Sat, 07 Nov 2026 18:49:14 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f360/live/c8658c60-dada-11f1-a701-fddedf244c16.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Okafor the difference despite Van Hecke defiance - Leeds v Spurs ratings]]></title>
             <description><![CDATA[How Leeds United and Tottenham Hotspurs' players rated in their Premier League match.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cq70p2w3j00jo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -219,7 +235,7 @@
             <title><![CDATA[Newport cup tie halted by alleged homophobic chants ]]></title>
             <description><![CDATA[Newport manager Hayden Mullins condemns alleged abusive chants during Saturday's FA Cup tie against Walsall.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/c6jrwe8v8e3lo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6jrwe8v8e3lo#7</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6jrwe8v8e3lo#8</guid>
             <pubDate>Sat, 07 Nov 2026 19:47:03 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/171e/live/563c7180-dadf-11f1-88f9-d3c2139f8619.jpg"/>
         </item>
@@ -390,6 +406,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cxyvrdyzrvgro#17</guid>
             <pubDate>Sat, 07 Nov 2026 13:57:46 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7938/live/6a3bb340-dab1-11f1-93e1-3b657b665bcf.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Raith Rovers go top with Dunfermline draw]]></title>
+            <description><![CDATA[Watch highlights as Raith Rovers take over at the top of the Scottish Championship from Partick Thistle on goal difference, with visitors Dunfermline Athletic third on the same points as the Fife derby ends goalless.]]></description>
+            <link>https://www.bbc.co.uk/sport/videos/c3qjnnpr9xzno?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/videos/c3qjnnpr9xzno#17</guid>
+            <pubDate>Fri, 06 Nov 2026 22:06:01 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a43/live/23d437d0-da2d-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
             <title><![CDATA[Title race hots up before Chelsea-Man City showdown]]></title>
