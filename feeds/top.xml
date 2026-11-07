@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 07 Nov 2026 13:41:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Nov 2026 14:24:15 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -47,7 +47,7 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0eec/live/692e5ed0-d9e9-11f1-bbe5-797ee05bee69.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Ukraine's power network suffers further damage after fresh Russian strikes]]></title>
+            <title><![CDATA[Russian strikes wound nine and damage Ukraine's power network ahead of talks]]></title>
             <description><![CDATA[The attacks come before Ukrainian and Russian delegations are due to take part in trilateral talks in Abu Dhabi next week.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm4g1nq8158po#1</guid>
@@ -189,31 +189,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/iplayer/episode/m0027nc1/sense-and-sensibility?at_mid=CzprLxMc6q&amp;at_campaign=Sense_and_Sensibility&amp;at_medium=display_ad&amp;at_campaign_type=owned&amp;at_audience_id=SS&amp;at_product=iplayer&amp;at_brand=m0027nc1&amp;at_ptr_name=bbc&amp;at_ptr_type=media&amp;at_format=image&amp;at_objective=consumption&amp;at_link_title=Sense_and_Sensibility&amp;at_bbc_team=BBC#8</guid>
             <pubDate>Sat, 31 Oct 2026 15:35:30 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e997/live/d07a55f0-d88e-11f1-b441-2b33b063138f.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[I left Man City for my mental wellbeing - Trafford]]></title>
-            <description><![CDATA[James Trafford says not playing for Manchester City last season was "horrendous" and left him with no choice but to leave the club and join Leeds United in the summer.
-]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/ckly00wq495zo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ckly00wq495zo#9</guid>
-            <pubDate>Sat, 07 Nov 2026 07:16:37 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bef3/live/6773ae50-da1c-11f1-b441-2b33b063138f.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[My dream is to win Ballon d'Or - Gabriel]]></title>
-            <description><![CDATA[Manchester United forward JJ Gabriel says his "dream is to win the Ballon d'Or", as he closes in on a move to Real Madrid.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cmy4x9yq3xg3o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmy4x9yq3xg3o#9</guid>
-            <pubDate>Sat, 07 Nov 2026 12:25:14 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a16/live/eaf4a7b0-daa4-11f1-9da2-b11e4d68c08e.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Whole Australia team knew of sandpaper use - Khawaja]]></title>
-            <description><![CDATA[Usman Khawaja claims the entire Australia team knew about the use of sandpaper to tamper with the ball in the final Test of their 2018 series with South Africa.]]></description>
-            <link>https://www.bbc.co.uk/sport/cricket/articles/cjdx33kyzk3lo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/cricket/articles/cjdx33kyzk3lo#9</guid>
-            <pubDate>Fri, 06 Nov 2026 23:11:56 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7397/live/29b455a0-da27-11f1-a78c-49bd6dfbb9b5.jpg"/>
         </item>
     </channel>
 </rss>
