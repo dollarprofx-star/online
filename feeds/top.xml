@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 07 Nov 2026 18:13:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Nov 2026 18:57:01 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -19,7 +19,7 @@
             <description><![CDATA[At least six people were killed by a gunman in military fatigues who opened fire in Poland's second largest city.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmd7q15drwgeo#1</guid>
-            <pubDate>Sat, 07 Nov 2026 17:48:29 GMT</pubDate>
+            <pubDate>Sat, 07 Nov 2026 18:22:11 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f6c3/live/95455f00-dac5-11f1-bda8-29fb69dbc026.jpg"/>
         </item>
         <item>
@@ -95,6 +95,14 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/acd6/live/c7e3b830-da98-11f1-8206-e519d24a9ca2.png"/>
         </item>
         <item>
+            <title><![CDATA[US offers $20m reward for information about Iran's nuclear programme]]></title>
+            <description><![CDATA[Donald Trump has repeatedly raised the prospecting of renewing strikes against Iran's nuclear facilities.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6d091ev3p0jo#3</guid>
+            <pubDate>Sat, 07 Nov 2026 18:14:38 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b84/live/0f887590-dad0-11f1-93e1-3b657b665bcf.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Victims in rape cases must not feel like they are on trial, Burnham says]]></title>
             <description><![CDATA[The PM was responding after a police chief said comments made during Russell Brand's trial came close to "victim blaming".]]></description>
             <link>https://www.bbc.co.uk/news/articles/crgj99j8y998o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -111,28 +119,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0554/live/2786bc40-daa0-11f1-a523-f508a3e924cb.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Italian foreign minister says hackers leaked his personal data]]></title>
-            <description><![CDATA[Prime Minister Giorgia Meloni has blamed pro-Russian hackers for publishing the details online.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cr20wvge32j3o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cr20wvge32j3o#3</guid>
-            <pubDate>Sat, 07 Nov 2026 16:50:06 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34a9/live/e340cb90-dabb-11f1-93e1-3b657b665bcf.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Monty Don bids 'final goodbye' to Gardeners' World after two decades]]></title>
             <description><![CDATA[The head gardener on the long-running BBC TV series signed off from Longmeadow garden on Friday.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c6wyrrwj9xlro?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6wyrrwj9xlro#3</guid>
             <pubDate>Sat, 07 Nov 2026 10:44:38 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8e7/live/d1af1d60-d9f7-11f1-84c1-dbcae60402d7.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Baxters fish soup cans recalled over fears they could 'swell and potentially rupture']]></title>
-            <description><![CDATA[A manufacturing fault could cause a batch of the Cullen Skink soup to spoil, and cans could swell and burst.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cm2l4590188ro?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm2l4590188ro#3</guid>
-            <pubDate>Sat, 07 Nov 2026 14:28:40 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a6b/live/1dd78550-dab7-11f1-8c3b-f3c0d6bd7c4f.jpg"/>
         </item>
         <item>
             <title><![CDATA[All Blacks cruise to victory as Scotland fade]]></title>
@@ -199,12 +191,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e997/live/d07a55f0-d88e-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Ruthless All Blacks blow Scotland away in second half]]></title>
-            <description><![CDATA[New Zealand canter to a 43-21 Nations Championship win at Murrayfield as Scotland fall away after a thrilling first half.]]></description>
-            <link>https://www.bbc.co.uk/sport/rugby-union/articles/c9e8l5vlgxl5o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/rugby-union/articles/c9e8l5vlgxl5o#9</guid>
-            <pubDate>Sat, 07 Nov 2026 16:13:03 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c759/live/32801a10-dac3-11f1-8c3b-f3c0d6bd7c4f.jpg"/>
+            <title><![CDATA[Title race hots up before Chelsea-Man City showdown]]></title>
+            <description><![CDATA[Champions Manchester City will travel to Chelsea next week on top of the pile after a decisive Saturday in the Women's Super League.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cm0qkjdx3l9zo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cm0qkjdx3l9zo#9</guid>
+            <pubDate>Sat, 07 Nov 2026 18:27:46 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d30/live/e8938990-dacd-11f1-bda8-29fb69dbc026.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tuipulotu takes 'full responsibility' for Scotland collapse]]></title>
+            <description><![CDATA[Captain Sione Tuipulotu takes responsibility for Scotland's second-half Nations Championship collapse against New Zealand, saying they were "nowhere near accurate enough".]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-union/articles/cvx28xpn57r9o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/rugby-union/articles/cvx28xpn57r9o#9</guid>
+            <pubDate>Sat, 07 Nov 2026 18:38:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e587/live/382e7350-dada-11f1-91ee-75ca1bd2f860.jpg"/>
         </item>
         <item>
             <title><![CDATA[Tottenham set to complain to Pro Ref - but should Bogle have seen red?]]></title>
