@@ -9,19 +9,11 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 07 Nov 2026 17:01:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Nov 2026 17:41:10 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
-        <item>
-            <title><![CDATA[UK cannot 'cherry pick' EU single market deal, Barnier tells BBC]]></title>
-            <description><![CDATA[The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules "a la carte".]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c9kgjj206nzpo#1</guid>
-            <pubDate>Sat, 07 Nov 2026 15:19:35 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44f1/live/699ff730-daab-11f1-93e1-3b657b665bcf.jpg"/>
-        </item>
         <item>
             <title><![CDATA[Tens of thousands of tents flooded after heavy rains in Gaza]]></title>
             <description><![CDATA[Heavy rain has flooded temporary shelters used by Palestinians displaced during Israel's war with Hamas.]]></description>
@@ -31,12 +23,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f37/live/d00ac9e0-dac0-11f1-8c3b-f3c0d6bd7c4f.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Victims in rape cases must not feel like they are on trial, Burnham says]]></title>
-            <description><![CDATA[The PM was responding after a police chief said comments made during Russell Brand's trial came close to "victim blaming".]]></description>
-            <link>https://www.bbc.co.uk/news/articles/crgj99j8y998o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/crgj99j8y998o#1</guid>
-            <pubDate>Sat, 07 Nov 2026 11:04:28 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c13/live/008276b0-da8d-11f1-b9cf-cdf633475efd.jpg"/>
+            <title><![CDATA[UK cannot 'cherry pick' EU single market deal, Barnier tells BBC]]></title>
+            <description><![CDATA[The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules "a la carte".]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c9kgjj206nzpo#1</guid>
+            <pubDate>Sat, 07 Nov 2026 15:19:35 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44f1/live/699ff730-daab-11f1-93e1-3b657b665bcf.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Andy Burnham wants to get closer to the EU - but he shouldn't expect a smooth ride]]></title>
+            <description><![CDATA[Laura Kuenssberg talks to government insiders about the prime minister opening the conversation about the UK rejoining the EU.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cwjdmm0z74plo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwjdmm0z74plo#1</guid>
+            <pubDate>Sat, 07 Nov 2026 17:32:42 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ce4/live/95ac7ac0-da00-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
             <title><![CDATA[Two men arrested after boy injured in sword attack]]></title>
@@ -56,7 +56,7 @@
         </item>
         <item>
             <title><![CDATA[What happens if all the lights go out? This is the plan for a 'Black Sky' event]]></title>
-            <description><![CDATA[A Black Sky event could leave millions without power, water and communications. So how prepared is the UK?]]></description>
+            <description><![CDATA[How prepared is the UK for the type of event that could leave millions without power, water and communications?]]></description>
             <link>https://www.bbc.co.uk/news/articles/ck5ynnj05z8no?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ck5ynnj05z8no#2</guid>
             <pubDate>Sat, 07 Nov 2026 00:31:54 GMT</pubDate>
@@ -87,12 +87,28 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a96/live/7669cc10-daca-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Victims in rape cases must not feel like they are on trial, Burnham says]]></title>
+            <description><![CDATA[The PM was responding after a police chief said comments made during Russell Brand's trial came close to "victim blaming".]]></description>
+            <link>https://www.bbc.co.uk/news/articles/crgj99j8y998o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/crgj99j8y998o#3</guid>
+            <pubDate>Sat, 07 Nov 2026 11:04:28 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c13/live/008276b0-da8d-11f1-b9cf-cdf633475efd.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Russian strikes wound nine and damage Ukraine's power network ahead of talks]]></title>
             <description><![CDATA[The attacks come before Ukrainian and Russian delegations are due to take part in trilateral talks in Abu Dhabi next week.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm4g1nq8158po#3</guid>
             <pubDate>Sat, 07 Nov 2026 12:49:36 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0554/live/2786bc40-daa0-11f1-a523-f508a3e924cb.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Italian foreign minister says hackers leaked his personal data]]></title>
+            <description><![CDATA[Prime Minister Giorgia Meloni has blamed pro-Russian hackers for publishing the details online.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cr20wvge32j3o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cr20wvge32j3o#3</guid>
+            <pubDate>Sat, 07 Nov 2026 16:50:06 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34a9/live/e340cb90-dabb-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
             <title><![CDATA[Monty Don bids 'final goodbye' to Gardeners' World after two decades]]></title>
@@ -103,22 +119,6 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8e7/live/d1af1d60-d9f7-11f1-84c1-dbcae60402d7.jpg"/>
         </item>
         <item>
-            <title><![CDATA[One of the year's most prolific meteor showers to light up the night sky this weekend]]></title>
-            <description><![CDATA[The Leonid meteor shower, known for its bright and fast meteors, will kick off this weekend and continue until the end of November.]]></description>
-            <link>https://www.bbc.co.uk/weather/articles/cmlykqq7zg9zo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/weather/articles/cmlykqq7zg9zo#3</guid>
-            <pubDate>Sat, 07 Nov 2026 02:03:28 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b60f/live/e776f170-da8a-11f1-b441-2b33b063138f.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[All Blacks cruise to victory as Scotland fade]]></title>
-            <description><![CDATA[New Zealand canter to a 43-21 Nations Championship win at Murrayfield as Scotland fall away after a thrilling first half.]]></description>
-            <link>https://www.bbc.co.uk/sport/rugby-union/articles/c9e8l5vlgxl5o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/rugby-union/articles/c9e8l5vlgxl5o#3</guid>
-            <pubDate>Sat, 07 Nov 2026 16:13:03 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c759/live/32801a10-dac3-11f1-8c3b-f3c0d6bd7c4f.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Baxters fish soup cans recalled over fears they could 'swell and potentially rupture']]></title>
             <description><![CDATA[A manufacturing fault could cause a batch of the Cullen Skink soup to spoil, and cans could swell and burst.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cm2l4590188ro?at_medium=RSS&amp;at_campaign=rss</link>
@@ -127,12 +127,12 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a6b/live/1dd78550-dab7-11f1-8c3b-f3c0d6bd7c4f.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Evacuations in Liverpool city centre after car crash causes gas leak]]></title>
-            <description><![CDATA[The impact of the crash caused a gas leak and neighbouring buildings have been evacuated as a precaution.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c9203x7pj0kjo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c9203x7pj0kjo#3</guid>
-            <pubDate>Sat, 07 Nov 2026 15:06:40 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80f2/live/61af1640-dabb-11f1-a701-fddedf244c16.jpg"/>
+            <title><![CDATA[All Blacks cruise to victory as Scotland fade]]></title>
+            <description><![CDATA[New Zealand canter to a 43-21 Nations Championship win at Murrayfield as Scotland fall away after a thrilling first half.]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-union/articles/c9e8l5vlgxl5o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/rugby-union/articles/c9e8l5vlgxl5o#3</guid>
+            <pubDate>Sat, 07 Nov 2026 16:13:03 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c759/live/32801a10-dac3-11f1-8c3b-f3c0d6bd7c4f.jpg"/>
         </item>
         <item>
             <title><![CDATA[Secondary school teacher to crofter - life on the UK's most remote island]]></title>
@@ -199,12 +199,12 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c759/live/32801a10-dac3-11f1-8c3b-f3c0d6bd7c4f.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Hamilton, Leclerc and Verstappen to have penalties]]></title>
+            <title><![CDATA[Hamilton & Verstappen to start from back in Brazil]]></title>
             <description><![CDATA[Red Bull's Max Verstappen and Ferrari drivers Lewis Hamilton and Charles Leclerc will all have grid penalties at the Sao Paulo Grand Prix.]]></description>
             <link>https://www.bbc.co.uk/sport/formula1/articles/c574p28devp4o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/formula1/articles/c574p28devp4o#9</guid>
-            <pubDate>Sat, 07 Nov 2026 15:01:59 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c32/live/d1e82420-daba-11f1-8c3b-f3c0d6bd7c4f.jpg"/>
+            <pubDate>Sat, 07 Nov 2026 17:24:15 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd57/live/b4238c30-dacf-11f1-bda8-29fb69dbc026.jpg"/>
         </item>
         <item>
             <title><![CDATA[De Zerbi focuses on Spurs' failings - but should Bogle have seen red?]]></title>
