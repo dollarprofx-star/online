@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 07 Nov 2026 08:27:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Nov 2026 09:15:02 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -124,7 +124,7 @@
             <link>https://www.bbc.co.uk/weather/articles/cmlykqq7zg9zo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/weather/articles/cmlykqq7zg9zo#4</guid>
             <pubDate>Sat, 07 Nov 2026 02:03:28 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/797d/live/89b36240-d903-11f1-9c68-d767468fa269.jpg"/>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b60f/live/e776f170-da8a-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
             <title><![CDATA[Texas mayor instructs police to limit co-operation with ICE]]></title>
@@ -167,12 +167,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93a3/live/d2421090-d9e1-11f1-bbe5-797ee05bee69.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Dutch small boat launch shows smugglers are adapting, says MP]]></title>
-            <description><![CDATA[Dover MP Mike Tapp says smugglers will find new launch locations and methods due to disruptions.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c689zzvl5yp8o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c689zzvl5yp8o#4</guid>
-            <pubDate>Fri, 06 Nov 2026 18:29:29 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aaf4/live/a150e1b0-46b6-11f0-98c9-f388968ae068.jpg"/>
+            <title><![CDATA[Boy, 4, dies after Range Rover crashes on country road]]></title>
+            <description><![CDATA[A 28-year-old man was driving the car when it crashed near Bathgate in West Lothian.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cr3ellge7qwjo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cr3ellge7qwjo#4</guid>
+            <pubDate>Sat, 07 Nov 2026 08:45:15 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/438a/live/dcdc8b70-da86-11f1-8e28-47f07775ec69.png"/>
         </item>
         <item>
             <title><![CDATA[Secondary school teacher to crofter - life on the UK's most remote island]]></title>
@@ -256,6 +256,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bef3/live/6773ae50-da1c-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
+            <title><![CDATA[New Zealand sweep aside Samoa to reach Women's World Cup final]]></title>
+            <description><![CDATA[New Zealand's women will hope it is fourth time lucky after defeating Samoa 32-0 to reach next Sunday's Rugby League World Cup final. ]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-league/articles/c680zz8k3nvvo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/rugby-league/articles/c680zz8k3nvvo#10</guid>
+            <pubDate>Sat, 07 Nov 2026 08:32:15 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b44/live/b4664c10-da83-11f1-9ef2-dd247c3d6b8b.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Six tries and a big win - but were Ireland ruthless?]]></title>
             <description><![CDATA[Despite a six-try and 30-point win over Argentina, Andy Farrell and Tadhg Beirne admit Ireland could have been more ruthless in Friday's win.]]></description>
             <link>https://www.bbc.co.uk/sport/rugby-union/articles/cmde88ppx39go?at_medium=RSS&amp;at_campaign=rss</link>
@@ -270,14 +278,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cm4g114p9e7go#10</guid>
             <pubDate>Fri, 06 Nov 2026 23:53:06 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8417/live/c55f7ff0-da38-11f1-bde4-c13870167801.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ferrari's Hamilton-Leclerc problem - and other F1 stories to follow]]></title>
-            <description><![CDATA[This weekend's Sao Paulo Grand Prix is in many ways the first page of the first chapter of the next championship battle.]]></description>
-            <link>https://www.bbc.co.uk/sport/formula1/articles/cm62y4283534o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/formula1/articles/cm62y4283534o#10</guid>
-            <pubDate>Fri, 06 Nov 2026 20:52:24 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/511a/live/712d8810-da0f-11f1-bbd1-cf41b7fd4e9b.jpg"/>
         </item>
     </channel>
 </rss>
