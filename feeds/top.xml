@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 07 Nov 2026 15:44:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Nov 2026 16:19:37 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -51,16 +51,8 @@
             <description><![CDATA[Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c3ewev11g1e0o#1</guid>
-            <pubDate>Sat, 07 Nov 2026 15:00:10 GMT</pubDate>
+            <pubDate>Sat, 07 Nov 2026 15:56:28 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3578/live/a76cb0d0-dab5-11f1-a701-fddedf244c16.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Monty Don bids 'final goodbye' to Gardeners' World after two decades]]></title>
-            <description><![CDATA[The head gardener on the long-running BBC TV series signed off from Longmeadow garden on Friday.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c6wyrrwj9xlro?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6wyrrwj9xlro#1</guid>
-            <pubDate>Sat, 07 Nov 2026 10:44:38 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8e7/live/d1af1d60-d9f7-11f1-84c1-dbcae60402d7.jpg"/>
         </item>
         <item>
             <title><![CDATA[Relief, tears and sadness: Married at First Sight UK cast react to show being axed]]></title>
@@ -79,7 +71,7 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92dd/live/b21e0c00-d9ce-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
-            <title><![CDATA['My mortgage is going up £200': How rising interest rates are hitting people's pockets ]]></title>
+            <title><![CDATA['My mortgage is going up £200 a month': How rising interest rates are hitting people's pockets ]]></title>
             <description><![CDATA[With UK interest rates set to rise, mortgages, credit cards and loans could get more expensive for millions.  ]]></description>
             <link>https://www.bbc.co.uk/news/articles/c617kjqjvk12o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c617kjqjvk12o#2</guid>
@@ -87,12 +79,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e6b/live/b1102500-d9fb-11f1-b441-2b33b063138f.png"/>
         </item>
         <item>
-            <title><![CDATA[One of the year's most prolific meteor showers to light up the night sky this weekend]]></title>
-            <description><![CDATA[The Leonid meteor shower, known for its bright and fast meteors, will kick off this weekend and continue until the end of November.]]></description>
-            <link>https://www.bbc.co.uk/weather/articles/cmlykqq7zg9zo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/weather/articles/cmlykqq7zg9zo#3</guid>
-            <pubDate>Sat, 07 Nov 2026 02:03:28 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b60f/live/e776f170-da8a-11f1-b441-2b33b063138f.jpg"/>
+            <title><![CDATA[Monty Don bids 'final goodbye' to Gardeners' World after two decades]]></title>
+            <description><![CDATA[The head gardener on the long-running BBC TV series signed off from Longmeadow garden on Friday.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c6wyrrwj9xlro?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6wyrrwj9xlro#3</guid>
+            <pubDate>Sat, 07 Nov 2026 10:44:38 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8e7/live/d1af1d60-d9f7-11f1-84c1-dbcae60402d7.jpg"/>
         </item>
         <item>
             <title><![CDATA[Russian strikes wound nine and damage Ukraine's power network ahead of talks]]></title>
@@ -103,12 +95,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0554/live/2786bc40-daa0-11f1-a523-f508a3e924cb.jpg"/>
         </item>
         <item>
-            <title><![CDATA[With Stephen Miller pick as new chief of staff, Trump readies for a battle]]></title>
-            <description><![CDATA[The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress. ]]></description>
-            <link>https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/crp3gg2z171go#3</guid>
-            <pubDate>Fri, 06 Nov 2026 23:24:15 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/492d/live/41326240-da17-11f1-bba7-b50f1faa7672.jpg"/>
+            <title><![CDATA[One of the year's most prolific meteor showers to light up the night sky this weekend]]></title>
+            <description><![CDATA[The Leonid meteor shower, known for its bright and fast meteors, will kick off this weekend and continue until the end of November.]]></description>
+            <link>https://www.bbc.co.uk/weather/articles/cmlykqq7zg9zo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/weather/articles/cmlykqq7zg9zo#3</guid>
+            <pubDate>Sat, 07 Nov 2026 02:03:28 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b60f/live/e776f170-da8a-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
             <title><![CDATA[Baxters fish soup cans recalled over fears they could 'swell and potentially rupture']]></title>
@@ -117,6 +109,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm2l4590188ro#3</guid>
             <pubDate>Sat, 07 Nov 2026 14:28:40 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a6b/live/1dd78550-dab7-11f1-8c3b-f3c0d6bd7c4f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Evacuations in Liverpool city centre after car crash causes gas leak]]></title>
+            <description><![CDATA[The driver stayed at the scene and there is no indication that this was a deliberate act, police say.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c9203x7pj0kjo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c9203x7pj0kjo#3</guid>
+            <pubDate>Sat, 07 Nov 2026 15:06:40 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80f2/live/61af1640-dabb-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
             <title><![CDATA[Knicks defend Taylor Swift after players name her 'fakest celebrity fan']]></title>
@@ -181,6 +181,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/iplayer/episode/m0027nc1/sense-and-sensibility?at_mid=CzprLxMc6q&amp;at_campaign=Sense_and_Sensibility&amp;at_medium=display_ad&amp;at_campaign_type=owned&amp;at_audience_id=SS&amp;at_product=iplayer&amp;at_brand=m0027nc1&amp;at_ptr_name=bbc&amp;at_ptr_type=media&amp;at_format=image&amp;at_objective=consumption&amp;at_link_title=Sense_and_Sensibility&amp;at_bbc_team=BBC#8</guid>
             <pubDate>Sat, 31 Oct 2026 15:35:30 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e997/live/d07a55f0-d88e-11f1-b441-2b33b063138f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hamilton, Leclerc and Verstappen to have penalties]]></title>
+            <description><![CDATA[Red Bull's Max Verstappen and Ferrari drivers Lewis Hamilton and Charles Leclerc will all have grid penalties at the Sao Paulo Grand Prix.]]></description>
+            <link>https://www.bbc.co.uk/sport/formula1/articles/c574p28devp4o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/formula1/articles/c574p28devp4o#9</guid>
+            <pubDate>Sat, 07 Nov 2026 15:01:59 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c32/live/d1e82420-daba-11f1-8c3b-f3c0d6bd7c4f.jpg"/>
         </item>
     </channel>
 </rss>
