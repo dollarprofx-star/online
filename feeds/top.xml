@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 08 Nov 2026 10:50:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Nov 2026 11:24:52 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -23,20 +23,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b00d/live/84d82e90-dafc-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Veterans shouldn't sleep rough this Christmas, Burnham says]]></title>
-            <description><![CDATA[Downing Street says the prime minister will personally write to councils on Armistice Day to urge them to draw up plans.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c6pwg4ddwkzeo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6pwg4ddwkzeo#1</guid>
-            <pubDate>Sun, 08 Nov 2026 03:34:22 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa5e/live/9a627e50-dae8-11f1-93e1-3b657b665bcf.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Two seriously hurt in 30-vehicle crash on the M20 in Kent]]></title>
-            <description><![CDATA[The crash happened in fog on Saturday evening on the London-bound carriageway near Maidstone, Kent.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/ck87z9exex2lo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ck87z9exex2lo#1</guid>
-            <pubDate>Sun, 08 Nov 2026 04:09:21 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a9db/live/1a0c2d60-db23-11f1-a701-fddedf244c16.jpg"/>
+            <title><![CDATA[Government 'looking seriously' at banning under-16s from Vinted and eBay]]></title>
+            <description><![CDATA[The culture secretary confirms reports they could be in the list of platforms set to be banned next March.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro#1</guid>
+            <pubDate>Sun, 08 Nov 2026 10:44:42 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1427/live/5d17fd80-db61-11f1-adda-c54f54e3ce6a.jpg"/>
         </item>
         <item>
             <title><![CDATA[Trump asks UFC boss to be White House press secretary: 'Dana, please take the job!']]></title>
@@ -45,6 +37,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cvze47p9jeexo#1</guid>
             <pubDate>Sun, 08 Nov 2026 00:31:53 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8536/live/2fdfe760-dafd-11f1-b441-2b33b063138f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Veterans shouldn't sleep rough this Christmas, Burnham says]]></title>
+            <description><![CDATA[Downing Street says the prime minister will personally write to councils on Armistice Day to urge them to draw up plans.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c6pwg4ddwkzeo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6pwg4ddwkzeo#1</guid>
+            <pubDate>Sun, 08 Nov 2026 03:34:22 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa5e/live/9a627e50-dae8-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
             <title><![CDATA[My parents chose to die together and I was left to grieve alone ]]></title>
@@ -111,14 +111,6 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ff8/live/d9aea170-daf1-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
-            <title><![CDATA[The Papers: 'Briton dies in Krakow shootings' and 'Royals honour the fallen']]></title>
-            <description><![CDATA[The Royal Family are pictured attending the Festival of Remembrance on a number of Sunday's front pages.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cr9dz7jqel02o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cr9dz7jqel02o#3</guid>
-            <pubDate>Sun, 08 Nov 2026 06:40:02 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f2c8/live/b0f2a080-db30-11f1-b441-2b33b063138f.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[There's finally a treatment for my five-year-old's dementia - but it'll cost me £3m]]></title>
             <description><![CDATA[The dementia treatment for children is available in the US, with funding for UK children unclear. ]]></description>
             <link>https://www.bbc.co.uk/news/articles/c8046kdw56e2o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -127,12 +119,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d48b/live/91c3e9e0-faac-11f0-91f4-a739ab96be22.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Unusually gloomy Kiwis deliver New Zealand's tightest election in years]]></title>
-            <description><![CDATA[The national mood is low, and faith in politics even lower - with voters deserting the major parties at the polls.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo#3</guid>
-            <pubDate>Sat, 07 Nov 2026 21:36:16 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d485/live/0685e840-dab9-11f1-b441-2b33b063138f.jpg"/>
+            <title><![CDATA[Two seriously hurt in 30-vehicle crash on the M20 in Kent]]></title>
+            <description><![CDATA[The crash happened in fog on Saturday evening on the London-bound carriageway near Maidstone, Kent.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/ck87z9exex2lo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ck87z9exex2lo#3</guid>
+            <pubDate>Sun, 08 Nov 2026 04:09:21 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a9db/live/1a0c2d60-db23-11f1-a701-fddedf244c16.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[I won't let my daughter's killer live in my head, says Sarah Payne's mother]]></title>
+            <description><![CDATA[Sara Payne says she found out her eight-year-old had died as it was being reported in the news.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cq78p3mlv9rjo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cq78p3mlv9rjo#3</guid>
+            <pubDate>Sun, 08 Nov 2026 07:17:04 GMT</pubDate>
+            <media:thumbnail width="240" height="136" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a41b/live/b4f6f7a0-db65-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
             <title><![CDATA['We have our own fair playing field': 1Xtra launches first ever UK rap chart]]></title>
@@ -215,14 +215,6 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f765/live/7f024030-d860-11f1-85ab-b3cc3b5498c6.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Australia reach World Cup final after Fiji scare]]></title>
-            <description><![CDATA[Australia have reached their fifth successive Women's Rugby League World Cup final as they seek a fourth consecutive title - but they were made to work harder than anyone expected.]]></description>
-            <link>https://www.bbc.co.uk/sport/rugby-league/articles/c6vg02klk084o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/rugby-league/articles/c6vg02klk084o#9</guid>
-            <pubDate>Sun, 08 Nov 2026 08:19:18 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/732a/live/a00e5500-db4b-11f1-ad6a-794c57c0c23e.jpg"/>
-        </item>
-        <item>
             <title><![CDATA['The worst conditions in my 35-year career' - commentating in the FA Cup fog]]></title>
             <description><![CDATA[BBC Sport commentator Steve Bower gives an insight into trying to commentate when thick fog engulfs a stadium and you can barely see the action.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cqev3rdvyvm1o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -231,12 +223,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e50/live/d7267220-db00-11f1-969c-27c4482e95aa.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Why Wales have a lot to prove despite beating Japan]]></title>
-            <description><![CDATA[BBC Sport Wales analyses what went right and wrong for Wales in their uninspiring 28-21 win against Japan.]]></description>
-            <link>https://www.bbc.co.uk/sport/rugby-union/articles/cx98z74gg69mo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/rugby-union/articles/cx98z74gg69mo#9</guid>
-            <pubDate>Sun, 08 Nov 2026 10:13:56 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16a9/live/c599e170-db57-11f1-ad76-19cbf76aebb9.jpg"/>
+            <title><![CDATA[Qualifying conditions borderline - but Norris and Russell hoping for more rain]]></title>
+            <description><![CDATA[Polesitter Lando Norris says qualifying for the Sao Paulo Grand Prix brought "some of the wettest conditions" in which he had ever driven.]]></description>
+            <link>https://www.bbc.co.uk/sport/formula1/articles/cmde81d9nkxko?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/formula1/articles/cmde81d9nkxko#9</guid>
+            <pubDate>Sat, 07 Nov 2026 23:53:30 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/85f6/live/ade06d60-db02-11f1-969c-27c4482e95aa.jpg"/>
         </item>
     </channel>
 </rss>
