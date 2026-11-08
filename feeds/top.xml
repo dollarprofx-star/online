@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 08 Nov 2026 11:24:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Nov 2026 12:02:10 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -23,11 +23,19 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b00d/live/84d82e90-dafc-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Abuse in media industry probably still happening, minister warns in wake of Brand case]]></title>
+            <description><![CDATA[Lisa Nandy told Laura Kuenssberg that 'many people' in the media industry had opened up to her.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/ckn9r0zd0ynwo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckn9r0zd0ynwo#1</guid>
+            <pubDate>Sun, 08 Nov 2026 11:40:56 GMT</pubDate>
+            <media:thumbnail width="240" height="160" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ffbd/live/32a8d350-db69-11f1-b441-2b33b063138f.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Government 'looking seriously' at banning under-16s from Vinted and eBay]]></title>
             <description><![CDATA[The culture secretary confirms reports they could be in the list of platforms set to be banned next March.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro#1</guid>
-            <pubDate>Sun, 08 Nov 2026 10:44:42 GMT</pubDate>
+            <pubDate>Sun, 08 Nov 2026 11:25:32 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1427/live/5d17fd80-db61-11f1-adda-c54f54e3ce6a.jpg"/>
         </item>
         <item>
@@ -37,14 +45,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cvze47p9jeexo#1</guid>
             <pubDate>Sun, 08 Nov 2026 00:31:53 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8536/live/2fdfe760-dafd-11f1-b441-2b33b063138f.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Veterans shouldn't sleep rough this Christmas, Burnham says]]></title>
-            <description><![CDATA[Downing Street says the prime minister will personally write to councils on Armistice Day to urge them to draw up plans.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c6pwg4ddwkzeo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6pwg4ddwkzeo#1</guid>
-            <pubDate>Sun, 08 Nov 2026 03:34:22 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa5e/live/9a627e50-dae8-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
             <title><![CDATA[My parents chose to die together and I was left to grieve alone ]]></title>
@@ -95,6 +95,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b15/live/9cf3fa20-d9e1-11f1-a701-fddedf244c16.png"/>
         </item>
         <item>
+            <title><![CDATA[Veterans shouldn't sleep rough this Christmas, Burnham says]]></title>
+            <description><![CDATA[Downing Street says the prime minister will personally write to councils on Armistice Day to urge them to draw up plans.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c6pwg4ddwkzeo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6pwg4ddwkzeo#3</guid>
+            <pubDate>Sun, 08 Nov 2026 03:34:22 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa5e/live/9a627e50-dae8-11f1-93e1-3b657b665bcf.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Germans wrestle with what to do with Hitler's destroyed Eagle's Nest retreat]]></title>
             <description><![CDATA[While some believe the site should be partially or completely rebuilt, others want it abandoned and all memory of its Nazi past forgotten.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cm74pk1g51nko?at_medium=RSS&amp;at_campaign=rss</link>
@@ -111,12 +119,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ff8/live/d9aea170-daf1-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
-            <title><![CDATA[There's finally a treatment for my five-year-old's dementia - but it'll cost me £3m]]></title>
-            <description><![CDATA[The dementia treatment for children is available in the US, with funding for UK children unclear. ]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c8046kdw56e2o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c8046kdw56e2o#3</guid>
-            <pubDate>Sun, 08 Nov 2026 07:04:36 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d48b/live/91c3e9e0-faac-11f0-91f4-a739ab96be22.jpg"/>
+            <title><![CDATA[I won't let my daughter's killer live in my head, says Sarah Payne's mother]]></title>
+            <description><![CDATA[Sara Payne says she found out her eight-year-old had died as it was being reported in the news.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cq78p3mlv9rjo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cq78p3mlv9rjo#3</guid>
+            <pubDate>Sun, 08 Nov 2026 07:17:04 GMT</pubDate>
+            <media:thumbnail width="240" height="136" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a41b/live/b4f6f7a0-db65-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
             <title><![CDATA[Two seriously hurt in 30-vehicle crash on the M20 in Kent]]></title>
@@ -127,12 +135,20 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a9db/live/1a0c2d60-db23-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
-            <title><![CDATA[I won't let my daughter's killer live in my head, says Sarah Payne's mother]]></title>
-            <description><![CDATA[Sara Payne says she found out her eight-year-old had died as it was being reported in the news.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cq78p3mlv9rjo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cq78p3mlv9rjo#3</guid>
-            <pubDate>Sun, 08 Nov 2026 07:17:04 GMT</pubDate>
-            <media:thumbnail width="240" height="136" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a41b/live/b4f6f7a0-db65-11f1-a701-fddedf244c16.jpg"/>
+            <title><![CDATA[There's finally a treatment for my five-year-old's dementia - but it'll cost me £3m]]></title>
+            <description><![CDATA[The dementia treatment for children is available in the US, with funding for UK children unclear. ]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c8046kdw56e2o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c8046kdw56e2o#3</guid>
+            <pubDate>Sun, 08 Nov 2026 07:04:36 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d48b/live/91c3e9e0-faac-11f0-91f4-a739ab96be22.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[No one was thrown under the bus by ball-tampering revelations, says cricketer Khawaja]]></title>
+            <description><![CDATA[Usman Khawaja says he has "not thrown anyone under the bus" with revelations about the sandpaper scandal that engulfed the Australia team in 2018.]]></description>
+            <link>https://www.bbc.co.uk/sport/cricket/articles/c65yn1j4lrgno?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/cricket/articles/c65yn1j4lrgno#3</guid>
+            <pubDate>Sun, 08 Nov 2026 10:04:01 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed69/live/4a193640-db57-11f1-ad76-19cbf76aebb9.jpg"/>
         </item>
         <item>
             <title><![CDATA['We have our own fair playing field': 1Xtra launches first ever UK rap chart]]></title>
@@ -191,6 +207,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e997/live/d07a55f0-d88e-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Walsh-inspired Australia crush irate Samoa to reach World Cup final]]></title>
+            <description><![CDATA[Reece Walsh scores a hat-trick as Australia reach the Men's Rugby League World Cup final by overwhelming a Samoa side left fuming by a series of refereeing calls against them.]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-league/articles/cqd0914z959do?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/rugby-league/articles/cqd0914z959do#9</guid>
+            <pubDate>Sun, 08 Nov 2026 11:45:42 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f033/live/d703ada0-db5d-11f1-adda-c54f54e3ce6a.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[I haven't thrown anyone under the bus - Khawaja]]></title>
             <description><![CDATA[Usman Khawaja says he has "not thrown anyone under the bus" with revelations about the sandpaper scandal that engulfed the Australia team in 2018.]]></description>
             <link>https://www.bbc.co.uk/sport/cricket/articles/c65yn1j4lrgno?at_medium=RSS&amp;at_campaign=rss</link>
@@ -221,14 +245,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqev3rdvyvm1o#9</guid>
             <pubDate>Sun, 08 Nov 2026 00:17:56 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e50/live/d7267220-db00-11f1-969c-27c4482e95aa.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Qualifying conditions borderline - but Norris and Russell hoping for more rain]]></title>
-            <description><![CDATA[Polesitter Lando Norris says qualifying for the Sao Paulo Grand Prix brought "some of the wettest conditions" in which he had ever driven.]]></description>
-            <link>https://www.bbc.co.uk/sport/formula1/articles/cmde81d9nkxko?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/formula1/articles/cmde81d9nkxko#9</guid>
-            <pubDate>Sat, 07 Nov 2026 23:53:30 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/85f6/live/ade06d60-db02-11f1-969c-27c4482e95aa.jpg"/>
         </item>
     </channel>
 </rss>
