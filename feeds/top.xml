@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 08 Nov 2026 05:29:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Nov 2026 06:18:24 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -47,20 +47,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2980/live/0d4070d0-db11-11f1-a8c7-49f7fad62676.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Andy Burnham wants to get closer to the EU - but he shouldn't expect a smooth ride]]></title>
-            <description><![CDATA[Laura Kuenssberg talks to government insiders about the prime minister opening the conversation about the UK rejoining the EU.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cwjdmm0z74plo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwjdmm0z74plo#1</guid>
-            <pubDate>Sat, 07 Nov 2026 17:32:42 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ce4/live/95ac7ac0-da00-11f1-93e1-3b657b665bcf.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Two seriously injured after M20 crash involving more than 30 vehicles in Kent]]></title>
             <description><![CDATA[Police say more than 30 vehicles were involved in the incident on the M20 around 18:40 on Saturday.]]></description>
             <link>https://www.bbc.co.uk/news/articles/ck87z9exex2lo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ck87z9exex2lo#1</guid>
             <pubDate>Sun, 08 Nov 2026 04:09:21 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a9db/live/1a0c2d60-db23-11f1-a701-fddedf244c16.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Andy Burnham wants to get closer to the EU - but he shouldn't expect a smooth ride]]></title>
+            <description><![CDATA[Laura Kuenssberg talks to government insiders about the prime minister opening the conversation about the UK rejoining the EU.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cwjdmm0z74plo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwjdmm0z74plo#1</guid>
+            <pubDate>Sat, 07 Nov 2026 17:32:42 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ce4/live/95ac7ac0-da00-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
             <title><![CDATA['Dana, please take the job!' - Trump asks UFC boss to be White House press secretary]]></title>
