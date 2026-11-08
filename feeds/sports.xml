@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/sport/football</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 08 Nov 2026 12:56:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Nov 2026 13:41:10 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -175,12 +175,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8b3/live/47a9f080-db42-11f1-96fa-a5a773d1f96a.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Raya, Pickford and Wales' search for a new keeper]]></title>
-            <description><![CDATA[New Wales call-up Joe Duncan might be unknown to many, but some of the world's best goalkeepers have benefitted from non-league loans.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cry8335l96q5o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cry8335l96q5o#3</guid>
-            <pubDate>Sun, 08 Nov 2026 09:57:58 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a233/live/973f4f90-d9db-11f1-b4ca-fd31344b71b9.png"/>
+            <title><![CDATA[Shock changes & key results - Wrexham's seismic week ]]></title>
+            <description><![CDATA[BBC Sport Wales addresses the key changes made at Wrexham in what was a seismic week for the Championship club.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cqrkyg434y84o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqrkyg434y84o#3</guid>
+            <pubDate>Sun, 08 Nov 2026 13:19:22 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bde1/live/4a0a6a30-db4c-11f1-b441-2b33b063138f.png"/>
         </item>
         <item>
             <title><![CDATA[Tottenham set to complain to Pro Ref after Bogle escapes red card]]></title>
@@ -199,10 +199,18 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c1f/live/461973d0-daf2-11f1-b441-2b33b063138f.png"/>
         </item>
         <item>
+            <title><![CDATA[Raya, Pickford and Wales' search for a new keeper]]></title>
+            <description><![CDATA[New Wales call-up Joe Duncan might be unknown to many, but some of the world's best goalkeepers have benefitted from non-league loans.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cry8335l96q5o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cry8335l96q5o#3</guid>
+            <pubDate>Sun, 08 Nov 2026 09:57:58 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a233/live/973f4f90-d9db-11f1-b4ca-fd31344b71b9.png"/>
+        </item>
+        <item>
             <title><![CDATA['Bruno's as good as ever' - Carrick backs Man Utd captain]]></title>
             <description><![CDATA[Manchester United head coach Michael Carrick says captain Bruno Fernandes' commitment to the club is "undoubted" and the midfielder is "as good as ever".]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/ckj0l542v7pvo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ckj0l542v7pvo#3</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ckj0l542v7pvo#4</guid>
             <pubDate>Sat, 07 Nov 2026 22:44:20 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c211/live/bb3320f0-dad7-11f1-b441-2b33b063138f.jpg"/>
         </item>
