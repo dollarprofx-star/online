@@ -9,56 +9,16 @@
             <link>https://www.bbc.co.uk/sport/football</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 08 Nov 2026 08:26:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Nov 2026 09:15:17 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
-            <title><![CDATA[Delap double inspires Forest to stunning win over Man City]]></title>
-            <description><![CDATA[Liam Delap scores a superb double as Nottingham Forest stun Manchester City 3-1 for their first Premier League win at the City Ground this season.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/videos/crp3gewxj77eo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/crp3gewxj77eo#0</guid>
-            <pubDate>Sat, 07 Nov 2026 20:02:25 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3af7/live/d780fef0-dae4-11f1-a701-fddedf244c16.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Arsenal beat Hull to extend lead at top of the table ]]></title>
-            <description><![CDATA[Arsenal captain Martin Odegaard scores the winner as his side beat Hull City to extend their lead at the top of the Premier League table.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/videos/crx230ke2gzxo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/crx230ke2gzxo#0</guid>
-            <pubDate>Sat, 07 Nov 2026 19:59:31 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/000f/live/2a5829f0-dadb-11f1-a701-fddedf244c16.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Leeds beat Spurs to end five-game winless run]]></title>
-            <description><![CDATA[Noah Okafor scores the only goal of the game to give Leeds United their first win since the 14th of September, as Tottenham are beaten 1-0 at Elland Road in the Premier League.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/videos/ckz7x4jlypq3o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/ckz7x4jlypq3o#0</guid>
-            <pubDate>Sat, 07 Nov 2026 19:59:34 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c54a/live/5ed07bd0-dac5-11f1-b441-2b33b063138f.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Muniz strike denies Newcastle and Jaissle much-needed win]]></title>
-            <description><![CDATA[Rodrigo Muniz scores his first goal since the opening day of last season as Fulham deny Newcastle and head coach Matthias Jaissle a much-needed win at Craven Cottage.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/videos/cm2d69p2x3g7o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cm2d69p2x3g7o#0</guid>
-            <pubDate>Sat, 07 Nov 2026 19:59:37 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5f2/live/c2b20ec0-dade-11f1-93e1-3b657b665bcf.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Barry scores twice as Everton fight back to beat Coventry]]></title>
-            <description><![CDATA[In-form Thierno Barry scores twice as Everton came from behind to beat Coventry as the Toffees move into fifth in the Premier League table.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/videos/c62l44geqvlyo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/c62l44geqvlyo#0</guid>
-            <pubDate>Fri, 06 Nov 2026 22:30:12 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e94/live/6dde44f0-da2e-11f1-a701-fddedf244c16.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Maresca's dream start turns into nightmare as title hopes hit]]></title>
             <description><![CDATA[Enzo Maresca left the City Ground on Saturday evening with chants of "can we play you every week?" ringing in his ears - the Italian's dream start as Manchester City manager is rapidly turning into a nightmare.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cm93z0l03n8vo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cm93z0l03n8vo#1</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cm93z0l03n8vo#0</guid>
             <pubDate>Sat, 07 Nov 2026 20:54:12 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f6a/live/bd923d40-daf0-11f1-827e-c7e7ee102257.jpg"/>
         </item>
@@ -66,7 +26,7 @@
             <title><![CDATA['The worst conditions in my 35-year career' - commentating in the FA Cup fog]]></title>
             <description><![CDATA[BBC Sport commentator Steve Bower gives an insight into trying to commentate when thick fog engulfs a stadium and you can barely see the action.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cqev3rdvyvm1o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqev3rdvyvm1o#1</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqev3rdvyvm1o#0</guid>
             <pubDate>Sun, 08 Nov 2026 00:17:56 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e50/live/d7267220-db00-11f1-969c-27c4482e95aa.jpg"/>
         </item>
@@ -74,15 +34,31 @@
             <title><![CDATA[The oldest club in London making FA Cup history]]></title>
             <description><![CDATA[Cray Wanderers host Stockport County in the FA Cup first round, with 112 league places separating the two sides.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cv8ez3pe5x41o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cv8ez3pe5x41o#1</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cv8ez3pe5x41o#0</guid>
             <pubDate>Sun, 08 Nov 2026 06:28:56 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f765/live/7f024030-d860-11f1-85ab-b3cc3b5498c6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['I can't believe he is one of us' - inside Salah's life in Trabzon]]></title>
+            <description><![CDATA[BBC Sport travels to Turkey to watch Mohamed Salah play for Trabzonspor and discover how the 'Egyptian King' is settling into life by the Black Sea.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cmwyqzy934lxo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmwyqzy934lxo#0</guid>
+            <pubDate>Sun, 08 Nov 2026 07:30:01 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/054e/live/566a97f0-da93-11f1-8206-e519d24a9ca2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['It's Savage junior's night' - Charlie scores against dad Robbie's side]]></title>
+            <description><![CDATA[Robbie Savage's son Charlie scores for Reading against Peterborough United, the side his father manages in the first round of the FA Cup. ]]></description>
+            <link>https://www.bbc.co.uk/sport/football/videos/cmx2d76znxe1o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cmx2d76znxe1o#0</guid>
+            <pubDate>Sun, 08 Nov 2026 00:13:34 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43fe/live/d3069860-dafa-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
             <title><![CDATA[Another 1-0 for relentless Arsenal - but did Odegaard spare VAR blushes?]]></title>
             <description><![CDATA[Arsenal move six points clear at the top of the Premier League after beating Hull City - but did Martin Odegaard's goal save the blushes of the VAR?]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/c6rmyg7xpnj1o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6rmyg7xpnj1o#1</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6rmyg7xpnj1o#0</guid>
             <pubDate>Sat, 07 Nov 2026 19:34:32 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f07a/live/a49461b0-daf0-11f1-827e-c7e7ee102257.jpg"/>
         </item>
@@ -90,23 +66,15 @@
             <title><![CDATA[Why unique Brighton defence is so tricky to unpick]]></title>
             <description><![CDATA[Brighton's unique defensive shape has provided the platform for the Seagulls' superb start to the Premier League season.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cm0j033lnp5po?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cm0j033lnp5po#1</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cm0j033lnp5po#0</guid>
             <pubDate>Sun, 08 Nov 2026 06:41:37 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b513/live/0e138ac0-d90d-11f1-94c6-3f8050561bf5.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['I can't believe he is one of us' - inside Salah's life in Trabzon]]></title>
-            <description><![CDATA[BBC Sport travels to Turkey to watch Mohamed Salah play for Trabzonspor and discover how the 'Egyptian King' is settling into life by the Black Sea.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cmwyqzy934lxo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmwyqzy934lxo#1</guid>
-            <pubDate>Sun, 08 Nov 2026 07:30:01 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/054e/live/566a97f0-da93-11f1-8206-e519d24a9ca2.jpg"/>
         </item>
         <item>
             <title><![CDATA[Messi makes history with MLS Golden Boot]]></title>
             <description><![CDATA[Inter Miami forward Lionel Messi becomes the first player in MLS history to win the Golden Boot in consecutive seasons.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/ckr5ygezr0m9o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ckr5ygezr0m9o#1</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ckr5ygezr0m9o#0</guid>
             <pubDate>Sun, 08 Nov 2026 07:23:50 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8b3/live/47a9f080-db42-11f1-96fa-a5a773d1f96a.jpg"/>
         </item>
@@ -114,33 +82,57 @@
             <title><![CDATA[Tottenham set to complain to Pro Ref after Bogle escapes red card]]></title>
             <description><![CDATA[Tottenham are set to submit a formal complaint about the decision not to send off Jayden Bogle for his challenge on Mathys Tel during the defeat by Leeds.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/c39wz9llg255o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c39wz9llg255o#1</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c39wz9llg255o#0</guid>
             <pubDate>Sat, 07 Nov 2026 16:35:26 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4437/live/77476990-dac4-11f1-bda8-29fb69dbc026.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['Bruno's as good as ever' - Carrick backs Man Utd captain]]></title>
-            <description><![CDATA[Manchester United head coach Michael Carrick says captain Bruno Fernandes' commitment to the club is "undoubted" and the midfielder is "as good as ever".]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/ckj0l542v7pvo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ckj0l542v7pvo#1</guid>
-            <pubDate>Sat, 07 Nov 2026 22:44:20 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c211/live/bb3320f0-dad7-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
             <title><![CDATA[Liverpool considering Verbruggen move - Sunday's gossip]]></title>
             <description><![CDATA[Liverpool consider move for Brighton keeper Bart Verbruggen, Bayern Munich remain in talks with Rio Ngumoha's camp, Tottenham midfielder Conor Gallagher monitored by rival Premier League clubs, plus more.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/c54g1nepgr28o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c54g1nepgr28o#1</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c54g1nepgr28o#0</guid>
             <pubDate>Sat, 07 Nov 2026 22:05:40 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c1f/live/461973d0-daf2-11f1-b441-2b33b063138f.png"/>
         </item>
         <item>
-            <title><![CDATA['It's Savage junior's night' - Charlie scores against dad Robbie's side]]></title>
-            <description><![CDATA[Robbie Savage's son Charlie scores for Reading against Peterborough United, the side his father manages in the first round of the FA Cup. ]]></description>
-            <link>https://www.bbc.co.uk/sport/football/videos/cmx2d76znxe1o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cmx2d76znxe1o#2</guid>
-            <pubDate>Sun, 08 Nov 2026 00:13:34 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43fe/live/d3069860-dafa-11f1-a701-fddedf244c16.jpg"/>
+            <title><![CDATA[Delap double inspires Forest to stunning win over Man City]]></title>
+            <description><![CDATA[Liam Delap scores a superb double as Nottingham Forest stun Manchester City 3-1 for their first Premier League win at the City Ground this season.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/videos/crp3gewxj77eo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/crp3gewxj77eo#1</guid>
+            <pubDate>Sat, 07 Nov 2026 20:02:25 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3af7/live/d780fef0-dae4-11f1-a701-fddedf244c16.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arsenal beat Hull to extend lead at top of the table ]]></title>
+            <description><![CDATA[Arsenal captain Martin Odegaard scores the winner as his side beat Hull City to extend their lead at the top of the Premier League table.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/videos/crx230ke2gzxo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/crx230ke2gzxo#1</guid>
+            <pubDate>Sat, 07 Nov 2026 19:59:31 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/000f/live/2a5829f0-dadb-11f1-a701-fddedf244c16.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Leeds beat Spurs to end five-game winless run]]></title>
+            <description><![CDATA[Noah Okafor scores the only goal of the game to give Leeds United their first win since the 14th of September, as Tottenham are beaten 1-0 at Elland Road in the Premier League.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/videos/ckz7x4jlypq3o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/ckz7x4jlypq3o#1</guid>
+            <pubDate>Sat, 07 Nov 2026 19:59:34 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c54a/live/5ed07bd0-dac5-11f1-b441-2b33b063138f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Muniz strike denies Newcastle and Jaissle much-needed win]]></title>
+            <description><![CDATA[Rodrigo Muniz scores his first goal since the opening day of last season as Fulham deny Newcastle and head coach Matthias Jaissle a much-needed win at Craven Cottage.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/videos/cm2d69p2x3g7o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cm2d69p2x3g7o#1</guid>
+            <pubDate>Sat, 07 Nov 2026 19:59:37 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5f2/live/c2b20ec0-dade-11f1-93e1-3b657b665bcf.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Barry scores twice as Everton fight back to beat Coventry]]></title>
+            <description><![CDATA[In-form Thierno Barry scores twice as Everton came from behind to beat Coventry as the Toffees move into fifth in the Premier League table.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/videos/c62l44geqvlyo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/c62l44geqvlyo#1</guid>
+            <pubDate>Fri, 06 Nov 2026 22:30:12 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e94/live/6dde44f0-da2e-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
             <title><![CDATA[Arsenal should have been awarded penalty against Hull - Cann]]></title>
@@ -173,6 +165,22 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cq77p24myz4ro#2</guid>
             <pubDate>Sat, 07 Nov 2026 21:25:19 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6717/live/4e067140-daef-11f1-a701-fddedf244c16.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Forest win over Man City 'a turning point' - Murphy]]></title>
+            <description><![CDATA[Match of the Day's Danny Murphy breaks down Nottingham Forest's impressive 3-1 win over Manchester City, a victory that he believes could be "a turning point" in Forest's first season under Oliver Glasner.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/videos/c893zr4rlzp1o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/c893zr4rlzp1o#2</guid>
+            <pubDate>Sun, 08 Nov 2026 00:00:14 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a390/live/b108e540-dafc-11f1-a701-fddedf244c16.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Bruno's as good as ever' - Carrick backs Man Utd captain]]></title>
+            <description><![CDATA[Manchester United head coach Michael Carrick says captain Bruno Fernandes' commitment to the club is "undoubted" and the midfielder is "as good as ever".]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/ckj0l542v7pvo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ckj0l542v7pvo#3</guid>
+            <pubDate>Sat, 07 Nov 2026 22:44:20 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c211/live/bb3320f0-dad7-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
             <title><![CDATA[Glasner glee and Delap double - win could be lift-off for Forest]]></title>
@@ -213,14 +221,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cq62yp4lg831o#4</guid>
             <pubDate>Sat, 07 Nov 2026 17:00:38 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05de/live/79243450-dace-11f1-bda8-29fb69dbc026.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Forest win over Man City 'a turning point' - Murphy]]></title>
-            <description><![CDATA[Match of the Day's Danny Murphy breaks down Nottingham Forest's impressive 3-1 win over Manchester City, a victory that he believes could be "a turning point" in Forest's first season under Oliver Glasner.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/videos/c893zr4rlzp1o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/c893zr4rlzp1o#6</guid>
-            <pubDate>Sun, 08 Nov 2026 00:00:14 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a390/live/b108e540-dafc-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
             <title><![CDATA[Highlights: Non-league Kidderminster shock League One Doncaster]]></title>
@@ -278,7 +278,7 @@
             <description><![CDATA[James Trafford says not playing for Manchester City last season was "horrendous" and left him with no choice but to leave the club and join Leeds United in the summer.
 ]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/ckly00wq495zo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ckly00wq495zo#7</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ckly00wq495zo#8</guid>
             <pubDate>Sat, 07 Nov 2026 07:16:37 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bef3/live/6773ae50-da1c-11f1-b441-2b33b063138f.jpg"/>
         </item>
@@ -291,12 +291,12 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/171e/live/563c7180-dadf-11f1-88f9-d3c2139f8619.jpg"/>
         </item>
         <item>
-            <title><![CDATA[My dream is to win Ballon d'Or - Gabriel]]></title>
-            <description><![CDATA[Manchester United forward JJ Gabriel says his "dream is to win the Ballon d'Or", as he closes in on a move to Real Madrid.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cmy4x9yq3xg3o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmy4x9yq3xg3o#8</guid>
-            <pubDate>Sat, 07 Nov 2026 12:25:14 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a16/live/eaf4a7b0-daa4-11f1-9da2-b11e4d68c08e.jpg"/>
+            <title><![CDATA['A beautiful story' as Bellingham brothers called up]]></title>
+            <description><![CDATA[It may be a surprise to some but Jobe Bellingham's call up to the England senior side has been a long time coming.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/c5x2vvjy2rpeo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c5x2vvjy2rpeo#11</guid>
+            <pubDate>Fri, 06 Nov 2026 14:16:34 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/90e1/live/6e8557d0-d9d5-11f1-9e5a-c30c5e3d8c85.jpg"/>
         </item>
         <item>
             <title><![CDATA[Sutton's predictions v Football Manager, the game]]></title>
@@ -329,14 +329,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cp30ggvqj0do#11</guid>
             <pubDate>Thu, 05 Nov 2026 12:14:33 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d644/live/e6e3eb50-d83c-11f1-a701-fddedf244c16.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Why Man Utd's Roma comeback has echoes of Mourinho and Solskjaer]]></title>
-            <description><![CDATA[After their memorable comeback victory against Roma, can Manchester United avoid a repeat of the past and follow that up with a successive victory?]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cqx28zjxdxxzo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqx28zjxdxxzo#11</guid>
-            <pubDate>Wed, 04 Nov 2026 16:12:46 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/37d4/live/9ead2680-d85a-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
             <title><![CDATA[Manager ins and outs - 2026-27]]></title>
@@ -435,7 +427,7 @@
             <media:thumbnail url="https://ichef.bbci.co.uk/images/ic/480xn/p0pcy7f1.png"/>
         </item>
         <item>
-            <title><![CDATA['Curtains for Robinson' or can floundering Aberdeen boss survive?]]></title>
+            <title><![CDATA['Curtains for Robinson' or can foundering Aberdeen boss survive?]]></title>
             <description><![CDATA[Will the "unacceptable" 4-0 home defeat to fellow strugglers Hibernian signal the end of Stephen Robinson's Aberdeen tenure?]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/crlyk582kpn1o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/crlyk582kpn1o#17</guid>
