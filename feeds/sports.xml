@@ -9,19 +9,11 @@
             <link>https://www.bbc.co.uk/sport/football</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 08 Nov 2026 00:42:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Nov 2026 01:47:03 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
-        <item>
-            <title><![CDATA[Match of the Day]]></title>
-            <description><![CDATA[With Arsenal v Hull, Forest v Man City, Leeds v Spurs and Fulham v Newcastle]]></description>
-            <link>https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/iplayer/live/bbcone#0</guid>
-            <pubDate>Sun, 08 Nov 2026 00:00:56 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0plmswc.jpg"/>
-        </item>
         <item>
             <title><![CDATA[Delap double inspires Forest to stunning win over Man City]]></title>
             <description><![CDATA[Liam Delap scores a superb double as Nottingham Forest stun Manchester City 3-1 for their first Premier League win at the City Ground this season.]]></description>
@@ -223,23 +215,23 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f76b/live/d5470b20-dafd-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Substitutes inspire Barnet to late win over Tranmere Rovers]]></title>
-            <description><![CDATA[Barnet score three goals in the final 15 minutes of the match to beat Tranmere Rovers 3-0 in the first round of the FA Cup.
+            <title><![CDATA[Charlie Savage shines for Reading to beat dad Robbie's Peterborough]]></title>
+            <description><![CDATA[Charlie Savage scores his first goal of the season and puts in a man-of-the-match performance for Reading who knock out dad Robbie's Peterborough United in the FA Cup first round.
 
 
 ]]></description>
-            <link>https://www.bbc.co.uk/sport/football/videos/cqd091gjpj4zo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cqd091gjpj4zo#6</guid>
-            <pubDate>Sun, 08 Nov 2026 00:28:51 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c20f/live/ea4fddc0-db08-11f1-a701-fddedf244c16.jpg"/>
+            <link>https://www.bbc.co.uk/sport/football/videos/cqx29ey1m9zpo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cqx29ey1m9zpo#6</guid>
+            <pubDate>Sun, 08 Nov 2026 00:12:24 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7cd5/live/3587f350-daf9-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Fylde beat Harrogate Town in all-National League clash ]]></title>
-            <description><![CDATA[Two late goals secure a 4-1 win for Fylde against Harrogate Town in an all-National League FA Cup first round tie.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/videos/cqp8g3xkvdk5o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cqp8g3xkvdk5o#6</guid>
-            <pubDate>Sun, 08 Nov 2026 00:04:58 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e9e/live/8f020630-db05-11f1-93e1-3b657b665bcf.jpg"/>
+            <title><![CDATA[Highlights: Exeter shock League One leaders Huddersfield ]]></title>
+            <description><![CDATA[League Two Exeter City pull off an upset 2-1 win away to League One leaders Huddersfield Town to progress into the second round of the FA Cup.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/videos/cq8rz7lyl5g8o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cq8rz7lyl5g8o#6</guid>
+            <pubDate>Sat, 07 Nov 2026 23:08:32 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/25c4/live/f37426e0-dafe-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
             <title><![CDATA[Okafor the difference despite Van Hecke defiance - Leeds v Spurs ratings]]></title>
