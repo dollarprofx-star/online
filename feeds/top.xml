@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 08 Nov 2026 17:41:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Nov 2026 18:14:52 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -21,6 +21,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqy8l0gyvvv2o#1</guid>
             <pubDate>Sun, 08 Nov 2026 13:49:07 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e401/live/d9d100d0-db91-11f1-b441-2b33b063138f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Seven dead and more than 100 injured after trains collide in Egypt]]></title>
+            <description><![CDATA[Several carriages derailed after two trains travelling in the same direction crashed outside the city of Giza.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwvgr20mmmevo#1</guid>
+            <pubDate>Sun, 08 Nov 2026 17:35:13 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3886/live/ab03aa70-db8a-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
             <title><![CDATA[Footage shows derailed carriages after fatal train crash in Egypt]]></title>
@@ -75,7 +83,7 @@
             <description><![CDATA[Police Scotland said three officers were hurt as they responded to reports of a large disturbance in streets close to the Ovo Hydro venue in Glasgow. ]]></description>
             <link>https://www.bbc.co.uk/news/articles/c8zxl9417e5vo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c8zxl9417e5vo#1</guid>
-            <pubDate>Sun, 08 Nov 2026 14:13:43 GMT</pubDate>
+            <pubDate>Sun, 08 Nov 2026 17:42:28 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d42/live/5bcb9e00-db7a-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
@@ -189,6 +197,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/iplayer/episode/m0027nc1/sense-and-sensibility?at_mid=CzprLxMc6q&amp;at_campaign=Sense_and_Sensibility&amp;at_medium=display_ad&amp;at_campaign_type=owned&amp;at_audience_id=SS&amp;at_product=iplayer&amp;at_brand=m0027nc1&amp;at_ptr_name=bbc&amp;at_ptr_type=media&amp;at_format=image&amp;at_objective=consumption&amp;at_link_title=Sense_and_Sensibility&amp;at_bbc_team=BBC#7</guid>
             <pubDate>Sat, 31 Oct 2026 15:35:30 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e997/live/d07a55f0-d88e-11f1-b441-2b33b063138f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Alcaraz takes revenge on Shelton to win first Paris title]]></title>
+            <description><![CDATA[Carlos Alcaraz takes revenge on Ben Shelton as the Spaniard's remarkable comeback from injury continues with victory in the final of the Paris Masters.]]></description>
+            <link>https://www.bbc.co.uk/sport/tennis/articles/ck9qz8d2znl5o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/ck9qz8d2znl5o#8</guid>
+            <pubDate>Sun, 08 Nov 2026 17:56:35 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96ae/live/c1b3eb80-db95-11f1-a42b-dbe60e973664.jpg"/>
         </item>
     </channel>
 </rss>

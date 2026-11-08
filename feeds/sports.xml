@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/sport/football</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 08 Nov 2026 17:41:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Nov 2026 18:14:51 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -39,12 +39,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb05/live/a92d9140-db92-11f1-9029-d35c55297624.jpg"/>
         </item>
         <item>
-            <title><![CDATA['Dreamland!' - Cray score brilliant free-kick as Stockport down to 10]]></title>
-            <description><![CDATA[Stockport goalkeeper Luca Ashby-Hammond is given a straight red card after a challenge on the edge of the box and from the subsequent free-kick Alex Hernandez doubles Cray Wanderers' lead with a fantastic free-kick.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/videos/c64g1n4w70p9o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/c64g1n4w70p9o#0</guid>
-            <pubDate>Sun, 08 Nov 2026 15:31:43 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e26/live/01e0be90-db87-11f1-a701-fddedf244c16.jpg"/>
+            <title><![CDATA[London City thump Birmingham to close gap on second]]></title>
+            <description><![CDATA[London City Lionesses defeat Birmingham City 4-1 to move to within four points of second-placed Chelsea in the WSL.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/videos/c62kel300wwxo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/c62kel300wwxo#0</guid>
+            <pubDate>Sun, 08 Nov 2026 17:06:21 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab49/live/a17f5c70-db93-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
             <title><![CDATA[Last season difficult with injury and miscarriage - Muniz]]></title>
@@ -63,44 +63,47 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/054e/live/566a97f0-da93-11f1-8206-e519d24a9ca2.jpg"/>
         </item>
         <item>
+            <title><![CDATA[10-man Stockport come from behind to survive huge scare at Cray]]></title>
+            <description><![CDATA[League One Stockport County survive a scare to beat Isthmian League side Cray Wanderers 3-2 after extra time in the FA Cup first round.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/videos/cqj9km408d38o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cqj9km408d38o#2</guid>
+            <pubDate>Sun, 08 Nov 2026 17:39:15 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/75bc/live/f85f7240-db99-11f1-a701-fddedf244c16.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Russo double gives Arsenal win over Liverpool at Anfield]]></title>
+            <description><![CDATA[Alessia Russo scores twice to give Arsenal a much-needed 2-1 win over Liverpool at Anfield, to move up to seventh place in the WSL.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/videos/c8qlnq73n6lyo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/c8qlnq73n6lyo#2</guid>
+            <pubDate>Sun, 08 Nov 2026 17:45:27 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4bfb/live/d0b51af0-db81-11f1-93e1-3b657b665bcf.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Grimsby fight back from two goals down to edge Stafford on penalties]]></title>
+            <description><![CDATA[League Two side Grimsby Town recover from a two-goal deficit against the FA Cup first round's lowest-ranked team, Stafford Rangers. Grimsby battled back to level the tie at 3-3 before winning 3-2 in the penalty shootout to book their place in the second round.  
+
+
+]]></description>
+            <link>https://www.bbc.co.uk/sport/football/videos/cv5yn1w5j359o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cv5yn1w5j359o#2</guid>
+            <pubDate>Sun, 08 Nov 2026 17:00:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d55a/live/11e79f60-db8d-11f1-93e1-3b657b665bcf.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Dreamland!' - Cray score brilliant free-kick as Stockport down to 10]]></title>
+            <description><![CDATA[Stockport goalkeeper Luca Ashby-Hammond is given a straight red card after a challenge on the edge of the box and from the subsequent free-kick Alex Hernandez doubles Cray Wanderers' lead with a fantastic free-kick.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/videos/c64g1n4w70p9o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/c64g1n4w70p9o#2</guid>
+            <pubDate>Sun, 08 Nov 2026 15:31:43 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e26/live/01e0be90-db87-11f1-a701-fddedf244c16.jpg"/>
+        </item>
+        <item>
             <title><![CDATA['It's Savage junior's night' - Charlie scores against dad Robbie's side]]></title>
             <description><![CDATA[Robbie Savage's son Charlie scores for Reading against Peterborough United, the side his father manages in the first round of the FA Cup. ]]></description>
             <link>https://www.bbc.co.uk/sport/football/videos/cmx2d76znxe1o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cmx2d76znxe1o#2</guid>
             <pubDate>Sun, 08 Nov 2026 00:13:34 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43fe/live/d3069860-dafa-11f1-a701-fddedf244c16.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Arsenal should have been awarded penalty against Hull - Cann]]></title>
-            <description><![CDATA[Former Premier League assistant referee Darren Cann explains why Arsenal should have been awarded a penalty for a foul on Kai Havertz in the Premier League champions' 1-0 win over Hull City.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/videos/cr4g1n21vgp3o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cr4g1n21vgp3o#2</guid>
-            <pubDate>Sun, 08 Nov 2026 00:00:09 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8601/live/81888e60-dafc-11f1-93e1-3b657b665bcf.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['Wonderful goal' - Crewe's McNeill scores from halfway line]]></title>
-            <description><![CDATA[Charlie McNeill scores from the halfway line in the 12th minute to open the scoring for Crewe Alexandra against AFC Wimbledon in the first round of the FA Cup.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/videos/cmkgekn1007qo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cmkgekn1007qo#2</guid>
-            <pubDate>Sun, 08 Nov 2026 00:07:11 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c339/live/0442b290-db07-11f1-93e1-3b657b665bcf.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[York score after 10 seconds against Northampton following unique kick-off]]></title>
-            <description><![CDATA[Ollie Pearce scores after 10 seconds as York City see off Northampton Town in a 4-0  win to reach the second round of the FA Cup.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/videos/c893zrl4p7npo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/c893zrl4p7npo#2</guid>
-            <pubDate>Sat, 07 Nov 2026 23:38:38 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a54/live/c702b650-db01-11f1-a701-fddedf244c16.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Notts County beat Altrincham in incredible fog-filled spectacle ]]></title>
-            <description><![CDATA[Notts County find a way to get past National League Altrincham in incredible conditions.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/videos/cq77p24myz4ro?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cq77p24myz4ro#2</guid>
-            <pubDate>Sat, 07 Nov 2026 21:25:19 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6717/live/4e067140-daef-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
             <title><![CDATA[England await Guehi scan results after injury concern]]></title>
@@ -125,14 +128,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6dxw1k2x4kno#3</guid>
             <pubDate>Sun, 08 Nov 2026 10:10:27 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b5f6/live/df39e250-db08-11f1-97a6-7f91220beb58.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['The worst conditions in my 35-year career' - commentating in the FA Cup fog]]></title>
-            <description><![CDATA[BBC Sport commentator Steve Bower gives an insight into trying to commentate when thick fog engulfs a stadium and you can barely see the action.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cqev3rdvyvm1o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqev3rdvyvm1o#3</guid>
-            <pubDate>Sun, 08 Nov 2026 00:17:56 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e50/live/d7267220-db00-11f1-969c-27c4482e95aa.jpg"/>
         </item>
         <item>
             <title><![CDATA[Messi makes history with MLS Golden Boot]]></title>
@@ -183,6 +178,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e94/live/6dde44f0-da2e-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
+            <title><![CDATA['The worst conditions in my 35-year career' - commentating in the FA Cup fog]]></title>
+            <description><![CDATA[BBC Sport commentator Steve Bower gives an insight into trying to commentate when thick fog engulfs a stadium and you can barely see the action.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cqev3rdvyvm1o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqev3rdvyvm1o#6</guid>
+            <pubDate>Sun, 08 Nov 2026 00:17:56 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e50/live/d7267220-db00-11f1-969c-27c4482e95aa.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Maresca's dream start turns into nightmare as title hopes hit]]></title>
             <description><![CDATA[Enzo Maresca left the City Ground with chants of "can we play you every week?" ringing in his ears, as Manchester City's dream start turns into a nightmare.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cm93z0l03n8vo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -223,44 +226,44 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a233/live/973f4f90-d9db-11f1-b4ca-fd31344b71b9.png"/>
         </item>
         <item>
+            <title><![CDATA[Arsenal should have been awarded penalty against Hull - Cann]]></title>
+            <description><![CDATA[Former Premier League assistant referee Darren Cann explains why Arsenal should have been awarded a penalty for a foul on Kai Havertz in the Premier League champions' 1-0 win over Hull City.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/videos/cr4g1n21vgp3o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cr4g1n21vgp3o#7</guid>
+            <pubDate>Sun, 08 Nov 2026 00:00:09 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8601/live/81888e60-dafc-11f1-93e1-3b657b665bcf.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Wonderful goal' - Crewe's McNeill scores from halfway line]]></title>
+            <description><![CDATA[Charlie McNeill scores from the halfway line in the 12th minute to open the scoring for Crewe Alexandra against AFC Wimbledon in the first round of the FA Cup.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/videos/cmkgekn1007qo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cmkgekn1007qo#7</guid>
+            <pubDate>Sun, 08 Nov 2026 00:07:11 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c339/live/0442b290-db07-11f1-93e1-3b657b665bcf.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[York score after 10 seconds against Northampton following unique kick-off]]></title>
+            <description><![CDATA[Ollie Pearce scores after 10 seconds as York City see off Northampton Town in a 4-0  win to reach the second round of the FA Cup.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/videos/c893zrl4p7npo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/c893zrl4p7npo#7</guid>
+            <pubDate>Sat, 07 Nov 2026 23:38:38 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a54/live/c702b650-db01-11f1-a701-fddedf244c16.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Notts County beat Altrincham in incredible fog-filled spectacle ]]></title>
+            <description><![CDATA[Notts County find a way to get past National League Altrincham in incredible conditions.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/videos/cq77p24myz4ro?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cq77p24myz4ro#7</guid>
+            <pubDate>Sat, 07 Nov 2026 21:25:19 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6717/live/4e067140-daef-11f1-a701-fddedf244c16.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Watch: Saturday's Scottish Premiership highlights]]></title>
             <description><![CDATA[Watch Saturday's Scottish Premiership highlights on Sportscene as Rangers beat St Mirren, Hibernian thump Aberdeen, St Johnstone edge Dundee, while Dundee United and Motherwell share the points.]]></description>
             <link>https://www.bbc.co.uk/sport/videos/ck3r5g1j97nno?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/videos/ck3r5g1j97nno#7</guid>
             <pubDate>Sun, 08 Nov 2026 10:29:54 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fe2/live/46f4f230-db5f-11f1-b441-2b33b063138f.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Forest win over Man City 'a turning point' - Murphy]]></title>
-            <description><![CDATA[Match of the Day's Danny Murphy breaks down Nottingham Forest's impressive 3-1 win over Manchester City, a victory that he believes could be "a turning point" in Forest's first season under Oliver Glasner.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/videos/c893zr4rlzp1o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/c893zr4rlzp1o#7</guid>
-            <pubDate>Sun, 08 Nov 2026 00:00:14 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a390/live/b108e540-dafc-11f1-a701-fddedf244c16.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Highlights: Non-league Kidderminster shock League One Doncaster]]></title>
-            <description><![CDATA[National League Kidderminster shock League One Doncaster to progress to the second round of the FA Cup.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/videos/ck9dz7l6exx3o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/ck9dz7l6exx3o#7</guid>
-            <pubDate>Sat, 07 Nov 2026 17:23:20 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b477/live/b17159f0-dace-11f1-93e1-3b657b665bcf.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Was Leeds' Bogle lucky to escape red card?]]></title>
-            <description><![CDATA[Match of the Day's Steph Houghton and Danny Murphy assess whether a challenge from Leeds United's Jayden Bogle on Tottenham's Mathys Tel was worthy of a red card.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/videos/c6lyl7qvq8ejo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/c6lyl7qvq8ejo#7</guid>
-            <pubDate>Sun, 08 Nov 2026 00:00:26 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16a1/live/ae222e20-dafe-11f1-b441-2b33b063138f.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[McNeill's superb halfway goal sparks Crewe upset over Wimbledon]]></title>
-            <description><![CDATA[Charlie McNeill's strike from the halfway line helps League Two frontrunners Crewe progress to the second round of the FA Cup, with a 2-1 win over League One AFC Wimbledon.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/videos/cv5yn15k5pz0o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cv5yn15k5pz0o#7</guid>
-            <pubDate>Sat, 07 Nov 2026 23:05:36 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f76b/live/d5470b20-dafd-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
             <title><![CDATA[Glasner glee and Delap double - win could be lift-off for Forest]]></title>
