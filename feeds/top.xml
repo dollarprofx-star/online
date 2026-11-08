@@ -9,13 +9,13 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 08 Nov 2026 15:01:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Nov 2026 15:42:19 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
-            <title><![CDATA[King leads solemn Remembrance service at Cenotaph]]></title>
+            <title><![CDATA[King leads solemn Remembrance Sunday service at Cenotaph]]></title>
             <description><![CDATA[Wreaths are laid as 10,000 armed forces veterans, including 12 from World War Two, pay tribute in central London.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cqy8l0gyvvv2o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqy8l0gyvvv2o#1</guid>
@@ -35,7 +35,7 @@
             <description><![CDATA[Lisa Nandy tells the BBC "many people" in the media industry have come forward to her.]]></description>
             <link>https://www.bbc.co.uk/news/articles/ckn9r0zd0ynwo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckn9r0zd0ynwo#1</guid>
-            <pubDate>Sun, 08 Nov 2026 13:57:43 GMT</pubDate>
+            <pubDate>Sun, 08 Nov 2026 15:37:57 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/faca/live/23423a10-db77-11f1-b1f1-3be4e895d0fe.jpg"/>
         </item>
         <item>
@@ -43,7 +43,7 @@
             <description><![CDATA[The culture secretary confirms reports they could be in the list of platforms set to be banned next March.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro#1</guid>
-            <pubDate>Sun, 08 Nov 2026 11:25:32 GMT</pubDate>
+            <pubDate>Sun, 08 Nov 2026 15:37:25 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1427/live/5d17fd80-db61-11f1-adda-c54f54e3ce6a.jpg"/>
         </item>
         <item>
@@ -95,20 +95,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b15/live/9cf3fa20-d9e1-11f1-a701-fddedf244c16.png"/>
         </item>
         <item>
+            <title><![CDATA[Homes and temples glow across India to mark Diwali]]></title>
+            <description><![CDATA[Millions of Indians are marking the festival of lights with glowing lamps, fireworks and traditional sweets.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cm70pdwz122ro?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm70pdwz122ro#3</guid>
+            <pubDate>Sun, 08 Nov 2026 14:42:09 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b73/live/64aba5a0-db85-11f1-b441-2b33b063138f.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Nandy rejects claims of politicising Remembrance Sunday after Erasmus row]]></title>
             <description><![CDATA[The culture secretary says the UK rejoining the EU's study and work scheme will help honour wartime sacrifice.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cmvg72p1zgvlo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmvg72p1zgvlo#3</guid>
             <pubDate>Sun, 08 Nov 2026 13:05:30 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d4c/live/354198e0-db64-11f1-b441-2b33b063138f.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Trump asks UFC boss to be White House press secretary: 'Dana, please take the job!']]></title>
-            <description><![CDATA[It was unclear how genuine the president's offer was, although White later said he would travel to Washington for them to meet. ]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cvze47p9jeexo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cvze47p9jeexo#3</guid>
-            <pubDate>Sun, 08 Nov 2026 00:31:53 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8536/live/2fdfe760-dafd-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
             <title><![CDATA[I won't let my daughter's killer live in my head, says Sarah Payne's mother]]></title>
@@ -133,14 +133,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c8046kdw56e2o#3</guid>
             <pubDate>Sun, 08 Nov 2026 07:04:36 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d48b/live/91c3e9e0-faac-11f0-91f4-a739ab96be22.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[I didn't throw anyone under the bus with ball-tampering revelations, says cricketer Khawaja]]></title>
-            <description><![CDATA[Usman Khawaja says he has "not thrown anyone under the bus" with revelations about the sandpaper scandal that engulfed the Australia team in 2018.]]></description>
-            <link>https://www.bbc.co.uk/sport/cricket/articles/c65yn1j4lrgno?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/cricket/articles/c65yn1j4lrgno#3</guid>
-            <pubDate>Sun, 08 Nov 2026 10:04:01 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed69/live/4a193640-db57-11f1-ad76-19cbf76aebb9.jpg"/>
         </item>
         <item>
             <title><![CDATA[AirTag hidden in historic wall reveals stone thief]]></title>
@@ -197,14 +189,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/iplayer/episode/m0027nc1/sense-and-sensibility?at_mid=CzprLxMc6q&amp;at_campaign=Sense_and_Sensibility&amp;at_medium=display_ad&amp;at_campaign_type=owned&amp;at_audience_id=SS&amp;at_product=iplayer&amp;at_brand=m0027nc1&amp;at_ptr_name=bbc&amp;at_ptr_type=media&amp;at_format=image&amp;at_objective=consumption&amp;at_link_title=Sense_and_Sensibility&amp;at_bbc_team=BBC#8</guid>
             <pubDate>Sat, 31 Oct 2026 15:35:30 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e997/live/d07a55f0-d88e-11f1-b441-2b33b063138f.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['That's Reece' - World Cup semi-final brings out best and worst of Walsh]]></title>
-            <description><![CDATA[On a fractious night in Sydney that ended with Australia reaching yet another Men's Rugby League World Cup final, it was no surprise to see Reece Walsh centre stage – for better or worse.]]></description>
-            <link>https://www.bbc.co.uk/sport/rugby-league/articles/cm93zrw2wz9go?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/rugby-league/articles/cm93zrw2wz9go#9</guid>
-            <pubDate>Sun, 08 Nov 2026 13:57:54 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b08/live/3fdc47d0-db7a-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
             <title><![CDATA[I haven't thrown anyone under the bus - Khawaja]]></title>
