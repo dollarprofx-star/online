@@ -5,7 +5,7 @@
         <atom:link href="https://rss.punchng.com" rel="self" type="application/rss+xml" />
         <link> https://rss.punchng.com </link>
         <description> Get the latest News in Nigeria </description>
-        <lastBuildDate> Sun, 08 Nov 2026 04:30:00 +0000</lastBuildDate>
+        <lastBuildDate> Sun, 08 Nov 2026 05:25:11 +0000</lastBuildDate>
         <language> en-US </language>
         <sy:updatePeriod> minutely	</sy:updatePeriod>
         <sy:updateFrequency> 5	</sy:updateFrequency>
@@ -13,6 +13,20 @@
         <generator>https://rss.punchng.com</generator>
 
         <item>
+                        <title>Messi wins second straight MLS Golden Boot, Nashville set record</title>
+                        <link>https://punchng.com/messi-wins-second-straight-mls-golden-boot-nashville-set-record/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
+                        <pubDate>Sun, 08 Nov 2026 05:48:05 +0000</pubDate>
+                        <dc:creator><![CDATA[Punch Newspapers]]></dc:creator>
+                        <category><![CDATA[]]></category>
+                        <guid isPermaLink='true'>https://punchng.com/messi-wins-second-straight-mls-golden-boot-nashville-set-record/?utm_source=rss.punchng.com&amp;utm_medium=web</guid>
+                        <description><![CDATA[
+
+AInter Miami&#8217;s Lionel Messi won his second consecutive MLS Golden Boot award on Saturday after the defending champions took second place in the Eastern Conference with a wasteful 3-3 draw against Charlotte on the final day of the regular season.
+
+Read More: https://punchng.com/messi-wins-second-straight-mls-golden-boot-nashville-set-record/]]></description>
+                        <enclosure url='https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png' length='342247' type='image/png'/>
+                    </item>
+                    <item>
                         <title>Three die in Ogun road crashes</title>
                         <link>https://punchng.com/three-die-in-ogun-road-crashes/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
                         <pubDate>Sun, 08 Nov 2026 05:02:03 +0000</pubDate>
@@ -416,20 +430,6 @@ Read More: https://punchng.com/poor-immunisation-insecurity-fuelling-circulation
 The Chairman of the Northern States Governors’ Forum, Muhammadu Yahaya, has urged his colleagues in the region to put aside political differences and adopt a common development strategy to tackle the estimated 18 million out-of-school children in the country.
 
 Read More: https://punchng.com/north-must-unite-to-tackle-18m-out-of-school-children-ngf-chair/]]></description>
-                        <enclosure url='https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png' length='342247' type='image/png'/>
-                    </item>
-                    <item>
-                        <title>Lagos households spend N45,000 monthly as water crisis worsens</title>
-                        <link>https://punchng.com/lagos-households-spend-n45000-monthly-as-water-crisis-worsens/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
-                        <pubDate>Sun, 08 Nov 2026 00:05:45 +0000</pubDate>
-                        <dc:creator><![CDATA[Punch Newspapers]]></dc:creator>
-                        <category><![CDATA[]]></category>
-                        <guid isPermaLink='true'>https://punchng.com/lagos-households-spend-n45000-monthly-as-water-crisis-worsens/?utm_source=rss.punchng.com&amp;utm_medium=web</guid>
-                        <description><![CDATA[
-
-With the Lagos State Water Corporation supplying water to only 1.65 million residents, representing about 8.3 per cent of a population of over 20 million, millions of Lagos residents depend on…
-
-Read More: https://punchng.com/lagos-households-spend-n45000-monthly-as-water-crisis-worsens/]]></description>
                         <enclosure url='https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png' length='342247' type='image/png'/>
                     </item>
                         </channel>
