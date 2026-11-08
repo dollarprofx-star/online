@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 08 Nov 2026 21:42:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Nov 2026 22:16:30 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -55,13 +55,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3886/live/ab03aa70-db8a-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
-            <title><![CDATA[White House vows to keep up immigration crackdown after midterms defeat]]></title>
-            <description><![CDATA[The Department of Homeland Security also insists it is not backing away on the round-up.
-]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cmg476w7wnl2o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmg476w7wnl2o#1</guid>
-            <pubDate>Sun, 08 Nov 2026 20:23:58 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28ee/live/18b61b60-dbb4-11f1-b35d-8ff000e4934a.jpg"/>
+            <title><![CDATA[Top House Democrat 'a hard yes' on impeaching Pete Hegseth]]></title>
+            <description><![CDATA[But the Pentagon said the defence secretary would not be deterred by "phony investigations".]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cj4g1nwx39wno?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cj4g1nwx39wno#1</guid>
+            <pubDate>Sun, 08 Nov 2026 20:49:32 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c025/live/b24c5e80-dbbc-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
             <title><![CDATA['Time is up': Minister warns media industry to take abuse seriously in wake of Brand case]]></title>
@@ -192,6 +191,15 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65bf/live/54d61ed0-da9f-11f1-a523-f508a3e924cb.jpg"/>
         </item>
         <item>
+            <title><![CDATA[White House vows to keep up immigration crackdown after midterms defeat]]></title>
+            <description><![CDATA[The Department of Homeland Security also insists it is not backing away on the round-up.
+]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cmg476w7wnl2o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmg476w7wnl2o#4</guid>
+            <pubDate>Sun, 08 Nov 2026 20:23:58 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28ee/live/18b61b60-dbb4-11f1-b35d-8ff000e4934a.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[School Street fines at one location exceed £1m]]></title>
             <description><![CDATA[The council issues penalty charges totalling £1.15m over the scheme near Manor School in Kensal Rise.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c68xzzvgl7reo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -206,14 +214,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c8046kdw56e2o#4</guid>
             <pubDate>Sun, 08 Nov 2026 07:04:36 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d48b/live/91c3e9e0-faac-11f0-91f4-a739ab96be22.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Homes and temples glow across India to mark Diwali]]></title>
-            <description><![CDATA[Millions of Indians are marking the festival of lights with glowing lamps, fireworks and traditional sweets.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cm70pdwz122ro?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm70pdwz122ro#4</guid>
-            <pubDate>Sun, 08 Nov 2026 14:42:09 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b73/live/64aba5a0-db85-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
             <title><![CDATA[Download now]]></title>
@@ -240,6 +240,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e997/live/d07a55f0-d88e-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Bizarre & thrilling theatre as Carrick's Man Utd future still in limbo]]></title>
+            <description><![CDATA[It was a Premier League classic at Old Trafford but what as Man Utd's 4-4 draw with Aston Villa done to Michael Carrick's future?]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cked3qjw1q4xo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cked3qjw1q4xo#8</guid>
+            <pubDate>Sun, 08 Nov 2026 21:50:05 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dbf2/live/f5d8ac10-dbb4-11f1-b35d-8ff000e4934a.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Feyi-Waboso burns bright as England energy endorses Borthwick]]></title>
             <description><![CDATA[Immanuel Feyi-Waboso's blistering first half display provides England fans with a glimpse of what could be in a much-needed statement of faith in coach Steve Borthwick.]]></description>
             <link>https://www.bbc.co.uk/sport/rugby-union/articles/c620r5dp51e0o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -252,7 +260,7 @@
             <description><![CDATA[McLaren's Lando Norris wins a gripping Sao Paulo Grand Prix in difficult conditions, as Mercedes secure the 2026 constructors' championship.]]></description>
             <link>https://www.bbc.co.uk/sport/formula1/articles/c35yn19r7zkvo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/formula1/articles/c35yn19r7zkvo#8</guid>
-            <pubDate>Sun, 08 Nov 2026 19:13:53 GMT</pubDate>
+            <pubDate>Sun, 08 Nov 2026 22:11:31 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b718/live/a6329430-dba7-11f1-9580-17f5674d0b29.jpg"/>
         </item>
         <item>
