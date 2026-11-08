@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 08 Nov 2026 18:14:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Nov 2026 18:59:12 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -19,7 +19,7 @@
             <description><![CDATA[Wreaths are laid as 10,000 armed forces veterans, including 12 from World War Two, pay tribute in central London.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cqy8l0gyvvv2o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqy8l0gyvvv2o#1</guid>
-            <pubDate>Sun, 08 Nov 2026 13:49:07 GMT</pubDate>
+            <pubDate>Sun, 08 Nov 2026 18:20:53 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e401/live/d9d100d0-db91-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
@@ -168,7 +168,7 @@
         </item>
         <item>
             <title><![CDATA[There's finally a treatment for my five-year-old's dementia - but it'll cost me £3m]]></title>
-            <description><![CDATA[The dementia treatment for children is available in the US, with funding for UK children unclear. ]]></description>
+            <description><![CDATA[The dementia treatment for children is available in the US, with funding for UK children unclear.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c8046kdw56e2o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c8046kdw56e2o#4</guid>
             <pubDate>Sun, 08 Nov 2026 07:04:36 GMT</pubDate>
@@ -199,7 +199,23 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e997/live/d07a55f0-d88e-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Alcaraz takes revenge on Shelton to win first Paris title]]></title>
+            <title><![CDATA[England swat aside Wallabies to back up Borthwick]]></title>
+            <description><![CDATA[England provide emphatic on-pitch backing for head coach Steve Borthwick as they swat aside a listless Australia at Allianz Stadium.]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-union/articles/c9rkyg1gl7rgo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/rugby-union/articles/c9rkyg1gl7rgo#8</guid>
+            <pubDate>Sun, 08 Nov 2026 17:04:08 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b3d/live/75da4d80-db9f-11f1-93e1-3b657b665bcf.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Tinkerman' Alonso's Chelsea side still searching for identity]]></title>
+            <description><![CDATA[Xabi Alonso's frustration is evident as Chelsea's struggles for an identity continue with the disappointing 1-0 defeat by Sunderland.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/c5m2ddz437nzo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c5m2ddz437nzo#8</guid>
+            <pubDate>Sun, 08 Nov 2026 18:20:56 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e917/live/61e70130-dba2-11f1-9580-17f5674d0b29.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Alcaraz takes revenge on Shelton to win first Paris Masters title]]></title>
             <description><![CDATA[Carlos Alcaraz takes revenge on Ben Shelton as the Spaniard's remarkable comeback from injury continues with victory in the final of the Paris Masters.]]></description>
             <link>https://www.bbc.co.uk/sport/tennis/articles/ck9qz8d2znl5o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/ck9qz8d2znl5o#8</guid>
