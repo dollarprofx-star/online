@@ -9,11 +9,19 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 08 Nov 2026 19:39:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Nov 2026 20:15:13 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says]]></title>
+            <description><![CDATA[Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o#1</guid>
+            <pubDate>Sun, 08 Nov 2026 18:22:53 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5f9/live/5b43f440-db76-11f1-b1f1-3be4e895d0fe.jpg"/>
+        </item>
         <item>
             <title><![CDATA[King leads solemn Remembrance Sunday service at Cenotaph]]></title>
             <description><![CDATA[Wreaths are laid as 10,000 armed forces veterans, including 12 from World War Two, pay tribute in central London.]]></description>
@@ -27,16 +35,8 @@
             <description><![CDATA[Several carriages derailed after two trains travelling in the same direction crashed outside the city of Giza.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwvgr20mmmevo#1</guid>
-            <pubDate>Sun, 08 Nov 2026 17:35:13 GMT</pubDate>
+            <pubDate>Sun, 08 Nov 2026 19:58:02 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3886/live/ab03aa70-db8a-11f1-b441-2b33b063138f.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says]]></title>
-            <description><![CDATA[Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o#1</guid>
-            <pubDate>Sun, 08 Nov 2026 18:22:53 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5f9/live/5b43f440-db76-11f1-b1f1-3be4e895d0fe.jpg"/>
         </item>
         <item>
             <title><![CDATA[Footage shows derailed carriages after fatal train crash in Egypt]]></title>
@@ -163,7 +163,7 @@
             <description><![CDATA[Fog could disrupt Monday morning’s commute]]></description>
             <link>https://www.bbc.co.uk/weather/articles/cj75p29nz6e6o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/weather/articles/cj75p29nz6e6o#4</guid>
-            <pubDate>Sun, 08 Nov 2026 16:12:24 GMT</pubDate>
+            <pubDate>Sun, 08 Nov 2026 20:01:04 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2325/live/240bdfc0-db84-11f1-ab1c-6b6075dcdfe1.jpg"/>
         </item>
         <item>
@@ -223,12 +223,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e997/live/d07a55f0-d88e-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
-            <title><![CDATA[England swat aside Wallabies to back up Borthwick]]></title>
-            <description><![CDATA[England provide emphatic on-pitch backing for head coach Steve Borthwick as they swat aside a listless Australia at Allianz Stadium.]]></description>
-            <link>https://www.bbc.co.uk/sport/rugby-union/articles/c9rkyg1gl7rgo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/rugby-union/articles/c9rkyg1gl7rgo#8</guid>
-            <pubDate>Sun, 08 Nov 2026 17:04:08 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b3d/live/75da4d80-db9f-11f1-93e1-3b657b665bcf.jpg"/>
+            <title><![CDATA[Feyi-Waboso burns bright as England energy endorses Borthwick]]></title>
+            <description><![CDATA[Immanuel Feyi-Waboso's blistering first half display provides England fans with a glimpse of what could be in a much-needed statement of faith in coach Steve Borthwick.]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-union/articles/c620r5dp51e0o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/rugby-union/articles/c620r5dp51e0o#8</guid>
+            <pubDate>Sun, 08 Nov 2026 19:52:48 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ef6/live/208fffa0-dba9-11f1-93e1-3b657b665bcf.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Norris wins gripping race after Antonelli and Russell errors]]></title>
+            <description><![CDATA[McLaren's Lando Norris wins a gripping Sao Paulo Grand Prix in difficult conditions, as Mercedes secure the 2026 constructors' championship.]]></description>
+            <link>https://www.bbc.co.uk/sport/formula1/articles/c35yn19r7zkvo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/formula1/articles/c35yn19r7zkvo#8</guid>
+            <pubDate>Sun, 08 Nov 2026 19:13:53 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b718/live/a6329430-dba7-11f1-9580-17f5674d0b29.jpg"/>
         </item>
         <item>
             <title><![CDATA['Tinkerman' Alonso's Chelsea side still searching for identity]]></title>

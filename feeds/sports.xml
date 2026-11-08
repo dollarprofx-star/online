@@ -9,16 +9,56 @@
             <link>https://www.bbc.co.uk/sport/football</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 08 Nov 2026 19:39:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Nov 2026 20:15:17 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
+            <title><![CDATA[Man Utd score twice in stoppage-time to share points in eight-goal thriller]]></title>
+            <description><![CDATA[Manchester United twice come back from two goals down to earn a point against Aston Villa in an eight-goal thriller at Old Trafford, although they will go into the international break in the Premier League relegation zone.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/videos/cqj6jldpl2gyo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cqj6jldpl2gyo#0</guid>
+            <pubDate>Sun, 08 Nov 2026 20:01:16 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f78/live/514a5d20-dba9-11f1-93e1-3b657b665bcf.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Brighton breeze past ten-man Brentford to move up to second]]></title>
+            <description><![CDATA[Diego Gomez's long-range strike fires Brighton to a 2-0 over Brentford, who saw Igor Thiago be shown a straight red card, as Fabian Hurzeler's side move up to second in the Premier League.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/videos/cry836l4q56po?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cry836l4q56po#0</guid>
+            <pubDate>Sun, 08 Nov 2026 20:00:21 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8967/live/b01c8b60-dbaa-11f1-a701-fddedf244c16.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Liverpool dispatch Palace to pile pressure on Sage]]></title>
+            <description><![CDATA[Liverpool see off Crystal Palace 3-1 at Selhurst Park as Pierre Sage's side suffer their fourth defeat in a row in the Premier League.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/videos/c5djv1mn7gj8o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/c5djv1mn7gj8o#0</guid>
+            <pubDate>Sun, 08 Nov 2026 19:58:46 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd96/live/6ce7c2c0-dba9-11f1-93e1-3b657b665bcf.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Struggling Sunderland beat Chelsea to move off bottom of Premier League]]></title>
+            <description><![CDATA[Sunderland held on to their first Premier League win since August as Enzo le Fee's penalty help the hosts sink Chelsea at the Stadium of Light.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/videos/c64g1nj4v4rmo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/c64g1nj4v4rmo#0</guid>
+            <pubDate>Sun, 08 Nov 2026 19:58:31 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d0cb/live/72a12510-dbab-11f1-a701-fddedf244c16.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bournemouth continue winning streak with Ipswich win]]></title>
+            <description><![CDATA[Evanilson scores for the fifth Premier League game in a row as Bournemouth's impressive winning streak continued with a controlled victory over Ipswich.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/videos/cmx23rll2w0qo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cmx23rll2w0qo#0</guid>
+            <pubDate>Sun, 08 Nov 2026 19:59:53 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f40/live/739a24b0-dba3-11f1-a701-fddedf244c16.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Dorgu makes dramatic impact - Man Utd v Aston Villa ratings]]></title>
             <description><![CDATA[Man Utd fight back from two goals down twice in 4-4 draw with Aston Villa - but who did well and who didn't in player ratings?]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cwj34k7k54veo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cwj34k7k54veo#0</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cwj34k7k54veo#1</guid>
             <pubDate>Sun, 08 Nov 2026 18:46:45 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6507/live/8fdebc40-dba2-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
@@ -26,7 +66,7 @@
             <title><![CDATA[Are 'outstanding' Brighton now Arsenal's main title challengers?]]></title>
             <description><![CDATA[After moving up to second in the Premier League, could Brighton really be Arsenal's main title challengers?]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cjx23rwxdn64o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cjx23rwxdn64o#0</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cjx23rwxdn64o#1</guid>
             <pubDate>Sun, 08 Nov 2026 19:24:36 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8de0/live/2f31e2f0-db93-11f1-9029-d35c55297624.jpg"/>
         </item>
@@ -34,57 +74,65 @@
             <title><![CDATA['Tinkerman' Alonso's Chelsea side still searching for identity]]></title>
             <description><![CDATA[Xabi Alonso's frustration is evident as Chelsea's struggles for an identity continue with the disappointing 1-0 defeat by Sunderland.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/c5m2ddz437nzo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c5m2ddz437nzo#0</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c5m2ddz437nzo#1</guid>
             <pubDate>Sun, 08 Nov 2026 18:20:56 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e917/live/61e70130-dba2-11f1-9580-17f5674d0b29.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Where does Man Utd 4-4 Villa rank among best Premier League games?]]></title>
+            <description><![CDATA[Where does Manchester United 4-4 Aston Villa rank among the Premier League's greatest games?]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cy47wj05xgqo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cy47wj05xgqo#1</guid>
+            <pubDate>Sun, 08 Nov 2026 20:05:53 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/910b/live/15fd4900-da13-11f0-a8dc-93c15fe68710.jpg"/>
         </item>
         <item>
             <title><![CDATA[Leeds condemn racist abuse of Bogle after Tel incident]]></title>
             <description><![CDATA[Leeds United condemn the "disgusting" online racist abuse directed towards defender Jayden Bogle following Saturday's 1-0 win against Tottenham. ]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/ck5yn1zzyr2jo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ck5yn1zzyr2jo#0</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ck5yn1zzyr2jo#1</guid>
             <pubDate>Sun, 08 Nov 2026 19:12:01 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/680c/live/40978c40-dba0-11f1-81e8-61c133a2b43c.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Who was back to his best? Player ratings for Crystal Palace v Liverpool]]></title>
-            <description><![CDATA[How Crystal Palace and Liverpool's players rated following their Premier League match.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cqkgjm2dlpv6o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqkgjm2dlpv6o#0</guid>
-            <pubDate>Sun, 08 Nov 2026 16:04:18 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe1b/live/abeecdc0-db8a-11f1-ab1c-6b6075dcdfe1.jpg"/>
         </item>
         <item>
             <title><![CDATA[Man Utd making it 'hard on ourselves' - Carrick]]></title>
             <description><![CDATA[Manchester United head coach Michael Carrick admits his side "made it hard on themselves" after they twice came back from two goals down to earn a 4-4 draw at home to Aston Villa.]]></description>
             <link>https://www.bbc.co.uk/sport/football/videos/c6rmyg80pk3wo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/c6rmyg80pk3wo#0</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/c6rmyg80pk3wo#1</guid>
             <pubDate>Sun, 08 Nov 2026 19:13:46 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/464b/live/95b255f0-dba7-11f1-a701-fddedf244c16.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[What can you read into Premier League table after 10 games?]]></title>
+            <description><![CDATA[With 10 games gone in the Premier League season, BBC Sport looks at what history tells us we can read into the table at this stage.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/c91463n3mlzlo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c91463n3mlzlo#2</guid>
+            <pubDate>Sun, 08 Nov 2026 19:40:34 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e2dd/live/fb15a380-db97-11f1-a42b-dbe60e973664.jpg"/>
         </item>
         <item>
             <title><![CDATA[Fan injured after falling through hole in stand]]></title>
             <description><![CDATA[One fan is taken to hospital after a number of Bodo/Glimt supporters fall through a hole in the away stand at Tromso.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/ck0j0x2e49j7o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ck0j0x2e49j7o#1</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ck0j0x2e49j7o#2</guid>
             <pubDate>Sun, 08 Nov 2026 16:53:37 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb05/live/a92d9140-db92-11f1-9029-d35c55297624.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Who was back to his best? Player ratings for Crystal Palace v Liverpool]]></title>
+            <description><![CDATA[How Crystal Palace and Liverpool's players rated following their Premier League match.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cqkgjm2dlpv6o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqkgjm2dlpv6o#2</guid>
+            <pubDate>Sun, 08 Nov 2026 16:04:18 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe1b/live/abeecdc0-db8a-11f1-ab1c-6b6075dcdfe1.jpg"/>
         </item>
         <item>
             <title><![CDATA[Chengdu blow 12-point lead to miss out on Chinese title on final day]]></title>
             <description><![CDATA[Chengdu Rongcheng lose their final four matches of the season to give up a 12-point lead and throw away the Chinese Super League title.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cq2d698j5gxgo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cq2d698j5gxgo#1</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cq2d698j5gxgo#2</guid>
             <pubDate>Sun, 08 Nov 2026 14:41:04 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c114/live/cd79c2e0-db7d-11f1-ab1c-6b6075dcdfe1.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Failed to deal with Brobbey - player ratings for Sunderland v Chelsea]]></title>
-            <description><![CDATA[Enzo Le Fee's penalty is the difference as Sunderland climb off the bottom of the table but how did the players rate against Chelsea?]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/c94g1n4pzev3o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c94g1n4pzev3o#1</guid>
-            <pubDate>Sun, 08 Nov 2026 16:13:36 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/414a/live/54cb1080-db8a-11f1-ab1c-6b6075dcdfe1.jpg"/>
         </item>
         <item>
             <title><![CDATA[Seventh-tier Wimborne knock out League Two Crawley in FA Cup upset]]></title>
@@ -93,7 +141,7 @@
 
 ]]></description>
             <link>https://www.bbc.co.uk/sport/football/videos/cmy83620wq2wo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cmy83620wq2wo#2</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cmy83620wq2wo#3</guid>
             <pubDate>Sun, 08 Nov 2026 18:56:55 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a3b/live/3c193440-db99-11f1-b441-2b33b063138f.jpg"/>
         </item>
@@ -104,7 +152,7 @@
 
 ]]></description>
             <link>https://www.bbc.co.uk/sport/football/videos/cv5yn1w5j359o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cv5yn1w5j359o#2</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cv5yn1w5j359o#3</guid>
             <pubDate>Sun, 08 Nov 2026 17:00:00 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d55a/live/11e79f60-db8d-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
@@ -112,39 +160,50 @@
             <title><![CDATA[London City thump Birmingham to close gap on second]]></title>
             <description><![CDATA[London City Lionesses defeat Birmingham City 4-1 to move to within four points of second-placed Chelsea in the WSL.]]></description>
             <link>https://www.bbc.co.uk/sport/football/videos/c62kel300wwxo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/c62kel300wwxo#2</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/c62kel300wwxo#3</guid>
             <pubDate>Sun, 08 Nov 2026 17:06:21 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab49/live/a17f5c70-db93-11f1-a701-fddedf244c16.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Frustrated and disappointed' - Emery on Man Utd draw ]]></title>
+            <description><![CDATA[Aston Villa manager Unai Emery was a frustrated figure after his side surrendered a two goal lead against Manchester United twice, leaving Old Trafford with a point from their 4-4 draw. 
+
+
+]]></description>
+            <link>https://www.bbc.co.uk/sport/football/videos/c9dr812v01lzo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/c9dr812v01lzo#3</guid>
+            <pubDate>Sun, 08 Nov 2026 19:39:24 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d367/live/1f25a4c0-dbaa-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
             <title><![CDATA[10-man Stockport come from behind to survive huge scare at Cray]]></title>
             <description><![CDATA[League One Stockport County survive a scare to beat Isthmian League side Cray Wanderers 3-2 after extra time in the FA Cup first round.]]></description>
             <link>https://www.bbc.co.uk/sport/football/videos/cqj9km408d38o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cqj9km408d38o#2</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cqj9km408d38o#3</guid>
             <pubDate>Sun, 08 Nov 2026 17:39:15 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/75bc/live/f85f7240-db99-11f1-a701-fddedf244c16.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Russo double gives Arsenal win over Liverpool at Anfield]]></title>
-            <description><![CDATA[Alessia Russo scores twice to give Arsenal a much-needed 2-1 win over Liverpool at Anfield, to move up to seventh place in the WSL.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/videos/c8qlnq73n6lyo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/c8qlnq73n6lyo#2</guid>
-            <pubDate>Sun, 08 Nov 2026 17:45:27 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4bfb/live/d0b51af0-db81-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
             <title><![CDATA['I can't believe he is one of us' - inside Salah's life in Trabzon]]></title>
             <description><![CDATA[BBC Sport travels to Turkey to watch Mohamed Salah play for Trabzonspor and discover how the 'Egyptian King' is settling into life by the Black Sea.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cmwyqzy934lxo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmwyqzy934lxo#3</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmwyqzy934lxo#4</guid>
             <pubDate>Sun, 08 Nov 2026 07:30:01 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/054e/live/566a97f0-da93-11f1-8206-e519d24a9ca2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Failed to deal with Brobbey - player ratings for Sunderland v Chelsea]]></title>
+            <description><![CDATA[Enzo Le Fee's penalty is the difference as Sunderland climb off the bottom of the table but how did the players rate against Chelsea?]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/c94g1n4pzev3o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c94g1n4pzev3o#4</guid>
+            <pubDate>Sun, 08 Nov 2026 16:13:36 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/414a/live/54cb1080-db8a-11f1-ab1c-6b6075dcdfe1.jpg"/>
         </item>
         <item>
             <title><![CDATA[England await Guehi scan results after injury concern]]></title>
             <description><![CDATA[Manchester City defender Marc Guehi will undergo a scan on a hip complaint on Sunday to determine whether he can report for England duty this week.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cmwyq8x6nx5lo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmwyq8x6nx5lo#3</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmwyq8x6nx5lo#4</guid>
             <pubDate>Sun, 08 Nov 2026 15:03:01 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1da8/live/ac3bb310-db7b-11f1-b1f1-3be4e895d0fe.jpg"/>
         </item>
@@ -152,49 +211,9 @@
             <title><![CDATA[Last season difficult with injury and miscarriage - Muniz]]></title>
             <description><![CDATA[Fulham striker Rodrigo Muniz, who scored for his side in a 1-1 draw against Newcastle United, speaks of the struggles he endured last season.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cmq8nl4w3e8eo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmq8nl4w3e8eo#3</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmq8nl4w3e8eo#4</guid>
             <pubDate>Sun, 08 Nov 2026 11:56:01 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/182c/live/e39102a0-db64-11f1-adda-c54f54e3ce6a.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Delap double inspires Forest to stunning win over Man City]]></title>
-            <description><![CDATA[Liam Delap scores a superb double as Nottingham Forest stun Manchester City 3-1 for their first Premier League win at the City Ground this season.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/videos/crp3gewxj77eo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/crp3gewxj77eo#4</guid>
-            <pubDate>Sat, 07 Nov 2026 20:02:25 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3af7/live/d780fef0-dae4-11f1-a701-fddedf244c16.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Arsenal beat Hull to extend lead at top of the table ]]></title>
-            <description><![CDATA[Arsenal captain Martin Odegaard scores the winner as his side beat Hull City to extend their lead at the top of the Premier League table.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/videos/crx230ke2gzxo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/crx230ke2gzxo#4</guid>
-            <pubDate>Sat, 07 Nov 2026 19:59:31 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/000f/live/2a5829f0-dadb-11f1-a701-fddedf244c16.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Leeds beat Spurs to end five-game winless run]]></title>
-            <description><![CDATA[Noah Okafor scores the only goal of the game to give Leeds United their first win since the 14th of September, as Tottenham are beaten 1-0 at Elland Road in the Premier League.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/videos/ckz7x4jlypq3o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/ckz7x4jlypq3o#4</guid>
-            <pubDate>Sat, 07 Nov 2026 19:59:34 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c54a/live/5ed07bd0-dac5-11f1-b441-2b33b063138f.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Muniz strike denies Newcastle and Jaissle much-needed win]]></title>
-            <description><![CDATA[Rodrigo Muniz scores his first goal since the opening day of last season as Fulham deny Newcastle and head coach Matthias Jaissle a much-needed win at Craven Cottage.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/videos/cm2d69p2x3g7o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cm2d69p2x3g7o#4</guid>
-            <pubDate>Sat, 07 Nov 2026 19:59:37 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5f2/live/c2b20ec0-dade-11f1-93e1-3b657b665bcf.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Barry scores twice as Everton fight back to beat Coventry]]></title>
-            <description><![CDATA[In-form Thierno Barry scores twice as Everton came from behind to beat Coventry as the Toffees move into fifth in the Premier League table.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/videos/c62l44geqvlyo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/c62l44geqvlyo#4</guid>
-            <pubDate>Fri, 06 Nov 2026 22:30:12 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e94/live/6dde44f0-da2e-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
             <title><![CDATA[Is there something missing despite Rangers' impressive form?]]></title>
@@ -213,28 +232,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8b3/live/47a9f080-db42-11f1-96fa-a5a773d1f96a.jpg"/>
         </item>
         <item>
-            <title><![CDATA['The worst conditions in my 35-year career' - commentating in the FA Cup fog]]></title>
-            <description><![CDATA[BBC Sport commentator Steve Bower gives an insight into trying to commentate when thick fog engulfs a stadium and you can barely see the action.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cqev3rdvyvm1o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqev3rdvyvm1o#6</guid>
-            <pubDate>Sun, 08 Nov 2026 00:17:56 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e50/live/d7267220-db00-11f1-969c-27c4482e95aa.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Maresca's dream start turns into nightmare as title hopes hit]]></title>
-            <description><![CDATA[Enzo Maresca left the City Ground with chants of "can we play you every week?" ringing in his ears, as Manchester City's dream start turns into a nightmare.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cm93z0l03n8vo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cm93z0l03n8vo#6</guid>
-            <pubDate>Sat, 07 Nov 2026 20:54:12 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f6a/live/bd923d40-daf0-11f1-827e-c7e7ee102257.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Title race hots up before Chelsea-Man City showdown]]></title>
-            <description><![CDATA[Champions Manchester City will travel to Chelsea next week on top of the pile after a decisive Saturday in the Women's Super League.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cm0qkjdx3l9zo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cm0qkjdx3l9zo#6</guid>
-            <pubDate>Sat, 07 Nov 2026 18:27:46 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d30/live/e8938990-dacd-11f1-bda8-29fb69dbc026.jpg"/>
+            <title><![CDATA[Russo double gives Arsenal win over Liverpool at Anfield]]></title>
+            <description><![CDATA[Alessia Russo scores twice to give Arsenal a much-needed 2-1 win over Liverpool at Anfield, to move up to seventh place in the WSL.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/videos/c8qlnq73n6lyo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/c8qlnq73n6lyo#7</guid>
+            <pubDate>Sun, 08 Nov 2026 17:45:27 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4bfb/live/d0b51af0-db81-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
             <title><![CDATA[Grimsby fight back from two goals down to edge Stafford on penalties]]></title>
@@ -272,12 +275,28 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8601/live/81888e60-dafc-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
-            <title><![CDATA['Wonderful goal' - Crewe's McNeill scores from halfway line]]></title>
-            <description><![CDATA[Charlie McNeill scores from the halfway line in the 12th minute to open the scoring for Crewe Alexandra against AFC Wimbledon in the first round of the FA Cup.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/videos/cmkgekn1007qo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cmkgekn1007qo#7</guid>
-            <pubDate>Sun, 08 Nov 2026 00:07:11 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c339/live/0442b290-db07-11f1-93e1-3b657b665bcf.jpg"/>
+            <title><![CDATA[Title race hots up before Chelsea-Man City showdown]]></title>
+            <description><![CDATA[Champions Manchester City will travel to Chelsea next week on top of the pile after a decisive Saturday in the Women's Super League.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cm0qkjdx3l9zo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cm0qkjdx3l9zo#8</guid>
+            <pubDate>Sat, 07 Nov 2026 18:27:46 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d30/live/e8938990-dacd-11f1-bda8-29fb69dbc026.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['The worst conditions in my 35-year career' - commentating in the FA Cup fog]]></title>
+            <description><![CDATA[BBC Sport commentator Steve Bower gives an insight into trying to commentate when thick fog engulfs a stadium and you can barely see the action.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cqev3rdvyvm1o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqev3rdvyvm1o#8</guid>
+            <pubDate>Sun, 08 Nov 2026 00:17:56 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e50/live/d7267220-db00-11f1-969c-27c4482e95aa.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Maresca's dream start turns into nightmare as title hopes hit]]></title>
+            <description><![CDATA[Enzo Maresca left the City Ground with chants of "can we play you every week?" ringing in his ears, as Manchester City's dream start turns into a nightmare.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cm93z0l03n8vo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cm93z0l03n8vo#8</guid>
+            <pubDate>Sat, 07 Nov 2026 20:54:12 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f6a/live/bd923d40-daf0-11f1-827e-c7e7ee102257.jpg"/>
         </item>
         <item>
             <title><![CDATA[Raya, Pickford and Wales' search for a new keeper]]></title>
@@ -302,14 +321,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c39wz9llg255o#8</guid>
             <pubDate>Sat, 07 Nov 2026 16:35:26 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4437/live/77476990-dac4-11f1-bda8-29fb69dbc026.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Argentina set to go to Cas after Fifa rejects appeals]]></title>
-            <description><![CDATA[The Argentina Football Association says it is planning to go to the Court of Arbitration for Sport over Fifa rejecting its appeals against World Cup punishments.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/crn4ekzyz8jlo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/crn4ekzyz8jlo#8</guid>
-            <pubDate>Sat, 07 Nov 2026 18:33:18 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4619/live/4e75a6e0-9d6f-11f1-bdcc-8926c4a74c43.jpg"/>
         </item>
         <item>
             <title><![CDATA['A beautiful story' as Bellingham brothers called up]]></title>
@@ -446,14 +457,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/bitesize/articles/zgv7dnb#16</guid>
             <pubDate>Fri, 25 Sep 2026 10:15:00 GMT</pubDate>
             <media:thumbnail url="https://ichef.bbci.co.uk/images/ic/480xn/p0pcy7f1.png"/>
-        </item>
-        <item>
-            <title><![CDATA[Watch Sportscene highlights of Sunday's Premiership action]]></title>
-            <description><![CDATA[Highlights of Hearts v Falkirk and Celtic v Kilmarnock.]]></description>
-            <link>https://www.bbc.co.uk/iplayer/live/bbcscotland?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/iplayer/live/bbcscotland#17</guid>
-            <pubDate>Sun, 08 Nov 2026 20:00:24 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0ply9jw.jpg"/>
         </item>
         <item>
             <title><![CDATA[Is there something missing despite Rangers' impressive form?]]></title>
