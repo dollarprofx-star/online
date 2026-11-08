@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/sport/football</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 08 Nov 2026 13:41:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Nov 2026 14:22:40 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -55,36 +55,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43fe/live/d3069860-dafa-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Is there something missing despite Rangers' impressive form?]]></title>
-            <description><![CDATA[Rangers made it 12 games without defeat in all competitions with a 2-0 win at St Mirren on Saturday, but Ibrox legend Kris Boyd believes there is "something missing".]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/c6dxw1k2x4kno?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6dxw1k2x4kno#0</guid>
-            <pubDate>Sun, 08 Nov 2026 10:10:27 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b5f6/live/df39e250-db08-11f1-97a6-7f91220beb58.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Last season difficult with injury and miscarriage - Muniz]]></title>
             <description><![CDATA[Fulham striker Rodrigo Muniz, who scored for his side in a 1-1 draw against Newcastle United, speaks of the struggles he endured last season.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cmq8nl4w3e8eo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmq8nl4w3e8eo#0</guid>
             <pubDate>Sun, 08 Nov 2026 11:56:01 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/182c/live/e39102a0-db64-11f1-adda-c54f54e3ce6a.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Another 1-0 for relentless Arsenal - but did Odegaard spare VAR blushes?]]></title>
-            <description><![CDATA[Arsenal move six points clear at the top of the Premier League after beating Hull City - but did Martin Odegaard's goal save the blushes of the VAR?]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/c6rmyg7xpnj1o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6rmyg7xpnj1o#0</guid>
-            <pubDate>Sat, 07 Nov 2026 19:34:32 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f07a/live/a49461b0-daf0-11f1-827e-c7e7ee102257.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Why unique Brighton defence is so tricky to unpick]]></title>
-            <description><![CDATA[Brighton's unique defensive shape has provided the platform for the Seagulls' superb start to the Premier League season.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cm0j033lnp5po?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cm0j033lnp5po#0</guid>
-            <pubDate>Sun, 08 Nov 2026 06:41:37 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b513/live/0e138ac0-d90d-11f1-94c6-3f8050561bf5.jpg"/>
         </item>
         <item>
             <title><![CDATA[Delap double inspires Forest to stunning win over Man City]]></title>
@@ -167,6 +143,30 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fe2/live/46f4f230-db5f-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Is there something missing despite Rangers' impressive form?]]></title>
+            <description><![CDATA[Rangers made it 12 games without defeat in all competitions with a 2-0 win at St Mirren on Saturday, but Ibrox legend Kris Boyd believes there is "something missing".]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/c6dxw1k2x4kno?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6dxw1k2x4kno#3</guid>
+            <pubDate>Sun, 08 Nov 2026 10:10:27 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b5f6/live/df39e250-db08-11f1-97a6-7f91220beb58.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why unique Brighton defence is so tricky to unpick]]></title>
+            <description><![CDATA[Brighton's unique defensive shape has provided the platform for the Seagulls' superb start to the Premier League season.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cm0j033lnp5po?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cm0j033lnp5po#3</guid>
+            <pubDate>Sun, 08 Nov 2026 06:41:37 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b513/live/0e138ac0-d90d-11f1-94c6-3f8050561bf5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Another 1-0 for relentless Arsenal - but did Odegaard spare VAR blushes?]]></title>
+            <description><![CDATA[Arsenal move six points clear at the top of the Premier League after beating Hull City - but did Martin Odegaard's goal save the blushes of the VAR?]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/c6rmyg7xpnj1o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6rmyg7xpnj1o#3</guid>
+            <pubDate>Sat, 07 Nov 2026 19:34:32 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f07a/live/a49461b0-daf0-11f1-827e-c7e7ee102257.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Messi makes history with MLS Golden Boot]]></title>
             <description><![CDATA[Inter Miami forward Lionel Messi becomes the first player in MLS history to win the Golden Boot in consecutive seasons.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/ckr5ygezr0m9o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -183,14 +183,6 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bde1/live/4a0a6a30-db4c-11f1-b441-2b33b063138f.png"/>
         </item>
         <item>
-            <title><![CDATA[Tottenham set to complain to Pro Ref after Bogle escapes red card]]></title>
-            <description><![CDATA[Tottenham are set to submit a formal complaint about the decision not to send off Jayden Bogle for his challenge on Mathys Tel during the defeat by Leeds.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/c39wz9llg255o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c39wz9llg255o#3</guid>
-            <pubDate>Sat, 07 Nov 2026 16:35:26 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4437/live/77476990-dac4-11f1-bda8-29fb69dbc026.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Liverpool considering Verbruggen move - Sunday's gossip]]></title>
             <description><![CDATA[Liverpool consider move for Brighton keeper Bart Verbruggen, Bayern Munich remain in talks with Rio Ngumoha's camp, Tottenham midfielder Conor Gallagher monitored by rival Premier League clubs, plus more.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/c54g1nepgr28o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -199,10 +191,18 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c1f/live/461973d0-daf2-11f1-b441-2b33b063138f.png"/>
         </item>
         <item>
+            <title><![CDATA[Tottenham set to complain to Pro Ref after Bogle escapes red card]]></title>
+            <description><![CDATA[Tottenham are set to submit a formal complaint about the decision not to send off Jayden Bogle for his challenge on Mathys Tel during the defeat by Leeds.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/c39wz9llg255o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c39wz9llg255o#4</guid>
+            <pubDate>Sat, 07 Nov 2026 16:35:26 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4437/live/77476990-dac4-11f1-bda8-29fb69dbc026.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Raya, Pickford and Wales' search for a new keeper]]></title>
             <description><![CDATA[New Wales call-up Joe Duncan might be unknown to many, but some of the world's best goalkeepers have benefitted from non-league loans.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cry8335l96q5o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cry8335l96q5o#3</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cry8335l96q5o#4</guid>
             <pubDate>Sun, 08 Nov 2026 09:57:58 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a233/live/973f4f90-d9db-11f1-b4ca-fd31344b71b9.png"/>
         </item>
@@ -304,15 +304,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cq70p2w3j00jo#8</guid>
             <pubDate>Sat, 07 Nov 2026 14:35:23 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc27/live/09850300-daaf-11f1-9da2-b11e4d68c08e.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[I left Man City for my mental wellbeing - Trafford]]></title>
-            <description><![CDATA[James Trafford says not playing for Manchester City last season was "horrendous" and left him with no choice but to leave the club and join Leeds United in the summer.
-]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/ckly00wq495zo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ckly00wq495zo#8</guid>
-            <pubDate>Sat, 07 Nov 2026 07:16:37 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bef3/live/6773ae50-da1c-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
             <title><![CDATA['A beautiful story' as Bellingham brothers called up]]></title>
@@ -459,14 +450,6 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b5f6/live/df39e250-db08-11f1-97a6-7f91220beb58.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Listen to Off The Ball]]></title>
-            <description><![CDATA[The most petty and ill-informed football show on radio.]]></description>
-            <link>https://www.bbc.co.uk/sounds/play/live:bbc_radio_scotland_fm?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/live:bbc_radio_scotland_fm#17</guid>
-            <pubDate>Sun, 08 Nov 2026 14:00:00 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0d5ff0c.jpg"/>
-        </item>
-        <item>
             <title><![CDATA['Curtains for Robinson', or can foundering Aberdeen boss survive?]]></title>
             <description><![CDATA[Will the "unacceptable" 4-0 home defeat to fellow strugglers Hibernian signal the end of Stephen Robinson's Aberdeen tenure?]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/crlyk582kpn1o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -505,14 +488,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cgqdv8lexl1o#18</guid>
             <pubDate>Sun, 08 Nov 2026 06:51:06 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70d9/live/eb25ea50-9afd-11f1-b792-a710e56a11dc.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[James out for minimum of five games - Bompastor]]></title>
-            <description><![CDATA[Sonia Bompastor says Lauren James is out for at least the next few weeks, casting doubt on her availability for England's World Cup qualifying play-off matches.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/crq5nnqn84zyo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/crq5nnqn84zyo#18</guid>
-            <pubDate>Fri, 06 Nov 2026 16:44:44 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f5cf/live/b6d6f4d0-d9fd-11f1-84c1-dbcae60402d7.jpg"/>
         </item>
         <item>
             <title><![CDATA[The Unpromotables: Germany's league champions who can't go up]]></title>
