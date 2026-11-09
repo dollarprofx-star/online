@@ -9,26 +9,26 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 09 Nov 2026 14:37:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Nov 2026 15:35:51 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
-            <title><![CDATA[Watch: What do we know about Jensen Huang's affair?]]></title>
-            <description><![CDATA[Adoration for the US tech giant’s CEO Jensen Huang has been labelled “Jensanity”, but can his reputation survive the news of his affair?]]></description>
-            <link>https://www.bbc.co.uk/news/videos/cq3989nkzn3ko?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cq3989nkzn3ko#1</guid>
-            <pubDate>Mon, 09 Nov 2026 07:10:11 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83e2/live/f1cb1e30-dc24-11f1-93e1-3b657b665bcf.png"/>
+            <title><![CDATA[Watch: Moment judge sentences Brand in court]]></title>
+            <description><![CDATA[Russell Brand was sentenced for rape and three counts of sexual assault at Southwark Crown Court on Monday.]]></description>
+            <link>https://www.bbc.co.uk/news/videos/c6vg7gnjjlj8o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/c6vg7gnjjlj8o#1</guid>
+            <pubDate>Mon, 09 Nov 2026 15:18:04 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/67a4/live/27899090-dc4f-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Inside the French drug gangs recruiting children to kill]]></title>
-            <description><![CDATA[The BBC enters Marseille's dangerous underworld, where young people are trapped, brutalised and exploited.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cq62y01r2313o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cq62y01r2313o#1</guid>
-            <pubDate>Mon, 09 Nov 2026 06:00:26 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a160/live/111155a0-dc27-11f1-b441-2b33b063138f.jpg"/>
+            <title><![CDATA[Civil servant who juggled five jobs found guilty of fraud]]></title>
+            <description><![CDATA[Kashim Chowdhury had secretly held multiple public sector jobs on full-time salaries.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cm70pgnx891do?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm70pgnx891do#1</guid>
+            <pubDate>Mon, 09 Nov 2026 15:33:35 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1641/live/c3324b50-d6f9-11f1-b983-c357054e4d1e.jpg"/>
         </item>
         <item>
             <title><![CDATA[Krakow shooting suspect has died in hospital, police say]]></title>
@@ -39,12 +39,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56c8/live/21172e90-dc39-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Woman says Al Fayed's brother drugged and sexually abused her at Highland estate]]></title>
-            <description><![CDATA[The woman says she was flown to the Fayed family's Balnagown estate, where she was repeatedly assaulted.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cm2d6kk0wzw4o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm2d6kk0wzw4o#1</guid>
-            <pubDate>Mon, 09 Nov 2026 10:00:34 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3027/live/75696c60-dc25-11f1-a701-fddedf244c16.jpg"/>
+            <title><![CDATA[Inside the French drug gangs recruiting children to kill]]></title>
+            <description><![CDATA[The BBC enters Marseille's dangerous underworld, where young people are trapped, brutalised and exploited.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cq62y01r2313o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cq62y01r2313o#1</guid>
+            <pubDate>Mon, 09 Nov 2026 06:00:26 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a160/live/111155a0-dc27-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
             <title><![CDATA[Cruise ship pianist rescued from sea after nine hours in Pacific Ocean]]></title>
@@ -55,12 +55,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc95/live/fa87f0c0-dc0b-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Trump says he was 'kidding' about Dana White press secretary offer]]></title>
-            <description><![CDATA[The president told the Ultimate Fighting Championship boss to "please take the job" in a Truth Social post on Saturday.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/ck0j0j87959eo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ck0j0j87959eo#1</guid>
-            <pubDate>Mon, 09 Nov 2026 08:49:17 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dcbb/live/2fcfac50-dc11-11f1-a631-078d47c5aafb.jpg"/>
+            <title><![CDATA[Woman says Al Fayed's brother drugged and sexually abused her at Highland estate]]></title>
+            <description><![CDATA[The woman says she was flown to the Fayed family's Balnagown estate, where she was repeatedly assaulted.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cm2d6kk0wzw4o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm2d6kk0wzw4o#1</guid>
+            <pubDate>Mon, 09 Nov 2026 10:00:34 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3027/live/75696c60-dc25-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
             <title><![CDATA[Thick fog disrupts travel with further weather warning issued ]]></title>
@@ -95,12 +95,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2715/live/c8a0e160-da0e-11f1-bbd1-cf41b7fd4e9b.jpg"/>
         </item>
         <item>
-            <title><![CDATA[What's your love language - and does it actually mean anything?]]></title>
-            <description><![CDATA[The theory of ‘Love Languages’ has no scientific origin but it's often still mentioned in modern dating.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c6lykl01nzp9o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6lykl01nzp9o#2</guid>
-            <pubDate>Mon, 09 Nov 2026 00:55:35 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6efb/live/24613860-d9e7-11f1-bbe5-797ee05bee69.jpg"/>
+            <title><![CDATA[Who is the suspected Chinese spy at centre of the Nvidia investigation?]]></title>
+            <description><![CDATA[Alice Huang, a Chinese businesswoman, had a close relationship with Nvidia boss Jensen Huang, reports say.]]></description>
+            <link>https://www.bbc.co.uk/news/videos/c80404zyr53wo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/c80404zyr53wo#2</guid>
+            <pubDate>Mon, 09 Nov 2026 14:50:35 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b3dc/live/368a3e40-dc50-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
             <title><![CDATA[Doing these things now will help you save money at Christmas]]></title>
@@ -109,6 +109,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ck7vppll151mo#2</guid>
             <pubDate>Mon, 09 Nov 2026 00:09:14 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc58/live/5ca89f00-dc13-11f1-a701-fddedf244c16.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[What's your love language - and does it actually mean anything?]]></title>
+            <description><![CDATA[The theory of ‘Love Languages’ has no scientific origin but it's often still mentioned in modern dating.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c6lykl01nzp9o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6lykl01nzp9o#2</guid>
+            <pubDate>Mon, 09 Nov 2026 00:55:35 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6efb/live/24613860-d9e7-11f1-bbe5-797ee05bee69.jpg"/>
         </item>
         <item>
             <title><![CDATA[What we know so far about the next James Bond film]]></title>
@@ -135,6 +143,30 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b843/live/af14a480-da3a-11f1-959c-e95bd2c2a35f.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Sports Personality of the Year returns - with five awards decided by public]]></title>
+            <description><![CDATA[BBC Sports Personality of the Year will be held on 13 December - and audiences will have more influence than ever over the awards.]]></description>
+            <link>https://www.bbc.co.uk/sport/articles/cqj9kd00y0wko?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/articles/cqj9kd00y0wko#2</guid>
+            <pubDate>Mon, 09 Nov 2026 07:30:05 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fdbf/live/8a123c50-d9cd-11f1-bb8e-efaa31738708.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[James Bulger's killer to stay in prison after parole hearing]]></title>
+            <description><![CDATA[Jon Venables told parole staff dealing with his latest review that he was not seeking release.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cq80z0y85j0go?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cq80z0y85j0go#4</guid>
+            <pubDate>Mon, 09 Nov 2026 15:19:33 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed16/live/51733710-dc47-11f1-b441-2b33b063138f.png"/>
+        </item>
+        <item>
+            <title><![CDATA[At least 39 die after Europe-bound migrant boat sinks off Senegal ]]></title>
+            <description><![CDATA[The Atlantic crossing to Spain's Canary Islands remains dangerous for migrants seeking a better life]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cv2d6dpge65go?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cv2d6dpge65go#4</guid>
+            <pubDate>Mon, 09 Nov 2026 14:44:47 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd49/live/784207a0-dc00-11f1-bbe0-3f3fc519e7d8.png"/>
+        </item>
+        <item>
             <title><![CDATA[Scientists predict 2026 hottest year on record as climate talks begin]]></title>
             <description><![CDATA[Scientists are predictng this could be the hottest year on record as the COP31 climate summit opens.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c6pvgg7mdvdvo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -143,20 +175,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3d7/live/1adcf6d0-db63-11f1-adda-c54f54e3ce6a.jpg"/>
         </item>
         <item>
-            <title><![CDATA[At least 34 dead after Europe-bound migrant boat sinks off Senegal ]]></title>
-            <description><![CDATA[The Atlantic crossing to Spain's Canary Islands remains dangerous for migrants seeking a better life]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cv2d6dpge65go?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cv2d6dpge65go#4</guid>
-            <pubDate>Mon, 09 Nov 2026 10:59:26 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd49/live/784207a0-dc00-11f1-bbe0-3f3fc519e7d8.png"/>
-        </item>
-        <item>
-            <title><![CDATA[Passenger feared Huntingdon train attacker was suicide bomber, court hears]]></title>
-            <description><![CDATA[Milan Campion felt the attacker on the London-bound train "wasn't sound of mind".]]></description>
-            <link>https://www.bbc.co.uk/news/articles/crz656pl2399o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/crz656pl2399o#4</guid>
-            <pubDate>Mon, 09 Nov 2026 13:20:22 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a01/live/45d63350-dc31-11f1-958b-3f65a8ba2dc3.jpg"/>
+            <title><![CDATA[Trump says he was 'kidding' about Dana White press secretary offer]]></title>
+            <description><![CDATA[The president told the Ultimate Fighting Championship boss to "please take the job" in a Truth Social post on Saturday.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/ck0j0j87959eo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ck0j0j87959eo#4</guid>
+            <pubDate>Mon, 09 Nov 2026 08:49:17 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dcbb/live/2fcfac50-dc11-11f1-a631-078d47c5aafb.jpg"/>
         </item>
         <item>
             <title><![CDATA[Society needs to act to help white working-class pupils, inquiry says]]></title>
@@ -165,14 +189,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmwyqql26xe8o#4</guid>
             <pubDate>Mon, 09 Nov 2026 01:52:32 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e30/live/1657c480-d9fd-11f1-84c1-dbcae60402d7.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Maya Jama steps down as host of reality TV show Love Island]]></title>
-            <description><![CDATA[The presenter tells fans it is "time to throw myself into something new" after recent Celebrity Traitors success.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cwzrd5jj47ndo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwzrd5jj47ndo#4</guid>
-            <pubDate>Sun, 08 Nov 2026 21:19:48 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f2c/live/327b8220-dbb3-11f1-b35d-8ff000e4934a.jpg"/>
         </item>
         <item>
             <title><![CDATA[Michael Ball's wedding surprise after radio proposal]]></title>
@@ -199,20 +215,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0l7jnbt.jpg"/>
         </item>
         <item>
-            <title><![CDATA[England clear way for Carse return and drop Bashir]]></title>
-            <description><![CDATA[England open the door for Brydon Carse to return to Test cricket for the tour of South Africa by naming him in the Lions squad.]]></description>
-            <link>https://www.bbc.co.uk/sport/cricket/articles/cw8dzd953nq5o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/cricket/articles/cw8dzd953nq5o#8</guid>
-            <pubDate>Mon, 09 Nov 2026 12:00:30 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1bb6/live/f5827880-dc32-11f1-958b-3f65a8ba2dc3.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Burn replaces injured Guehi in England squad]]></title>
-            <description><![CDATA[Newcastle's Dan Burn is added to the England squad to play Croatia and Spain in the Nations League this week after Marc Guehi pulls out with a hip injury.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cmwyq8x6nx5lo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmwyq8x6nx5lo#8</guid>
-            <pubDate>Mon, 09 Nov 2026 12:06:19 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32ab/live/cd34dd80-dc34-11f1-a701-fddedf244c16.png"/>
+            <title><![CDATA[Incident-by-incident: Was it a bad weekend for VAR?]]></title>
+            <description><![CDATA[Almost every game had a controversial VAR decision in the Premier League this weekend. But how many might go down as errors?]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/c6n9r93dnr9do?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6n9r93dnr9do#8</guid>
+            <pubDate>Mon, 09 Nov 2026 14:34:19 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de64/live/33dca940-dc36-11f1-95cf-a38331e6cb4b.jpg"/>
         </item>
         <item>
             <title><![CDATA[Khawaja 100% accurate on ball-tampering - Warner]]></title>
@@ -223,6 +231,22 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/50c9/live/d36d8f80-dc16-11f1-a631-078d47c5aafb.jpg"/>
         </item>
         <item>
+            <title><![CDATA[England clear way for Carse return as Patterson-White included for SA tour]]></title>
+            <description><![CDATA[England open the door for Brydon Carse to return to Test cricket for the tour of South Africa by naming him in the Lions squad.]]></description>
+            <link>https://www.bbc.co.uk/sport/cricket/articles/cw8dzd953nq5o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/cricket/articles/cw8dzd953nq5o#8</guid>
+            <pubDate>Mon, 09 Nov 2026 12:00:30 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1bb6/live/f5827880-dc32-11f1-958b-3f65a8ba2dc3.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[What can you read into Premier League table after 10 games?]]></title>
+            <description><![CDATA[With 10 games gone in the Premier League season, BBC Sport looks at what history tells us we can read into the table at this stage.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/c91463n3mlzlo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c91463n3mlzlo#8</guid>
+            <pubDate>Sun, 08 Nov 2026 19:40:34 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e2dd/live/fb15a380-db97-11f1-a42b-dbe60e973664.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Alisson wants to sign new Liverpool contract]]></title>
             <description><![CDATA[Liverpool goalkeeper Alisson Becker wants to stay at the club beyond the end of the season, when his current contract is set to expire.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cw62ypepq2m7o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -231,28 +255,20 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b046/live/a4de1f60-dbb5-11f1-b35d-8ff000e4934a.jpg"/>
         </item>
         <item>
-            <title><![CDATA[England make massive step up in Australia victory]]></title>
-            <description><![CDATA[In his latest column, England World Cup winner Matt Dawson reflects on an impressive win for Steve Borthwick's side against Australia in the Nations Championship.]]></description>
-            <link>https://www.bbc.co.uk/sport/rugby-union/articles/cqev33zn20vdo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/rugby-union/articles/cqev33zn20vdo#8</guid>
-            <pubDate>Mon, 09 Nov 2026 06:49:22 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec8a/live/e4531aa0-f1de-11ef-9e61-71ee71f26eb1.png"/>
+            <title><![CDATA[Bronze named in World 11 for record ninth time]]></title>
+            <description><![CDATA[Lucy Bronze is one of five England players named in the Fifpro Women's World 11.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cmkgeg2z4dlwo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmkgeg2z4dlwo#8</guid>
+            <pubDate>Mon, 09 Nov 2026 14:55:32 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/89c7/live/8800f540-dc4e-11f1-a869-656dc96bd12d.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Sports Personality of the Year returns - with five awards decided by public]]></title>
-            <description><![CDATA[BBC Sports Personality of the Year will be held on 13 December - and audiences will have more influence than ever over the awards.]]></description>
-            <link>https://www.bbc.co.uk/sport/articles/cqj9kd00y0wko?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/articles/cqj9kd00y0wko#8</guid>
-            <pubDate>Mon, 09 Nov 2026 07:30:05 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fdbf/live/8a123c50-d9cd-11f1-bb8e-efaa31738708.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Packers & Bengals win in style - NFL week nine]]></title>
-            <description><![CDATA[The Chicago Bears and Denver Broncos grind out wins while the Cincinnati Bengals and Green Bay Packers put on a show as the NFL season reaches the halfway point.]]></description>
-            <link>https://www.bbc.co.uk/sport/american-football/articles/cmdxwxry2pr8o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/american-football/articles/cmdxwxry2pr8o#8</guid>
-            <pubDate>Mon, 09 Nov 2026 07:21:24 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2eee/live/0bf31cb0-dc37-11f1-93e1-3b657b665bcf.png"/>
+            <title><![CDATA[How Hawkins overcame illness to star for England]]></title>
+            <description><![CDATA[When Rob Hawkins replied to what he thought was an advert to play wheelchair basketball in 2014 he could not have imagined he would be a key part of an England side defending their Rugby League World Cup title. ]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-league/articles/cmvgxgdqgdgvo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/rugby-league/articles/cmvgxgdqgdgvo#8</guid>
+            <pubDate>Mon, 09 Nov 2026 15:15:06 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9fe1/live/3b4994b0-dc48-11f1-a869-656dc96bd12d.jpg"/>
         </item>
     </channel>
 </rss>
