@@ -12,7 +12,7 @@
 	<atom:link href="https://www.bellanaija.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.bellanaija.com</link>
 	<description>Showcasing Africa to the world. Read today!</description>
-	<lastBuildDate>Sun, 08 Nov 2026 13:31:12 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 09 Nov 2026 07:13:56 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -78,8 +78,7 @@
 		
 		<dc:creator><![CDATA[BellaNaija.com]]></dc:creator>
 		<pubDate>Sat, 07 Nov 2026 17:33:41 +0000</pubDate>
-				<category><![CDATA[News]]></category>
-		<category><![CDATA[Promotions]]></category>
+				<category><![CDATA[Promotions]]></category>
 		<category><![CDATA[Omololu Majekodunmi]]></category>
 		<category><![CDATA[ValueJet]]></category>
 		<guid isPermaLink="false">https://www.bellanaija.com/?p=1789837</guid>
