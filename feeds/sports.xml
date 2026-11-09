@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/sport/football</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 08 Nov 2026 23:31:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Nov 2026 00:15:02 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -119,12 +119,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ca1/live/18cc3840-dbb0-11f1-9047-0dde0754755b.png"/>
         </item>
         <item>
-            <title><![CDATA[Man Utd making it 'hard on ourselves' - Carrick]]></title>
-            <description><![CDATA[Manchester United head coach Michael Carrick admits his side "made it hard on themselves" after they twice came back from two goals down to earn a 4-4 draw at home to Aston Villa.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/videos/c6rmyg80pk3wo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/c6rmyg80pk3wo#1</guid>
-            <pubDate>Sun, 08 Nov 2026 19:13:46 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/464b/live/95b255f0-dba7-11f1-a701-fddedf244c16.jpg"/>
+            <title><![CDATA[Four 'huge mistakes' that show Man Utd's defensive problems]]></title>
+            <description><![CDATA[After Manchester United consed four preventable goal against Aston Villa in the Premier League Dion Dublin and Leon Osman brake down what is going wrong on Match of the Day.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/videos/c64g1n1wezvyo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/c64g1n1wezvyo#1</guid>
+            <pubDate>Sun, 08 Nov 2026 23:53:20 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a524/live/05c078e0-dbcb-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
             <title><![CDATA[Leeds condemn racist abuse of Bogle after Tel incident]]></title>
@@ -167,15 +167,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6507/live/8fdebc40-dba2-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Seventh-tier Wimborne knock out League Two Crawley in FA Cup upset]]></title>
-            <description><![CDATA[Seventh-tier Wimborne Town beat League Two Crawley in a huge FA Cup upset, to reach round two of the competition for the first time in their history.
-
-
-]]></description>
-            <link>https://www.bbc.co.uk/sport/football/videos/cmy83620wq2wo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cmy83620wq2wo#3</guid>
-            <pubDate>Sun, 08 Nov 2026 18:56:55 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a3b/live/3c193440-db99-11f1-b441-2b33b063138f.jpg"/>
+            <title><![CDATA[Barcelona fight back to beat Atleti as Fermin scores twice]]></title>
+            <description><![CDATA[Fermin Lopez scores twice as Barcelona come from behind to claim a gritty win over Atletico Madrid and maintain their advantage at the top of La Liga.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/videos/cx1l30319580o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cx1l30319580o#3</guid>
+            <pubDate>Sun, 08 Nov 2026 23:41:30 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d549/live/c3231170-dbcd-11f1-93e1-3b657b665bcf.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['A horrible place to be' - What's gone wrong for Palace?]]></title>
+            <description><![CDATA[Match of the Day's Dion Dublin and Leon Osman discuss the problems that have led to Crystal Palace being bottom of Premier League, after a couple of seasons of unprecedented success for the club.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/videos/cm62ypyydqg4o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cm62ypyydqg4o#3</guid>
+            <pubDate>Sun, 08 Nov 2026 23:53:08 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ede/live/d9895230-dbcd-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
             <title><![CDATA[Oldham Athletic shock Sheffield Wednesday with extra-time winner]]></title>
@@ -189,34 +194,23 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae7f/live/bf7f5970-dbaf-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Grimsby fight back from two goals down to edge Stafford on penalties]]></title>
-            <description><![CDATA[League Two side Grimsby Town recover from a two-goal deficit against the FA Cup first round's lowest-ranked team, Stafford Rangers. Grimsby battled back to level the tie at 3-3 before winning 3-2 in the penalty shootout to book their place in the second round.  
+            <title><![CDATA[Why defenders hate playing against brilliant Brobbey]]></title>
+            <description><![CDATA[Match of the Day's Dion Dublin breaks down the physical performance of Sunderland striker Brian Brobbey in the Black Cats' 1-0 win over Chelsea.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/videos/c69qz8z2d3yqo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/c69qz8z2d3yqo#3</guid>
+            <pubDate>Sun, 08 Nov 2026 23:53:15 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/467d/live/c9a93670-dbcb-11f1-93e1-3b657b665bcf.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Seventh-tier Wimborne knock out League Two Crawley in FA Cup upset]]></title>
+            <description><![CDATA[Seventh-tier Wimborne Town beat League Two Crawley in a huge FA Cup upset, to reach round two of the competition for the first time in their history.
 
 
 ]]></description>
-            <link>https://www.bbc.co.uk/sport/football/videos/cv5yn1w5j359o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cv5yn1w5j359o#3</guid>
-            <pubDate>Sun, 08 Nov 2026 17:00:00 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d55a/live/11e79f60-db8d-11f1-93e1-3b657b665bcf.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[London City thump Birmingham to close gap on second]]></title>
-            <description><![CDATA[London City Lionesses defeat Birmingham City 4-1 to move to within four points of second-placed Chelsea in the WSL.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/videos/c62kel300wwxo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/c62kel300wwxo#3</guid>
-            <pubDate>Sun, 08 Nov 2026 17:06:21 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab49/live/a17f5c70-db93-11f1-a701-fddedf244c16.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['Frustrated and disappointed' - Emery on Man Utd draw ]]></title>
-            <description><![CDATA[Aston Villa manager Unai Emery was a frustrated figure after his side surrendered a two goal lead against Manchester United twice, leaving Old Trafford with a point from their 4-4 draw. 
-
-
-]]></description>
-            <link>https://www.bbc.co.uk/sport/football/videos/c9dr812v01lzo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/c9dr812v01lzo#3</guid>
-            <pubDate>Sun, 08 Nov 2026 19:39:24 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d367/live/1f25a4c0-dbaa-11f1-a701-fddedf244c16.jpg"/>
+            <link>https://www.bbc.co.uk/sport/football/videos/cmy83620wq2wo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cmy83620wq2wo#3</guid>
+            <pubDate>Sun, 08 Nov 2026 18:56:55 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a3b/live/3c193440-db99-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
             <title><![CDATA['I can't believe he is one of us' - inside Salah's life in Trabzon]]></title>
@@ -267,20 +261,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/182c/live/e39102a0-db64-11f1-adda-c54f54e3ce6a.jpg"/>
         </item>
         <item>
-            <title><![CDATA[10-man Stockport come from behind to survive huge scare at Cray]]></title>
-            <description><![CDATA[League One Stockport County survive a scare to beat Isthmian League side Cray Wanderers 3-2 after extra time in the FA Cup first round.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/videos/cqj9km408d38o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cqj9km408d38o#7</guid>
-            <pubDate>Sun, 08 Nov 2026 17:39:15 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/75bc/live/f85f7240-db99-11f1-a701-fddedf244c16.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Russo double gives Arsenal win over Liverpool at Anfield]]></title>
-            <description><![CDATA[Alessia Russo scores twice to give Arsenal a much-needed 2-1 win over Liverpool at Anfield, to move up to seventh place in the WSL.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/videos/c8qlnq73n6lyo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/c8qlnq73n6lyo#7</guid>
-            <pubDate>Sun, 08 Nov 2026 17:45:27 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4bfb/live/d0b51af0-db81-11f1-93e1-3b657b665bcf.jpg"/>
+            <title><![CDATA[Man Utd making it 'hard on ourselves' - Carrick]]></title>
+            <description><![CDATA[Manchester United head coach Michael Carrick admits his side "made it hard on themselves" after they twice came back from two goals down to earn a 4-4 draw at home to Aston Villa.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/videos/c6rmyg80pk3wo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/c6rmyg80pk3wo#7</guid>
+            <pubDate>Sun, 08 Nov 2026 19:13:46 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/464b/live/95b255f0-dba7-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
             <title><![CDATA[Grimsby fight back from two goals down to edge Stafford on penalties]]></title>
@@ -294,20 +280,31 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d55a/live/11e79f60-db8d-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
-            <title><![CDATA['Dreamland!' - Cray score brilliant free-kick as Stockport down to 10]]></title>
-            <description><![CDATA[Stockport goalkeeper Luca Ashby-Hammond is given a straight red card after a challenge on the edge of the box and from the subsequent free-kick Alex Hernandez doubles Cray Wanderers' lead with a fantastic free-kick.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/videos/c64g1n4w70p9o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/c64g1n4w70p9o#7</guid>
-            <pubDate>Sun, 08 Nov 2026 15:31:43 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e26/live/01e0be90-db87-11f1-a701-fddedf244c16.jpg"/>
+            <title><![CDATA[London City thump Birmingham to close gap on second]]></title>
+            <description><![CDATA[London City Lionesses defeat Birmingham City 4-1 to move to within four points of second-placed Chelsea in the WSL.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/videos/c62kel300wwxo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/c62kel300wwxo#7</guid>
+            <pubDate>Sun, 08 Nov 2026 17:06:21 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab49/live/a17f5c70-db93-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
-            <title><![CDATA['It's Savage junior's night' - Charlie scores against dad Robbie's side]]></title>
-            <description><![CDATA[Robbie Savage's son Charlie scores for Reading against Peterborough United, the side his father manages in the first round of the FA Cup. ]]></description>
-            <link>https://www.bbc.co.uk/sport/football/videos/cmx2d76znxe1o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cmx2d76znxe1o#7</guid>
-            <pubDate>Sun, 08 Nov 2026 00:13:34 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43fe/live/d3069860-dafa-11f1-a701-fddedf244c16.jpg"/>
+            <title><![CDATA['Frustrated and disappointed' - Emery on Man Utd draw ]]></title>
+            <description><![CDATA[Aston Villa manager Unai Emery was a frustrated figure after his side surrendered a two goal lead against Manchester United twice, leaving Old Trafford with a point from their 4-4 draw. 
+
+
+]]></description>
+            <link>https://www.bbc.co.uk/sport/football/videos/c9dr812v01lzo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/c9dr812v01lzo#7</guid>
+            <pubDate>Sun, 08 Nov 2026 19:39:24 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d367/live/1f25a4c0-dbaa-11f1-a701-fddedf244c16.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[10-man Stockport come from behind to survive huge scare at Cray]]></title>
+            <description><![CDATA[League One Stockport County survive a scare to beat Isthmian League side Cray Wanderers 3-2 after extra time in the FA Cup first round.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/videos/cqj9km408d38o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cqj9km408d38o#7</guid>
+            <pubDate>Sun, 08 Nov 2026 17:39:15 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/75bc/live/f85f7240-db99-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
             <title><![CDATA[Title race hots up before Chelsea-Man City showdown]]></title>
@@ -480,8 +477,8 @@
         <item>
             <title><![CDATA[Watch: Sunday's Scottish Premiership highlights]]></title>
             <description><![CDATA[With Kilmarnock v Celtic and Hearts welcoming the season's surprise package Falkirk]]></description>
-            <link>https://www.bbc.co.uk/iplayer/episode/m003468d?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/iplayer/episode/m003468d#17</guid>
+            <link>https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/iplayer/live/bbcone#17</guid>
             <pubDate>Sun, 08 Nov 2026 20:00:24 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0ply9jw.jpg"/>
         </item>
