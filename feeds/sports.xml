@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/sport/football</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 09 Nov 2026 12:20:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Nov 2026 13:42:11 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -79,6 +79,22 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e2dd/live/fb15a380-db97-11f1-a42b-dbe60e973664.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Chelsea staff warned over Fantasy Premier League use]]></title>
+            <description><![CDATA[Chelsea warn staff to be careful about revealing team news through Fantasy Premier League after Joao Pedro's injury appeared to have been inadvertently disclosed through team selections.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/c98rzr51rlvpo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c98rzr51rlvpo#0</guid>
+            <pubDate>Mon, 09 Nov 2026 12:41:23 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/824c/live/4f7c8740-dc33-11f1-958b-3f65a8ba2dc3.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Berkhamsted players banned from watching FA Cup draw]]></title>
+            <description><![CDATA[The manager of seventh-tier Berkhamsted says his players will be barred from the "distraction" of the FA Cup second round draw.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/c6j9k910l1ryo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6j9k910l1ryo#0</guid>
+            <pubDate>Mon, 09 Nov 2026 11:45:08 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e7a/live/bc81e9c0-dc24-11f1-a5b1-adf9c8e8d692.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Who am I? Plus today's other quizzes]]></title>
             <description><![CDATA[Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/c6ly0w4n7d91o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -87,28 +103,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"/>
         </item>
         <item>
-            <title><![CDATA[Palace consider replacing Sage, with Frank among contenders]]></title>
-            <description><![CDATA[Crystal Palace manager Pierre Sage is in serious danger of losing his job, with Thomas Frank among the contenders to replace him.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/c623dpeey3e4o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c623dpeey3e4o#0</guid>
-            <pubDate>Sun, 08 Nov 2026 20:49:40 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82df/live/76bb35a0-dbb5-11f1-93e1-3b657b665bcf.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Who has made Troy's Premier League team of the week?]]></title>
             <description><![CDATA[After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cw98z7vdg546o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cw98z7vdg546o#0</guid>
             <pubDate>Sun, 08 Nov 2026 20:18:01 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b69/live/01cb00f0-dbb9-11f1-86cb-c1d83392da32.png"/>
-        </item>
-        <item>
-            <title><![CDATA[Are 'outstanding' Brighton now Arsenal's main title challengers?]]></title>
-            <description><![CDATA[After moving up to second in the Premier League, could Brighton really be Arsenal's main title challengers?]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cjx23rwxdn64o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cjx23rwxdn64o#0</guid>
-            <pubDate>Sun, 08 Nov 2026 19:24:36 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8de0/live/2f31e2f0-db93-11f1-9029-d35c55297624.jpg"/>
         </item>
         <item>
             <title><![CDATA[Man Utd score twice in stoppage time to share points in eight-goal thriller]]></title>
@@ -151,6 +151,22 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f40/live/739a24b0-dba3-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Are 'outstanding' Brighton now Arsenal's main title challengers?]]></title>
+            <description><![CDATA[After moving up to second in the Premier League, could Brighton really be Arsenal's main title challengers?]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cjx23rwxdn64o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cjx23rwxdn64o#2</guid>
+            <pubDate>Sun, 08 Nov 2026 19:24:36 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8de0/live/2f31e2f0-db93-11f1-9029-d35c55297624.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Palace consider replacing Sage, with Frank among contenders]]></title>
+            <description><![CDATA[Crystal Palace manager Pierre Sage is in serious danger of losing his job, with Thomas Frank among the contenders to replace him.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/c623dpeey3e4o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c623dpeey3e4o#2</guid>
+            <pubDate>Sun, 08 Nov 2026 20:49:40 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82df/live/76bb35a0-dbb5-11f1-93e1-3b657b665bcf.jpg"/>
+        </item>
+        <item>
             <title><![CDATA['Tinkerman' Alonso's Chelsea side still searching for identity]]></title>
             <description><![CDATA[Xabi Alonso's frustration is evident as Chelsea's struggles for an identity continue with the disappointing 1-0 defeat by Sunderland.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/c5m2ddz437nzo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -170,15 +186,15 @@
             <title><![CDATA[Friedel group completes Shrewsbury Town takeover]]></title>
             <description><![CDATA[Shrewsbury Town's American takeover deal is done, allowing owner Roland Wycherley to retire, reports BBC Radio Shropshire.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/c9p8grpdpp2go?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c9p8grpdpp2go#2</guid>
-            <pubDate>Mon, 09 Nov 2026 12:09:21 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb7a/live/5c0f70d0-6139-11ee-ac8c-9d18dbc280ea.png"/>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c9p8grpdpp2go#3</guid>
+            <pubDate>Mon, 09 Nov 2026 13:07:29 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e689/live/3cd3dc00-dc39-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
             <title><![CDATA[Falkirk add goals and grit to McGlynn's guile on rapid rise]]></title>
             <description><![CDATA[Falkirk continue to excel under the canny guidance of John McGlynn as a run of five successive victories takes them up to third in the Scottish Premiership.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/crwyd4q0k8ddo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/crwyd4q0k8ddo#2</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/crwyd4q0k8ddo#3</guid>
             <pubDate>Sun, 08 Nov 2026 22:14:38 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29a2/live/9f6069b0-dbb7-11f1-be74-51c499abf6a8.jpg"/>
         </item>
@@ -250,36 +266,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae7f/live/bf7f5970-dbaf-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
-            <title><![CDATA[A shock departure and key results - inside Wrexham's seismic week]]></title>
-            <description><![CDATA[BBC Sport Wales addresses the key changes made at Wrexham in what was a seismic week for the Championship club as CEO Michael Williamson departed.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cqrkyg434y84o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqrkyg434y84o#6</guid>
-            <pubDate>Sun, 08 Nov 2026 13:19:22 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bde1/live/4a0a6a30-db4c-11f1-b441-2b33b063138f.png"/>
-        </item>
-        <item>
-            <title><![CDATA['I can't believe he is one of us' - inside Salah's life in Trabzon]]></title>
-            <description><![CDATA[BBC Sport travels to Turkey to watch Mohamed Salah play for Trabzonspor and discover how the 'Egyptian King' is settling into life by the Black Sea.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cmwyqzy934lxo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmwyqzy934lxo#6</guid>
-            <pubDate>Sun, 08 Nov 2026 07:30:01 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/054e/live/566a97f0-da93-11f1-8206-e519d24a9ca2.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Football Daily]]></title>
-            <description><![CDATA[Adam Crafton joins Rick and Lloyd to discuss Brighton, Man City and Man Utd.]]></description>
-            <link>https://www.bbc.co.uk/sounds/play/p0plyc8k?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0plyc8k#6</guid>
-            <pubDate>Mon, 09 Nov 2026 00:30:00 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0pldj09.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Who was back to his best? Player ratings for Crystal Palace v Liverpool]]></title>
-            <description><![CDATA[How Crystal Palace and Liverpool's players rated following their Premier League match.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cqkgjm2dlpv6o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqkgjm2dlpv6o#6</guid>
-            <pubDate>Sun, 08 Nov 2026 16:04:18 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe1b/live/abeecdc0-db8a-11f1-ab1c-6b6075dcdfe1.jpg"/>
+            <title><![CDATA[Why are Manchester United fans wearing green and gold?]]></title>
+            <description><![CDATA[Our Ask Me Anything team explain why some Manchester United fans are wearing green and gold to matches.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cwe8l8y2egk2o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cwe8l8y2egk2o#6</guid>
+            <pubDate>Mon, 09 Nov 2026 12:54:09 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e4d/live/a91bf2e0-dc33-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
             <title><![CDATA[Why defenders hate playing against brilliant Brobbey]]></title>
@@ -326,6 +318,22 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/c62kel300wwxo#7</guid>
             <pubDate>Sun, 08 Nov 2026 17:06:21 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab49/live/a17f5c70-db93-11f1-a701-fddedf244c16.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[A shock departure and key results - inside Wrexham's seismic week]]></title>
+            <description><![CDATA[BBC Sport Wales addresses the key changes made at Wrexham in what was a seismic week for the Championship club as CEO Michael Williamson departed.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cqrkyg434y84o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqrkyg434y84o#8</guid>
+            <pubDate>Sun, 08 Nov 2026 13:19:22 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bde1/live/4a0a6a30-db4c-11f1-b441-2b33b063138f.png"/>
+        </item>
+        <item>
+            <title><![CDATA['I can't believe he is one of us' - inside Salah's life in Trabzon]]></title>
+            <description><![CDATA[BBC Sport travels to Turkey to watch Mohamed Salah play for Trabzonspor and discover how the 'Egyptian King' is settling into life by the Black Sea.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cmwyqzy934lxo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmwyqzy934lxo#8</guid>
+            <pubDate>Sun, 08 Nov 2026 07:30:01 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/054e/live/566a97f0-da93-11f1-8206-e519d24a9ca2.jpg"/>
         </item>
         <item>
             <title><![CDATA[Is there something missing despite Rangers' impressive form?]]></title>
