@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news/world</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 09 Nov 2026 03:32:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Nov 2026 04:42:52 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/world/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -39,12 +39,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d1cd/live/cc05a720-d9d5-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Iran executes three men for 'armed unrest' after January protests]]></title>
-            <description><![CDATA[It is claimed Hassan Dioband, Hamid Kazemi and Reza Zanganeh were part of anti-government protests earlier this year.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/ckly0ex633ydo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckly0ex633ydo#0</guid>
-            <pubDate>Sun, 08 Nov 2026 13:37:50 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d304/live/bfc281c0-db53-11f1-98f5-8d1276fd5e57.jpg"/>
+            <title><![CDATA[Cruise ship pianist rescued from sea after nine hours in Pacific Ocean]]></title>
+            <description><![CDATA[Two US fishermen say they spotted the man treading water around 20 miles (32km) off the Californian coast. ]]></description>
+            <link>https://www.bbc.co.uk/news/articles/ck1wvrrgln13o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ck1wvrrgln13o#0</guid>
+            <pubDate>Mon, 09 Nov 2026 02:50:13 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3d5/live/8cacf090-dbdf-11f1-b348-cb75a5659779.jpg"/>
         </item>
         <item>
             <title><![CDATA[Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes]]></title>
@@ -61,6 +61,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo#0</guid>
             <pubDate>Sat, 07 Nov 2026 21:36:16 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d485/live/0685e840-dab9-11f1-b441-2b33b063138f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Iran executes three men for 'armed unrest' after January protests]]></title>
+            <description><![CDATA[It is claimed Hassan Dioband, Hamid Kazemi and Reza Zanganeh were part of anti-government protests earlier this year.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/ckly0ex633ydo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckly0ex633ydo#1</guid>
+            <pubDate>Sun, 08 Nov 2026 13:37:50 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d304/live/bfc281c0-db53-11f1-98f5-8d1276fd5e57.jpg"/>
         </item>
         <item>
             <title><![CDATA[Paraguay's former president charged after bank collapse]]></title>
@@ -141,14 +149,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cq62yy064vjpo#1</guid>
             <pubDate>Fri, 06 Nov 2026 15:25:35 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c047/live/33f77d10-d9ed-11f1-a701-fddedf244c16.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Spain's rail authorities face European fraud probe after Urda rail disaster]]></title>
-            <description><![CDATA[Prosecutors begin investigating EU funds meant for upgrading the Spanish railway line where a train crash killed 69 people.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c6x2wwnz5445o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6x2wwnz5445o#1</guid>
-            <pubDate>Fri, 06 Nov 2026 17:44:02 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26ed/live/81d3a0d0-d9ee-11f1-bbe5-797ee05bee69.jpg"/>
         </item>
         <item>
             <title><![CDATA['I treat all these people like they are victims', says doctor who treated Krakow shooting suspect]]></title>
