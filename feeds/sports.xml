@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/sport/football</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 09 Nov 2026 10:21:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Nov 2026 11:20:25 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -39,22 +39,6 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82df/live/76bb35a0-dbb5-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Are 'outstanding' Brighton now Arsenal's main title challengers?]]></title>
-            <description><![CDATA[After moving up to second in the Premier League, could Brighton really be Arsenal's main title challengers?]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cjx23rwxdn64o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cjx23rwxdn64o#0</guid>
-            <pubDate>Sun, 08 Nov 2026 19:24:36 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8de0/live/2f31e2f0-db93-11f1-9029-d35c55297624.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dutch match postponed after fans block team bus]]></title>
-            <description><![CDATA[A Dutch second-tier match between Vitesse Arnhem and De Graafschap was called off after away team supporters blocked their own team's bus from departing for the game.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cqy0r0lw4l5ro?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqy0r0lw4l5ro#0</guid>
-            <pubDate>Mon, 09 Nov 2026 08:00:07 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e8eb/live/b045b540-dc0d-11f1-9f85-c35529b8c4b9.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Villa's Kamara on Chelsea watchlist - Monday's gossip ]]></title>
             <description><![CDATA[Aston Villa midfielder Boubacar Kamara is on Chelsea's watchlist, Manchester United could make an offer for Nottingham Forest's Murillo, plus more.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/c8qlnqggwge0o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -79,12 +63,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"/>
         </item>
         <item>
-            <title><![CDATA['Tinkerman' Alonso's Chelsea side still searching for identity]]></title>
-            <description><![CDATA[Xabi Alonso's frustration is evident as Chelsea's struggles for an identity continue with the disappointing 1-0 defeat by Sunderland.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/c5m2ddz437nzo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c5m2ddz437nzo#0</guid>
-            <pubDate>Sun, 08 Nov 2026 18:20:56 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e917/live/61e70130-dba2-11f1-9580-17f5674d0b29.jpg"/>
+            <title><![CDATA[Dutch match postponed after fans block team bus]]></title>
+            <description><![CDATA[A Dutch second-tier match between Vitesse Arnhem and De Graafschap was called off after away team supporters blocked their own team's bus from departing for the game.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cqy0r0lw4l5ro?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqy0r0lw4l5ro#0</guid>
+            <pubDate>Mon, 09 Nov 2026 08:00:07 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e8eb/live/b045b540-dc0d-11f1-9f85-c35529b8c4b9.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Are 'outstanding' Brighton now Arsenal's main title challengers?]]></title>
+            <description><![CDATA[After moving up to second in the Premier League, could Brighton really be Arsenal's main title challengers?]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cjx23rwxdn64o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cjx23rwxdn64o#0</guid>
+            <pubDate>Sun, 08 Nov 2026 19:24:36 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8de0/live/2f31e2f0-db93-11f1-9029-d35c55297624.jpg"/>
         </item>
         <item>
             <title><![CDATA[Who has made Troy's Premier League team of the week?]]></title>
@@ -135,6 +127,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f40/live/739a24b0-dba3-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
+            <title><![CDATA['Tinkerman' Alonso's Chelsea side still searching for identity]]></title>
+            <description><![CDATA[Xabi Alonso's frustration is evident as Chelsea's struggles for an identity continue with the disappointing 1-0 defeat by Sunderland.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/c5m2ddz437nzo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c5m2ddz437nzo#2</guid>
+            <pubDate>Sun, 08 Nov 2026 18:20:56 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e917/live/61e70130-dba2-11f1-9580-17f5674d0b29.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Fan injured after falling through hole in stand]]></title>
             <description><![CDATA[One fan is taken to hospital after a number of Bodo/Glimt supporters fall through a hole in the away stand at Tromso.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/ck0j0x2e49j7o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -170,17 +170,9 @@
             <title><![CDATA[Where does Man Utd 4-4 Villa rank among best Premier League games?]]></title>
             <description><![CDATA[Where does Manchester United 4-4 Aston Villa rank among the Premier League's greatest games?]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cy47wj05xgqo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cy47wj05xgqo#2</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cy47wj05xgqo#3</guid>
             <pubDate>Sun, 08 Nov 2026 20:05:53 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/910b/live/15fd4900-da13-11f0-a8dc-93c15fe68710.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dorgu makes dramatic impact - Man Utd v Aston Villa ratings]]></title>
-            <description><![CDATA[Man Utd fight back from two goals down twice in 4-4 draw with Aston Villa - but who did well and who didn't in player ratings?]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cwj34k7k54veo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cwj34k7k54veo#3</guid>
-            <pubDate>Sun, 08 Nov 2026 18:46:45 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6507/live/8fdebc40-dba2-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
             <title><![CDATA[Four 'huge mistakes' that show Man Utd's defensive problems]]></title>
@@ -226,6 +218,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae7f/live/bf7f5970-dbaf-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Which Premier League players are set for yellow card suspensions?]]></title>
+            <description><![CDATA[Thirteen players are on the brink of a one-match ban in the 2026-27 Premier League season.]]></description>
+            <link>https://www.bbc.co.uk/sport/articles/cr3wj7wg35pxo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/articles/cr3wj7wg35pxo#6</guid>
+            <pubDate>Mon, 09 Nov 2026 10:33:57 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4573/live/ecda7500-dc20-11f1-a701-fddedf244c16.png"/>
+        </item>
+        <item>
             <title><![CDATA['I can't believe he is one of us' - inside Salah's life in Trabzon]]></title>
             <description><![CDATA[BBC Sport travels to Turkey to watch Mohamed Salah play for Trabzonspor and discover how the 'Egyptian King' is settling into life by the Black Sea.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cmwyqzy934lxo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -256,14 +256,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c94g1n4pzev3o#6</guid>
             <pubDate>Sun, 08 Nov 2026 16:13:36 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/414a/live/54cb1080-db8a-11f1-ab1c-6b6075dcdfe1.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Is there something missing despite Rangers' impressive form?]]></title>
-            <description><![CDATA[Rangers made it 12 games without defeat in all competitions with a 2-0 win at St Mirren on Saturday, but Ibrox legend Kris Boyd believes there is "something missing".]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/c6dxw1k2x4kno?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6dxw1k2x4kno#6</guid>
-            <pubDate>Sun, 08 Nov 2026 10:10:27 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b5f6/live/df39e250-db08-11f1-97a6-7f91220beb58.jpg"/>
         </item>
         <item>
             <title><![CDATA[Why defenders hate playing against brilliant Brobbey]]></title>
@@ -310,6 +302,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/c62kel300wwxo#7</guid>
             <pubDate>Sun, 08 Nov 2026 17:06:21 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab49/live/a17f5c70-db93-11f1-a701-fddedf244c16.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Is there something missing despite Rangers' impressive form?]]></title>
+            <description><![CDATA[Rangers made it 12 games without defeat in all competitions with a 2-0 win at St Mirren on Saturday, but Ibrox legend Kris Boyd believes there is "something missing".]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/c6dxw1k2x4kno?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6dxw1k2x4kno#8</guid>
+            <pubDate>Sun, 08 Nov 2026 10:10:27 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b5f6/live/df39e250-db08-11f1-97a6-7f91220beb58.jpg"/>
         </item>
         <item>
             <title><![CDATA[England await Guehi scan results after injury concern]]></title>
@@ -393,11 +393,11 @@
         </item>
         <item>
             <title><![CDATA[Which Premier League players are set for yellow card suspensions?]]></title>
-            <description><![CDATA[Hull City's Matt Crooks and Aston Villa's Matty Cash are the first players to receive a one-match ban for accumulating five yellow cards in the 2025-26 Premier League season.]]></description>
+            <description><![CDATA[Thirteen players are on the brink of a one-match ban in the 2026-27 Premier League season.]]></description>
             <link>https://www.bbc.co.uk/sport/articles/cr3wj7wg35pxo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/articles/cr3wj7wg35pxo#14</guid>
-            <pubDate>Mon, 02 Nov 2026 09:58:42 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b177/live/1aa00750-d6a1-11f1-b441-2b33b063138f.png"/>
+            <pubDate>Mon, 09 Nov 2026 10:33:57 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4573/live/ecda7500-dc20-11f1-a701-fddedf244c16.png"/>
         </item>
         <item>
             <title><![CDATA[Which game will Chelsea's Palmer miss after red card?]]></title>
