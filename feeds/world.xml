@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news/world</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 09 Nov 2026 08:03:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Nov 2026 09:17:35 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/world/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -31,20 +31,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5447/live/ec9efd90-d9fa-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says]]></title>
-            <description><![CDATA[Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o#0</guid>
-            <pubDate>Sun, 08 Nov 2026 23:34:18 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5f9/live/5b43f440-db76-11f1-b1f1-3be4e895d0fe.jpg"/>
+            <title><![CDATA[Trump says he was 'kidding' about Dana White press secretary offer]]></title>
+            <description><![CDATA[The president told the Ultimate Fighting Championship boss to "please take the job" in a Truth Social post on Saturday.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/ck0j0j87959eo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ck0j0j87959eo#0</guid>
+            <pubDate>Mon, 09 Nov 2026 08:49:17 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dcbb/live/2fcfac50-dc11-11f1-a631-078d47c5aafb.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Seven dead and more than 100 injured after trains collide in Egypt]]></title>
-            <description><![CDATA[Several carriages derailed after two trains travelling in the same direction crashed outside the city of Giza.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwvgr20mmmevo#0</guid>
-            <pubDate>Sun, 08 Nov 2026 19:58:02 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3886/live/ab03aa70-db8a-11f1-b441-2b33b063138f.jpg"/>
+            <title><![CDATA[At least 34 dead after Europe-bound migrant boat sinks off Senegal ]]></title>
+            <description><![CDATA[The Atlantic crossing to Spain's Canary Islands remains dangerous for migrants seeking a better life]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cv2d6dpge65go?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cv2d6dpge65go#0</guid>
+            <pubDate>Mon, 09 Nov 2026 08:16:57 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd49/live/784207a0-dc00-11f1-bbe0-3f3fc519e7d8.png"/>
         </item>
         <item>
             <title><![CDATA[Pope delivers veiled rebuke of Milei's austerity measures]]></title>
@@ -61,6 +61,30 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ck1wvrrgln13o#0</guid>
             <pubDate>Mon, 09 Nov 2026 02:50:13 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc95/live/fa87f0c0-dc0b-11f1-b441-2b33b063138f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Seven dead and more than 100 injured after trains collide in Egypt]]></title>
+            <description><![CDATA[Several carriages derailed after two trains travelling in the same direction crashed outside the city of Giza.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwvgr20mmmevo#1</guid>
+            <pubDate>Sun, 08 Nov 2026 19:58:02 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3886/live/ab03aa70-db8a-11f1-b441-2b33b063138f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Devastating message' as ANC records worst-ever result in South Africa election]]></title>
+            <description><![CDATA[President Cyril Ramaphosa says the verdict must be respected, while the party's secretary-general calls the outcome "catastrophic".]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cwrkygrxp11mo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwrkygrxp11mo#1</guid>
+            <pubDate>Sun, 08 Nov 2026 17:51:03 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2630/live/78c708a0-db5c-11f1-adda-c54f54e3ce6a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says]]></title>
+            <description><![CDATA[Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o#1</guid>
+            <pubDate>Sun, 08 Nov 2026 23:34:18 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5f9/live/5b43f440-db76-11f1-b1f1-3be4e895d0fe.jpg"/>
         </item>
         <item>
             <title><![CDATA[Homes and temples glow across India to mark Diwali]]></title>
@@ -159,7 +183,7 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fdde/live/9036f7e0-da01-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Will Nvidia CEO’s rockstar reputation survive an affair with a suspected Chinese spy?]]></title>
+            <title><![CDATA[What do we know about Nvidia CEO’s affair with a suspected Chinese spy?]]></title>
             <description><![CDATA[Adoration for the US tech giant’s CEO Jensen Huang has been labelled “Jensanity”, but can his reputation survive the news of his affair?]]></description>
             <link>https://www.bbc.co.uk/news/videos/cq3989nkzn3ko?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cq3989nkzn3ko#2</guid>
