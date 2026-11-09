@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 09 Nov 2026 13:42:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Nov 2026 14:37:27 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -47,7 +47,7 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3027/live/75696c60-dc25-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Cruise ship pianist rescued by fishermen after nine hours in ocean]]></title>
+            <title><![CDATA[Cruise ship pianist rescued from sea after nine hours in Pacific Ocean]]></title>
             <description><![CDATA[Two US fishermen say they spotted the man treading water around 20 miles (32km) off the Californian coast. ]]></description>
             <link>https://www.bbc.co.uk/news/articles/ck1wvrrgln13o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ck1wvrrgln13o#1</guid>
@@ -71,20 +71,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/380d/live/6f877e00-dc24-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Government's EV targets expected to be reduced this week]]></title>
-            <description><![CDATA[New petrol or diesel cars are due to be phased out by 2030 and by 2035 all new cars must be zero emission.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cqkg5g2970epo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqkg5g2970epo#1</guid>
-            <pubDate>Mon, 09 Nov 2026 12:06:22 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b401/live/fd7836e0-dbdf-11f1-b348-cb75a5659779.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Man jailed over racist Badenoch death threats]]></title>
             <description><![CDATA[Kieran Kyle sent emails to the Tory party leader in which he made racist references, a court hears.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c5n494x9kgp0o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c5n494x9kgp0o#1</guid>
             <pubDate>Mon, 09 Nov 2026 13:06:31 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/487a/live/63408860-dc3f-11f1-a701-fddedf244c16.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Government's EV targets expected to be reduced this week]]></title>
+            <description><![CDATA[New petrol or diesel cars are due to be phased out by 2030 and by 2035 all new cars must be zero emission.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cqkg5g2970epo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqkg5g2970epo#1</guid>
+            <pubDate>Mon, 09 Nov 2026 12:06:22 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b401/live/fd7836e0-dbdf-11f1-b348-cb75a5659779.jpg"/>
         </item>
         <item>
             <title><![CDATA[A glimmer of good news for Britain's sleepy dormouse]]></title>
@@ -119,20 +119,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4eb2/live/e5e231a0-d9cf-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
-            <title><![CDATA['I've got a band now' - Club anthem star Shygirl on why she's switching up her sound]]></title>
-            <description><![CDATA[Fans know her for big electronic bangers, but the singer and DJ has come back with an indie-tinged sound.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cxyvrr5rz282o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cxyvrr5rz282o#2</guid>
-            <pubDate>Mon, 09 Nov 2026 11:09:08 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b843/live/af14a480-da3a-11f1-959c-e95bd2c2a35f.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Find out who's in the running for this year's Booker Prize]]></title>
             <description><![CDATA[The winner of this year's literary award will be announced in London on Monday.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cqzjz8dk4wddo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqzjz8dk4wddo#2</guid>
             <pubDate>Mon, 09 Nov 2026 11:30:13 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/358e/live/d6f67f70-dc27-11f1-a5b1-adf9c8e8d692.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['I've got a band now' - Club anthem star Shygirl on why she's switching up her sound]]></title>
+            <description><![CDATA[Fans know her for big electronic bangers, but the singer and DJ has come back with an indie-tinged sound.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cxyvrr5rz282o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cxyvrr5rz282o#2</guid>
+            <pubDate>Mon, 09 Nov 2026 11:09:08 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b843/live/af14a480-da3a-11f1-959c-e95bd2c2a35f.jpg"/>
         </item>
         <item>
             <title><![CDATA[Scientists predict 2026 hottest year on record as climate talks begin]]></title>
