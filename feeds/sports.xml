@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/sport/football</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 09 Nov 2026 23:50:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Nov 2026 05:35:45 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -159,6 +159,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e885/live/77c8f480-dc57-11f1-8fe6-5becaee5408f.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Plymouth Parkway beat Berkhamsted to reach FA Cup second round]]></title>
+            <description><![CDATA[Two Andrew Neal penalties sew Plymouth Parkway earn a first-ever trip to the second round of the FA Cup after a coming from a goal down to beat Berkhamsted 2-1 in extra time.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/videos/cqm24237y5z5o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cqm24237y5z5o#2</guid>
+            <pubDate>Tue, 10 Nov 2026 00:13:13 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f85/live/a1c20d10-dc8b-11f1-b441-2b33b063138f.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Every goal from the Women's Super League - matchweek nine]]></title>
             <description><![CDATA[Watch every goal from across the WSL in matchweek nine, from a London City Lionesses first-half wonder goal to Khadija Shaw's first hat-trick of the Women's Super League season.]]></description>
             <link>https://www.bbc.co.uk/sport/football/videos/cm4g1g3p2qngo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -189,14 +197,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cx1l30319580o#2</guid>
             <pubDate>Sun, 08 Nov 2026 23:41:30 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d549/live/c3231170-dbcd-11f1-93e1-3b657b665bcf.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['A horrible place to be' - What's gone wrong for Palace?]]></title>
-            <description><![CDATA[Match of the Day's Dion Dublin and Leon Osman discuss the problems that have led to Crystal Palace being bottom of Premier League, after a couple of seasons of unprecedented success for the club.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/videos/cm62ypyydqg4o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cm62ypyydqg4o#2</guid>
-            <pubDate>Sun, 08 Nov 2026 23:53:08 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ede/live/d9895230-dbcd-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
             <title><![CDATA[Who has made Troy's Premier League team of the week?]]></title>
@@ -303,6 +303,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e917/live/61e70130-dba2-11f1-9580-17f5674d0b29.jpg"/>
         </item>
         <item>
+            <title><![CDATA['A horrible place to be' - What's gone wrong for Palace?]]></title>
+            <description><![CDATA[Match of the Day's Dion Dublin and Leon Osman discuss the problems that have led to Crystal Palace being bottom of Premier League, after a couple of seasons of unprecedented success for the club.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/videos/cm62ypyydqg4o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cm62ypyydqg4o#6</guid>
+            <pubDate>Sun, 08 Nov 2026 23:53:08 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ede/live/d9895230-dbcd-11f1-b441-2b33b063138f.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[SPFL round-up: Morton stun Stenny, Cove humble Accies & Clyde keep pace]]></title>
             <description><![CDATA[Watch the best of the action from the weekend's action in the Scottish Championship, League 1 and League 2.]]></description>
             <link>https://www.bbc.co.uk/sport/football/videos/c6x292y37g59o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -339,14 +347,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cmy83620wq2wo#6</guid>
             <pubDate>Sun, 08 Nov 2026 18:56:55 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a3b/live/3c193440-db99-11f1-b441-2b33b063138f.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Man Utd making it 'hard on ourselves' - Carrick]]></title>
-            <description><![CDATA[Manchester United head coach Michael Carrick admits his side "made it hard on themselves" after they twice came back from two goals down to earn a 4-4 draw at home to Aston Villa.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/videos/c6rmyg80pk3wo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/c6rmyg80pk3wo#6</guid>
-            <pubDate>Sun, 08 Nov 2026 19:13:46 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/464b/live/95b255f0-dba7-11f1-a701-fddedf244c16.jpg"/>
         </item>
         <item>
             <title><![CDATA[A shock departure and key results - inside Wrexham's seismic week]]></title>
