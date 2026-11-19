@@ -9,11 +9,35 @@
             <link>https://www.bbc.co.uk/sport/football</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 19 Nov 2026 00:19:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Nov 2026 07:43:45 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Vote for the first BBC Men's Footballer of the Year]]></title>
+            <description><![CDATA[Jude Bellingham, Harry Kane, Kylian Mbappe, Rodri and Lamine Yamal are shortlisted for the BBC's Men's Footballer of the Year award.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/c61wrqr7l1d8o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c61wrqr7l1d8o#0</guid>
+            <pubDate>Thu, 19 Nov 2026 06:30:04 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eca1/live/e82d49d0-e335-11f1-a094-5fdc692f3e33.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How Premier League's big six keep getting richer]]></title>
+            <description><![CDATA[Ten games into the Premier League season, and the top five places are dominated by big six clubs. It should come as no surprise as they have a growing advantage of hundreds of millions of pounds.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/c6x28e93zv3jo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6x28e93zv3jo#0</guid>
+            <pubDate>Thu, 19 Nov 2026 07:38:22 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c612/live/1f6a6e00-e291-11f1-b166-176de21e2352.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[From Forest fringes to Glasner's go-to guy - the rise of McAtee]]></title>
+            <description><![CDATA[How has Nottingham Forest midfielder James McAtee gone from the bench to indispensable at the City Ground?]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/ck98z842gp11o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ck98z842gp11o#0</guid>
+            <pubDate>Thu, 19 Nov 2026 07:14:11 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cfef/live/f045c5a0-dc43-11f1-95cf-a38331e6cb4b.jpg"/>
+        </item>
         <item>
             <title><![CDATA[The tightest survival scrap for years? Why it's not too early to worry]]></title>
             <description><![CDATA[The Premier League resumes on Saturday with Crystal Palace, Sunderland and Man Utd in the relegation zone. But is it too early to be worried?]]></description>
@@ -47,20 +71,12 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/000a/live/86e56660-e391-11f1-b4f3-9f0685d52a1f.jpg"/>
         </item>
         <item>
-            <title><![CDATA[The 3pm football blackout: Outdated or still relevant in 2026?]]></title>
-            <description><![CDATA[After 60 years, is time finally running out on the 3pm blackout in football?]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cwvg2mxkd4x8o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cwvg2mxkd4x8o#0</guid>
-            <pubDate>Wed, 18 Nov 2026 06:27:11 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1959/live/65173c80-e287-11f1-b166-176de21e2352.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Manchester won't always be blue - Pochettino]]></title>
-            <description><![CDATA[New boss Mauricio Pochettino says he will restore Manchester United to being the most successful footballing side in the city.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cm782wnwzvq3o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cm782wnwzvq3o#0</guid>
-            <pubDate>Wed, 18 Nov 2026 08:42:28 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2794/live/b8059f20-e324-11f1-baab-4b3b35d174b7.jpg"/>
+            <title><![CDATA[Who am I? Plus today's other quizzes]]></title>
+            <description><![CDATA[Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cmde19r53008o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmde19r53008o#0</guid>
+            <pubDate>Thu, 19 Nov 2026 07:06:18 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"/>
         </item>
         <item>
             <title><![CDATA[Man Utd pursuing Como's Paz - Thursday's gossip]]></title>
@@ -79,18 +95,34 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3f2/live/25bf9080-e356-11f1-acd4-25eaaa5def63.jpg"/>
         </item>
         <item>
+            <title><![CDATA[The 3pm football blackout: Outdated or still relevant in 2026?]]></title>
+            <description><![CDATA[After 60 years, is time finally running out on the 3pm blackout in football?]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cwvg2mxkd4x8o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cwvg2mxkd4x8o#1</guid>
+            <pubDate>Wed, 18 Nov 2026 06:27:11 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1959/live/65173c80-e287-11f1-b166-176de21e2352.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Leicester split with sponsor after porn actress row]]></title>
             <description><![CDATA[A fans group had complained after BC Game appointed a porn actress as a brand ambassador.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cq4gnx28zp5lo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cq4gnx28zp5lo#0</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cq4gnx28zp5lo#1</guid>
             <pubDate>Wed, 18 Nov 2026 19:10:21 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7fc3/live/c94480c0-d9d4-11f1-9e5a-c30c5e3d8c85.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Manchester won't always be blue - Pochettino]]></title>
+            <description><![CDATA[New boss Mauricio Pochettino says he will restore Manchester United to being the most successful footballing side in the city.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cm782wnwzvq3o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cm782wnwzvq3o#1</guid>
+            <pubDate>Wed, 18 Nov 2026 08:42:28 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/793e/live/bfd11d80-e3b3-11f1-a094-5fdc692f3e33.jpg"/>
         </item>
         <item>
             <title><![CDATA[Former Spain midfielder Mata retires aged 38]]></title>
             <description><![CDATA[Former Spain midfielder Juan Mata, who had spells at Chelsea and Manchester United in the Premier League, announces his retirement from playing at the age of 38.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/c8p3vwe1rrzqo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c8p3vwe1rrzqo#0</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c8p3vwe1rrzqo#1</guid>
             <pubDate>Wed, 18 Nov 2026 10:12:46 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7628/live/c13178a0-e336-11f1-9479-d17d3e98c29d.jpg"/>
         </item>
@@ -119,38 +151,6 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f568/live/9fbcb180-e36d-11f1-9f51-4bfc31543510.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Israel row a 'defining moment for us' - Hallgrimsson]]></title>
-            <description><![CDATA[Republic of Ireland manager Heimir Hallgrimsson says the controversy surrounding the Nations League games against Israel has made "this group stronger".]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/credqnv9xe4vo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/credqnv9xe4vo#1</guid>
-            <pubDate>Wed, 18 Nov 2026 13:05:48 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c390/live/18f5b870-e333-11f1-9479-d17d3e98c29d.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Euro Leagues]]></title>
-            <description><![CDATA[Who makes the list of the Top 10 European Strikers of the Century so far?]]></description>
-            <link>https://www.bbc.co.uk/sounds/play/p0pnqxmx?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0pnqxmx#1</guid>
-            <pubDate>Wed, 18 Nov 2026 22:06:00 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0p4zrww.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[England defender Carter joins Bay FC after Gotham exit]]></title>
-            <description><![CDATA[England defender Jess Carter completes a move to Bay FC after leaving Gotham FC as a free agent.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/ck5y169v1262o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ck5y169v1262o#1</guid>
-            <pubDate>Wed, 18 Nov 2026 21:07:26 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2514/live/7b839f70-e392-11f1-b4f3-9f0685d52a1f.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Toney loses bid to avoid Euro 2028 court clash]]></title>
-            <description><![CDATA[Ivan Toney's trial, for an alleged assault which he denies, is due to take place during the Euro 2028 tournament. ]]></description>
-            <link>https://www.bbc.co.uk/news/articles/ckm2m1899mqyo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckm2m1899mqyo#1</guid>
-            <pubDate>Wed, 18 Nov 2026 12:46:12 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5cbd/live/7b56a630-e349-11f1-99aa-0f40b013ad11.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Buurman rescues late Chelsea win against PSG]]></title>
             <description><![CDATA[Veerle Buurman scores an 87th-minute winner for Chelsea as they edge past Paris St-Germain 1-0 in the Women's Champions League to move top of the table.]]></description>
             <link>https://www.bbc.co.uk/sport/football/videos/cjy5xkq5wwrgo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -175,11 +175,11 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0223/live/e2dd87c0-e2d0-11f1-99a1-253766e7ad8b.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Watch: Non-league player scores from own half]]></title>
-            <description><![CDATA[The midfielder speaks of his "special moment" as fans roared from around the ground.]]></description>
+            <title><![CDATA['Best I've seen live': Watch as player scores ‘special’ goal]]></title>
+            <description><![CDATA[The midfielder speaks of the "special moment" he scored from within his own half.]]></description>
             <link>https://www.bbc.co.uk/news/videos/cr4gn768pg5lo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cr4gn768pg5lo#2</guid>
-            <pubDate>Wed, 18 Nov 2026 16:46:34 GMT</pubDate>
+            <pubDate>Thu, 19 Nov 2026 05:30:23 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b1b/live/b398fac0-e367-11f1-9f51-4bfc31543510.jpg"/>
         </item>
         <item>
@@ -189,6 +189,38 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cmp3e19v734wo#2</guid>
             <pubDate>Mon, 16 Nov 2026 22:14:34 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe26/live/f9c8c1f0-e20a-11f1-b023-f7d19fda92c1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Israel row a 'defining moment for us' - Hallgrimsson]]></title>
+            <description><![CDATA[Republic of Ireland manager Heimir Hallgrimsson says the controversy surrounding the Nations League games against Israel has made "this group stronger".]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/credqnv9xe4vo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/credqnv9xe4vo#3</guid>
+            <pubDate>Wed, 18 Nov 2026 13:05:48 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c390/live/18f5b870-e333-11f1-9479-d17d3e98c29d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Euro Leagues]]></title>
+            <description><![CDATA[Who makes the list of the Top 10 European Strikers of the Century so far?]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/p0pnqxmx?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0pnqxmx#3</guid>
+            <pubDate>Wed, 18 Nov 2026 22:06:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0p4zrww.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[England defender Carter joins Bay FC after Gotham exit]]></title>
+            <description><![CDATA[England defender Jess Carter completes a move to Bay FC after leaving Gotham FC as a free agent.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/ck5y169v1262o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ck5y169v1262o#3</guid>
+            <pubDate>Wed, 18 Nov 2026 21:07:26 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2514/live/7b839f70-e392-11f1-b4f3-9f0685d52a1f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Toney loses bid to avoid Euro 2028 court clash]]></title>
+            <description><![CDATA[Ivan Toney's trial, for an alleged assault which he denies, is due to take place during the Euro 2028 tournament. ]]></description>
+            <link>https://www.bbc.co.uk/news/articles/ckm2m1899mqyo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckm2m1899mqyo#3</guid>
+            <pubDate>Wed, 18 Nov 2026 12:46:12 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5cbd/live/7b56a630-e349-11f1-99aa-0f40b013ad11.jpg"/>
         </item>
         <item>
             <title><![CDATA[From one of Ajax's future stars to quitting football for music]]></title>
@@ -215,36 +247,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3743/live/c2268860-e375-11f1-b879-03485a55c082.jpg"/>
         </item>
         <item>
-            <title><![CDATA[72+: The EFL Podcast]]></title>
-            <description><![CDATA[Aaron, Jobi and Tommy Smith talk all things EFL.]]></description>
-            <link>https://www.bbc.co.uk/sounds/play/p0pnnkrh?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0pnnkrh#3</guid>
-            <pubDate>Wed, 18 Nov 2026 16:15:00 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0p3n9ks.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[NI will carry momentum into Euro 2028 qualifiers]]></title>
             <description><![CDATA[Northern Ireland manager Michael O'Neill says his Nations League promotion winners will plot their next 12 months after the Euro 2028 qualifying draw in December. ]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/ck9q8jg1l45do?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ck9q8jg1l45do#3</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ck9q8jg1l45do#5</guid>
             <pubDate>Wed, 18 Nov 2026 10:04:44 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8aad/live/8b1820c0-e327-11f1-baab-4b3b35d174b7.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[From Dunfermline to Dubai - McPake on new life in Middle East]]></title>
-            <description><![CDATA[James McPake has left Scottish football behind for the time being, plying his trade in coaching in Dubai.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/c6j9m1ygw427o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6j9m1ygw427o#3</guid>
-            <pubDate>Wed, 18 Nov 2026 17:06:29 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1327/live/2ca4bf40-e371-11f1-9f51-4bfc31543510.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Belief and bench steer Northern Ireland into Nations League top tier]]></title>
-            <description><![CDATA[Manager Michael O'Neill hails the belief shown by his side after they come from behind against Hungary to earn the draw required for promotion to Nations League A.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cwp9dxr80p3po?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cwp9dxr80p3po#3</guid>
-            <pubDate>Tue, 17 Nov 2026 23:49:31 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a30/live/f5d9d9d0-e2e1-11f1-a094-5fdc692f3e33.jpg"/>
         </item>
         <item>
             <title><![CDATA[Bellamy convinced of Wales credentials despite defeat by Portugal]]></title>
@@ -253,6 +261,22 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cmn507wn6gg3o#5</guid>
             <pubDate>Tue, 17 Nov 2026 23:37:45 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5735/live/f46405e0-e2e5-11f1-8e58-ef8e322f3c98.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[From Dunfermline to Dubai - McPake on new life in Middle East]]></title>
+            <description><![CDATA[James McPake has left Scottish football behind for the time being, plying his trade in coaching in Dubai.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/c6j9m1ygw427o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6j9m1ygw427o#5</guid>
+            <pubDate>Wed, 18 Nov 2026 17:06:29 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1327/live/2ca4bf40-e371-11f1-9f51-4bfc31543510.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Belief and bench steer Northern Ireland into Nations League top tier]]></title>
+            <description><![CDATA[Manager Michael O'Neill hails the belief shown by his side after they come from behind against Hungary to earn the draw required for promotion to Nations League A.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cwp9dxr80p3po?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cwp9dxr80p3po#5</guid>
+            <pubDate>Tue, 17 Nov 2026 23:49:31 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a30/live/f5d9d9d0-e2e1-11f1-a094-5fdc692f3e33.jpg"/>
         </item>
         <item>
             <title><![CDATA[Republic of Ireland talisman Parrott caps dream year with two more goals]]></title>
@@ -277,22 +301,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cx1l0n3v003eo#5</guid>
             <pubDate>Tue, 17 Nov 2026 14:09:19 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e89d/live/4c076e50-e281-11f1-b166-176de21e2352.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Madrid-bound Gabriel posts farewell Man Utd message]]></title>
-            <description><![CDATA[TeenagerJJ Gabriel posts a farewell message saying Manchester United will always be part of his story, as he prepares for a likely move to Real Madrid.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cqvg2e4208zmo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqvg2e4208zmo#5</guid>
-            <pubDate>Tue, 17 Nov 2026 19:35:06 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ad8/live/9eaa4ed0-e2b7-11f1-a094-5fdc692f3e33.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rangers great Brand dies aged 89]]></title>
-            <description><![CDATA[Rangers have paid tribute to Ralph Brand, one of the most prolific goalscorers in the club's history, who has died aged 89.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/c933g4eegmp8o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c933g4eegmp8o#5</guid>
-            <pubDate>Tue, 17 Nov 2026 21:02:57 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1db1/live/95aec9c0-e2c9-11f1-99ed-7de3e5932968.jpg"/>
         </item>
         <item>
             <title><![CDATA[Can Northern Ireland hit the right notes in Budapest?]]></title>
@@ -335,6 +343,22 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ede/live/02b680b0-e10f-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Rangers great Brand dies aged 89]]></title>
+            <description><![CDATA[Rangers have paid tribute to Ralph Brand, one of the most prolific goalscorers in the club's history, who has died aged 89.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/c933g4eegmp8o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c933g4eegmp8o#7</guid>
+            <pubDate>Tue, 17 Nov 2026 21:02:57 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1db1/live/95aec9c0-e2c9-11f1-99ed-7de3e5932968.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Madrid-bound Gabriel posts farewell Man Utd message]]></title>
+            <description><![CDATA[TeenagerJJ Gabriel posts a farewell message saying Manchester United will always be part of his story, as he prepares for a likely move to Real Madrid.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cqvg2e4208zmo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqvg2e4208zmo#7</guid>
+            <pubDate>Tue, 17 Nov 2026 19:35:06 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ad8/live/9eaa4ed0-e2b7-11f1-a094-5fdc692f3e33.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[FA wants to host Nations League finals in England]]></title>
             <description><![CDATA[England could host the Nations League finals this season after Football Association officials register their interest.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/c5742x4xldmpo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -373,22 +397,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cm62p7eg7nqvo#7</guid>
             <pubDate>Tue, 17 Nov 2026 11:13:40 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/652a/live/58ba5ae0-e213-11f1-99a1-253766e7ad8b.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Millwall open disciplinary proceedings against Baker]]></title>
-            <description><![CDATA[Millwall are undertaking disciplinary proceedings against forward Benicio Baker, BBC Sport understands.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/c6m2lelll4n1o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c6m2lelll4n1o#7</guid>
-            <pubDate>Tue, 17 Nov 2026 20:00:52 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b19e/live/34866790-e2a9-11f1-8226-87dfa5049e9a.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[London City's Goodwin gets first England call-up]]></title>
-            <description><![CDATA[London City Lionesses forward Izzy Goodwin is named in the England squad for the first time for the World Cup qualifying play-off against Ukraine.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cr9d7pw90x14o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cr9d7pw90x14o#7</guid>
-            <pubDate>Tue, 17 Nov 2026 11:06:33 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95fd/live/d0bfe3a0-e2c4-11f1-a9da-01a195e70ea0.jpg"/>
         </item>
         <item>
             <title><![CDATA[Why always him? The rise and fall of Balotelli]]></title>
