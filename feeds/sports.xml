@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/sport/football</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 21 Nov 2026 21:58:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Nov 2026 01:56:57 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -88,7 +88,7 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b3a1/live/dec0b5d0-e5ec-11f1-99a1-253766e7ad8b.jpg"/>
         </item>
         <item>
-            <title><![CDATA['The world got to see today' - who is new Spurs star Williams-Barnett?]]></title>
+            <title><![CDATA['The world got to see today' - Williams-Barnett announces himself as Spurs star]]></title>
             <description><![CDATA[BBC Sport looks at Tottenham's new teenage star after Luca Williams-Barnett makes a superb full Premier League debut for Spurs]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cm9d7jg50e12o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cm9d7jg50e12o#1</guid>
@@ -120,7 +120,7 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ab8/live/8d13ad90-e5e3-11f1-99a1-253766e7ad8b.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Who was 'a consistent threat'? Newcastle v Arsenal player ratings]]></title>
+            <title><![CDATA[Madueke 'a consistent threat' - Newcastle v Arsenal player ratings]]></title>
             <description><![CDATA[BBC Sport's Alex Howell shares his player ratings for Newcastle and Arsenal's 2-2 draw in the Premier League - and you can rate the players too.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cq4gn97e8ee4o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cq4gn97e8ee4o#1</guid>
@@ -144,6 +144,33 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2997/live/fc265c50-e5c0-11f1-a188-ff49e70cc466.jpg"/>
         </item>
         <item>
+            <title><![CDATA[I wish referee had opportunity to see 'handball' again - Hart]]></title>
+            <description><![CDATA[Match of the Day pundits Joe Hart and Alan Shearer disagree with Morgan Rogers being penalised for handball, as the Chelsea forward "didn't make himself bigger" with the use of his arms in his side's 4-1 defeat to Leeds United in the Premier League.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/videos/cme3dvk1kzgqo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cme3dvk1kzgqo#3</guid>
+            <pubDate>Sun, 22 Nov 2026 00:08:13 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b7c/live/99f4c5e0-e600-11f1-a094-5fdc692f3e33.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[London City keep up title hunt with emphatic win over Crystal Palace]]></title>
+            <description><![CDATA[London City Lionesses stay in the hunt for the Women's Super League title, with a statement second-half performance to give them a 6-2 win over Crystal Palace.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/videos/c6n83rrknrj2o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/c6n83rrknrj2o#3</guid>
+            <pubDate>Sat, 21 Nov 2026 23:14:10 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6419/live/3883b000-e5e2-11f1-99a1-253766e7ad8b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Unbelievable' - how Spurs teenager Williams-Barnett impressed on first start]]></title>
+            <description><![CDATA[Match of the Day pundit Joe Hart explains how teenager Luca Williams-Barnett caused problems for Ipswich Town on his first Premier League start for Tottenham in their 2-0 home win.
+
+
+]]></description>
+            <link>https://www.bbc.co.uk/sport/football/videos/cm5y149qg4yqo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cm5y149qg4yqo#3</guid>
+            <pubDate>Sun, 22 Nov 2026 00:13:01 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6cf6/live/116c8440-e607-11f1-99a1-253766e7ad8b.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Keating stars as Liverpool hold high-flying Chelsea to goalless draw]]></title>
             <description><![CDATA[Chelsea miss the chance to consolidate their lead over Manchester City at the top of the Women's Super League as they fail to breach a stubborn Liverpool at the sunny St Helen's Stadium.]]></description>
             <link>https://www.bbc.co.uk/sport/football/videos/cmde1ll6pgj3o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -158,33 +185,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cmwy5ddwnygqo#3</guid>
             <pubDate>Sat, 21 Nov 2026 17:42:14 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c186/live/18b230e0-e5d2-11f1-99a1-253766e7ad8b.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['We lost two points' - Arteta on 'unacceptable' Newcastle draw ]]></title>
-            <description><![CDATA[Arsenal manager Mikel Arteta says his side squandered the chance to take all three points after their 2-2 draw against Newcastle United at St James' Park. The result sees the reigning Premier League champions go six points clear at the top of the table.
-
-
-]]></description>
-            <link>https://www.bbc.co.uk/sport/football/videos/ck1wrdd9ew11o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/ck1wrdd9ew11o#3</guid>
-            <pubDate>Sat, 21 Nov 2026 20:30:50 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd03/live/b44acb50-e5e8-11f1-a094-5fdc692f3e33.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Williams-Barnett's talent bigger than performance - De Zerbi]]></title>
-            <description><![CDATA[Tottenham Hotspur head coach Roberto De Zerbi is full of praise for teenager Luca Williams-Barnett who was at the heart of a 2-0 win over Ipswich Town.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/videos/c6wy4gg24vlno?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/c6wy4gg24vlno#3</guid>
-            <pubDate>Sat, 21 Nov 2026 18:32:27 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/501c/live/0f0616f0-e5d8-11f1-a094-5fdc692f3e33.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['It's quite clear' - Maresca believes Haaland goal should have stood]]></title>
-            <description><![CDATA[Manchester City manager Enzo Maresca says Erling Haaland's first-half goal against Fulham should have stood.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/videos/c9e85mmr3z8vo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/c9e85mmr3z8vo#3</guid>
-            <pubDate>Sat, 21 Nov 2026 15:34:35 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4933/live/61e22920-e5bc-11f1-99a1-253766e7ad8b.jpg"/>
         </item>
         <item>
             <title><![CDATA[Hirst key for Stoke, injuries derail Millwall - Sam Parkin's EFL takeaways]]></title>
@@ -211,6 +211,33 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/71ea/live/83478520-e5c0-11f1-a094-5fdc692f3e33.jpg"/>
         </item>
         <item>
+            <title><![CDATA['We lost two points' - Arteta on 'unacceptable' Newcastle draw ]]></title>
+            <description><![CDATA[Arsenal manager Mikel Arteta says his side squandered the chance to take all three points after their 2-2 draw against Newcastle United at St James' Park. The result sees the reigning Premier League champions go six points clear at the top of the table.
+
+
+]]></description>
+            <link>https://www.bbc.co.uk/sport/football/videos/ck1wrdd9ew11o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/ck1wrdd9ew11o#7</guid>
+            <pubDate>Sat, 21 Nov 2026 20:30:50 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd03/live/b44acb50-e5e8-11f1-a094-5fdc692f3e33.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Williams-Barnett's talent bigger than performance - De Zerbi]]></title>
+            <description><![CDATA[Tottenham Hotspur head coach Roberto De Zerbi is full of praise for teenager Luca Williams-Barnett who was at the heart of a 2-0 win over Ipswich Town.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/videos/c6wy4gg24vlno?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/c6wy4gg24vlno#7</guid>
+            <pubDate>Sat, 21 Nov 2026 18:32:27 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/501c/live/0f0616f0-e5d8-11f1-a094-5fdc692f3e33.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['It's quite clear' - Maresca believes Haaland goal should have stood]]></title>
+            <description><![CDATA[Manchester City manager Enzo Maresca says Erling Haaland's first-half goal against Fulham should have stood.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/videos/c9e85mmr3z8vo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/c9e85mmr3z8vo#7</guid>
+            <pubDate>Sat, 21 Nov 2026 15:34:35 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4933/live/61e22920-e5bc-11f1-99a1-253766e7ad8b.jpg"/>
+        </item>
+        <item>
             <title><![CDATA['It's a deserved defeat' - Glasner on  Bournemouth loss ]]></title>
             <description><![CDATA[Nottingham Forest manager Oliver Glasner believes his side "deserved" to lose against Bournemouth as a 2-0 defeat leaves them above the drop zone on goal difference.]]></description>
             <link>https://www.bbc.co.uk/sport/football/videos/c63dg88zdzxko?at_medium=RSS&amp;at_campaign=rss</link>
@@ -227,33 +254,6 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d89/live/9aee2530-e5ac-11f1-99a1-253766e7ad8b.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Watch: Inverness and Ayr play out goalless draw]]></title>
-            <description><![CDATA[Inverness Caledonian Thistle and Ayr United play out a goalless draw in the chilly Highlands.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/videos/c6zxvnzjnne4o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/c6zxvnzjnne4o#7</guid>
-            <pubDate>Fri, 20 Nov 2026 21:47:58 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/182c/live/c20332e0-e52b-11f1-99a1-253766e7ad8b.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lyon outclass Arsenal for Champions League win]]></title>
-            <description><![CDATA[Arsenal fall to a 2-0 defeat against a superior Lyon side in the Women's Champions League, dealing a blow to their hopes of automatic quarter-final qualification.
-
-
-]]></description>
-            <link>https://www.bbc.co.uk/sport/football/videos/c3dx1n4xp1xxo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/c3dx1n4xp1xxo#7</guid>
-            <pubDate>Thu, 19 Nov 2026 22:56:07 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65a8/live/85a48b70-e461-11f1-99b6-a35a62fa4264.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Buurman rescues late Chelsea win against PSG]]></title>
-            <description><![CDATA[Veerle Buurman scores an 87th-minute winner for Chelsea as they edge past Paris St-Germain 1-0 in the Women's Champions League to move top of the table.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/videos/cjy5xkq5wwrgo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cjy5xkq5wwrgo#7</guid>
-            <pubDate>Wed, 18 Nov 2026 22:13:49 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7393/live/0b748390-e39a-11f1-99a1-253766e7ad8b.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Cost of Man Utd hiring and firing managers nears £100m]]></title>
             <description><![CDATA[Manchester United borrowed £10m three days after confirming Mauricio Pochettino would be their new head coach, which will cost them £7.5m in compensation to US Soccer.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cwd01n9z23x5o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -268,14 +268,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cv7028xeler2o#8</guid>
             <pubDate>Sat, 21 Nov 2026 06:17:32 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06d5/live/855e6740-e1db-11f1-b8c8-67fa35f5afdb.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Shevchenko lying about drugs test claims - Mudryk]]></title>
-            <description><![CDATA[Mykhailo Mudryk accuses Ukraine legend Andriy Shevchenko of lying about the circumstances surrounding the winger's positive drugs test as his dispute with the country's football federation continues.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cjn502n9vqp4o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cjn502n9vqp4o#8</guid>
-            <pubDate>Fri, 20 Nov 2026 21:54:17 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2404/live/380cedc0-e43f-11f1-9192-3924a59e54c7.jpg"/>
         </item>
         <item>
             <title><![CDATA[The Chelsea loanee turning heads and Championship defenders at 17]]></title>
@@ -420,6 +412,22 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/bitesize/articles/zgv7dnb#16</guid>
             <pubDate>Fri, 25 Sep 2026 10:15:00 GMT</pubDate>
             <media:thumbnail url="https://ichef.bbci.co.uk/images/ic/480xn/p0pcy7f1.png"/>
+        </item>
+        <item>
+            <title><![CDATA['They looked like a team again' - Hearts  roar back with Dundee demolition]]></title>
+            <description><![CDATA[After a worrying week before the international break, Hearts respond is style by thrashing Dundee 8-0 at Dens Park.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cm9w98y28djno?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cm9w98y28djno#17</guid>
+            <pubDate>Sat, 21 Nov 2026 22:45:05 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cf3/live/0bdf2a10-e5fc-11f1-9cff-035604b6272d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Naderi's 'lucky punch' keeps Rangers in touch]]></title>
+            <description><![CDATA[On a Saturday laden with Scottish Premiership goals, Ryan Naderi's was far from the most impressive - but vital for Rangers all the same.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/ckzd930mjp1po?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ckzd930mjp1po#17</guid>
+            <pubDate>Sun, 22 Nov 2026 00:01:31 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e4b0/live/ab978b20-e600-11f1-b58d-2d14eb0c7952.jpg"/>
         </item>
         <item>
             <title><![CDATA[10 games, 0 points & 30 goals conceded - why Charlton are struggling]]></title>
