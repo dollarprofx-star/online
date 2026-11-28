@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news/world</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 28 Nov 2026 13:28:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Nov 2026 21:12:38 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/world/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -19,8 +19,16 @@
             <description><![CDATA[A joint venture between UK-Israeli companies is set to start exploring for oil and gas, but Argentina sought to block it as part of its claim to sovereignty.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c84gnq3qq9rno?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c84gnq3qq9rno#0</guid>
-            <pubDate>Sat, 28 Nov 2026 13:02:39 GMT</pubDate>
+            <pubDate>Sat, 28 Nov 2026 18:01:05 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1615/live/b6e6bd30-eb1d-11f1-8743-3f686b14075c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dozens killed in Myanmar military strikes on wedding venue and school]]></title>
+            <description><![CDATA[Air strikes by Myanmar's military government have killed dozens of civilians across the South East Asian nation in recent days.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cm752q30q5leo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm752q30q5leo#0</guid>
+            <pubDate>Sat, 28 Nov 2026 16:53:20 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/567f/live/7b882a50-eb48-11f1-867f-2ba50c8646d5.jpg"/>
         </item>
         <item>
             <title><![CDATA[Two staff killed in Israeli strike on Gaza medical clinic, MSF says]]></title>
@@ -31,12 +39,28 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f48/live/c26c94a0-eb21-11f1-99a1-253766e7ad8b.jpg"/>
         </item>
         <item>
+            <title><![CDATA[OpenAI counter-sues Apple over alleged theft of trade secrets]]></title>
+            <description><![CDATA[The ChatGPT-maker alleges that tech giant Apple stole trade secrets through a former employee.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cm15ekqvlezeo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm15ekqvlezeo#0</guid>
+            <pubDate>Sat, 28 Nov 2026 11:35:34 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea05/live/8d3ca800-eb36-11f1-9c9c-710a05f9c274.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Afghanistan explosion kills 10 students and injures more than 100, official says]]></title>
             <description><![CDATA[A spokesman for Afghanistan's interior ministry says the blast was caused by carelessness at an explosives depot nearby.]]></description>
             <link>https://www.bbc.co.uk/news/articles/ckp80jyz6dl8o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckp80jyz6dl8o#0</guid>
-            <pubDate>Sat, 28 Nov 2026 12:49:44 GMT</pubDate>
+            <pubDate>Sat, 28 Nov 2026 14:10:01 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2bd9/live/19b5f490-eb1d-11f1-8743-3f686b14075c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Australian wrestler Bronson Reed dies aged 38, WWE says]]></title>
+            <description><![CDATA[Tributes have flooded in for the 38-year-old Australian who is survived by his pregnant wife, Paige, their daughter.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cvwy08g70ldko?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cvwy08g70ldko#0</guid>
+            <pubDate>Sat, 28 Nov 2026 07:31:14 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/297c/live/0c5c0a20-eafd-11f1-83de-2b6b9d423090.jpg"/>
         </item>
         <item>
             <title><![CDATA[Spanish PM and rivals rally supporters in final pitch for votes]]></title>
@@ -47,28 +71,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1bb1/live/dd63ff10-ea99-11f1-a094-5fdc692f3e33.jpg"/>
         </item>
         <item>
-            <title><![CDATA[OpenAI counter-sues Apple over alleged theft of trade secrets]]></title>
-            <description><![CDATA[The ChatGPT-maker alleges that tech giant Apple stole trade secrets through a former employee.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cm15ekqvlezeo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm15ekqvlezeo#0</guid>
-            <pubDate>Sat, 28 Nov 2026 11:35:34 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f0d/live/51e85220-eb10-11f1-874e-81d351dd336c.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Eight killed in Peruvian military helicopter crash]]></title>
             <description><![CDATA[The pilot was the sole survivor of the crash during a rescue mission in a remote area known for drug trafficking.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cwp9d85mlp88o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwp9d85mlp88o#0</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwp9d85mlp88o#1</guid>
             <pubDate>Sat, 28 Nov 2026 04:19:16 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/faea/live/b54be270-eadc-11f1-81da-2ff518b71d00.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Australian wrestler Bronson Reed dies aged 38, WWE says]]></title>
-            <description><![CDATA[Tributes have flooded in for the 38-year-old Australian who is survived by his pregnant wife, Paige, their daughter.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cvwy08g70ldko?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cvwy08g70ldko#0</guid>
-            <pubDate>Sat, 28 Nov 2026 07:31:14 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/297c/live/0c5c0a20-eafd-11f1-83de-2b6b9d423090.jpg"/>
         </item>
         <item>
             <title><![CDATA['Poison seller' Kenneth Law apologises in court to the families of his victims]]></title>
@@ -93,6 +101,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c820q9wgrpyyo#1</guid>
             <pubDate>Fri, 27 Nov 2026 18:00:40 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fdee/live/21e805d0-ea60-11f1-99b6-a35a62fa4264.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Two American Airlines planes clip wings before takeoff at Reagan airport ]]></title>
+            <description><![CDATA[No injuries were reported, and the FAA plans to investigate the incident, which occurred during taxiing.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cqkgr4g5nrnlo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqkgr4g5nrnlo#1</guid>
+            <pubDate>Sat, 28 Nov 2026 01:31:28 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/386f/live/5a2762a0-eaca-11f1-b4f7-a59fcb94e161.png"/>
         </item>
         <item>
             <title><![CDATA['We couldn't give up that easily': Marching bands scramble to cover costs after Thanksgiving parade rearranged]]></title>
@@ -187,7 +203,7 @@
             <description><![CDATA[While many people find a diagnosis for ADHD or autism affirming, a government-funded clinic in Sweden is re-assessing people who feel it does not reflect them.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cr9309nyg2vno?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cr9309nyg2vno#3</guid>
-            <pubDate>Sat, 28 Nov 2026 00:05:17 GMT</pubDate>
+            <pubDate>Sat, 28 Nov 2026 16:18:58 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6add/live/9161e4a0-e9aa-11f1-859a-37130cd3a1d7.jpg"/>
         </item>
         <item>
